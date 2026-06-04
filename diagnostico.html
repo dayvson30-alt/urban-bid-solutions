@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diagnóstico de Licitação — Urban Bid Solutions</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #0a0a0a;
+    color: #f0f0f0;
+    min-height: 100vh;
+  }
+
+  .hero {
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a2a1a 50%, #0a0a0a 100%);
+    border-bottom: 1px solid #2a4a2a;
+    padding: 40px 20px 32px;
+    text-align: center;
+  }
+
+  .logo {
+    font-size: 13px;
+    letter-spacing: 3px;
+    color: #c8a84b;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+
+  .hero h1 {
+    font-size: clamp(22px, 5vw, 32px);
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.3;
+    margin-bottom: 12px;
+  }
+
+  .hero h1 span { color: #c8a84b; }
+
+  .hero p {
+    font-size: 15px;
+    color: #a0a0a0;
+    max-width: 540px;
+    margin: 0 auto 20px;
+    line-height: 1.6;
+  }
+
+  .credencial {
+    display: inline-block;
+    background: linear-gradient(135deg, #1a2a1a, #2a3a1a);
+    border: 1px solid #c8a84b;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 13px;
+    color: #c8a84b;
+    line-height: 1.5;
+  }
+
+  .credencial strong { color: #ffffff; font-size: 15px; display: block; }
+
+  /* FORM */
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 32px 20px 60px;
+  }
+
+  .step-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 28px;
+    padding: 14px 18px;
+    background: #111;
+    border-left: 3px solid #c8a84b;
+    border-radius: 0 8px 8px 0;
+  }
+
+  .step-num {
+    background: #c8a84b;
+    color: #000;
+    font-weight: 700;
+    font-size: 12px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .step-label { font-size: 13px; color: #888; }
+
+  .section {
+    margin-bottom: 36px;
+  }
+
+  .section-title {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #c8a84b;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #222;
+  }
+
+  .field {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    font-size: 14px;
+    color: #d0d0d0;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+
+  label .req { color: #c8a84b; margin-left: 3px; }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  select {
+    width: 100%;
+    background: #111;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 13px 16px;
+    font-size: 15px;
+    color: #f0f0f0;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  input:focus, select:focus {
+    border-color: #c8a84b;
+  }
+
+  select option { background: #111; }
+
+  .radio-group, .check-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .radio-option, .check-option {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #111;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 13px 16px;
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+  }
+
+  .radio-option:hover, .check-option:hover {
+    border-color: #c8a84b;
+    background: #151f15;
+  }
+
+  .radio-option input, .check-option input {
+    width: 18px;
+    height: 18px;
+    accent-color: #c8a84b;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+
+  .radio-option span, .check-option span {
+    font-size: 14px;
+    color: #d0d0d0;
+    line-height: 1.4;
+  }
+
+  .radio-option.selected, .check-option.selected {
+    border-color: #c8a84b;
+    background: #151f15;
+  }
+
+  .btn-submit {
+    width: 100%;
+    background: linear-gradient(135deg, #c8a84b, #a88a3b);
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 18px;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    transition: opacity 0.2s, transform 0.1s;
+    margin-top: 8px;
+  }
+
+  .btn-submit:hover { opacity: 0.9; transform: translateY(-1px); }
+  .btn-submit:active { transform: translateY(0); }
+
+  .disclaimer {
+    text-align: center;
+    font-size: 12px;
+    color: #555;
+    margin-top: 16px;
+    line-height: 1.5;
+  }
+
+  /* RESULTADO */
+  #resultado {
+    display: none;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 32px 20px 60px;
+  }
+
+  .score-card {
+    background: linear-gradient(135deg, #111, #1a2a1a);
+    border: 1px solid #2a4a2a;
+    border-radius: 16px;
+    padding: 32px 24px;
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .score-label { font-size: 13px; color: #888; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 12px; }
+
+  .score-number {
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+
+  .score-desc {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .score-sub { font-size: 14px; color: #888; line-height: 1.5; }
+
+  .score-bar-bg {
+    background: #222;
+    border-radius: 8px;
+    height: 10px;
+    margin: 20px 0 8px;
+    overflow: hidden;
+  }
+
+  .score-bar {
+    height: 100%;
+    border-radius: 8px;
+    transition: width 1.2s cubic-bezier(.4,0,.2,1);
+  }
+
+  .plano-section { margin-bottom: 28px; }
+
+  .plano-title {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #c8a84b;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #222;
+  }
+
+  .acao-item {
+    display: flex;
+    gap: 14px;
+    padding: 16px;
+    background: #111;
+    border: 1px solid #222;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+  }
+
+  .acao-icon {
+    font-size: 20px;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  .acao-content {}
+  .acao-titulo { font-size: 14px; font-weight: 600; color: #ffffff; margin-bottom: 4px; }
+  .acao-desc { font-size: 13px; color: #888; line-height: 1.5; }
+
+  .urgente { border-color: #c8a84b; }
+  .urgente .acao-titulo { color: #c8a84b; }
+
+  .cta-card {
+    background: linear-gradient(135deg, #1a2a1a, #0a1a0a);
+    border: 2px solid #c8a84b;
+    border-radius: 16px;
+    padding: 28px 24px;
+    text-align: center;
+  }
+
+  .cta-card h3 { font-size: 20px; color: #ffffff; margin-bottom: 10px; }
+  .cta-card p { font-size: 14px; color: #888; margin-bottom: 20px; line-height: 1.6; }
+
+  .btn-cta {
+    display: inline-block;
+    background: linear-gradient(135deg, #c8a84b, #a88a3b);
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 16px 32px;
+    text-decoration: none;
+    letter-spacing: 0.3px;
+    transition: opacity 0.2s;
+  }
+
+  .btn-cta:hover { opacity: 0.9; }
+
+  .nome-resultado {
+    font-size: 15px;
+    color: #a0a0a0;
+    margin-bottom: 6px;
+  }
+
+  @media (max-width: 480px) {
+    .hero { padding: 28px 16px 24px; }
+    .container, #resultado { padding: 24px 16px 48px; }
+    .score-number { font-size: 56px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="logo">Urban Bid Solutions</div>
+  <h1>Descubra em <span>5 minutos</span> se a sua empresa<br>está pronta para ganhar contratos</h1>
+  <p>Responda o diagnóstico gratuito e receba um plano de ação personalizado para começar a participar de licitações públicas e privadas na Florida.</p>
+  <div class="credencial">
+    <strong>R$ 2 milhões → R$ 50 milhões</strong>
+    Em 2 anos gerenciando licitações no Brasil — agora ajudando você aqui nos EUA
+  </div>
+</div>
+
+<!-- FORMULÁRIO -->
+<div class="container" id="formContainer">
+
+  <div class="step-info">
+    <div class="step-num">i</div>
+    <span class="step-label">Diagnóstico gratuito · 10 perguntas · resultado imediato</span>
+  </div>
+
+  <form id="diagForm">
+
+    <!-- DADOS DA EMPRESA -->
+    <div class="section">
+      <div class="section-title">Dados da empresa</div>
+
+      <div class="field">
+        <label>Nome completo <span class="req">*</span></label>
+        <input type="text" name="nome" placeholder="Seu nome" required>
+      </div>
+
+      <div class="field">
+        <label>WhatsApp <span class="req">*</span></label>
+        <input type="tel" name="whatsapp" placeholder="(407) 000-0000" required>
+      </div>
+
+      <div class="field">
+        <label>Email</label>
+        <input type="email" name="email" placeholder="seu@email.com">
+      </div>
+
+      <div class="field">
+        <label>Qual é o ramo da sua empresa? <span class="req">*</span></label>
+        <select name="ramo" required>
+          <option value="">Selecione...</option>
+          <option value="limpeza">Limpeza comercial / residential cleaning</option>
+          <option value="landscaping">Landscaping / jardinagem</option>
+          <option value="construcao">Construção / obras / remodeling</option>
+          <option value="manutencao">Manutenção predial / facilities</option>
+          <option value="outro">Outro serviço</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- SITUAÇÃO LEGAL -->
+    <div class="section">
+      <div class="section-title">Situação legal da empresa</div>
+
+      <div class="field">
+        <label>Sua empresa está registrada como LLC ou Corp? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="llc" value="sim" required><span>Sim, tenho LLC ou Corp ativa</span></label>
+          <label class="radio-option"><input type="radio" name="llc" value="processo"><span>Estou no processo de abrir</span></label>
+          <label class="radio-option"><input type="radio" name="llc" value="nao"><span>Ainda não tenho</span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Tem EIN (Employer Identification Number)? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="ein" value="sim" required><span>Sim</span></label>
+          <label class="radio-option"><input type="radio" name="ein" value="nao"><span>Não</span></label>
+          <label class="radio-option"><input type="radio" name="ein" value="naosabe"><span>Não sei o que é isso</span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Tem seguro ativo? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="seguro" value="completo" required><span>Sim — General Liability + Workers Comp</span></label>
+          <label class="radio-option"><input type="radio" name="seguro" value="parcial"><span>Só General Liability</span></label>
+          <label class="radio-option"><input type="radio" name="seguro" value="nao"><span>Não tenho seguro</span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- CADASTROS -->
+    <div class="section">
+      <div class="section-title">Cadastros nas plataformas</div>
+
+      <div class="field">
+        <label>Já tem cadastro no SAM.gov (federal)? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="sam" value="ativo" required><span>Sim, cadastro ativo</span></label>
+          <label class="radio-option"><input type="radio" name="sam" value="expirado"><span>Tive, mas expirou</span></label>
+          <label class="radio-option"><input type="radio" name="sam" value="nao"><span>Não tenho</span></label>
+          <label class="radio-option"><input type="radio" name="sam" value="naosabe"><span>Não sei o que é</span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Tem cadastro no MyFloridaMarketPlace (estado da Florida)? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="mfmp" value="sim" required><span>Sim</span></label>
+          <label class="radio-option"><input type="radio" name="mfmp" value="nao"><span>Não</span></label>
+          <label class="radio-option"><input type="radio" name="mfmp" value="naosabe"><span>Não conheço essa plataforma</span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Já está cadastrado em algum portal de condado ou município (Orange, Osceola, City of Orlando...)? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="condado" value="varios" required><span>Sim, em mais de um</span></label>
+          <label class="radio-option"><input type="radio" name="condado" value="um"><span>Em um apenas</span></label>
+          <label class="radio-option"><input type="radio" name="condado" value="nao"><span>Nenhum</span></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- EXPERIÊNCIA -->
+    <div class="section">
+      <div class="section-title">Experiência com licitações</div>
+
+      <div class="field">
+        <label>Já participou de alguma licitação aqui nos EUA? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="experiencia" value="ganhou" required><span>Sim, já ganhei contrato</span></label>
+          <label class="radio-option"><input type="radio" name="experiencia" value="tentou"><span>Tentei mas não ganhei</span></label>
+          <label class="radio-option"><input type="radio" name="experiencia" value="nao"><span>Ainda não participei</span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Qual é o maior obstáculo hoje para você entrar em licitações? <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="radio-option"><input type="radio" name="obstaculo" value="tempo" required><span>Falta de tempo para fazer os cadastros e acompanhar</span></label>
+          <label class="radio-option"><input type="radio" name="obstaculo" value="conhecimento"><span>Não sei por onde começar</span></label>
+          <label class="radio-option"><input type="radio" name="obstaculo" value="documentos"><span>Documentação da empresa desorganizada</span></label>
+          <label class="radio-option"><input type="radio" name="obstaculo" value="proposta"><span>Não sei como montar uma proposta competitiva</span></label>
+        </div>
+      </div>
+    </div>
+
+    <button type="submit" class="btn-submit">Ver meu diagnóstico gratuito →</button>
+    <p class="disclaimer">Seus dados não são compartilhados. Resultado gerado na hora.</p>
+
+  </form>
+</div>
+
+<!-- RESULTADO -->
+<div id="resultado">
+  <div class="score-card" id="scoreCard">
+    <div class="score-label">Score de prontidão</div>
+    <div class="nome-resultado" id="nomeResultado"></div>
+    <div class="score-number" id="scoreNum">0</div>
+    <div class="score-desc" id="scoreDesc"></div>
+    <div class="score-bar-bg"><div class="score-bar" id="scoreBar" style="width:0%"></div></div>
+    <div class="score-sub" id="scoreSub"></div>
+  </div>
+
+  <div class="plano-section">
+    <div class="plano-title">Seu plano de ação personalizado</div>
+    <div id="acoes"></div>
+  </div>
+
+  <div class="cta-card">
+    <h3>Quer que a gente faça tudo por você?</h3>
+    <p>Cuidamos de todos os cadastros, organizamos sua documentação e deixamos sua empresa pronta para ganhar contratos — você só precisa aprovar.</p>
+    <a class="btn-cta" id="whatsappCta" href="#" target="_blank">Falar com a equipe no WhatsApp →</a>
+  </div>
+</div>
+
+<script>
+  // Highlight radio/check on select
+  document.querySelectorAll('.radio-option, .check-option').forEach(opt => {
+    opt.addEventListener('click', function() {
+      const name = this.querySelector('input').name;
+      document.querySelectorAll(`[name="${name}"]`).forEach(i => {
+        i.closest('.radio-option, .check-option')?.classList.remove('selected');
+      });
+      this.classList.add('selected');
+    });
+  });
+
+  document.getElementById('diagForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const f = Object.fromEntries(new FormData(this).entries());
+
+    // --- SCORE ---
+    let score = 0;
+    const acoes = [];
+
+    // LLC
+    if (f.llc === 'sim') score += 20;
+    else if (f.llc === 'processo') { score += 8; acoes.push({ urgente: true, icon: '🏢', titulo: 'Finalizar abertura da LLC', desc: 'Sem LLC ativa não é possível cadastrar em nenhuma plataforma de licitação. Prioridade máxima.' }); }
+    else { acoes.push({ urgente: true, icon: '🏢', titulo: 'Abrir LLC ou Corp', desc: 'Primeiro passo obrigatório. Podemos indicar um contador parceiro que faz em menos de 1 semana.' }); }
+
+    // EIN
+    if (f.ein === 'sim') score += 10;
+    else { acoes.push({ urgente: f.llc === 'sim', icon: '🔢', titulo: 'Obter EIN (Tax ID federal)', desc: 'Necessário para cadastro no SAM.gov e em todas as plataformas de compras governamentais.' }); }
+
+    // Seguro
+    if (f.seguro === 'completo') score += 15;
+    else if (f.seguro === 'parcial') { score += 7; acoes.push({ urgente: false, icon: '🛡️', titulo: 'Adicionar Workers Compensation', desc: 'A maioria dos contratos públicos exige Workers Comp. Sem ele você é automaticamente desclassificado.' }); }
+    else { acoes.push({ urgente: true, icon: '🛡️', titulo: 'Contratar General Liability + Workers Comp', desc: 'Seguro é requisito eliminatório em licitações públicas. Sem ele sua proposta nem é analisada.' }); }
+
+    // SAM.gov
+    if (f.sam === 'ativo') score += 20;
+    else if (f.sam === 'expirado') { score += 5; acoes.push({ urgente: true, icon: '🇺🇸', titulo: 'Renovar cadastro no SAM.gov', desc: 'Cadastro expirado = inelegível para contratos federais. Renovação leva até 10 dias úteis.' }); }
+    else { acoes.push({ urgente: true, icon: '🇺🇸', titulo: 'Criar cadastro no SAM.gov', desc: 'Porta de entrada para todos os contratos federais. Processo leva 7–10 dias úteis após envio.' }); }
+
+    // MFMP
+    if (f.mfmp === 'sim') score += 15;
+    else { acoes.push({ urgente: false, icon: '🌴', titulo: 'Cadastrar no MyFloridaMarketPlace', desc: 'Plataforma oficial do estado da Florida. Contratos de escolas, hospitais públicos e órgãos estaduais.' }); }
+
+    // Condados
+    if (f.condado === 'varios') score += 10;
+    else if (f.condado === 'um') { score += 5; acoes.push({ urgente: false, icon: '🏛️', titulo: 'Cadastrar nos demais portais de condado', desc: 'Orange, Osceola, Seminole e City of Orlando têm portais próprios — cada um com oportunidades exclusivas.' }); }
+    else { acoes.push({ urgente: false, icon: '🏛️', titulo: 'Cadastrar nos portais de condado e município', desc: 'Orange County, Osceola County, Seminole County e City of Orlando — ótimas oportunidades para o seu ramo.' }); }
+
+    // Experiência
+    if (f.experiencia === 'ganhou') score += 10;
+    else if (f.experiencia === 'tentou') { score += 5; acoes.push({ urgente: false, icon: '📋', titulo: 'Revisão de proposta com IA', desc: 'Analisamos o edital e geramos uma proposta competitiva. Muitos perdem por erros técnicos, não de preço.' }); }
+    else { acoes.push({ urgente: false, icon: '🎯', titulo: 'Identificar as primeiras oportunidades no seu nicho', desc: 'Vamos mapear licitações abertas para ' + (f.ramo === 'limpeza' ? 'limpeza' : f.ramo === 'landscaping' ? 'landscaping' : f.ramo === 'construcao' ? 'construção' : 'seu setor') + ' nos próximos 30 dias.' }); }
+
+    // Cap 100
+    score = Math.min(score, 100);
+
+    // Classificação
+    let cor, desc, sub;
+    if (score >= 80) {
+      cor = '#4CAF50'; desc = 'Pronto para licitar'; sub = 'Sua empresa tem boa base. Vamos otimizar os últimos pontos e começar a buscar contratos.';
+    } else if (score >= 50) {
+      cor = '#c8a84b'; desc = 'Quase lá — faltam poucos passos'; sub = 'Você já tem parte da estrutura. Com 2–3 ações você estará pronto para submeter propostas.';
+    } else if (score >= 25) {
+      cor = '#FF9800'; desc = 'Em desenvolvimento'; sub = 'Existe base para começar, mas há pontos críticos a resolver antes de participar de qualquer licitação.';
+    } else {
+      cor = '#f44336'; desc = 'Precisa estruturar do zero'; sub = 'Não se preocupe — é exatamente aqui que mais ajudamos. Com o plano certo, em 30 dias você já pode estar cadastrado.';
+    }
+
+    // Render resultado
+    document.getElementById('formContainer').style.display = 'none';
+    const res = document.getElementById('resultado');
+    res.style.display = 'block';
+
+    document.getElementById('nomeResultado').textContent = f.nome ? f.nome + ',' : '';
+    document.getElementById('scoreDesc').textContent = desc;
+    document.getElementById('scoreDesc').style.color = cor;
+    document.getElementById('scoreSub').textContent = sub;
+    document.getElementById('scoreBar').style.background = `linear-gradient(90deg, ${cor}, ${cor}99)`;
+
+    // Animate score
+    let current = 0;
+    const target = score;
+    const numEl = document.getElementById('scoreNum');
+    numEl.style.color = cor;
+    const interval = setInterval(() => {
+      current += 2;
+      if (current >= target) { current = target; clearInterval(interval); }
+      numEl.textContent = current;
+    }, 20);
+    setTimeout(() => { document.getElementById('scoreBar').style.width = score + '%'; }, 100);
+
+    // Ações
+    const acoesEl = document.getElementById('acoes');
+    acoesEl.innerHTML = '';
+    if (acoes.length === 0) {
+      acoesEl.innerHTML = '<div class="acao-item"><div class="acao-icon">✅</div><div class="acao-content"><div class="acao-titulo">Empresa bem estruturada</div><div class="acao-desc">Você já tem a base necessária. Próximo passo: identificar e submeter propostas para contratos no seu nicho.</div></div></div>';
+    } else {
+      acoes.forEach(a => {
+        acoesEl.innerHTML += `<div class="acao-item ${a.urgente ? 'urgente' : ''}"><div class="acao-icon">${a.icon}</div><div class="acao-content"><div class="acao-titulo">${a.titulo}</div><div class="acao-desc">${a.desc}</div></div></div>`;
+      });
+    }
+
+    // WhatsApp CTA
+    const msg = encodeURIComponent(`Olá! Fiz o diagnóstico do Urban Bid Solutions e tirei ${score} pontos. Gostaria de saber como vocês podem me ajudar a começar a participar de licitações.`);
+    document.getElementById('whatsappCta').href = `https://wa.me/14073755223?text=${msg}`;
+
+    // Lead capture — FormSubmit.co (email notification)
+    fetch('https://formsubmit.co/ajax/dayvson30@gmail.com', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify({
+        _subject: `[Urban Bid Solutions] Novo lead — Score ${score}`,
+        nome: f.nome || '',
+        whatsapp: f.whatsapp || '',
+        email: f.email || '',
+        ramo: f.ramo || '',
+        score: score,
+        classificacao: desc,
+        llc: f.llc, ein: f.ein, seguro: f.seguro,
+        sam: f.sam, mfmp: f.mfmp, condado: f.condado,
+        experiencia: f.experiencia, obstaculo: f.obstaculo
+      })
+    }).catch(() => {}); // fail silently — not critical
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>
+</body>
+</html>
