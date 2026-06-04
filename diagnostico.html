@@ -1398,6 +1398,28 @@ document.querySelectorAll('.radio-option, .check-option').forEach(opt => {
   });
 });
 
+/* ---- TIER ACCORDIONS ---- */
+document.querySelectorAll('.tier-toggle').forEach(btn => {
+  btn.addEventListener('click', function() {
+    const id    = 'tier-details-' + this.dataset.tier;
+    const panel = document.getElementById(id);
+    const isOpen = this.classList.contains('open');
+
+    document.querySelectorAll('.tier-toggle.open').forEach(b => {
+      b.classList.remove('open');
+      const p = document.getElementById('tier-details-' + b.dataset.tier);
+      gsap.to(p, { height: 0, duration: .35, ease: 'power2.inOut' });
+    });
+
+    if (!isOpen) {
+      this.classList.add('open');
+      gsap.set(panel, { height: 'auto' });
+      const h = panel.offsetHeight;
+      gsap.fromTo(panel, { height: 0 }, { height: h, duration: .4, ease: 'power2.out' });
+    }
+  });
+});
+
 /* ---- FORM SUBMIT — lógica original inalterada ---- */
 document.getElementById('diagForm').addEventListener('submit', function(e) {
   e.preventDefault();
@@ -1467,29 +1489,6 @@ document.getElementById('diagForm').addEventListener('submit', function(e) {
 
   const msg = encodeURIComponent(`Olá! Fiz o diagnóstico do Urban Bid Solutions e tirei ${score} pontos. Gostaria de saber como vocês podem me ajudar a começar a participar de licitações.`);
   document.getElementById('whatsappCta').href = `https://wa.me/14073755223?text=${msg}`;
-
-/* ---- TIER ACCORDIONS ---- */
-document.querySelectorAll('.tier-toggle').forEach(btn => {
-  btn.addEventListener('click', function() {
-    const id     = 'tier-details-' + this.dataset.tier;
-    const panel  = document.getElementById(id);
-    const isOpen = this.classList.contains('open');
-
-    // close all others
-    document.querySelectorAll('.tier-toggle.open').forEach(b => {
-      b.classList.remove('open');
-      const p = document.getElementById('tier-details-' + b.dataset.tier);
-      gsap.to(p, { height: 0, duration: .35, ease: 'power2.inOut' });
-    });
-
-    if (!isOpen) {
-      this.classList.add('open');
-      gsap.set(panel, { height: 'auto' });
-      const h = panel.offsetHeight;
-      gsap.fromTo(panel, { height: 0 }, { height: h, duration: .4, ease: 'power2.out' });
-    }
-  });
-});
 
   fetch('https://formsubmit.co/ajax/dayvson30@gmail.com', {
     method: 'POST',
