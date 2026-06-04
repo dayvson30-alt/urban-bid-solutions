@@ -93,7 +93,10 @@ body {
   margin-bottom: 28px;
   opacity: 0; /* GSAP */
 }
-.hero-logo-img { height: 38px; width: auto; }
+.hero-logo-img {
+  height: 52px; width: auto;
+  filter: brightness(0) invert(1);
+}
 .hero-logo-text {
   font-size: 12px; letter-spacing: 3.5px; color: var(--gold);
   text-transform: uppercase; font-weight: 700;
@@ -435,6 +438,59 @@ select option { background: #111; }
 .tier-price   { font-size: 17px; font-weight: 700; color: var(--gold); }
 .tier-price span { font-size: 12px; font-weight: 400; color: var(--muted); }
 
+/* accordion */
+.tier-toggle {
+  display: flex; align-items: center; gap: 6px;
+  background: none; border: 1px solid #252525; border-radius: 8px;
+  padding: 8px 12px; margin-top: 14px; width: 100%;
+  color: var(--muted); font-size: 12px; cursor: pointer;
+  transition: border-color .2s, color .2s;
+}
+.tier-toggle:hover { border-color: var(--border-gold); color: var(--gold); }
+.tier-toggle .arr {
+  margin-left: auto; display: inline-block;
+  transition: transform .3s ease;
+  font-style: normal;
+}
+.tier-toggle.open { border-color: var(--border-gold); color: var(--gold); }
+.tier-toggle.open .arr { transform: rotate(180deg); }
+
+.tier-details {
+  overflow: hidden; height: 0;
+  border-top: 0px solid var(--border);
+  margin-top: 0;
+}
+.tier-details-inner {
+  padding: 16px 0 4px;
+  border-top: 1px solid var(--border);
+  margin-top: 14px;
+}
+.tier-details-inner .det-group { margin-bottom: 12px; }
+.tier-details-inner .det-label {
+  font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: var(--muted); margin-bottom: 6px; display: block;
+}
+.tier-details-inner .det-item {
+  display: flex; align-items: flex-start; gap: 7px;
+  font-size: 12px; color: #bbb; line-height: 1.5; margin-bottom: 4px;
+}
+.tier-details-inner .det-item::before {
+  content: '✓'; color: var(--gold); font-weight: 700; flex-shrink: 0; margin-top: 1px;
+}
+.tier-details-inner .det-price-row {
+  display: flex; gap: 8px; margin-top: 10px;
+}
+.det-pill {
+  flex: 1; background: #0d0d0d; border: 1px solid #252525;
+  border-radius: 8px; padding: 8px 10px;
+}
+.det-pill .pill-price {
+  font-size: 13px; font-weight: 700; color: var(--gold); display: block;
+}
+.det-pill .pill-desc {
+  font-size: 11px; color: var(--muted); line-height: 1.4; margin-top: 3px;
+}
+
 /* =====================================================
    QUEM SOMOS
 ===================================================== */
@@ -659,8 +715,7 @@ select option { background: #111; }
   <div class="hero-content">
 
     <div class="hero-logo">
-      <!-- substituir por <img class="hero-logo-img" src="logo.png" alt="Urban Bid Solutions"> quando disponível -->
-      <span class="hero-logo-text">Urban Bid Solutions</span>
+      <img class="hero-logo-img" src="logo.png" alt="Urban Bid Solutions">
     </div>
 
     <h1>Descubra em <span>5 minutos</span> se a sua empresa<br>está pronta para ganhar contratos</h1>
@@ -866,41 +921,158 @@ select option { background: #111; }
     <p class="sec-sub">Soluções completas para empresas brasileiras conquistarem contratos públicos e privados na Florida.</p>
 
     <div class="tiers-grid">
+
+      <!-- TIER 1 -->
       <div class="tier-card">
         <div class="tier-icon">⚙️</div>
         <div class="tier-tag">TIER 1 · ONE-TIME</div>
         <h3>Setup Completo</h3>
         <p>SAM.gov, MFMP, portais de condado, NAICS codes e toda documentação organizada.</p>
         <div class="tier-price">$500–$800</div>
+        <button type="button" class="tier-toggle" data-tier="1">Ver o que está incluído <i class="arr">▾</i></button>
+        <div class="tier-details" id="tier-details-1">
+          <div class="tier-details-inner">
+            <div class="det-group">
+              <span class="det-label">Incluso em todos os casos</span>
+              <div class="det-item">Cadastro SAM.gov + MFMP</div>
+              <div class="det-item">Seleção de NAICS codes para seu nicho</div>
+              <div class="det-item">Revisão e organização de documentação</div>
+              <div class="det-item">Orientação sobre W-9 e seguro mínimo</div>
+            </div>
+            <div class="det-price-row">
+              <div class="det-pill">
+                <span class="pill-price">$500</span>
+                <span class="pill-desc">Empresa organizada, LLC e EIN em mãos, 1–2 portais</span>
+              </div>
+              <div class="det-pill">
+                <span class="pill-price">$800</span>
+                <span class="pill-desc">Docs dispersos, 3+ portais de condado, setup completo</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+
+      <!-- TIER 2 -->
       <div class="tier-card">
         <div class="tier-icon">🏅</div>
         <div class="tier-tag">TIER 2 · ADD-ON</div>
         <h3>Certificações</h3>
         <p>WOSB, Minority Business, HUBZone, Veteran-Owned — cada uma abre novas portas de contrato.</p>
         <div class="tier-price">$400–$600</div>
+        <button type="button" class="tier-toggle" data-tier="2">Ver o que está incluído <i class="arr">▾</i></button>
+        <div class="tier-details" id="tier-details-2">
+          <div class="tier-details-inner">
+            <div class="det-group">
+              <span class="det-label">Incluso em todos os casos</span>
+              <div class="det-item">Análise de elegibilidade para cada certificação</div>
+              <div class="det-item">Preparação e submissão do dossiê</div>
+              <div class="det-item">Acompanhamento até aprovação</div>
+            </div>
+            <div class="det-price-row">
+              <div class="det-pill">
+                <span class="pill-price">$400</span>
+                <span class="pill-desc">1 certificação, documentação já reunida</span>
+              </div>
+              <div class="det-pill">
+                <span class="pill-price">$600</span>
+                <span class="pill-desc">2+ certificações ou docs que precisam ser buscados</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+
+      <!-- TIER 3 -->
       <div class="tier-card">
         <div class="tier-icon">🔔</div>
         <div class="tier-tag">TIER 3 · MENSAL</div>
         <h3>Bid Monitoring</h3>
-        <p>Alertas diários de licitações abertas no seu nicho. Você nunca perde uma oportunidade.</p>
+        <p>Alertas de licitações abertas no seu nicho. Você nunca perde uma oportunidade.</p>
         <div class="tier-price">$150–$250 <span>/ mês</span></div>
+        <button type="button" class="tier-toggle" data-tier="3">Ver o que está incluído <i class="arr">▾</i></button>
+        <div class="tier-details" id="tier-details-3">
+          <div class="tier-details-inner">
+            <div class="det-group">
+              <span class="det-label">Incluso em todos os casos</span>
+              <div class="det-item">Monitoramento diário SAM.gov, MFMP e portais de condado</div>
+              <div class="det-item">Alertas por WhatsApp com link direto ao edital</div>
+              <div class="det-item">Filtro por nicho (limpeza, landscaping, construção)</div>
+            </div>
+            <div class="det-price-row">
+              <div class="det-pill">
+                <span class="pill-price">$150</span>
+                <span class="pill-desc">1 nicho, alertas semanais resumidos</span>
+              </div>
+              <div class="det-pill">
+                <span class="pill-price">$250</span>
+                <span class="pill-desc">2–3 nichos, alertas diários + triagem de relevância</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+
+      <!-- TIER 4 -->
       <div class="tier-card">
         <div class="tier-icon">📄</div>
         <div class="tier-tag">TIER 4 · POR PROJETO</div>
         <h3>Proposta com IA</h3>
         <p>Análise do edital, rascunho com IA e revisão especializada antes do envio.</p>
         <div class="tier-price">$300–$600</div>
+        <button type="button" class="tier-toggle" data-tier="4">Ver o que está incluído <i class="arr">▾</i></button>
+        <div class="tier-details" id="tier-details-4">
+          <div class="tier-details-inner">
+            <div class="det-group">
+              <span class="det-label">Incluso em todos os casos</span>
+              <div class="det-item">Leitura completa do edital e mapeamento de requisitos</div>
+              <div class="det-item">Rascunho da proposta com IA + revisão especializada</div>
+              <div class="det-item">Checklist de conformidade antes do envio</div>
+            </div>
+            <div class="det-price-row">
+              <div class="det-pill">
+                <span class="pill-price">$300</span>
+                <span class="pill-desc">Edital simples, poucos requisitos técnicos</span>
+              </div>
+              <div class="det-pill">
+                <span class="pill-price">$600</span>
+                <span class="pill-desc">Edital complexo + análise de concorrência + precificação</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+
+      <!-- TIER 5 -->
       <div class="tier-card">
         <div class="tier-icon">🎯</div>
         <div class="tier-tag">TIER 5 · MENSAL</div>
         <h3>Mentoria Mensal</h3>
         <p>2 calls + suporte direto para acompanhar sua evolução e estratégia de contratos.</p>
         <div class="tier-price">$200–$400 <span>/ mês</span></div>
+        <button type="button" class="tier-toggle" data-tier="5">Ver o que está incluído <i class="arr">▾</i></button>
+        <div class="tier-details" id="tier-details-5">
+          <div class="tier-details-inner">
+            <div class="det-group">
+              <span class="det-label">Incluso em todos os casos</span>
+              <div class="det-item">2 calls mensais com especialista</div>
+              <div class="det-item">Suporte por WhatsApp durante o mês</div>
+              <div class="det-item">Revisão de documentos e estratégia de bid</div>
+            </div>
+            <div class="det-price-row">
+              <div class="det-pill">
+                <span class="pill-price">$200</span>
+                <span class="pill-desc">Calls de 30 min + suporte por WhatsApp</span>
+              </div>
+              <div class="det-pill">
+                <span class="pill-price">$400</span>
+                <span class="pill-desc">Calls de 1h + suporte ilimitado + revisão de docs</span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
+
     </div>
   </div>
 </section>
@@ -1239,6 +1411,29 @@ document.getElementById('diagForm').addEventListener('submit', function(e) {
 
   const msg = encodeURIComponent(`Olá! Fiz o diagnóstico do Urban Bid Solutions e tirei ${score} pontos. Gostaria de saber como vocês podem me ajudar a começar a participar de licitações.`);
   document.getElementById('whatsappCta').href = `https://wa.me/14073755223?text=${msg}`;
+
+/* ---- TIER ACCORDIONS ---- */
+document.querySelectorAll('.tier-toggle').forEach(btn => {
+  btn.addEventListener('click', function() {
+    const id     = 'tier-details-' + this.dataset.tier;
+    const panel  = document.getElementById(id);
+    const isOpen = this.classList.contains('open');
+
+    // close all others
+    document.querySelectorAll('.tier-toggle.open').forEach(b => {
+      b.classList.remove('open');
+      const p = document.getElementById('tier-details-' + b.dataset.tier);
+      gsap.to(p, { height: 0, duration: .35, ease: 'power2.inOut' });
+    });
+
+    if (!isOpen) {
+      this.classList.add('open');
+      gsap.set(panel, { height: 'auto' });
+      const h = panel.offsetHeight;
+      gsap.fromTo(panel, { height: 0 }, { height: h, duration: .4, ease: 'power2.out' });
+    }
+  });
+});
 
   fetch('https://formsubmit.co/ajax/dayvson30@gmail.com', {
     method: 'POST',
