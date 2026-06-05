@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cadastrar Empresa — Urban Bid Intelligence</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',Arial,sans-serif;background:#f1f5f9;color:#1e293b;min-height:100vh}
+header{background:#1e3a5f;color:#fff;padding:14px 20px;display:flex;align-items:center;gap:12px}
+.hl{font-size:18px;font-weight:800}
+.hback{background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 12px;border-radius:6px;cursor:pointer;font-size:12px;font-weight:600;text-decoration:none;margin-left:auto}
+.hback:hover{background:rgba(255,255,255,.25)}
+.container{max-width:760px;margin:0 auto;padding:24px 16px}
+.form-card{background:#fff;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.1);overflow:hidden;margin-bottom:16px}
+.fc-hdr{padding:14px 20px;background:#f8fafc;border-bottom:2px solid #e2e8f0;font-size:13px;font-weight:700;color:#475569;text-transform:uppercase;letter-spacing:.04em}
+.fc-body{padding:20px}
+.field{margin-bottom:16px}
+.field:last-child{margin-bottom:0}
+label{display:block;font-size:12px;font-weight:700;color:#475569;text-transform:uppercase;letter-spacing:.03em;margin-bottom:5px}
+label .req{color:#dc2626}
+input[type=text],input[type=email],input[type=number],select,textarea{width:100%;padding:9px 12px;border:2px solid #e2e8f0;border-radius:7px;font-size:14px;color:#1e293b;background:#fff;transition:border-color .15s}
+input:focus,select:focus,textarea:focus{outline:none;border-color:#2563eb}
+textarea{resize:vertical;min-height:80px}
+.hint{font-size:11px;color:#94a3b8;margin-top:4px}
+.field-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.field-row3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.checkbox-group{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.cb-item{display:flex;align-items:center;gap:6px;padding:6px 12px;border:2px solid #e2e8f0;border-radius:6px;cursor:pointer;transition:all .15s;background:#f8fafc}
+.cb-item:hover{border-color:#2563eb;background:#eff6ff}
+.cb-item input{width:auto;cursor:pointer}
+.cb-item span{font-size:13px;font-weight:500}
+.radio-group{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.rb-item{display:flex;align-items:center;gap:6px;padding:6px 14px;border:2px solid #e2e8f0;border-radius:6px;cursor:pointer;background:#f8fafc;transition:all .15s}
+.rb-item:hover{border-color:#2563eb;background:#eff6ff}
+.rb-item input{width:auto;cursor:pointer}
+.tag-input-wrap{display:flex;gap:8px;flex-wrap:wrap;padding:8px;border:2px solid #e2e8f0;border-radius:7px;min-height:44px;cursor:text;background:#fff}
+.tag-input-wrap.focus{border-color:#2563eb}
+.tag{background:#dbeafe;color:#1d4ed8;padding:3px 10px;border-radius:4px;font-size:13px;font-weight:600;display:flex;align-items:center;gap:5px}
+.tag-del{cursor:pointer;font-size:14px;opacity:.6}
+.tag-del:hover{opacity:1}
+.tag-inp{border:none;outline:none;font-size:13px;min-width:100px;flex:1;padding:2px 0}
+.submit-btn{width:100%;padding:14px;background:#1e3a5f;color:#fff;border:none;border-radius:8px;font-size:16px;font-weight:800;cursor:pointer;transition:background .15s;margin-top:8px}
+.submit-btn:hover{background:#2563eb}
+.success-msg{display:none;background:#dcfce7;border:2px solid #86efac;border-radius:8px;padding:20px;text-align:center;margin-top:16px}
+.success-msg .ic{font-size:40px;margin-bottom:8px}
+.success-msg h3{font-size:18px;font-weight:800;color:#166534;margin-bottom:6px}
+.success-msg p{font-size:14px;color:#15803d}
+.success-msg a{display:inline-block;margin-top:12px;padding:10px 24px;background:#1e3a5f;color:#fff;border-radius:6px;text-decoration:none;font-weight:700}
+.section-note{background:#fef3c7;border-left:3px solid #f59e0b;padding:10px 14px;border-radius:0 6px 6px 0;font-size:12px;color:#92400e;margin-bottom:16px}
+@media(max-width:600px){.field-row,.field-row3{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hl">&#127963;&#65039; Cadastrar Nova Empresa</div>
+  <a class="hback" href="painel.html">&#8592; Voltar ao Painel</a>
+</header>
+
+<div class="container">
+
+  <div class="section-note">
+    Preencha com precisao — estes dados sao usados pelo motor de matching para cruzar sua empresa com editais automaticamente. Campos marcados com <strong style="color:#dc2626">*</strong> sao obrigatorios para o matching funcionar.
+  </div>
+
+  <form id="company-form" onsubmit="submitForm(event)">
+
+  <!-- IDENTIFICACAO -->
+  <div class="form-card">
+    <div class="fc-hdr">1. Identificacao da Empresa</div>
+    <div class="fc-body">
+      <div class="field-row">
+        <div class="field">
+          <label>Nome da Empresa <span class="req">*</span></label>
+          <input type="text" id="nome" required placeholder="Ex: Urban Clean & Repair Corp">
+        </div>
+        <div class="field">
+          <label>EIN (Tax ID) <span class="req">*</span></label>
+          <input type="text" id="ein" required placeholder="Ex: 39-2914964">
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Data de Abertura <span class="req">*</span></label>
+          <input type="text" id="fundada" required placeholder="MM/DD/YYYY">
+          <div class="hint">Usada para calcular anos em operacao (afeta CS contracts)</div>
+        </div>
+        <div class="field">
+          <label>Cidade / Estado</label>
+          <input type="text" id="cidade" placeholder="Ex: Davenport, FL">
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Telefone</label>
+          <input type="text" id="tel" placeholder="+1 (407) 000-0000">
+        </div>
+        <div class="field">
+          <label>Email</label>
+          <input type="email" id="email" placeholder="empresa@email.com">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- AREA DE ATUACAO -->
+  <div class="form-card">
+    <div class="fc-hdr">2. Area de Atuacao Geografica</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Estados onde opera <span class="req">*</span></label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="estados" value="FL" checked> <span>Florida (FL)</span></label>
+          <label class="cb-item"><input type="checkbox" name="estados" value="GA"> <span>Georgia (GA)</span></label>
+          <label class="cb-item"><input type="checkbox" name="estados" value="AL"> <span>Alabama (AL)</span></label>
+          <label class="cb-item"><input type="checkbox" name="estados" value="SC"> <span>South Carolina (SC)</span></label>
+          <label class="cb-item"><input type="checkbox" name="estados" value="NC"> <span>North Carolina (NC)</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Condados onde aceita contratos (Florida) <span class="req">*</span></label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="condados" value="Polk" checked> <span>Polk</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Osceola" checked> <span>Osceola</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Orange" checked> <span>Orange</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Seminole" checked> <span>Seminole</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Hillsborough"> <span>Hillsborough</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Lake"> <span>Lake</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Hardee"> <span>Hardee</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Highlands"> <span>Highlands</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Sumter"> <span>Sumter</span></label>
+          <label class="cb-item"><input type="checkbox" name="condados" value="Pasco"> <span>Pasco</span></label>
+        </div>
+        <div class="hint">Selecione todos os condados onde sua empresa pode entregar ou executar servicos</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CAPACIDADE OPERACIONAL -->
+  <div class="form-card">
+    <div class="fc-hdr">3. Capacidade Operacional</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Modelo de negocio (selecione todos que se aplicam) <span class="req">*</span></label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" id="dropship" checked> <span>Drop-ship (compra e entrega sem estoque)</span></label>
+          <label class="cb-item"><input type="checkbox" id="warehouse"> <span>Warehouse / Estoque proprio</span></label>
+          <label class="cb-item"><input type="checkbox" id="equipe_propria"> <span>Equipe propria para servicos</span></label>
+          <label class="cb-item"><input type="checkbox" id="subcontratados"> <span>Trabalha com subcontratados</span></label>
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Contrato minimo aceito ($)</label>
+          <input type="number" id="contrato_min" placeholder="Ex: 1000" min="0">
+          <div class="hint">Deixe em branco se nao ha limite minimo</div>
+        </div>
+        <div class="field">
+          <label>Contrato maximo aceito ($)</label>
+          <input type="number" id="contrato_max" placeholder="Ex: 50000" min="0">
+          <div class="hint">Deixe em branco se nao ha limite maximo</div>
+        </div>
+      </div>
+      <div class="field">
+        <label>Complexidade tecnica maxima <span class="req">*</span></label>
+        <div class="radio-group">
+          <label class="rb-item"><input type="radio" name="complexidade" value="low" checked> <span>Baixa — Supply/delivery simples</span></label>
+          <label class="rb-item"><input type="radio" name="complexidade" value="medium"> <span>Media — Instalacao simples, servico basico</span></label>
+          <label class="rb-item"><input type="radio" name="complexidade" value="high"> <span>Alta — Obra, engenharia, especializado</span></label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PRODUTOS E SERVICOS -->
+  <div class="form-card">
+    <div class="fc-hdr">4. Produtos que Vende / Servicos que Executa</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Categorias de produtos que vende (para drop-ship ou supply)</label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="produtos" value="cleaning supplies" checked> <span>Cleaning Supplies</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="safety products"> <span>Safety Products / EPIs</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="office supplies"> <span>Office Supplies</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="janitorial equipment"> <span>Janitorial Equipment</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="plumbing supplies"> <span>Plumbing Supplies</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="electrical supplies"> <span>Electrical Supplies</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="tools hardware"> <span>Tools & Hardware</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="uniforms apparel"> <span>Uniforms & Apparel</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="medical supplies"> <span>Medical Supplies</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="food beverages"> <span>Food & Beverages</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="furniture equipment"> <span>Furniture & Equipment</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="paint supplies"> <span>Paint & Supplies</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="landscaping materials"> <span>Landscaping Materials</span></label>
+          <label class="cb-item"><input type="checkbox" name="produtos" value="construction materials"> <span>Construction Materials</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Servicos que a empresa executa (com equipe propria ou subcontratada)</label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="servicos" value="janitorial services"> <span>Limpeza Predial (Janitorial)</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="landscaping mowing"> <span>Landscaping / Corte de Grama</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="pressure washing"> <span>Pressure Washing</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="painting"> <span>Pintura</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="fence installation"> <span>Instalacao de Cercas</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="hauling debris"> <span>Hauling / Coleta de Entulho</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="general maintenance"> <span>Manutencao Geral</span></label>
+          <label class="cb-item"><input type="checkbox" name="servicos" value="repair services"> <span>Reparos em Geral</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Outros produtos ou servicos nao listados acima</label>
+        <textarea id="outros" placeholder="Descreva livremente outros produtos ou servicos que sua empresa oferece..."></textarea>
+      </div>
+    </div>
+  </div>
+
+  <!-- LICENCAS E SEGUROS -->
+  <div class="form-card">
+    <div class="fc-hdr">5. Licencas, Seguros e Bond</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Licencas ativas <span class="req">*</span></label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="licencas" value="none" id="lic-none" checked> <span>Nenhuma licenca especifica</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="cgc"> <span>CGC — Certified General Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="cbc"> <span>CBC — Certified Building Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="roofing"> <span>Roofing Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="electrical"> <span>Electrical Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="plumbing"> <span>Plumbing Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="hvac"> <span>HVAC Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="irrigation"> <span>Irrigation Contractor</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="pesticide"> <span>Pesticide / Herbicide Applicator</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="pe"> <span>PE — Professional Engineer</span></label>
+          <label class="cb-item"><input type="checkbox" name="licencas" value="dbpr_janitorial"> <span>DBPR Janitorial License</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Seguros ativos <span class="req">*</span></label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="seguros" value="gl_1m"> <span>General Liability $1M</span></label>
+          <label class="cb-item"><input type="checkbox" name="seguros" value="gl_2m"> <span>General Liability $2M+</span></label>
+          <label class="cb-item"><input type="checkbox" name="seguros" value="workers_comp"> <span>Workers Compensation</span></label>
+          <label class="cb-item"><input type="checkbox" name="seguros" value="auto"> <span>Commercial Auto</span></label>
+          <label class="cb-item"><input type="checkbox" name="seguros" value="umbrella"> <span>Umbrella / Excess Liability</span></label>
+        </div>
+        <div class="hint">Se ainda nao tem seguro, deixe em branco. Afeta o Fit Score para contratos que exigem COI.</div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Possui Bond? <span class="req">*</span></label>
+          <div class="radio-group">
+            <label class="rb-item"><input type="radio" name="bond" value="false" checked> <span>Nao</span></label>
+            <label class="rb-item"><input type="radio" name="bond" value="true"> <span>Sim</span></label>
+          </div>
+        </div>
+        <div class="field">
+          <label>Bond capacity maxima ($)</label>
+          <input type="number" id="bond_cap" placeholder="Ex: 50000" min="0">
+          <div class="hint">Valor maximo de bond que sua surety aprova</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CADASTROS -->
+  <div class="form-card">
+    <div class="fc-hdr">6. Cadastros em Portais de Governo</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Portais onde esta cadastrado <span class="req">*</span></label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="cadastros" value="mfmp"> <span>MFMP (MyFloridaMarketPlace)</span></label>
+          <label class="cb-item"><input type="checkbox" name="cadastros" value="samgov"> <span>SAM.gov (federal)</span></label>
+          <label class="cb-item"><input type="checkbox" name="cadastros" value="osceola"> <span>Osceola VendorLink</span></label>
+          <label class="cb-item"><input type="checkbox" name="cadastros" value="demandstar"> <span>DemandStar</span></label>
+          <label class="cb-item"><input type="checkbox" name="cadastros" value="bidsync"> <span>BidSync / Periscope</span></label>
+          <label class="cb-item"><input type="checkbox" name="cadastros" value="evibidding"> <span>eViBidding (Polk County)</span></label>
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>MFMP Vendor Number</label>
+          <input type="text" id="mfmp_num" placeholder="Ex: F392914964001">
+        </div>
+        <div class="field">
+          <label>SAM.gov UEI Number</label>
+          <input type="text" id="sam_uei" placeholder="Ex: ABC123456789">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FORNECEDORES -->
+  <div class="form-card">
+    <div class="fc-hdr">7. Fornecedores Homologados</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Fornecedores com quem ja trabalhou ou tem conta ativa</label>
+        <div class="checkbox-group">
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Amazon Business"> <span>Amazon Business</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Grainger"> <span>Grainger</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="HD Supply"> <span>HD Supply</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Ferguson"> <span>Ferguson</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Fastenal"> <span>Fastenal</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Sherwin Williams Pro"> <span>Sherwin Williams Pro</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Home Depot Pro"> <span>Home Depot Pro</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Medline"> <span>Medline</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="Uline"> <span>Uline</span></label>
+          <label class="cb-item"><input type="checkbox" name="fornecedores" value="S&S Activewear"> <span>S&amp;S Activewear</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Outros fornecedores</label>
+        <input type="text" id="outros_forn" placeholder="Ex: XYZ Supply Co, ABC Distributors...">
+      </div>
+    </div>
+  </div>
+
+  <!-- HISTORICO -->
+  <div class="form-card">
+    <div class="fc-hdr">8. Historico de Contratos</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Ja ganhou alguma licitacao publica anteriormente?</label>
+        <div class="radio-group">
+          <label class="rb-item"><input type="radio" name="tem_historico" value="false" checked> <span>Nao — empresa nova</span></label>
+          <label class="rb-item"><input type="radio" name="tem_historico" value="sim_br"> <span>Sim — somente no Brasil</span></label>
+          <label class="rb-item"><input type="radio" name="tem_historico" value="sim_us"> <span>Sim — nos EUA</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label>Descricao de contratos anteriores (opcional)</label>
+        <textarea id="historico_desc" placeholder="Ex: Ganhamos licitacao de tatames para prefeitura X, valor R$50k, entregamos em 30 dias..."></textarea>
+        <div class="hint">Mesmo que seja no Brasil, ajuda a calibrar o matching e o pitch para potenciais parceiros.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PONTOS FORTES E FRACOS -->
+  <div class="form-card">
+    <div class="fc-hdr">9. Diferenciais e Limitacoes</div>
+    <div class="fc-body">
+      <div class="field">
+        <label>Principais pontos fortes da empresa</label>
+        <textarea id="pontos_fortes" placeholder="Ex: Modelo drop-ship sem necessidade de estoque, equipe bilingual, experiencia com licitacoes no Brasil, MFMP ativo..."></textarea>
+      </div>
+      <div class="field">
+        <label>Principais limitacoes ou pontos de atencao</label>
+        <textarea id="pontos_fracos" placeholder="Ex: Menos de 1 ano em operacao, sem seguro confirmado, SAM.gov pendente..."></textarea>
+      </div>
+    </div>
+  </div>
+
+  <button type="submit" class="submit-btn">Salvar Empresa e Gerar Matching</button>
+
+  </form>
+
+  <div class="success-msg" id="success-msg">
+    <div class="ic">&#9989;</div>
+    <h3>Empresa cadastrada com sucesso!</h3>
+    <p id="success-text">Seu perfil foi salvo e o matching com os editais foi calculado.</p>
+    <a href="painel.html">Ver Painel com Matching</a>
+  </div>
+
+</div>
+
+<script>
+function getChecked(name) {
+  return Array.from(document.querySelectorAll('input[name="'+name+'"]:checked')).map(function(el){return el.value;});
+}
+function getRadio(name) {
+  var el = document.querySelector('input[name="'+name+'"]:checked');
+  return el ? el.value : null;
+}
+
+function submitForm(e) {
+  e.preventDefault();
+
+  var fundadaStr = document.getElementById('fundada').value;
+  var fundadaDate = new Date(fundadaStr);
+  var hoje = new Date();
+  var anos = (hoje - fundadaDate) / (1000 * 60 * 60 * 24 * 365.25);
+  if (isNaN(anos)) anos = 0;
+
+  var mfmpNum = document.getElementById('mfmp_num').value.trim();
+  var samUei  = document.getElementById('sam_uei').value.trim();
+  var cadastros_list = getChecked('cadastros');
+
+  var seguros_list = getChecked('seguros');
+  var licencas_list = getChecked('licencas').filter(function(l){return l!=='none';});
+  var fornecedores_list = getChecked('fornecedores');
+  var outros_forn = document.getElementById('outros_forn').value.trim();
+  if (outros_forn) fornecedores_list = fornecedores_list.concat(outros_forn.split(',').map(function(s){return s.trim();}));
+
+  var bondVal = getRadio('bond') === 'true';
+  var bondCap = parseInt(document.getElementById('bond_cap').value) || 0;
+
+  var company = {
+    id: 'company-' + Date.now(),
+    nome: document.getElementById('nome').value.trim(),
+    ein: document.getElementById('ein').value.trim(),
+    fundada: fundadaStr,
+    anos_operacao: Math.floor(anos * 10) / 10,
+    ativa: true,
+    contatos: {
+      tel: document.getElementById('tel').value.trim(),
+      email: document.getElementById('email').value.trim(),
+      cidade: document.getElementById('cidade').value.trim(),
+      estado: 'FL'
+    },
+    geografico: {
+      estados: getChecked('estados'),
+      condados: getChecked('condados'),
+      raio_max_miles: 100
+    },
+    licencas: licencas_list,
+    seguros: {
+      gl_1m: seguros_list.indexOf('gl_1m') >= 0,
+      gl_2m: seguros_list.indexOf('gl_2m') >= 0,
+      workers_comp: seguros_list.indexOf('workers_comp') >= 0,
+      auto: seguros_list.indexOf('auto') >= 0,
+      umbrella: seguros_list.indexOf('umbrella') >= 0
+    },
+    bond: {
+      tem: bondVal,
+      capacidade_max: bondCap
+    },
+    capacidade: {
+      dropship: document.getElementById('dropship').checked,
+      warehouse: document.getElementById('warehouse').checked,
+      equipe_propria: document.getElementById('equipe_propria').checked,
+      subcontratados: document.getElementById('subcontratados').checked,
+      contrato_min: parseInt(document.getElementById('contrato_min').value) || null,
+      contrato_max: parseInt(document.getElementById('contrato_max').value) || null,
+      complexidade_max: getRadio('complexidade') || 'low'
+    },
+    servicos: getChecked('servicos'),
+    produtos: getChecked('produtos'),
+    fornecedores: fornecedores_list,
+    cadastros: {
+      mfmp: { ativo: cadastros_list.indexOf('mfmp') >= 0, vendor_num: mfmpNum },
+      samgov: { ativo: cadastros_list.indexOf('samgov') >= 0, uei: samUei },
+      osceola_vendorlink: { ativo: cadastros_list.indexOf('osceola') >= 0 },
+      demandstar: { ativo: cadastros_list.indexOf('demandstar') >= 0 },
+      bidsync: { ativo: cadastros_list.indexOf('bidsync') >= 0 }
+    },
+    historico_contratos: [],
+    historico_nota: document.getElementById('historico_desc').value.trim(),
+    tem_historico_us: getRadio('tem_historico') === 'sim_us',
+    tem_historico_br: getRadio('tem_historico') === 'sim_br',
+    pontos_fortes: document.getElementById('pontos_fortes').value.trim().split('\n').filter(Boolean),
+    pontos_fracos: document.getElementById('pontos_fracos').value.trim().split('\n').filter(Boolean),
+    outros_servicos: document.getElementById('outros').value.trim()
+  };
+
+  // Save to localStorage
+  var existing = JSON.parse(localStorage.getItem('ubi_companies') || '[]');
+  existing.push(company);
+  localStorage.setItem('ubi_companies', JSON.stringify(existing));
+
+  // Show success
+  document.getElementById('company-form').style.display = 'none';
+  var sm = document.getElementById('success-msg');
+  sm.style.display = 'block';
+  document.getElementById('success-text').textContent =
+    company.nome + ' cadastrada. Anos de operacao calculados: ' + company.anos_operacao.toFixed(1) +
+    '. Va ao painel para ver o matching com todos os editais.';
+
+  // Auto redirect
+  setTimeout(function(){ window.location.href = 'painel.html'; }, 3000);
+}
+</script>
+</body>
+</html>
