@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Urban Bid Intelligence</title>
+<style>
+:root{--navy:#1e3a5f;--go:#16a34a;--go-bg:#dcfce7;--watch:#d97706;--watch-bg:#fef3c7;--wait:#dc2626;--wait-bg:#fee2e2;--skip:#6b7280;--skip-bg:#f3f4f6;--accent:#2563eb;--r:10px;--sh:0 2px 8px rgba(0,0,0,.1)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',Arial,sans-serif;background:#f1f5f9;color:#1e293b;min-height:100vh}
+header{background:var(--navy);color:#fff;padding:14px 20px;display:flex;align-items:center;flex-wrap:wrap;gap:10px;position:sticky;top:0;z-index:200;box-shadow:0 2px 12px rgba(0,0,0,.3)}
+.hl{font-size:18px;font-weight:800;display:flex;align-items:center;gap:8px}
+.hu{font-size:12px;opacity:.65;flex:1}
+.hbtns{display:flex;gap:8px;flex-wrap:wrap}
+.hbtn{background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 12px;border-radius:6px;cursor:pointer;font-size:12px;font-weight:600}
+.hbtn:hover{background:rgba(255,255,255,.25)}
+.company-bar{background:#fff;border-bottom:2px solid #e2e8f0;padding:10px 20px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.clbl{font-size:12px;font-weight:700;color:#64748b;text-transform:uppercase}
+.csel{padding:6px 12px;border:2px solid #e2e8f0;border-radius:6px;font-size:13px;font-weight:600;color:var(--navy);background:#f8fafc;cursor:pointer}
+.csel:focus{outline:none;border-color:var(--accent)}
+.stats{background:#fff;padding:12px 20px;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #e2e8f0}
+.chip{padding:6px 14px;border-radius:20px;font-size:13px;font-weight:700;cursor:pointer;border:2px solid transparent;transition:all .15s;-webkit-user-select:none;user-select:none}
+.chip.all{background:var(--navy);color:#fff}
+.chip.go{background:var(--go-bg);color:var(--go);border-color:#86efac}
+.chip.watch{background:var(--watch-bg);color:var(--watch);border-color:#fcd34d}
+.chip.wait{background:var(--wait-bg);color:var(--wait);border-color:#fca5a5}
+.chip.skip{background:var(--skip-bg);color:var(--skip);border-color:#d1d5db}
+.chip.active{box-shadow:0 0 0 3px rgba(30,58,95,.25);transform:scale(1.06)}
+.action-banner{background:linear-gradient(135deg,#065f46,#16a34a);color:#fff;padding:16px 20px}
+.ab-title{font-size:15px;font-weight:800;margin-bottom:10px}
+.ab-cards{display:flex;gap:10px;flex-wrap:wrap}
+.ab-card{background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.25);border-radius:8px;padding:12px 16px;min-width:240px;flex:1;cursor:pointer}
+.ab-card:hover{background:rgba(255,255,255,.25)}
+.ab-bid{font-size:11px;opacity:.8;margin-bottom:4px}
+.ab-name{font-size:14px;font-weight:700;margin-bottom:8px}
+.ab-actions{display:flex;gap:8px;flex-wrap:wrap}
+.ab-btn{padding:5px 10px;border-radius:5px;font-size:12px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:4px;border:none}
+.ab-btn.email{background:#fff;color:var(--navy)}
+.ab-btn.wa{background:#25D366;color:#fff}
+.ab-btn.view{background:rgba(255,255,255,.2);color:#fff;border:1px solid rgba(255,255,255,.4)}
+#list-view{max-width:1140px;margin:0 auto;padding:18px 16px}
+.src-section{margin-bottom:24px}
+.src-title{font-size:13px;font-weight:700;color:#64748b;text-transform:uppercase;letter-spacing:.05em;margin-bottom:10px;padding-bottom:6px;border-bottom:2px solid #e2e8f0}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:12px}
+.card{background:#fff;border-radius:var(--r);box-shadow:var(--sh);cursor:pointer;transition:transform .15s,box-shadow .15s;border-left:4px solid #e2e8f0;overflow:hidden}
+.card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.13)}
+.card.go{border-left-color:var(--go)}.card.watch{border-left-color:var(--watch)}.card.wait{border-left-color:var(--wait)}.card.skip{border-left-color:var(--skip);opacity:.72}
+.ch{padding:10px 12px 6px;display:flex;align-items:flex-start;gap:6px;flex-wrap:wrap}
+.vb{padding:2px 8px;border-radius:4px;font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.04em}
+.vb.go{background:var(--go-bg);color:var(--go)}.vb.watch{background:var(--watch-bg);color:var(--watch)}.vb.wait{background:var(--wait-bg);color:var(--wait)}.vb.skip{background:var(--skip-bg);color:var(--skip)}
+.tb{padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;color:#fff}
+.nb{padding:2px 8px;border-radius:4px;font-size:10px;background:#f1f5f9;color:#475569;margin-left:auto}
+.fs-badge{padding:2px 7px;border-radius:4px;font-size:11px;font-weight:800;background:#1e3a5f;color:#fff}
+.cb{padding:0 12px 12px}
+.ct{font-size:14px;font-weight:700;color:#1e293b;line-height:1.3;margin-bottom:3px}
+.cm{font-size:11px;color:#94a3b8;margin-bottom:8px}
+.cd{display:flex;gap:8px;margin-bottom:8px}
+.db{flex:1;padding:6px 8px;border-radius:5px;background:#f8fafc;border:1px solid #e2e8f0}
+.db.dl{border-color:#fca5a5;background:#fff5f5}
+.dlbl{font-size:9px;text-transform:uppercase;color:#94a3b8;font-weight:700;margin-bottom:1px}
+.dval{font-size:12px;font-weight:700}
+.db.dl .dval{color:#dc2626}
+.cr{font-size:11px;color:#64748b;line-height:1.4}
+.cfoot{padding:7px 12px;background:#f8fafc;border-top:1px solid #f1f5f9;font-size:10px;color:#94a3b8;display:flex;justify-content:space-between}
+#detail-view{display:none;max-width:880px;margin:0 auto;padding:18px 16px 40px}
+.back{display:inline-flex;align-items:center;gap:6px;background:#fff;border:1px solid #e2e8f0;padding:7px 14px;border-radius:6px;cursor:pointer;font-size:13px;font-weight:600;color:#475569;margin-bottom:18px;box-shadow:var(--sh)}
+.back:hover{background:#f1f5f9}
+.dblocks{display:grid;gap:12px}
+.dblock{background:#fff;border-radius:var(--r);box-shadow:var(--sh);overflow:hidden}
+.dbhdr{padding:11px 18px;background:#f8fafc;border-bottom:1px solid #e2e8f0;font-size:12px;font-weight:700;color:#475569;text-transform:uppercase;letter-spacing:.04em}
+.dbbody{padding:16px 18px}
+.dhero{background:#fff;border-radius:var(--r);box-shadow:var(--sh);overflow:hidden;margin-bottom:12px}
+.dhtop{padding:20px 22px}
+.dhbadges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+.dhv{padding:6px 16px;border-radius:6px;font-size:14px;font-weight:800}
+.dhv.go{background:var(--go-bg);color:var(--go)}.dhv.watch{background:var(--watch-bg);color:var(--watch)}.dhv.wait{background:var(--wait-bg);color:var(--wait)}.dhv.skip{background:var(--skip-bg);color:var(--skip)}
+.dht{font-size:22px;font-weight:800;color:#1e293b;line-height:1.2;margin-bottom:5px}
+.dhm{font-size:12px;color:#94a3b8}
+.dhm a{color:var(--accent)}
+.dhreason{padding:11px 22px;border-top:1px solid #f1f5f9;font-size:13px;color:#475569;line-height:1.5}
+.dhnext{padding:11px 22px;background:#f0fdf4;border-top:1px solid #bbf7d0;font-size:13px;color:#166534;line-height:1.5}
+.dhnext strong{display:block;font-size:10px;text-transform:uppercase;color:#16a34a;margin-bottom:3px;font-weight:700;letter-spacing:.04em}
+.fs-wrap{display:flex;align-items:center;gap:16px;padding:12px 0}
+.fs-circle{width:80px;height:80px;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:800;flex-shrink:0;border:4px solid}
+.fs-circle.go{border-color:var(--go);background:var(--go-bg);color:var(--go)}.fs-circle.watch{border-color:var(--watch);background:var(--watch-bg);color:var(--watch)}.fs-circle.wait{border-color:var(--wait);background:var(--wait-bg);color:var(--wait)}.fs-circle.skip{border-color:var(--skip);background:var(--skip-bg);color:var(--skip)}
+.fs-num{font-size:24px;line-height:1}.fs-lbl{font-size:10px;opacity:.7}.fs-bars{flex:1}
+.fs-bar-item{margin-bottom:8px}
+.fs-bar-label{font-size:11px;color:#64748b;margin-bottom:3px;display:flex;justify-content:space-between}
+.fs-bar-track{height:6px;background:#f1f5f9;border-radius:3px;overflow:hidden}
+.fs-bar-fill{height:100%;border-radius:3px;background:var(--accent)}
+.dg2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.dc{padding:14px;border-radius:8px;border:2px solid;text-align:center}
+.dc.pub{border-color:#93c5fd;background:#eff6ff}.dc.dl2{border-color:#fca5a5;background:#fff5f5}
+.dc .lbl{font-size:10px;text-transform:uppercase;font-weight:700;color:#94a3b8;margin-bottom:5px}
+.dc .val{font-size:16px;font-weight:800}.dc.pub .val{color:#1d4ed8}.dc.dl2 .val{color:#dc2626}
+.dc .sub{font-size:10px;color:#94a3b8;margin-top:3px}
+.tipo-box{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+.tipo-big{padding:8px 18px;border-radius:7px;font-size:18px;font-weight:800;color:#fff}
+.tipo-name{font-size:15px;font-weight:700}.tipo-name small{display:block;font-size:12px;font-weight:400;color:#64748b;margin-top:2px}
+.tipo-explain{background:#f8fafc;border:1px solid #e2e8f0;border-radius:7px;padding:11px;font-size:12px;color:#475569;line-height:1.5}
+.sg{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
+.si{background:#f8fafc;border-radius:7px;padding:11px;border:1px solid #e2e8f0}
+.si .lbl{font-size:10px;text-transform:uppercase;color:#94a3b8;font-weight:700;margin-bottom:5px}.si .val{font-size:13px;font-weight:600;color:#1e293b}
+.diff-easy{color:var(--go)}.diff-medium{color:var(--watch)}.diff-hard{color:var(--wait)}
+.where-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
+.wt{background:#dbeafe;color:#1d4ed8;padding:2px 9px;border-radius:4px;font-size:11px;font-weight:600}
+.blist{display:flex;flex-direction:column;gap:8px}
+.bi{display:flex;align-items:flex-start;gap:10px;padding:9px;border-radius:7px;background:#f8fafc;border:1px solid #e2e8f0}
+.bi-ic{font-size:16px;flex-shrink:0;margin-top:1px}.bi-name{font-size:12px;font-weight:700;color:#1e293b}.bi-det{font-size:11px;color:#64748b;margin-top:2px}
+.ucg{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
+.uci{padding:9px;border-radius:7px;border:1px solid;text-align:center}
+.uci.ok{border-color:#86efac;background:#f0fdf4}.uci.pend{border-color:#fcd34d;background:#fffbeb}.uci.no{border-color:#fca5a5;background:#fff5f5}.uci.na{border-color:#e2e8f0;background:#f8fafc}
+.uci-ic{font-size:18px;margin-bottom:3px}.uci-n{font-size:10px;font-weight:700;text-transform:uppercase;color:#64748b;margin-bottom:2px}.uci-s{font-size:11px;font-weight:600}
+.uci.ok .uci-s{color:var(--go)}.uci.pend .uci-s{color:var(--watch)}.uci.no .uci-s{color:var(--wait)}
+.email-box{background:#f8fafc;border:1px solid #e2e8f0;border-radius:7px;padding:14px;font-size:12px;color:#374151;line-height:1.7;white-space:pre-wrap;font-family:monospace}
+.copy-btns{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.copybtn{padding:7px 14px;border-radius:6px;font-size:12px;font-weight:700;cursor:pointer;border:none;display:flex;align-items:center;gap:5px;text-decoration:none}
+.copybtn.email{background:var(--accent);color:#fff}.copybtn.gmail{background:#ea4335;color:#fff}.copybtn.wa{background:#25D366;color:#fff}
+.cbox{display:flex;align-items:center;gap:14px;padding:12px;background:#f8fafc;border-radius:7px;border:1px solid #e2e8f0}
+.cav{width:42px;height:42px;border-radius:50%;background:var(--navy);color:#fff;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:800;flex-shrink:0}
+.cn{font-size:14px;font-weight:700}.ce a{font-size:12px;color:var(--accent)}
+.cacts{margin-left:auto}.cemailbtn{padding:7px 14px;background:var(--accent);color:#fff;border-radius:6px;text-decoration:none;font-size:12px;font-weight:700}
+.doclist{display:flex;flex-direction:column;gap:7px}
+.docitem{display:flex;align-items:center;gap:10px;padding:9px 13px;background:#f8fafc;border-radius:7px;border:1px solid #e2e8f0;text-decoration:none;color:#1e293b}
+.docitem:hover{background:#eff6ff;border-color:#93c5fd}
+.modal-ov{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:1000;align-items:center;justify-content:center;padding:16px}
+.modal-ov.open{display:flex}
+.modal{background:#fff;border-radius:12px;max-width:640px;width:100%;max-height:85vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+.mhdr{padding:16px 22px;border-bottom:1px solid #e2e8f0;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:#fff}
+.mttl{font-size:17px;font-weight:800;color:var(--navy)}.mclose{background:none;border:none;font-size:22px;cursor:pointer;color:#94a3b8}
+.mbody{padding:20px 22px}
+.gi{margin-bottom:16px;padding-bottom:16px;border-bottom:1px solid #f1f5f9}
+.gi:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}
+.gt{display:flex;align-items:center;gap:9px;margin-bottom:7px}
+.gbadge{padding:3px 11px;border-radius:5px;font-size:13px;font-weight:800;background:var(--navy);color:#fff}
+.gfull{font-size:14px;font-weight:700}
+.gdesc{font-size:12px;color:#475569;line-height:1.6}.gtip{margin-top:5px;padding:7px 11px;background:#f0fdf4;border-radius:5px;font-size:11px;color:#166534;font-weight:600}
+.empty{text-align:center;padding:40px 20px;color:#94a3b8}.empty .ic{font-size:44px;margin-bottom:10px}
+@media(max-width:600px){.dg2,.sg{grid-template-columns:1fr}.ab-cards{flex-direction:column}.dht{font-size:17px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hl">&#127963;&#65039; Urban Bid Intelligence</div>
+  <div class="hu" id="last-upd">Carregando...</div>
+  <div class="hbtns">
+    <button class="hbtn" onclick="openGlossario()">&#128218; Glossario</button>
+    <button class="hbtn" onclick="location.href='cadastro.html'">+ Nova Empresa</button>
+  </div>
+</header>
+
+<div class="company-bar">
+  <span class="clbl">Empresa:</span>
+  <select class="csel" id="company-sel" title="Selecionar empresa" onchange="onCompanyChange()"><option>Carregando...</option></select>
+  <span id="company-stats" style="font-size:12px;color:#64748b"></span>
+</div>
+
+<div class="stats">
+  <div class="chip all active" onclick="filterBids('all',this)">Todos <span id="cnt-all">--</span></div>
+  <div class="chip go"    onclick="filterBids('go',this)">GO <span id="cnt-go">--</span></div>
+  <div class="chip watch" onclick="filterBids('watch',this)">Watch <span id="cnt-watch">--</span></div>
+  <div class="chip wait"  onclick="filterBids('wait',this)">Wait <span id="cnt-wait">--</span></div>
+  <div class="chip skip"  onclick="filterBids('skip',this)">Skip <span id="cnt-skip">--</span></div>
+</div>
+
+<div id="action-banner" style="display:none"></div>
+<div id="list-view"><div id="cards-wrap"></div></div>
+<div id="detail-view">
+  <button class="back" onclick="showList()">&#8592; Voltar a lista</button>
+  <div id="detail-content"></div>
+</div>
+
+<!-- GLOSSARIO -->
+<div class="modal-ov" id="gloss-modal" onclick="if(event.target===this)closeGlossario()">
+  <div class="modal">
+    <div class="mhdr"><div class="mttl">Glossario de Termos</div><button class="mclose" onclick="closeGlossario()">x</button></div>
+    <div class="mbody">
+      <div class="gi"><div class="gt"><span class="gbadge">ITB</span><span class="gfull">Invitation to Bid</span></div><div class="gdesc"><strong>Menor preco ganha automaticamente.</strong> O governo define o que quer comprar e seleciona quem cobrar menos, sem avaliacao subjetiva. Ideal para o modelo drop-ship.</div><div class="gtip">Melhor tipo para Urban Clean: cotar no mercado, aplicar margem, submeter.</div></div>
+      <div class="gi"><div class="gt"><span class="gbadge">CQ</span><span class="gfull">Competitive Quote</span></div><div class="gdesc"><strong>Cotacao competitiva simplificada.</strong> Versao mais agil do ITB para compras menores. Processo rapido, menos burocracia.</div><div class="gtip">Processo simples, otimo para primeiros contratos.</div></div>
+      <div class="gi"><div class="gt"><span class="gbadge">RFP</span><span class="gfull">Request for Proposal</span></div><div class="gdesc"><strong>Proposta tecnica avaliada.</strong> O governo avalia experiencia, metodologia e preco. Mais complexo e subjetivo, dificil para empresa nova.</div><div class="gtip">Evitar por agora. Requere track record comprovado.</div></div>
+      <div class="gi"><div class="gt"><span class="gbadge">CS</span><span class="gfull">Continuing Service</span></div><div class="gdesc"><strong>Lista aberta de vendors aprovados.</strong> Nao ha competicao direta, qualquer vendor aprovado pode receber pedidos. Quase sempre exige 2 anos em operacao.</div><div class="gtip">Urban Clean qualifica em junho/2027. Otimo para depois.</div></div>
+      <div class="gi"><div class="gt"><span class="gbadge">Bond</span><span class="gfull">Caucao / Fianca</span></div><div class="gdesc"><strong>Bid Bond</strong> = garantia para submeter proposta. <strong>Performance Bond</strong> = garantia de entrega do contrato. Geralmente exigido em obras acima de $25k.</div><div class="gtip">Supply/drop-ship geralmente nao exige bond. Obras e servicos geralmente exigem.</div></div>
+      <div class="gi"><div class="gt"><span class="gbadge">E-Verify</span><span class="gfull">Employment Eligibility Verification</span></div><div class="gdesc">Sistema federal obrigatorio em FL desde 2021 para verificar elegibilidade de trabalho de funcionarios. Requerido em quase todos os contratos governamentais.</div><div class="gtip">Registre em e-verify.uscis.gov - gratuito e obrigatorio.</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- EMAIL MODAL -->
+<div class="modal-ov" id="email-modal" onclick="if(event.target===this)closeEmail()">
+  <div class="modal">
+    <div class="mhdr"><div class="mttl">Email + WhatsApp</div><button class="mclose" onclick="closeEmail()">x</button></div>
+    <div class="mbody" id="email-modal-body"></div>
+  </div>
+</div>
+
+<script>
+var TYPE_INFO={BID:{label:'ITB',full:'Invitation to Bid',color:'#16a34a',compete:true,explain:'Menor preco ganha automaticamente. Voce pesquisa o preco, aplica margem e submete.'},CQ:{label:'CQ',full:'Competitive Quote',color:'#d97706',compete:true,explain:'Cotacao competitiva simplificada. Versao mais agil do ITB para compras menores.'},RFP:{label:'RFP',full:'Request for Proposal',color:'#2563eb',compete:false,explain:'Proposta tecnica avaliada. Governo avalia experiencia, metodologia e preco. Dificil para empresa nova.'},CS:{label:'CS',full:'Continuing Service',color:'#7c3aed',compete:false,explain:'Lista aberta de vendors aprovados. Qualquer vendor aprovado pode receber pedidos. Quase sempre exige 2 anos.'},ISS:{label:'ISS',full:'Informal Solicitation',color:'#0891b2',compete:true,explain:'Solicitacao informal para servicos de menor valor. Processo mais rapido que ITB.'},DQ:{label:'DQ',full:'Direct Quote',color:'#059669',compete:true,explain:'Cotacao direta. Convite para vendors especificos.'}};
+var NICHO={cleaning:{icon:'🧹',label:'Cleaning'},landscaping:{icon:'🌿',label:'Landscaping'},construction:{icon:'🔨',label:'Construction'}};
+var VER={go:{text:'GO',label:'GO - Entrar agora'},watch:{text:'WATCH',label:'WATCH - Verificar'},wait:{text:'WAIT',label:'WAIT - Aguardar'},skip:{text:'SKIP',label:'SKIP - Descartar'}};
+var allBids=[],allCompanies=[],currentCompany=null,currentFilter='all';
+
+function calcFitScore(co,bid){
+  if(!co)return{score:bid.fit_score,breakdown:{},blockers:[],veredito:bid.veredito};
+  var score=0,blockers=[],b={};
+  var inState=co.geografico.estados.indexOf(bid.estado)>=0;
+  var inCounty=co.geografico.condados.indexOf(bid.condado)>=0;
+  b.location=inState?(inCounty?20:15):5; score+=b.location;
+  if(bid.bidType==='CS'){
+    if(co.anos_operacao<2){blockers.push('CS exige 2 anos - qualifica jun/2027');b.age=0;}
+    else{b.age=20;score+=20;}
+  }else{b.age=20;score+=20;}
+  if(bid.model==='product'&&co.capacidade.dropship){b.tech=20;score+=20;}
+  else if(bid.model==='product'){b.tech=10;score+=10;}
+  else if(bid.model==='service'){if(co.capacidade.equipe_propria||co.capacidade.subcontratados){b.tech=15;score+=15;}else{b.tech=5;score+=5;}}
+  else{b.tech=10;score+=10;}
+  var needsBond=bid.barriers&&bid.barriers.bondRequired;
+  var hasBond=co.bond&&co.bond.tem;
+  if(needsBond&&!hasBond){blockers.push('Bond requerido - empresa nao possui');b.financial=0;}
+  else{b.financial=needsBond?(hasBond?20:0):15;score+=b.financial;}
+  b.reg=10;score+=10;
+  if(bid.bidType==='RFP')score=Math.floor(score*0.5);
+  score=Math.min(100,Math.max(0,score));
+  var v;
+  if(bid.bidType==='CS'&&blockers.some(function(x){return x.indexOf('2 anos')>=0;})){v='wait';}
+  else if(blockers.some(function(x){return x.indexOf('Bond')>=0;})){v='skip';}
+  else if(bid.bidType==='RFP'&&score<30){v='skip';}
+  else if(score>=65){v='go';}
+  else if(score>=40){v='watch';}
+  else if(score>=20){v=bid.bidType==='CS'?'wait':'skip';}
+  else{v='skip';}
+  return{score:score,breakdown:b,blockers:blockers,veredito:v};
+}
+
+function applyMatching(bids,co){
+  return bids.map(function(bid){
+    var m=calcFitScore(co,bid);
+    return Object.assign({},bid,{_score:m.score,_veredito:m.veredito,_blockers:m.blockers,_breakdown:m.breakdown});
+  });
+}
+
+async function loadData(){
+  try{
+    var bRes=await fetch('bids.json').catch(function(){return null;});
+    var cRes=await fetch('companies.json').catch(function(){return null;});
+    var bData=bRes?await bRes.json():{bids:INLINE_BIDS,lastUpdated:new Date().toISOString()};
+    var cData=cRes?await cRes.json():{companies:INLINE_COMPANIES};
+    allBids=bData.bids||[];
+    allCompanies=cData.companies||[];
+    var d=new Date(bData.lastUpdated);
+    document.getElementById('last-upd').textContent='Atualizado: '+d.toLocaleDateString('pt-BR')+' as '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+    buildSelector();
+    onCompanyChange();
+  }catch(e){
+    document.getElementById('cards-wrap').innerHTML='<div class="empty"><div class="ic">&#9888;&#65039;</div><p>Erro ao carregar dados: '+e.message+'</p></div>';
+  }
+}
+
+function buildSelector(){
+  var sel=document.getElementById('company-sel');
+  sel.innerHTML=allCompanies.map(function(c){return '<option value="'+c.id+'">'+c.nome+'</option>';}).join('')+'<option value="">-- Dados brutos --</option>';
+  if(allCompanies.length>0)sel.value=allCompanies[0].id;
+}
+
+function onCompanyChange(){
+  var id=document.getElementById('company-sel').value;
+  currentCompany=allCompanies.find(function(c){return c.id===id;})||null;
+  allBids=applyMatching(allBids,currentCompany);
+  updateStats();
+  renderActionBanner();
+  renderCards(allBids,currentFilter);
+  var nm=currentCompany?currentCompany.nome:'Dados brutos';
+  var go=allBids.filter(function(b){return(b._veredito||b.veredito)==='go';}).length;
+  var wa=allBids.filter(function(b){return(b._veredito||b.veredito)==='watch';}).length;
+  document.getElementById('company-stats').textContent=nm+' -- '+go+' GO, '+wa+' Watch';
+}
+
+function updateStats(){
+  var counts={go:0,watch:0,wait:0,skip:0,all:0};
+  allBids.forEach(function(b){var v=b._veredito||b.veredito;if(counts[v]!==undefined)counts[v]++;counts.all++;});
+  document.getElementById('cnt-all').textContent=counts.all;
+  document.getElementById('cnt-go').textContent=counts.go;
+  document.getElementById('cnt-watch').textContent=counts.watch;
+  document.getElementById('cnt-wait').textContent=counts.wait;
+  document.getElementById('cnt-skip').textContent=counts.skip;
+}
+
+function buildEmailEn(bid,co){
+  var c=co||{nome:'[Empresa]',contatos:{email:'[email]',tel:'[tel]'},cadastros:{mfmp:{vendor_num:'[MFMP#]'}}};
+  var ct=bid.contact||{};
+  var subj='Interest in '+bid.bidNum+' - '+bid.title;
+  var body='Dear '+(ct.name||'Procurement Team')+',\n\nI hope this message finds you well.\n\n'+c.nome+', a Florida-registered vendor (MFMP #'+((c.cadastros&&c.cadastros.mfmp&&c.cadastros.mfmp.vendor_num)||'[MFMP#]')+'), is interested in submitting a proposal for '+bid.bidType+' '+bid.bidNum+' - '+bid.title+'.\n\nWe would appreciate your assistance:\n\n1. Is this opportunity still active and accepting submissions?\n2. What is the current submission deadline?\n3. Is subcontracting permitted under this contract?\n4. Where can we find the complete bid package?\n\nCompany: '+c.nome+'\nMFMP #: '+((c.cadastros&&c.cadastros.mfmp&&c.cadastros.mfmp.vendor_num)||'[MFMP#]')+'\nPhone: '+((c.contatos&&c.contatos.tel)||'[phone]')+'\nEmail: '+((c.contatos&&c.contatos.email)||'[email]')+'\nState: Florida\n\nThank you for your time.\n\nBest regards,\n[Your Name]\n'+c.nome;
+  return{subj:subj,body:body,email:ct.email||''};
+}
+
+function buildWAMsg(bid){
+  return 'Urban Bid Solutions - Oportunidade de Licitacao\n\n'+bid.bidNum+': '+bid.title+'\nOrgao: '+(bid.orgao||bid.source)+' - '+bid.condado+' County, FL\nPublicado: '+bid.openDate+'\nLink: '+bid.link+'\n\nEste tipo de licitacao usa modelo menor preco ganha. Posso ajudar sua empresa a participar.\n\n+1 407-375-5223\nUrban Bid Solutions';
+}
+
+function showEmailModal(bid){
+  var em=buildEmailEn(bid,currentCompany);
+  var wa=buildWAMsg(bid);
+  var ml='mailto:'+em.email+'?subject='+encodeURIComponent(em.subj)+'&body='+encodeURIComponent(em.body);
+  var wl='https://wa.me/?text='+encodeURIComponent(wa);
+  var safeBid=JSON.stringify(bid);
+  document.getElementById('email-modal-body').innerHTML=
+    '<div style="margin-bottom:14px">'+
+    '<div style="font-size:11px;text-transform:uppercase;color:#94a3b8;font-weight:700;margin-bottom:4px">Para: '+(bid.contact&&bid.contact.name||'Procurement')+'</div>'+
+    '<div style="font-size:11px;text-transform:uppercase;color:#94a3b8;font-weight:700;margin-bottom:8px">Assunto: '+em.subj+'</div>'+
+    '<div class="email-box">'+em.body+'</div>'+
+    '<div class="copy-btns">'+
+    '<button class="copybtn email" id="cp-email">Copiar Email</button>'+
+    '<a class="copybtn gmail" href="'+ml+'" target="_blank">Abrir no Email</a>'+
+    '</div></div>'+
+    '<hr style="border:none;border-top:1px solid #e2e8f0;margin:14px 0">'+
+    '<div>'+
+    '<div style="font-size:11px;text-transform:uppercase;color:#94a3b8;font-weight:700;margin-bottom:8px">WhatsApp - Compartilhar com parceiros ou clientes</div>'+
+    '<div class="email-box">'+wa+'</div>'+
+    '<div class="copy-btns">'+
+    '<button class="copybtn email" id="cp-wa">Copiar</button>'+
+    '<a class="copybtn wa" href="'+wl+'" target="_blank">Abrir no WhatsApp</a>'+
+    '</div></div>';
+  document.getElementById('cp-email').onclick=function(){copyTxt(em.body);};
+  document.getElementById('cp-wa').onclick=function(){copyTxt(wa);};
+  document.getElementById('email-modal').classList.add('open');
+}
+function closeEmail(){document.getElementById('email-modal').classList.remove('open');}
+
+function copyTxt(t){
+  if(navigator.clipboard){navigator.clipboard.writeText(t);}
+  else{var ta=document.createElement('textarea');ta.value=t;document.body.appendChild(ta);ta.select();document.execCommand('copy');document.body.removeChild(ta);}
+  var toast=document.createElement('div');
+  toast.textContent='Copiado!';
+  toast.style.cssText='position:fixed;bottom:20px;right:20px;background:#1e3a5f;color:#fff;padding:10px 18px;border-radius:8px;font-size:13px;font-weight:700;z-index:9999';
+  document.body.appendChild(toast);setTimeout(function(){toast.remove();},2000);
+}
+
+function renderActionBanner(){
+  var goBids=allBids.filter(function(b){return(b._veredito||b.veredito)==='go';});
+  var banner=document.getElementById('action-banner');
+  if(!goBids.length){banner.style.display='none';return;}
+  banner.style.display='block';
+  banner.innerHTML='<div class="action-banner"><div class="ab-title">ACAO PARA AMANHA - '+goBids.length+' bid(s) GO aguardando</div><div class="ab-cards">'+
+    goBids.map(function(b){
+      var wa=buildWAMsg(b);
+      var wl='https://wa.me/?text='+encodeURIComponent(wa);
+      return '<div class="ab-card" onclick="showDetail(\''+b.id+'\')">'+
+        '<div class="ab-bid">'+b.bidNum+' - '+b.source+'</div>'+
+        '<div class="ab-name">'+b.title+'</div>'+
+        '<div class="ab-actions">'+
+        '<button class="ab-btn email" onclick="event.stopPropagation();showEmailModal(allBids.find(function(x){return x.id===\''+b.id+'\'}))">Email</button>'+
+        '<a class="ab-btn wa" href="'+wl+'" target="_blank" onclick="event.stopPropagation()">WhatsApp</a>'+
+        '<button class="ab-btn view" onclick="event.stopPropagation();showDetail(\''+b.id+'\')">Ver Ficha</button>'+
+        '</div></div>';
+    }).join('')+'</div></div>';
+}
+
+function filterBids(f,el){
+  currentFilter=f;
+  document.querySelectorAll('.chip').forEach(function(c){c.classList.remove('active');});
+  el.classList.add('active');
+  renderCards(allBids,f);
+}
+
+function renderCards(bids,filter){
+  var filtered=filter==='all'?bids:bids.filter(function(b){return(b._veredito||b.veredito)===filter;});
+  var wrap=document.getElementById('cards-wrap');
+  if(!filtered.length){wrap.innerHTML='<div class="empty"><div class="ic">&#128269;</div><p>Nenhum bid encontrado.</p></div>';return;}
+  var sources=[...new Set(filtered.map(function(b){return b.source;}))];
+  wrap.innerHTML=sources.map(function(src){
+    var sb=filtered.filter(function(b){return b.source===src;});
+    return '<div class="src-section"><div class="src-title">'+src+' - '+sb.length+' oportunidade(s)</div><div class="cards">'+sb.map(renderCard).join('')+'</div></div>';
+  }).join('');
+}
+
+function renderCard(b){
+  var v=b._veredito||b.veredito;
+  var s=b._score!=null?b._score:b.fit_score;
+  var ni=NICHO[b.nicho]||{icon:'',label:b.nicho};
+  var ti=TYPE_INFO[b.bidType]||{label:b.bidType,color:'#6b7280'};
+  var vr=VER[v]||VER.skip;
+  var diff=b.sourcing?b.sourcing.difficulty:'hard';
+  return '<div class="card '+v+'" onclick="showDetail(\''+b.id+'\')">'+
+    '<div class="ch"><span class="vb '+v+'">'+vr.text+'</span><span class="tb" style="background:'+ti.color+'">'+ti.label+'</span><span class="nb">'+ni.icon+' '+ni.label+'</span><span class="fs-badge">'+s+'</span></div>'+
+    '<div class="cb"><div class="ct">'+b.title+'</div><div class="cm">'+b.bidNum+' - '+b.source+'</div>'+
+    '<div class="cd"><div class="db"><div class="dlbl">Publicado</div><div class="dval">'+(b.openDate||'--')+'</div></div>'+
+    '<div class="db dl"><div class="dlbl">Deadline</div><div class="dval">'+(b.deadline||'Ver edital')+'</div></div></div>'+
+    '<div class="cr">'+(b.veredito_reason||'')+'</div></div>'+
+    '<div class="cfoot"><span>Clique para analise completa</span><span>'+(diff==='easy'?'Facil':diff==='medium'?'Medio':'Dificil')+'</span></div></div>';
+}
+
+function showDetail(id){
+  var bid=allBids.find(function(b){return b.id===id;});
+  if(!bid)return;
+  document.getElementById('list-view').style.display='none';
+  document.getElementById('action-banner').style.display='none';
+  document.getElementById('detail-view').style.display='block';
+  document.getElementById('detail-content').innerHTML=renderDetail(bid);
+  window.scrollTo(0,0);
+}
+
+function showList(){
+  document.getElementById('detail-view').style.display='none';
+  document.getElementById('list-view').style.display='block';
+  renderActionBanner();
+  window.scrollTo(0,0);
+}
+
+function renderDetail(b){
+  var v=b._veredito||b.veredito;
+  var s=b._score!=null?b._score:b.fit_score;
+  var ni=NICHO[b.nicho]||{icon:'',label:b.nicho};
+  var ti=TYPE_INFO[b.bidType]||{label:b.bidType,full:b.bidType,color:'#6b7280',compete:false,explain:''};
+  var vr=VER[v]||VER.skip;
+  var bk=b._blockers||[];
+  var bd=b._breakdown||{};
+  var co=b.contact||{};
+  var so=b.sourcing||{};
+  var ba=b.barriers||{};
+  var uc=currentCompany;
+  var bars=[{l:'Localizacao',v:bd.location||0,m:20},{l:'Idade/CS',v:bd.age||0,m:20},{l:'Cap.Tecnica',v:bd.tech||0,m:20},{l:'Financeiro',v:bd.financial||0,m:20},{l:'Cadastros',v:bd.reg||10,m:10}];
+  var ucItems=uc?[
+    {cls:uc.cadastros.mfmp.ativo?'ok':'no',ic:uc.cadastros.mfmp.ativo?'OK':'NAO',n:'MFMP',st:uc.cadastros.mfmp.ativo?'Ativo':'Inativo'},
+    {cls:uc.cadastros.samgov.ativo?'ok':'pend',ic:uc.cadastros.samgov.ativo?'OK':'PEN',n:'SAM.gov',st:uc.cadastros.samgov.ativo?'Ativo':'Pendente'},
+    {cls:uc.anos_operacao>=2?'ok':'no',ic:uc.anos_operacao>=2?'OK':'NAO',n:'2 anos',st:uc.anos_operacao>=2?'OK':'Jun/2027'},
+    {cls:'pend',ic:'VER',n:'Seguro GL',st:'Verificar'},
+    {cls:ba.bondRequired?'no':'ok',ic:ba.bondRequired?'NAO':'OK',n:'Bond',st:ba.bondRequired?'Exigido':'N/A'}
+  ]:[];
+  var docs=(b.documents||[]).map(function(d){return '<a class="docitem" href="'+d.url+'" target="_blank"><span>Edital</span><span style="flex:1">'+d.name+'</span><span>&#8599;</span></a>';}).join('')||'<div style="color:#94a3b8;font-size:12px">Acessar link do edital</div>';
+  var blockerHTML=bk.length?'<div style="padding:10px 22px;background:#fff7ed;border-top:1px solid #fed7aa"><strong style="font-size:11px;text-transform:uppercase;color:#c2410c">Bloqueadores:</strong> '+bk.map(function(x){return '<span style="display:inline-block;margin:2px 4px;padding:2px 8px;background:#fee2e2;color:#dc2626;border-radius:4px;font-size:12px">'+x+'</span>';}).join('')+'</div>':'';
+  var scoreHTML=uc?'<div class="dblock"><div class="dbhdr">Fit Score - '+uc.nome+'</div><div class="dbbody"><div class="fs-wrap"><div class="fs-circle '+v+'"><div class="fs-num">'+s+'</div><div class="fs-lbl">/100</div></div><div class="fs-bars">'+bars.map(function(bar){return '<div class="fs-bar-item"><div class="fs-bar-label"><span>'+bar.l+'</span><span>'+bar.v+'/'+bar.m+'</span></div><div class="fs-bar-track"><div class="fs-bar-fill" style="width:'+Math.round((bar.v/bar.m)*100)+'%"></div></div></div>';}).join('')+'</div></div></div></div>':'';
+  var ucHTML=uc?'<div class="dblock"><div class="dbhdr">Status - '+uc.nome+'</div><div class="dbbody"><div class="ucg">'+ucItems.map(function(i){return '<div class="uci '+i.cls+'"><div class="uci-ic">'+i.ic+'</div><div class="uci-n">'+i.n+'</div><div class="uci-s">'+i.st+'</div></div>';}).join('')+'</div></div></div>':'';
+
+  return '<div class="dhero"><div class="dhtop">'+
+    '<div class="dhbadges"><span class="dhv '+v+'">'+vr.label+'</span><span class="tb" style="background:'+ti.color+';padding:5px 13px;font-size:12px">'+ti.label+' - '+ti.full+'</span><span class="nb" style="font-size:12px;padding:5px 11px">'+ni.icon+' '+ni.label+'</span>'+(s>0?'<span style="margin-left:auto;font-size:20px;font-weight:800">Score: '+s+'</span>':'')+'</div>'+
+    '<div class="dht">'+b.title+'</div>'+
+    '<div class="dhm">'+b.bidNum+' - '+(b.orgao||b.source)+' - '+b.condado+' County, FL - <a href="'+b.link+'" target="_blank">Ver no portal</a></div></div>'+
+    '<div class="dhreason">Por que este veredito: '+(b.veredito_reason||'')+'</div>'+
+    (b.nextStep?'<div class="dhnext"><strong>Proximo Passo</strong>'+b.nextStep+'</div>':'')+
+    blockerHTML+'</div>'+
+    '<div class="dblocks">'+scoreHTML+
+    '<div class="dblock"><div class="dbhdr">Datas Criticas</div><div class="dbbody"><div class="dg2">'+
+    '<div class="dc pub"><div class="lbl">Data de Publicacao</div><div class="val">'+(b.openDate||'--')+'</div><div class="sub">Quando o edital foi lancado</div></div>'+
+    '<div class="dc dl2"><div class="lbl">DEADLINE DE SUBMISSAO</div><div class="val">'+(b.deadline||'Ver edital PDF')+'</div><div class="sub">Prazo final para submeter proposta</div></div>'+
+    '</div></div></div>'+
+    '<div class="dblock"><div class="dbhdr">Tipo de Licitacao</div><div class="dbbody">'+
+    '<div class="tipo-box"><span class="tipo-big" style="background:'+ti.color+'">'+ti.label+'</span><div class="tipo-name">'+ti.full+'<small>'+(ti.compete?'Competitivo - voce entra na disputa':'Nao competitivo')+'</small></div></div>'+
+    '<div class="tipo-explain">'+ti.explain+'</div></div></div>'+
+    '<div class="dblock"><div class="dbhdr">Analise de Sourcing</div><div class="dbbody">'+
+    '<div class="sg">'+
+    '<div class="si"><div class="lbl">Categoria</div><div class="val">'+(so.category||'--')+'</div></div>'+
+    '<div class="si"><div class="lbl">Modelo</div><div class="val">'+(b.model==='product'?'Produto - Drop-ship viavel':b.model==='service'?'Servico presencial':'Misto')+'</div></div>'+
+    '<div class="si"><div class="lbl">Dificuldade</div><div class="val '+(so.difficulty==='easy'?'diff-easy':so.difficulty==='medium'?'diff-medium':'diff-hard')+'">'+(so.difficultyLabel||'--')+'</div></div>'+
+    '<div class="si"><div class="lbl">Margem Estimada</div><div class="val">'+(so.marginEstimate||'--')+'</div></div></div>'+
+    (so.where&&so.where.length&&so.where[0]!=='N/A'?'<div style="margin-top:10px"><div class="lbl" style="font-size:10px;text-transform:uppercase;color:#94a3b8;font-weight:700;margin-bottom:6px">Onde Encontrar</div><div class="where-tags">'+so.where.map(function(w){return '<span class="wt">'+w+'</span>';}).join('')+'</div></div>':'')+
+    '</div></div>'+
+    '<div class="dblock"><div class="dbhdr">Barreiras de Entrada</div><div class="dbbody"><div class="blist">'+
+    '<div class="bi"><div class="bi-ic">'+(ba.yearsRequired?'NAO':'OK')+'</div><div><div class="bi-name">Tempo de Operacao</div><div class="bi-det">'+(ba.yearsRequired?(ba.yearsNote||'Minimo 2 anos'):'Sem exigencia minima')+'</div></div></div>'+
+    '<div class="bi"><div class="bi-ic">'+(ba.bondRequired?'AVS':'OK')+'</div><div><div class="bi-name">Bond / Caucao</div><div class="bi-det">'+(ba.bondRequired?(ba.bondNote||'Bond exigido'):'Nao requerido')+'</div></div></div>'+
+    '<div class="bi"><div class="bi-ic">'+(!ba.licenseRequired||ba.licenseRequired.indexOf('Nenhuma')>=0?'OK':'AVS')+'</div><div><div class="bi-name">Licenca Especifica</div><div class="bi-det">'+(ba.licenseRequired||'Nenhuma')+'</div></div></div>'+
+    '<div class="bi"><div class="bi-ic">INF</div><div><div class="bi-name">Seguro (GL)</div><div class="bi-det">'+(ba.insuranceLevel||'$1M GL')+'</div></div></div>'+
+    '<div class="bi"><div class="bi-ic">INF</div><div><div class="bi-name">E-Verify</div><div class="bi-det">'+(ba.eVerify?'Obrigatorio - registre em e-verify.uscis.gov (gratuito)':'Nao mencionado')+'</div></div></div>'+
+    '</div></div></div>'+
+    ucHTML+
+    '<div class="dblock"><div class="dbhdr">Acao Imediata - Email e WhatsApp</div><div class="dbbody">'+
+    '<p style="font-size:13px;color:#475569;margin-bottom:12px">Templates prontos para enviar agora. Clique para copiar ou abrir diretamente.</p>'+
+    '<button class="copybtn email" style="font-size:13px;padding:9px 18px" onclick="showEmailModal(allBids.find(function(x){return x.id===\''+b.id+'\'}))">Gerar Email + WhatsApp</button>'+
+    '</div></div>'+
+    '<div class="dblock"><div class="dbhdr">Contato Direto</div><div class="dbbody">'+
+    '<div class="cbox"><div class="cav">'+(co.name||'?').charAt(0).toUpperCase()+'</div>'+
+    '<div><div class="cn">'+(co.name||'--')+'</div><div class="ce"><a href="mailto:'+(co.email||'')+'">'+( co.email||'--')+'</a></div>'+(co.phone?'<div style="font-size:11px;color:#94a3b8">'+co.phone+'</div>':'')+'</div>'+
+    (co.email?'<div class="cacts"><a class="cemailbtn" href="mailto:'+co.email+'">Email</a></div>':'')+
+    '</div></div></div>'+
+    '<div class="dblock"><div class="dbhdr">Documentos do Edital</div><div class="dbbody"><div class="doclist">'+docs+'</div></div></div>'+
+    '</div>';
+}
+
+function openGlossario(){document.getElementById('gloss-modal').classList.add('open');}
+function closeGlossario(){document.getElementById('gloss-modal').classList.remove('open');}
+
+var INLINE_COMPANIES=[{"id":"urban-clean-001","nome":"Urban Clean & Repair Corp","ein":"39-2914964","fundada":"2025-06-20","anos_operacao":0,"ativa":true,"contatos":{"tel":"+1 407-375-5223","email":"urbancleanrepair@gmail.com","cidade":"Davenport","estado":"FL"},"geografico":{"estados":["FL"],"condados":["Polk","Osceola","Orange","Seminole","Hillsborough","Lake","Hardee"]},"licencas":[],"seguros":{"gl_1m":null},"bond":{"tem":false,"capacidade_max":0},"capacidade":{"dropship":true,"warehouse":false,"equipe_propria":false,"subcontratados":false},"servicos":[],"produtos":["cleaning supplies","safety products"],"fornecedores":["Amazon Business","Grainger","HD Supply"],"cadastros":{"mfmp":{"ativo":true,"vendor_num":"F392914964001"},"samgov":{"ativo":false,"status":"Pending EVS"},"osceola_vendorlink":{"ativo":true}}}];
+var INLINE_BIDS=[];
+
+loadData();
+</script>
+</body>
+</html>
