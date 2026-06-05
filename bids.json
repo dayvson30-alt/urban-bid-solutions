@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T08:36:02",
+  "lastUpdated": "2026-06-05T08:37:54",
   "source": "Polk County",
   "bids": [
     {
@@ -60,7 +60,14 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/hunt-fountain-artificial-turf-fields/",
       "pdf_processed": true,
-      "pdf_error": "Claude analysis failed"
+      "pdf_error": null,
+      "pdf_analysis": {
+        "status_bid": "open",
+        "vencedor": "",
+        "instrucoes_submissao": "Submittal Form.",
+        "extracted_at": "2026-06-05T08:37:42",
+        "method": "regex"
+      }
     },
     {
       "id": "polk-bid-25-667",
@@ -119,7 +126,14 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/bid-25-667/",
       "pdf_processed": true,
-      "pdf_error": "Claude analysis failed"
+      "pdf_error": null,
+      "pdf_analysis": {
+        "status_bid": "open",
+        "vencedor": "",
+        "instrucoes_submissao": "Submittal Form.",
+        "extracted_at": "2026-06-05T08:37:44",
+        "method": "regex"
+      }
     },
     {
       "id": "polk-bid-24-610",
@@ -223,7 +237,7 @@
       },
       "contact": {
         "name": "Polk County Procurement",
-        "email": "procurement@polk-county.net",
+        "email": "kenbrush@polkfl.gov",
         "phone": "(863) 534-7593"
       },
       "documents": [
@@ -234,7 +248,14 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/bid-25-716-sm/",
       "pdf_processed": true,
-      "pdf_error": "Claude analysis failed"
+      "pdf_error": null,
+      "pdf_analysis": {
+        "status_bid": "open",
+        "vencedor": "",
+        "instrucoes_submissao": "submitted with your",
+        "extracted_at": "2026-06-05T08:37:46",
+        "method": "regex"
+      }
     },
     {
       "id": "polk-bid-26-129",
@@ -248,7 +269,7 @@
       "nicho": "construction",
       "model": "service",
       "openDate": "2026",
-      "deadline": "Ver edital PDF",
+      "deadline": "April 15, 2026, At 4:00 P.M. If No",
       "valor_estimado": null,
       "escopo": "Instalacao, substituicao e reparo de cercas para o condado",
       "dropship_viavel": false,
@@ -292,7 +313,14 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/bid-26-129/",
       "pdf_processed": true,
-      "pdf_error": "Claude analysis failed"
+      "pdf_error": null,
+      "pdf_analysis": {
+        "status_bid": "unknown",
+        "vencedor": "",
+        "instrucoes_submissao": "submitting a",
+        "extracted_at": "2026-06-05T08:37:50",
+        "method": "regex"
+      }
     },
     {
       "id": "polk-bid-26-231",
@@ -316,10 +344,10 @@
       "risco_financeiro": "low",
       "risco_operacional": "medium",
       "risco_compliance": "low",
-      "veredito": "watch",
-      "fit_score": 30,
-      "veredito_reason": "Servico tecnico - verificar subcontratacao para motor repair shops locais.",
-      "nextStep": "Baixar edital. Se subcontratacao permitida -> cotar com motor repair shops em Polk County.",
+      "veredito": "skip",
+      "fit_score": 0,
+      "veredito_reason": "ENCERRADO - Adjudicado: ver edital",
+      "nextStep": "Bid ja encerrado. Acompanhar proximo ciclo.",
       "sourcing": {
         "category": "Reparo de motores",
         "where": [
@@ -337,8 +365,8 @@
         "eVerify": true
       },
       "contact": {
-        "name": "Polk County Procurement",
-        "email": "procurement@polk-county.net",
+        "name": "Brad Howard",
+        "email": "bradhoward@polkfl.gov",
         "phone": "(863) 534-7593"
       },
       "documents": [
@@ -349,7 +377,14 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/bid-26-231/",
       "pdf_processed": true,
-      "pdf_error": "Claude analysis failed"
+      "pdf_error": null,
+      "pdf_analysis": {
+        "status_bid": "awarded",
+        "vencedor": "",
+        "instrucoes_submissao": "submittal of bids",
+        "extracted_at": "2026-06-05T08:37:52",
+        "method": "regex"
+      }
     },
     {
       "id": "polk-bid-26-018",
@@ -373,10 +408,10 @@
       "risco_financeiro": "medium",
       "risco_operacional": "low",
       "risco_compliance": "low",
-      "veredito": "watch",
-      "fit_score": 40,
-      "veredito_reason": "Produto especializado - verificar programa de distribuidores Master Meter.",
-      "nextStep": "Contatar Master Meter para verificar distribuidores. Se viavel -> submeter proposta.",
+      "veredito": "skip",
+      "fit_score": 0,
+      "veredito_reason": "ENCERRADO - Adjudicado: Empire Pipe & Supply Company",
+      "nextStep": "Bid ja encerrado. Acompanhar proximo ciclo.",
       "sourcing": {
         "category": "Medidores de agua inteligentes",
         "where": [
@@ -395,8 +430,8 @@
         "eVerify": true
       },
       "contact": {
-        "name": "Polk County Utilities",
-        "email": "procurement@polk-county.net",
+        "name": "Mike Baselice",
+        "email": "mikebaselice@polkfl.gov",
         "phone": "(863) 534-7593"
       },
       "documents": [
@@ -407,7 +442,14 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/bid-26-018/",
       "pdf_processed": true,
-      "pdf_error": "Claude analysis failed"
+      "pdf_error": null,
+      "pdf_analysis": {
+        "status_bid": "awarded",
+        "vencedor": "Empire Pipe & Supply Company",
+        "instrucoes_submissao": "submittal of bids",
+        "extracted_at": "2026-06-05T08:37:54",
+        "method": "regex"
+      }
     },
     {
       "id": "polk-cs-20-1111",
