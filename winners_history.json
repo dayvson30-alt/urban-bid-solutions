@@ -1,0 +1,1091 @@
+{
+  "lastUpdated": "2026-06-05T13:41:12.382635",
+  "source": "USASpending.gov",
+  "state": "FL",
+  "note": "Historico de vencedores de contratos federais em FL por NAICS. Use para calibrar sua proposta.",
+  "byNaicsGroup": {
+    "cleaning": {
+      "groupId": "cleaning",
+      "label": "Limpeza Predial & Janitorial",
+      "icon": "🧹",
+      "naicsCodes": [
+        "561720",
+        "561740",
+        "561790",
+        "561710"
+      ],
+      "totalFound": 0,
+      "topVendors": [
+        {
+          "name": "GLOBAL CONNECTIONS TO EMPLOYMENT, INC.",
+          "totalValue": 76779216.54,
+          "contractCount": 7,
+          "contracts": [
+            {
+              "description": "BASE CUSTODIAL SERVICES",
+              "amount": 23778687.65,
+              "amountFmt": "$23,778,688",
+              "startDate": "2021-10-01",
+              "endDate": "2026-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA282322C0001_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "IGF::OT::IGF CUSTODIAL SERVICES",
+              "amount": 20588364.96,
+              "amountFmt": "$20,588,365",
+              "startDate": "2015-10-01",
+              "endDate": "2021-04-01",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA282316C4000_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "CUSTODIAL SERVICES AT THE ARMED FORCES RETIREMENT HOME LOCATED IN GULF",
+              "amount": 8804289.53,
+              "amountFmt": "$8,804,290",
+              "startDate": "2021-10-01",
+              "endDate": "2026-06-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_20342322C00004_2036_-NONE-_-NONE-"
+            },
+            {
+              "description": "CUSTODIAL SERVICES FOR THE WASHINGTON DC CAMPUS",
+              "amount": 6853108.15,
+              "amountFmt": "$6,853,108",
+              "startDate": "2021-10-01",
+              "endDate": "2026-06-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_20342322C00005_2036_-NONE-_-NONE-"
+            },
+            {
+              "description": "FOURTH OPTION PERIOD RECURRING WORK",
+              "amount": 6208806.2,
+              "amountFmt": "$6,208,806",
+              "startDate": "2024-10-01",
+              "endDate": "2025-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945025F0205_9700_N6945021D0011_9700"
+            },
+            {
+              "description": "CUSTODIAL CONTRACT N6945021D0011 FY24 NASP & NAS WF FUNDING TASK",
+              "amount": 6046300.36,
+              "amountFmt": "$6,046,300",
+              "startDate": "2023-10-03",
+              "endDate": "2024-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945024F0009_9700_N6945021D0011_9700"
+            },
+            {
+              "description": "OY2 CUSTODIAL CONTRACT FUNDING TASK ORDER FOR PNRC -  POP 10/01/2022 -",
+              "amount": 4499659.69,
+              "amountFmt": "$4,499,660",
+              "startDate": "2022-10-25",
+              "endDate": "2023-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945023F0074_9700_N6945021D0011_9700"
+            }
+          ],
+          "avgValue": 10968459.505714286,
+          "avgValueFmt": "$10,968,460",
+          "totalFmt": "$76,779,217"
+        },
+        {
+          "name": "BREVARD ACHIEVEMENT CENTER, INC.",
+          "totalValue": 45843233.67,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "JOHN F. KENNEDY SPACE CENTER CUSTODIAL SERVICES CONTRACT",
+              "amount": 34948104.63,
+              "amountFmt": "$34,948,105",
+              "startDate": "2018-10-01",
+              "endDate": "2023-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0015_8000_-NONE-_-NONE-"
+            },
+            {
+              "description": "JANITORIAL SERVICES VISTA PO# 675C10086",
+              "amount": 10895129.04,
+              "amountFmt": "$10,895,129",
+              "startDate": "2020-12-01",
+              "endDate": "2026-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24821P0121_3600_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 22921616.835,
+          "avgValueFmt": "$22,921,617",
+          "totalFmt": "$45,843,234"
+        },
+        {
+          "name": "P.K. MANAGEMENT GROUP, INC.",
+          "totalValue": 33790670.09,
+          "contractCount": 3,
+          "contracts": [
+            {
+              "description": "TASK ORDER TO FUND OPTION YEAR ONE (1)  IGF::OT::IGF",
+              "amount": 13928136.93,
+              "amountFmt": "$13,928,137",
+              "startDate": "2013-05-30",
+              "endDate": "2014-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_002_8600_DU204SA12D08_8600"
+            },
+            {
+              "description": "3.6 FIELD SERVICE MANAGEMENT 4-MONTH BASE PERIOD IGF::OT::IGF",
+              "amount": 10250007.59,
+              "amountFmt": "$10,250,008",
+              "startDate": "2015-06-01",
+              "endDate": "2016-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_004_8600_DU204SA12D08_8600"
+            },
+            {
+              "description": "FUNDING FOR OPTION YEAR TWO.   IGF::OT::IGF",
+              "amount": 9612525.57,
+              "amountFmt": "$9,612,526",
+              "startDate": "2014-06-01",
+              "endDate": "2015-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_003_8600_DU204SA12D08_8600"
+            }
+          ],
+          "avgValue": 11263556.696666667,
+          "avgValueFmt": "$11,263,557",
+          "totalFmt": "$33,790,670"
+        },
+        {
+          "name": "HAMHED LLC",
+          "totalValue": 29943731.049999997,
+          "contractCount": 3,
+          "contracts": [
+            {
+              "description": "MIAMI VA JANITORIAL CONTRACT",
+              "amount": 14996561.52,
+              "amountFmt": "$14,996,562",
+              "startDate": "2024-03-30",
+              "endDate": "2026-08-29",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824P1027_3600_-NONE-_-NONE-"
+            },
+            {
+              "description": "JANITORIAL CLEANING CONTRACT",
+              "amount": 10022486.43,
+              "amountFmt": "$10,022,486",
+              "startDate": "2022-09-30",
+              "endDate": "2024-03-29",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822P2087_3600_-NONE-_-NONE-"
+            },
+            {
+              "description": "JANITORIAL SERVICES LAKE NONA",
+              "amount": 4924683.1,
+              "amountFmt": "$4,924,683",
+              "startDate": "2022-09-19",
+              "endDate": "2025-09-01",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822P2172_3600_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 9981243.683333332,
+          "avgValueFmt": "$9,981,244",
+          "totalFmt": "$29,943,731"
+        },
+        {
+          "name": "TRAINING, REHABILITATION, & DEVELOPMENT INSTITUTE, INC.",
+          "totalValue": 7946121.38,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "CUSTODIAL SERVICES",
+              "amount": 7946121.38,
+              "amountFmt": "$7,946,121",
+              "startDate": "2020-05-01",
+              "endDate": "2025-04-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA441720P0022_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 7946121.38,
+          "avgValueFmt": "$7,946,121",
+          "totalFmt": "$7,946,121"
+        },
+        {
+          "name": "MCKENZIE'S CLEANING INC",
+          "totalValue": 7103602.11,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "REQUEST A ONE YEAR BASE WITH A FOUR (4) YEAR OPTION YEARS CONTRACT EFF",
+              "amount": 7103602.11,
+              "amountFmt": "$7,103,602",
+              "startDate": "2018-03-28",
+              "endDate": "2023-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_697DCK18C00163_6920_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 7103602.11,
+          "avgValueFmt": "$7,103,602",
+          "totalFmt": "$7,103,602"
+        },
+        {
+          "name": "MEC-FS JV",
+          "totalValue": 6297094.86,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "US ARMY GARRISON - MIAMI (DORAL)",
+              "amount": 6297094.86,
+              "amountFmt": "$6,297,095",
+              "startDate": "2020-06-28",
+              "endDate": "2025-03-03",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W91QEX20C0005_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 6297094.86,
+          "avgValueFmt": "$6,297,095",
+          "totalFmt": "$6,297,095"
+        },
+        {
+          "name": "SAND SPRINGS DEVELOPMENT CORPORATION",
+          "totalValue": 4939040.0,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "EXTERIOR BLDGS, ROOFTOPS, WINDOWS & PARKING GARAGE CLEANING",
+              "amount": 4939040.0,
+              "amountFmt": "$4,939,040",
+              "startDate": "2022-02-01",
+              "endDate": "2026-12-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822P0456_3600_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 4939040.0,
+          "avgValueFmt": "$4,939,040",
+          "totalFmt": "$4,939,040"
+        }
+      ],
+      "totalContracts": 20,
+      "priceMin": 4372889.58,
+      "priceMax": 34948104.63,
+      "priceMedian": 8804289.53,
+      "priceP25": 6208806.2,
+      "priceP75": 13928136.93,
+      "priceMinFmt": "$4,372,890",
+      "priceMaxFmt": "$34,948,105",
+      "priceMedianFmt": "$8,804,290",
+      "priceP25Fmt": "$6,208,806",
+      "priceP75Fmt": "$13,928,137",
+      "winStrategy": "Para competir: precisa ser abaixo de $8,804,290 (mediana). Alvo agressivo: $7,923,861 (90% da mediana). Menor contrato pago: $4,372,890"
+    },
+    "landscaping": {
+      "groupId": "landscaping",
+      "label": "Landscaping & Corte de Grama",
+      "icon": "🌿",
+      "naicsCodes": [
+        "561730",
+        "561710"
+      ],
+      "totalFound": 0,
+      "topVendors": [
+        {
+          "name": "S. C. JONES SERVICES, INC.",
+          "totalValue": 12616856.77,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "KSC GROUNDS AND PEST CONTROL SERVICES",
+              "amount": 12616856.77,
+              "amountFmt": "$12,616,857",
+              "startDate": "2019-02-01",
+              "endDate": "2024-03-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80KSC019C0020_8000_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 12616856.77,
+          "avgValueFmt": "$12,616,857",
+          "totalFmt": "$12,616,857"
+        },
+        {
+          "name": "PRIDE INDUSTRIES",
+          "totalValue": 7227237.67,
+          "contractCount": 4,
+          "contracts": [
+            {
+              "description": "GROUNDS MAINTENANCE FOR CAPE CANAVERAL SPACE FORCE STATION, FLORIDA",
+              "amount": 1913616.6,
+              "amountFmt": "$1,913,617",
+              "startDate": "2023-10-01",
+              "endDate": "2025-03-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA252124F0031_9700_FA252120D0001_9700"
+            },
+            {
+              "description": "GROUNDS MAINTENANCE",
+              "amount": 1833965.33,
+              "amountFmt": "$1,833,965",
+              "startDate": "2021-10-01",
+              "endDate": "2022-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA252122F0011_9700_FA252120D0001_9700"
+            },
+            {
+              "description": "IGF::OT::IGF GROUNDS MAINTENANCE SERVICES FOR CCAFS",
+              "amount": 1760711.83,
+              "amountFmt": "$1,760,712",
+              "startDate": "2017-06-01",
+              "endDate": "2018-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA252117F0253_9700_FA252114D0003_9700"
+            },
+            {
+              "description": "NON-PERSONAL SERVICES, INCLUDING PERSONNEL, EQUIPMENT, AND SUPERVISION",
+              "amount": 1718943.91,
+              "amountFmt": "$1,718,944",
+              "startDate": "2025-06-01",
+              "endDate": "2026-04-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA252125F0210_9700_FA252125D0004_9700"
+            }
+          ],
+          "avgValue": 1806809.4175,
+          "avgValueFmt": "$1,806,809",
+          "totalFmt": "$7,227,238"
+        },
+        {
+          "name": "VETPRIDE SERVICES, INC.",
+          "totalValue": 5984789.8,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "GROUNDS MAINTENANCE SERVICES FOR HURLBURT FIELD INCLUDING SUPERVISION,",
+              "amount": 4189610.0,
+              "amountFmt": "$4,189,610",
+              "startDate": "2019-11-21",
+              "endDate": "2024-05-13",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA441720P0015_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "THE CONTRACTOR SHALL PROVIDE NON-PERSONAL SERVICES, TO INCLUDE ALL PER",
+              "amount": 1795179.8,
+              "amountFmt": "$1,795,180",
+              "startDate": "2024-05-14",
+              "endDate": "2026-05-13",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA441724P0043_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 2992394.9,
+          "avgValueFmt": "$2,992,395",
+          "totalFmt": "$5,984,790"
+        },
+        {
+          "name": "WORRELL CONTRACTING CO INC",
+          "totalValue": 5293210.64,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "CONTRACTOR SHALL PROVIDE LABOR, EQUIPMENT, MATERIAL, AND TRANSPORTATIO",
+              "amount": 2873008.03,
+              "amountFmt": "$2,873,008",
+              "startDate": "2016-01-06",
+              "endDate": "2023-06-07",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_VA78616C0030_3600_-NONE-_-NONE-"
+            },
+            {
+              "description": "CONTRACTOR SHALL PROVIDE ALL LABOR, EQUIPMENT, MATERIAL AND SUPERVISIO",
+              "amount": 2420202.61,
+              "amountFmt": "$2,420,203",
+              "startDate": "2017-05-30",
+              "endDate": "2021-06-07",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_VA78617C0130_3600_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 2646605.32,
+          "avgValueFmt": "$2,646,605",
+          "totalFmt": "$5,293,211"
+        },
+        {
+          "name": "LEUMAS RESIDENTIAL LLC",
+          "totalValue": 5241358.35,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "GROUNDS MAINTENANCE SERVICES",
+              "amount": 3508266.35,
+              "amountFmt": "$3,508,266",
+              "startDate": "2024-06-01",
+              "endDate": "2026-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA481924F0023_9700_FA481924D0006_9700"
+            },
+            {
+              "description": "GROUNDS MX 6 MONTH BRIDGE",
+              "amount": 1733092.0,
+              "amountFmt": "$1,733,092",
+              "startDate": "2023-07-01",
+              "endDate": "2024-05-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA481923C0016_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 2620679.175,
+          "avgValueFmt": "$2,620,679",
+          "totalFmt": "$5,241,358"
+        },
+        {
+          "name": "CW RESOURCES, INC.",
+          "totalValue": 4974959.640000001,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "INCREMENTAL FUNDING FOR OPTION YEAR ONE - ONE MONTH OF BASH AND NON-BA",
+              "amount": 2533787.04,
+              "amountFmt": "$2,533,787",
+              "startDate": "2025-04-01",
+              "endDate": "2026-03-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945025F0385_9700_N6945024D0012_9700"
+            },
+            {
+              "description": "ABILITY ONE KW GROUNDS FUNDING TASK ORDER FOR BASE PERIOD RECURRING WO",
+              "amount": 2441172.6,
+              "amountFmt": "$2,441,173",
+              "startDate": "2024-04-01",
+              "endDate": "2025-03-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945024F0389_9700_N6945024D0012_9700"
+            }
+          ],
+          "avgValue": 2487479.8200000003,
+          "avgValueFmt": "$2,487,480",
+          "totalFmt": "$4,974,960"
+        },
+        {
+          "name": "MODERNO INC",
+          "totalValue": 4089494.77,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "HEADSTONE MAINTENANCE SERVICES - FLORIDA NATIONAL CEMETERY.",
+              "amount": 4089494.77,
+              "amountFmt": "$4,089,495",
+              "startDate": "2019-10-14",
+              "endDate": "2025-03-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C78620C0192_3600_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 4089494.77,
+          "avgValueFmt": "$4,089,495",
+          "totalFmt": "$4,089,495"
+        },
+        {
+          "name": "MAVAGI ENTERPRISES, INC.",
+          "totalValue": 3538006.71,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "FUND OPTION PERIOD FOUR PERIOD OF PERFORMANCE 01 OCT 2022 - 30 SE",
+              "amount": 1779573.35,
+              "amountFmt": "$1,779,573",
+              "startDate": "2022-10-01",
+              "endDate": "2023-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945023F0063_9700_N6945018D1713_9700"
+            },
+            {
+              "description": "FUND OPTION YEAR THREE POP 01 OCT 2021 - 30 SEP 2022",
+              "amount": 1758433.36,
+              "amountFmt": "$1,758,433",
+              "startDate": "2021-10-01",
+              "endDate": "2022-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945022F0032_9700_N6945018D1713_9700"
+            }
+          ],
+          "avgValue": 1769003.355,
+          "avgValueFmt": "$1,769,003",
+          "totalFmt": "$3,538,007"
+        }
+      ],
+      "totalContracts": 20,
+      "priceMin": 1718943.91,
+      "priceMax": 12616856.77,
+      "priceMedian": 2420202.61,
+      "priceP25": 1779573.35,
+      "priceP75": 3194109.81,
+      "priceMinFmt": "$1,718,944",
+      "priceMaxFmt": "$12,616,857",
+      "priceMedianFmt": "$2,420,203",
+      "priceP25Fmt": "$1,779,573",
+      "priceP75Fmt": "$3,194,110",
+      "winStrategy": "Para competir: precisa ser abaixo de $2,420,203 (mediana). Alvo agressivo: $2,178,182 (90% da mediana). Menor contrato pago: $1,718,944"
+    },
+    "construction_maintenance": {
+      "groupId": "construction_maintenance",
+      "label": "Construcao & Manutencao",
+      "icon": "🔨",
+      "naicsCodes": [
+        "238910",
+        "236220",
+        "236118",
+        "238990"
+      ],
+      "totalFound": 0,
+      "topVendors": [
+        {
+          "name": "HENSEL PHELPS CONSTRUCTION CO",
+          "totalValue": 937529662.59,
+          "contractCount": 4,
+          "contracts": [
+            {
+              "description": "ZONE 1 TYNDALL AFB, FL",
+              "amount": 651410893.32,
+              "amountFmt": "$651,410,893",
+              "startDate": "2022-05-20",
+              "endDate": "2026-07-26",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127822C0008_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "TYNDALL AFB: DESIGN AND CONSTRUCTION OF DORM 1 AND 2 AND OTHER FACILIT",
+              "amount": 136180910.0,
+              "amountFmt": "$136,180,910",
+              "startDate": "2021-11-14",
+              "endDate": "2025-04-09",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912HN22F3001_9700_W912HN21D3002_9700"
+            },
+            {
+              "description": "INTEGRATED CAPABILITIES OFFICE (ICO) HEADQUARTERS",
+              "amount": 79517706.0,
+              "amountFmt": "$79,517,706",
+              "startDate": "2022-07-29",
+              "endDate": "2025-10-03",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127822C0024_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "THE PURPOSE OF THIS CONTRACT IS TO AWARD THE BASE BID FOR SOF AMU & WE",
+              "amount": 70420153.27,
+              "amountFmt": "$70,420,153",
+              "startDate": "2021-02-26",
+              "endDate": "2025-02-24",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127821C0008_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 234382415.6475,
+          "avgValueFmt": "$234,382,416",
+          "totalFmt": "$937,529,663"
+        },
+        {
+          "name": "BL HARBERT INTERNATIONAL LLC",
+          "totalValue": 828764237.94,
+          "contractCount": 6,
+          "contracts": [
+            {
+              "description": "WEG AC MAINTENANCE HANGAR TWO-PHASE DESIGN-BUILD OF ZONE 3 WEG HQ-MAIN",
+              "amount": 270352187.24,
+              "amountFmt": "$270,352,187",
+              "startDate": "2022-07-12",
+              "endDate": "2026-02-16",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127822C0012_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "TYNDALL AIR FORCE BASE ZONE 5 - CE/CONS/USACE COMPLEX AND LRS COMPLEX",
+              "amount": 174999435.39,
+              "amountFmt": "$174,999,435",
+              "startDate": "2022-07-21",
+              "endDate": "2026-01-26",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127822C0023_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "LODGING DESIGN BUILD",
+              "amount": 103442496.01,
+              "amountFmt": "$103,442,496",
+              "startDate": "2021-06-24",
+              "endDate": "2025-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912HN21F3006_9700_W912HN21D3000_9700"
+            },
+            {
+              "description": "CONSTRUCTION OF ZONE 7 F35 MUNITIONS STORAGE FACILITIES, TYNDALL AIR F",
+              "amount": 102369027.0,
+              "amountFmt": "$102,369,027",
+              "startDate": "2023-03-24",
+              "endDate": "2023-03-24",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127823C0006_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "CONSTRUCTION OF THE COMMUNITY COMMONS .",
+              "amount": 101996705.99,
+              "amountFmt": "$101,996,706",
+              "startDate": "2022-08-10",
+              "endDate": "2026-03-04",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912HN22F3002_9700_W912HN21D3000_9700"
+            },
+            {
+              "description": "CONSTRUCTION OF WEG SUBSCALE DRONE FACILITIES",
+              "amount": 75604386.31,
+              "amountFmt": "$75,604,386",
+              "startDate": "2021-12-10",
+              "endDate": "2025-05-27",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127822C0004_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 138127372.99,
+          "avgValueFmt": "$138,127,373",
+          "totalFmt": "$828,764,238"
+        },
+        {
+          "name": "WALSH FEDERAL LLC",
+          "totalValue": 303423165.0,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "DESIGN BID BUILD FIRM-FIXED PRICE AWARD FEE CONSTRUCTION CONTRACT. P10",
+              "amount": 165770097.0,
+              "amountFmt": "$165,770,097",
+              "startDate": "2025-11-18",
+              "endDate": "2028-01-18",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945026C0010_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "PRECONSTRUCTION SERVICES",
+              "amount": 137653068.0,
+              "amountFmt": "$137,653,068",
+              "startDate": "2022-05-13",
+              "endDate": "2028-04-19",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945022C0027_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 151711582.5,
+          "avgValueFmt": "$151,711,582",
+          "totalFmt": "$303,423,165"
+        },
+        {
+          "name": "BRASFIELD & GORRIE LLC",
+          "totalValue": 212588735.23,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "DESIGN-BUILD CONSTRUCTION SERVICES FOR A NEW U. S. FEDERAL BUILDING LO",
+              "amount": 212588735.23,
+              "amountFmt": "$212,588,735",
+              "startDate": "2023-01-31",
+              "endDate": "2026-11-28",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47PE0323C0004_4740_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 212588735.23,
+          "avgValueFmt": "$212,588,735",
+          "totalFmt": "$212,588,735"
+        },
+        {
+          "name": "TURNER CONSTRUCTION COMPANY",
+          "totalValue": 168264457.55,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "CONSTRUCT JAHVH NEW BED TOWER",
+              "amount": 168264457.55,
+              "amountFmt": "$168,264,458",
+              "startDate": "2018-01-30",
+              "endDate": "2025-06-27",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127818C0009_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 168264457.55,
+          "avgValueFmt": "$168,264,458",
+          "totalFmt": "$168,264,458"
+        },
+        {
+          "name": "ENVIRONMENTAL CHEMICAL CORPORATION",
+          "totalValue": 104622453.46,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "BASE BID - HURRICANE SALLY PACKAGE 6",
+              "amount": 104622453.46,
+              "amountFmt": "$104,622,453",
+              "startDate": "2022-03-28",
+              "endDate": "2026-03-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945022F0358_9700_N6247019D8025_9700"
+            }
+          ],
+          "avgValue": 104622453.46,
+          "avgValueFmt": "$104,622,453",
+          "totalFmt": "$104,622,453"
+        },
+        {
+          "name": "RQ-AECOM 2 JV",
+          "totalValue": 86335155.54,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "REBUILD SECTOR/STATION KEY WEST",
+              "amount": 86335155.54,
+              "amountFmt": "$86,335,156",
+              "startDate": "2021-07-06",
+              "endDate": "2027-09-30",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70Z04721FKWDSCN00_7008_70Z04718DRQAECM00_7008"
+            }
+          ],
+          "avgValue": 86335155.54,
+          "avgValueFmt": "$86,335,156",
+          "totalFmt": "$86,335,156"
+        },
+        {
+          "name": "ESA SOUTH, INC.",
+          "totalValue": 80529494.18,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "BILOXI BUILDING 1 RENOVATION",
+              "amount": 80529494.18,
+              "amountFmt": "$80,529,494",
+              "startDate": "2025-01-07",
+              "endDate": "2027-11-10",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C10F25C50000_3600_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 80529494.18,
+          "avgValueFmt": "$80,529,494",
+          "totalFmt": "$80,529,494"
+        }
+      ],
+      "totalContracts": 20,
+      "priceMin": 68053984.0,
+      "priceMax": 651410893.32,
+      "priceMedian": 103442496.01,
+      "priceP25": 79517706.0,
+      "priceP75": 168264457.55,
+      "priceMinFmt": "$68,053,984",
+      "priceMaxFmt": "$651,410,893",
+      "priceMedianFmt": "$103,442,496",
+      "priceP25Fmt": "$79,517,706",
+      "priceP75Fmt": "$168,264,458",
+      "winStrategy": "Para competir: precisa ser abaixo de $103,442,496 (mediana). Alvo agressivo: $93,098,246 (90% da mediana). Menor contrato pago: $68,053,984"
+    },
+    "artificial_turf": {
+      "groupId": "artificial_turf",
+      "label": "Grama Sintetica & Campos Esportivos",
+      "icon": "⚽",
+      "naicsCodes": [
+        "237990",
+        "238990",
+        "561730"
+      ],
+      "totalFound": 0,
+      "topVendors": [
+        {
+          "name": "THALLE CONSTRUCTION CO INC",
+          "totalValue": 2560907623.0,
+          "contractCount": 2,
+          "contracts": [
+            {
+              "description": "CENTRAL EVERGLADES PLANNING PROJECT (CEPP) CONTRACT 11B, EVERGLADES AG",
+              "amount": 2510597705.68,
+              "amountFmt": "$2,510,597,706",
+              "startDate": "2024-09-27",
+              "endDate": "2034-12-02",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP24C0018_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "HERBERT HOOVER DIKE: REHABILITATION STRUCTURE REPLACEMENTS S-273 (CULV",
+              "amount": 50309917.32,
+              "amountFmt": "$50,309,917",
+              "startDate": "2013-09-13",
+              "endDate": "2021-04-15",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP13C0027_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 1280453811.5,
+          "avgValueFmt": "$1,280,453,812",
+          "totalFmt": "$2,560,907,623"
+        },
+        {
+          "name": "FORGEN-ODIN JV",
+          "totalValue": 768149589.03,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "CENTRAL EVERGLADES PLANNING PROJECT (CEPP) CONTRACT 11A, EVERGLADES AG",
+              "amount": 768149589.03,
+              "amountFmt": "$768,149,589",
+              "startDate": "2022-09-30",
+              "endDate": "2028-03-15",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP22C0017_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 768149589.03,
+          "avgValueFmt": "$768,149,589",
+          "totalFmt": "$768,149,589"
+        },
+        {
+          "name": "GREAT LAKES DREDGE & DOCK CO, LLC",
+          "totalValue": 372911707.55,
+          "contractCount": 3,
+          "contracts": [
+            {
+              "description": "JACKSONVILLE HARBOR CONSTRUCTION DREDGING CONTRACT B IGF::CT::IGF",
+              "amount": 193505218.25,
+              "amountFmt": "$193,505,218",
+              "startDate": "2018-09-27",
+              "endDate": "2021-05-12",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP18C0021_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "JACKSONVILLE HARBOR CONSTRUCTION DREDGING, 47-FOOT PROJECT CONTRACT C ",
+              "amount": 118170969.82,
+              "amountFmt": "$118,170,970",
+              "startDate": "2020-10-15",
+              "endDate": "2022-10-16",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP20C0010_9700_-NONE-_-NONE-"
+            },
+            {
+              "description": "REHABILITATION EFFORT FOR THE PANAMA CITY BEACHES COASTAL STORM RISK M",
+              "amount": 61235519.48,
+              "amountFmt": "$61,235,519",
+              "startDate": "2021-02-12",
+              "endDate": "2023-12-31",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127821C0007_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 124303902.51666667,
+          "avgValueFmt": "$124,303,903",
+          "totalFmt": "$372,911,708"
+        },
+        {
+          "name": "THE LANE CONSTRUCTION CORPORATION",
+          "totalValue": 363055352.08,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "TYNDALL AIR FORCE BASE SITE DEVELOPMENT AND INFRASTRUCTURE PHASE I & I",
+              "amount": 363055352.08,
+              "amountFmt": "$363,055,352",
+              "startDate": "2022-05-02",
+              "endDate": "2026-06-25",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W9127822C0017_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 363055352.08,
+          "avgValueFmt": "$363,055,352",
+          "totalFmt": "$363,055,352"
+        },
+        {
+          "name": "BARNARD CONSTRUCTION COMPANY, INCORPORATED",
+          "totalValue": 227984960.57,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "C-44 RESERVOIR/STA PROJECT, CONTRACT NO. 2, MARTIN COUNTY, FLORIDA IGF",
+              "amount": 227984960.57,
+              "amountFmt": "$227,984,961",
+              "startDate": "2015-09-11",
+              "endDate": "2021-11-19",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP15C0021_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 227984960.57,
+          "avgValueFmt": "$227,984,961",
+          "totalFmt": "$227,984,961"
+        },
+        {
+          "name": "KIEWIT INFRASTRUCTURE CO.",
+          "totalValue": 195620932.5,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "COMPREHENSIVE EVERGLADES RESTORATION PLAN, INDIAN RIVER LAGOON SOUTH, ",
+              "amount": 195620932.5,
+              "amountFmt": "$195,620,932",
+              "startDate": "2024-10-15",
+              "endDate": "2028-05-10",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP24C0021_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 195620932.5,
+          "avgValueFmt": "$195,620,932",
+          "totalFmt": "$195,620,932"
+        },
+        {
+          "name": "BAUER FOUNDATION CORP",
+          "totalValue": 174644907.47,
+          "contractCount": 3,
+          "contracts": [
+            {
+              "description": "HHD MATOC CUTOFF WALL CONSTRUCTION",
+              "amount": 72544393.88,
+              "amountFmt": "$72,544,394",
+              "startDate": "2019-04-22",
+              "endDate": "2023-10-16",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP19F0119_9700_W912EP19D0012_9700"
+            },
+            {
+              "description": "HHD TO 0005",
+              "amount": 51559155.83,
+              "amountFmt": "$51,559,156",
+              "startDate": "2020-04-17",
+              "endDate": "2023-08-06",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP20F0137_9700_W912EP19D0012_9700"
+            },
+            {
+              "description": "CONVENTIONAL CUTOFF WALL",
+              "amount": 50541357.76,
+              "amountFmt": "$50,541,358",
+              "startDate": "2019-09-09",
+              "endDate": "2023-04-04",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP19F0239_9700_W912EP19D0012_9700"
+            }
+          ],
+          "avgValue": 58214969.156666666,
+          "avgValueFmt": "$58,214,969",
+          "totalFmt": "$174,644,907"
+        },
+        {
+          "name": "KIEWIT INFRASTRUCTURE SOUTH CO",
+          "totalValue": 156352699.12,
+          "contractCount": 1,
+          "contracts": [
+            {
+              "description": "COMPREHENSIVE EVERGLADES RESTORATION PLAN, INDIAN RIVER LAGOON - SOUTH",
+              "amount": 156352699.12,
+              "amountFmt": "$156,352,699",
+              "startDate": "2021-10-15",
+              "endDate": "2026-05-27",
+              "agency": "",
+              "county": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_W912EP21C0023_9700_-NONE-_-NONE-"
+            }
+          ],
+          "avgValue": 156352699.12,
+          "avgValueFmt": "$156,352,699",
+          "totalFmt": "$156,352,699"
+        }
+      ],
+      "totalContracts": 20,
+      "priceMin": 48176861.4,
+      "priceMax": 2510597705.68,
+      "priceMedian": 72544393.88,
+      "priceP25": 55328989.8,
+      "priceP75": 195620932.5,
+      "priceMinFmt": "$48,176,861",
+      "priceMaxFmt": "$2,510,597,706",
+      "priceMedianFmt": "$72,544,394",
+      "priceP25Fmt": "$55,328,990",
+      "priceP75Fmt": "$195,620,932",
+      "winStrategy": "Para competir: precisa ser abaixo de $72,544,394 (mediana). Alvo agressivo: $65,289,954 (90% da mediana). Menor contrato pago: $48,176,861"
+    }
+  },
+  "naicsIndex": {
+    "561720": "cleaning",
+    "561740": "cleaning",
+    "561790": "cleaning",
+    "561710": "cleaning",
+    "561730": "landscaping",
+    "238910": "construction_maintenance",
+    "236220": "construction_maintenance",
+    "236118": "construction_maintenance",
+    "238990": "construction_maintenance",
+    "237990": "artificial_turf"
+  }
+}
