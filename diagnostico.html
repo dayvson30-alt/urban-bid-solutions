@@ -514,7 +514,8 @@ select option { background: #111; }
 }
 .sobre-foto img {
   width: 100%; height: 100%; object-fit: cover;
-  display: none; /* shown when src is set */
+  border-radius: 20px;
+  display: block;
 }
 .foto-badge {
   position: absolute; bottom: -14px; right: -14px;
@@ -1113,11 +1114,7 @@ select option { background: #111; }
 
       <div class="sobre-foto-wrap" id="fotoWrap">
         <div class="sobre-foto" id="fotoBox">
-          <!-- substituir pelo código abaixo quando tiver a foto:
-               <img src="foto.jpg" alt="Especialista Urban Bid Solutions" style="display:block">
-               remover o placeholder abaixo -->
-          <span class="placeholder-icon">👩‍💼</span>
-          <span>Foto em breve</span>
+          <img src="foto-especialista.jpg" alt="Elisabete Rodrigues — Especialista em Licitações">
         </div>
         <div class="foto-badge">
           <strong>R$2M → R$50M</strong>
