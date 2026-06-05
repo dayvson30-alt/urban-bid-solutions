@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T08:37:54",
+  "lastUpdated": "2026-06-05T08:39:25",
   "source": "Polk County",
   "bids": [
     {
@@ -16,9 +16,9 @@
       "openDate": "2025",
       "deadline": "Ver edital PDF",
       "valor_estimado": null,
-      "escopo": "Fornecimento e instalacao de campos de grama sintetica no Hunt Fountain Park",
+      "escopo": "Fornecimento e instalacao de campos de grama sintetica no Hunt Fountain Park. Inclui: remocao de arvores, preparacao do terreno, instalacao do turf sintetico, curbing de concreto e fencing. Referencia exigida: projetos similares de turf artificial.",
       "dropship_viavel": true,
-      "subcontratacao_permitida": null,
+      "subcontratacao_permitida": true,
       "complexidade": "medium",
       "risco_juridico": "low",
       "risco_financeiro": "medium",
@@ -26,8 +26,8 @@
       "risco_compliance": "low",
       "veredito": "go",
       "fit_score": 72,
-      "veredito_reason": "ITB para fornecimento de grama sintetica - mesmo modelo do tatame no Brasil. Produto sourceable + instalacao subcontratavel.",
-      "nextStep": "1. Baixar edital completo. 2. Cotar grama com FieldTurf/Shaw Sports Turf. 3. Cotar instalacao com subcontratada local. 4. Calcular margem minima 20%.",
+      "veredito_reason": "ITB para fornecimento e instalacao de grama sintetica - modelo tatame. Bid OPEN com 3 addendums. Subcontratacao permitida. Deadline a confirmar com Brad Howard.",
+      "nextStep": "1. Contatar Brad Howard (procurement@polk-county.net) para confirmar deadline e obter bid package original. 2. Cotar grama sintetica com FieldTurf/Shaw. 3. Cotar instalacao com subcontratada local.",
       "sourcing": {
         "category": "Grama sintetica para campos esportivos",
         "where": [
@@ -48,9 +48,10 @@
         "eVerify": true
       },
       "contact": {
-        "name": "Polk County Procurement",
+        "name": "Brad Howard",
         "email": "procurement@polk-county.net",
-        "phone": "(863) 534-7593"
+        "phone": "(863) 534-7593",
+        "role": "Sr. Procurement Analyst"
       },
       "documents": [
         {
@@ -64,9 +65,14 @@
       "pdf_analysis": {
         "status_bid": "open",
         "vencedor": "",
-        "instrucoes_submissao": "Submittal Form.",
-        "extracted_at": "2026-06-05T08:37:42",
-        "method": "regex"
+        "method": "regex",
+        "extracted_at": "2026-06-05T08:39:25",
+        "instrucoes_submissao": "Submeter bid package assinado com addendums reconhecidos. Ver FTP site para documentos revisados.",
+        "observacoes": "3 addendums emitidos (Set 2025). Exige referencias de projetos similares de turf artificial. Contato: Brad Howard - Procurement Division.",
+        "ambiguidades": [
+          "Deadline nao encontrada nos addendums - confirmar com Brad Howard",
+          "Exige referencia de projetos similares - Urban Clean nao tem ainda"
+        ]
       }
     },
     {
@@ -83,9 +89,9 @@
       "openDate": "2025",
       "deadline": "Ver edital PDF",
       "valor_estimado": null,
-      "escopo": "Fornecimento e instalacao de campos de grama sintetica no Poinciana Park",
+      "escopo": "Fornecimento e instalacao de campos de grama sintetica no Poinciana Park. Inclui: preparacao do terreno, instalacao do turf, curbing, fencing e goal posts. Documentos revisados disponíveis via FTP: ftp3.polk-county.net (user: procurevendor / pass: solicitation).",
       "dropship_viavel": true,
-      "subcontratacao_permitida": null,
+      "subcontratacao_permitida": true,
       "complexidade": "medium",
       "risco_juridico": "low",
       "risco_financeiro": "medium",
@@ -93,8 +99,8 @@
       "risco_compliance": "low",
       "veredito": "go",
       "fit_score": 72,
-      "veredito_reason": "ITB identico ao 25-635 - mesmo produto, parque diferente. Submeter para ambos simultaneamente.",
-      "nextStep": "Submeter junto com Bid 25-635. Mesmo sourcing, mesma margem. Custo de entrada dividido.",
+      "veredito_reason": "ITB identico ao 25-635 - mesma oportunidade, parque diferente. OPEN. Documentos completos no FTP. Submeter junto com 25-635 para dividir custo de entrada.",
+      "nextStep": "1. Baixar documentos completos: ftp3.polk-county.net (user: procurevendor / pass: solicitation). 2. Confirmar deadline com Brad Howard. 3. Submeter junto com Bid 25-635.",
       "sourcing": {
         "category": "Grama sintetica para campos",
         "where": [
@@ -114,9 +120,10 @@
         "eVerify": true
       },
       "contact": {
-        "name": "Polk County Procurement",
+        "name": "Brad Howard",
         "email": "procurement@polk-county.net",
-        "phone": "(863) 534-7593"
+        "phone": "(863) 534-7593",
+        "role": "Sr. Procurement Analyst"
       },
       "documents": [
         {
@@ -130,9 +137,14 @@
       "pdf_analysis": {
         "status_bid": "open",
         "vencedor": "",
-        "instrucoes_submissao": "Submittal Form.",
-        "extracted_at": "2026-06-05T08:37:44",
-        "method": "regex"
+        "method": "regex",
+        "extracted_at": "2026-06-05T08:39:25",
+        "instrucoes_submissao": "Baixar documentos revisados via FTP: ftp3.polk-county.net | user: procurevendor | pass: solicitation",
+        "observacoes": "3 addendums emitidos (Out 2025). FTP disponível com documentos completos e revisados.",
+        "ambiguidades": [
+          "Deadline nao encontrada - confirmar com Brad Howard",
+          "FTP site tem documentos revisados completos - baixar antes de cotar"
+        ]
       }
     },
     {
@@ -269,7 +281,7 @@
       "nicho": "construction",
       "model": "service",
       "openDate": "2026",
-      "deadline": "April 15, 2026, At 4:00 P.M. If No",
+      "deadline": "April 15, 2026 at 4:00 PM",
       "valor_estimado": null,
       "escopo": "Instalacao, substituicao e reparo de cercas para o condado",
       "dropship_viavel": false,
@@ -279,10 +291,10 @@
       "risco_financeiro": "low",
       "risco_operacional": "medium",
       "risco_compliance": "low",
-      "veredito": "watch",
-      "fit_score": 35,
-      "veredito_reason": "Servico simples - fence contractors abundantes em FL. Verificar subcontratacao.",
-      "nextStep": "Baixar edital. Se subcontratacao permitida -> cotar com fence contractors locais e entrar como prime.",
+      "veredito": "skip",
+      "fit_score": 0,
+      "veredito_reason": "ENCERRADO - Deadline foi April 15, 2026 - ja vencido.",
+      "nextStep": "Descartado. Prazo expirado em Apr 15, 2026.",
       "sourcing": {
         "category": "Instalacao de cercas",
         "where": [
@@ -346,8 +358,8 @@
       "risco_compliance": "low",
       "veredito": "skip",
       "fit_score": 0,
-      "veredito_reason": "ENCERRADO - Adjudicado: ver edital",
-      "nextStep": "Bid ja encerrado. Acompanhar proximo ciclo.",
+      "veredito_reason": "ENCERRADO - Motor Repair Services ja adjudicado. Ver proximo ciclo de licitacao.",
+      "nextStep": "Descartado. Monitorar novo ciclo.",
       "sourcing": {
         "category": "Reparo de motores",
         "where": [
@@ -410,8 +422,8 @@
       "risco_compliance": "low",
       "veredito": "skip",
       "fit_score": 0,
-      "veredito_reason": "ENCERRADO - Adjudicado: Empire Pipe & Supply Company",
-      "nextStep": "Bid ja encerrado. Acompanhar proximo ciclo.",
+      "veredito_reason": "ENCERRADO - Water Meters adjudicado para Empire Pipe & Supply Company.",
+      "nextStep": "Descartado. Vencedor: Empire Pipe & Supply Company.",
       "sourcing": {
         "category": "Medidores de agua inteligentes",
         "where": [
@@ -2172,8 +2184,8 @@
   ],
   "summary": {
     "go": 2,
-    "watch": 5,
+    "watch": 2,
     "wait": 8,
-    "skip": 23
+    "skip": 26
   }
 }
