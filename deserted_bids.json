@@ -1,27 +1,8 @@
 {
-  "lastUpdated": "2026-06-05T13:04:10.142050",
-  "source": "USASpending.gov + Polk County",
-  "note": "Contratos encerrados/cancelados ou com valores anômalos em FL. Indicam oportunidades de re-licitacao com baixa concorrencia.",
-  "howToUse": "Contate o procurement officer ANTES da reabertura. Demonstre interesse. Voce pode ser o unico interessado.",
-  "totalFound": 1,
-  "bids": [
-    {
-      "id": "polk-bid-24-610-lowbid",
-      "source": "Polk County (analysis)",
-      "title": "Janitorial Services - Group A, B & C",
-      "bidNum": "Bid 24-610",
-      "agency": "Polk County",
-      "naics": "561720",
-      "nicho": "cleaning",
-      "amount": 0,
-      "amountFmt": "Em aberto",
-      "startDate": "2026-06-03",
-      "endDate": "",
-      "reason": "Bid ativo — verificar se atrai propostas suficientes. Servico de limpeza predial com historico de poucos participantes.",
-      "strategicValue": "MEDIA",
-      "recommendedAction": "Baixar edital e verificar requisitos. Se permitir subcontratacao, entrar como prime contractor.",
-      "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
-      "solicitationNumber": "Bid 24-610"
-    }
-  ]
+  "lastUpdated": "2026-06-05T13:05:08.076149",
+  "source": "USASpending.gov + SAM.gov (em breve)",
+  "note": "Oportunidades de re-licitacao: contratos expirando + bids sem proposta em FL.",
+  "howToUse": "Contrate o procurement officer ANTES da reabertura. Demonstre interesse. Voce pode ser o unico interessado.",
+  "totalFound": 0,
+  "bids": []
 }
