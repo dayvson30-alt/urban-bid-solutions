@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-06-04T20:00:00",
+  "companies": [
+    {
+      "id": "urban-clean-001",
+      "nome": "Urban Clean & Repair Corp",
+      "ein": "39-2914964",
+      "fundada": "2025-06-20",
+      "anos_operacao": 0,
+      "ativa": true,
+      "contatos": {
+        "tel": "+1 407-375-5223",
+        "email": "urbancleanrepair@gmail.com",
+        "cidade": "Davenport",
+        "estado": "FL",
+        "cep": "33837"
+      },
+      "geografico": {
+        "estados": ["FL"],
+        "condados": ["Polk", "Osceola", "Orange", "Seminole", "Hillsborough", "Lake", "Hardee"],
+        "raio_max_miles": 100
+      },
+      "licencas": [],
+      "seguros": {
+        "gl_1m": null,
+        "gl_2m": null,
+        "workers_comp": false,
+        "auto": false,
+        "notas": "Pendente confirmar apólices ativas"
+      },
+      "bond": {
+        "tem": false,
+        "capacidade_max": 0,
+        "surety": null
+      },
+      "capacidade": {
+        "dropship": true,
+        "warehouse": false,
+        "equipe_propria": false,
+        "subcontratados": false,
+        "contrato_min": null,
+        "contrato_max": null,
+        "complexidade_max": "low",
+        "nota": "Empresa nova — capacidade a ser definida conforme primeiros contratos"
+      },
+      "servicos": [],
+      "produtos": [
+        "general cleaning supplies",
+        "safety products",
+        "janitorial supplies"
+      ],
+      "fornecedores": [
+        "Amazon Business",
+        "Grainger",
+        "HD Supply"
+      ],
+      "cadastros": {
+        "mfmp": { "ativo": true, "vendor_num": "F392914964001", "nigp_codes": [] },
+        "samgov": { "ativo": false, "status": "Pending EVS", "ref": "INC-GSAFSD20809871", "uei": null },
+        "osceola_vendorlink": { "ativo": true, "nigp_codes": 32 },
+        "demandstar": { "ativo": true, "agencia_free": "School District of Osceola County" }
+      },
+      "historico_contratos": [],
+      "pontos_fortes": [
+        "MFMP ativo — aceita POs do estado FL agora",
+        "Modelo drop-ship — zero estoque antecipado",
+        "Osceola VendorLink cadastrado",
+        "Experiência com processo licitatório (tatame, BR)",
+        "Flexibilidade de nicho (supply, services, mixed)"
+      ],
+      "pontos_fracos": [
+        "Menos de 1 ano em operação (fundada jun/2025)",
+        "Sem histórico de contratos EUA",
+        "SAM.gov pendente EVS — bloqueia federal",
+        "Seguro GL não confirmado",
+        "Sem bond — bloqueia obras públicas",
+        "Sem equipe própria para serviços",
+        "Sem fornecedores homologados formalmente"
+      ],
+      "scoring_overrides": {
+        "cs_contracts": 0,
+        "rfp_contracts": 15,
+        "itb_product": 75,
+        "itb_service": 30,
+        "federal_bids": 10
+      }
+    }
+  ]
+}
