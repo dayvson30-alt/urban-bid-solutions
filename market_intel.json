@@ -1,0 +1,2131 @@
+{
+  "lastUpdated": "2026-06-05T12:31:12.523919",
+  "source": "USASpending.gov",
+  "state": "FL",
+  "note": "Contratos federais realmente PAGOS em FL. Fonte: USASpending.gov (dados publicos).",
+  "periods": {
+    "90days": {
+      "label": "Ultimos 90 dias",
+      "dateFrom": "2026-03-07",
+      "dateTo": "2026-06-05",
+      "totalContracts": 100,
+      "totalShown": 100,
+      "sectors": [
+        {
+          "sector": "54",
+          "sectorDesc": "Servicos Profissionais & Tecnicos",
+          "count": 45,
+          "totalValue": 8205243723.85,
+          "naicsCodes": {
+            "541512": 12,
+            "541330": 16,
+            "541712": 2,
+            "541511": 4,
+            "541380": 1,
+            "541820": 1,
+            "541715": 3,
+            "541614": 1,
+            "541990": 1,
+            "541350": 1,
+            "541611": 2,
+            "541310": 1
+          },
+          "samples": [
+            {
+              "title": "THE PURPOSE OF THIS CONTRACT IS TO DEVELOP THE GROUND SYSTEM THAT WILL SUPPORT N",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+              "amount": 1826088581.86,
+              "agency": "N/A",
+              "startDate": "2009-05-27",
+              "endDate": "2024-01-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DOCDG133E09CN0094_1330_-NONE-_-NONE-"
+            },
+            {
+              "title": "OPERATIONAL PLANNING IMPLEMENTATION AND ASSESSMENT SERVICES (OPIAS) BASE AWARD.",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "PERATON INC.",
+              "amount": 837885761.59,
+              "agency": "N/A",
+              "startDate": "2021-07-06",
+              "endDate": "2027-01-05",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA21F0058_4732_GS00Q14OADU117_4732"
+            },
+            {
+              "title": "SITEC 3 EOM PROVIDES USSOCOM WITH O&M SERVICES TO MAINTAIN NETOPS, MAINTAIN SYST",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "PERATON INC.",
+              "amount": 700348130.0,
+              "agency": "N/A",
+              "startDate": "2023-10-31",
+              "endDate": "2027-05-16",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA24F0002_4732_47QTCK18D0011_4732"
+            },
+            {
+              "title": "WARFIGHTER TRAINING READINESS SOLUTIONS W-TRS",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "VERTEX AEROSPACE LLC",
+              "amount": 510477654.0,
+              "agency": "N/A",
+              "startDate": "2024-08-29",
+              "endDate": "2026-08-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA24F0033_4732_47QFCA22D0344_4732"
+            },
+            {
+              "title": "TASK ORDER AWARD",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "APPLIED RESEARCH ASSOCIATES, INC.",
+              "amount": 411059347.07,
+              "agency": "N/A",
+              "startDate": "2020-09-29",
+              "endDate": "2026-03-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA20F0022_4732_GS00Q14OADU304_4732"
+            },
+            {
+              "title": "THE SCOPE OF THIS REQUIREMENT INCLUDES PROGRAM MANAGEMENT SERVICES, TRANSITION S",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+              "amount": 396604521.78,
+              "agency": "N/A",
+              "startDate": "2020-09-25",
+              "endDate": "2025-10-24",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA20F0049_4732_47QTCK18D0003_4732"
+            },
+            {
+              "title": "THE PURPOSE OF THIS IS TO INCREMENTALLY FUND AND AWARD THE CITS TASK ORDER.",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+              "amount": 308629991.0,
+              "agency": "N/A",
+              "startDate": "2024-02-05",
+              "endDate": "2027-02-04",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA24F0009_4732_47QTCK18D0003_4732"
+            },
+            {
+              "title": "IGF::OT::IGF TASK ORDER AWARD FOR WSP REQUIREMENT",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+              "amount": 296765041.68,
+              "agency": "N/A",
+              "startDate": "2018-12-18",
+              "endDate": "2024-06-17",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA19F0035_4732_GS00Q14OADU116_4732"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$8,205,243,724",
+          "naicsTop": [
+            [
+              "541330",
+              16
+            ],
+            [
+              "541512",
+              12
+            ],
+            [
+              "541511",
+              4
+            ],
+            [
+              "541715",
+              3
+            ],
+            [
+              "541712",
+              2
+            ]
+          ]
+        },
+        {
+          "sector": "33",
+          "sectorDesc": "Metais, Maquinas, Eletronicos",
+          "count": 6,
+          "totalValue": 3666836465.5800004,
+          "naicsCodes": {
+            "336414": 1,
+            "334220": 2,
+            "336611": 2,
+            "339113": 1
+          },
+          "samples": [
+            {
+              "title": "IGF::OT::IGF THE COMMERCIAL CREW PROGRAM (CCP) COMMERCIAL CREW TRANSPORTATION CA",
+              "naics": "336414",
+              "naicsDesc": "GUIDED MISSILE AND SPACE VEHICLE MANUFACTURING",
+              "recipient": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+              "amount": 3029850123.69,
+              "agency": "N/A",
+              "startDate": "2016-12-30",
+              "endDate": "2030-12-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_NNK17MA01T_8000_NNK14MA74C_8000"
+            },
+            {
+              "title": "VOICE SWITCHING AND CONTROL SYSTEMS (VSCS)",
+              "naics": "334220",
+              "naicsDesc": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING",
+              "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+              "amount": 331889319.29,
+              "agency": "N/A",
+              "startDate": "2007-02-24",
+              "endDate": "2032-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFAWA07C00014CALL0001_6920_DTFAWA07C00014_6920"
+            },
+            {
+              "title": "NATIONAL VESSEL MAINTENANCE AND LOGISTICS SUPPORT SERVICES",
+              "naics": "336611",
+              "naicsDesc": "SHIP BUILDING AND REPAIRING",
+              "recipient": "GLOBAL MARITEK SYSTEMS INC",
+              "amount": 193354420.11,
+              "agency": "N/A",
+              "startDate": "2021-04-01",
+              "endDate": "2027-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70B02C21C00000017_7014_-NONE-_-NONE-"
+            },
+            {
+              "title": "POSITIVE AIRWAY PRESSURE DEVICES 90 DAY DELIVERY.",
+              "naics": "339113",
+              "naicsDesc": "SURGICAL APPLIANCE AND SUPPLIES MANUFACTURING",
+              "recipient": "FIRST NATION GROUP LLC",
+              "amount": 44587943.3,
+              "agency": "N/A",
+              "startDate": "2026-02-14",
+              "endDate": "2026-05-14",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C79126N0016_3600_36C79121D0007_3600"
+            },
+            {
+              "title": "L3 SOLE SOURCE IDIQ TO3 USSOCOM SATELLITE COMMUNICATIONS",
+              "naics": "334220",
+              "naicsDesc": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING",
+              "recipient": "L3 TECHNOLOGIES, INC.",
+              "amount": 38959902.29,
+              "agency": "N/A",
+              "startDate": "2020-09-21",
+              "endDate": "2026-08-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFLA20F0281_4732_47QFLA20D0014_4732"
+            },
+            {
+              "title": "(A)THIS TASK ORDER PROVIDES THE INITIAL FUND FOR THE PURCHASE AND INSTALLATION O",
+              "naics": "336611",
+              "naicsDesc": "SHIP BUILDING AND REPAIRING",
+              "recipient": "TOTE SERVICES, LLC",
+              "amount": 28194756.9,
+              "agency": "N/A",
+              "startDate": "2021-03-17",
+              "endDate": "2029-05-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_693JF721F000018_6938_693JF719D000002_6938"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$3,666,836,466",
+          "naicsTop": [
+            [
+              "334220",
+              2
+            ],
+            [
+              "336611",
+              2
+            ],
+            [
+              "336414",
+              1
+            ],
+            [
+              "339113",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "51",
+          "sectorDesc": "Tecnologia & Comunicacao",
+          "count": 8,
+          "totalValue": 3331593070.2099996,
+          "naicsCodes": {
+            "517310": 8
+          },
+          "samples": [
+            {
+              "title": "DAFIS UDO RECONSTRUCT W/O ADVANCE",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 1558742368.63,
+              "agency": "N/A",
+              "startDate": "2008-07-25",
+              "endDate": "2025-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0001_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "DAFIS UDO RECONSTRUCT W/O ADVANCE",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 652892384.77,
+              "agency": "N/A",
+              "startDate": "2008-07-25",
+              "endDate": "2025-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0002_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "DAFIS UDO RECONSTRUCT W/O ADVANCE",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 575541057.13,
+              "agency": "N/A",
+              "startDate": "2005-02-01",
+              "endDate": "2025-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0010_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "THE PURPOSE OF THIS DELIVERY ORDER AWARD IS TO ADD FUNDING FOR FTI TELECOMMUNICA",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 184919957.64,
+              "agency": "N/A",
+              "startDate": "2012-07-06",
+              "endDate": "2025-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0018_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "FUNDING FOR MISSION SUPPORT FTI REMOTE ACCESS CAPABILITY (FRAC).  DTFA01-02-D-03",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 102399337.71,
+              "agency": "N/A",
+              "startDate": "2006-12-05",
+              "endDate": "2025-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0011_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "THE PURPOSE OF THIS DELIVERY ORDER AWARD IS TO ADD FUNDING FOR FTI TELECOMMUNICA",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 101984979.68,
+              "agency": "N/A",
+              "startDate": "2012-07-06",
+              "endDate": "2026-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0017_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "SUMMARIZED LEGACY LINES FROM ACQUIRE",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 97530625.7,
+              "agency": "N/A",
+              "startDate": "2008-06-13",
+              "endDate": "2023-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0006_6920_DTFA0102D03006_6920"
+            },
+            {
+              "title": "CLIN: 5001MW, FTI-MW SUPPORT SERVICES, FIXED PRICE.  TASK ORDER: N/A.  ADD FUNDI",
+              "naics": "517310",
+              "naicsDesc": "TELECOMMUNICATIONS RESELLERS",
+              "recipient": "HARRIS CORPORATION",
+              "amount": 57582358.95,
+              "agency": "N/A",
+              "startDate": "2007-06-19",
+              "endDate": "2025-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_DTFA0102D03006CALL0012_6920_DTFA0102D03006_6920"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$3,331,593,070",
+          "naicsTop": [
+            [
+              "517310",
+              8
+            ]
+          ]
+        },
+        {
+          "sector": "56",
+          "sectorDesc": "Servicos Administrativos & Limpeza",
+          "count": 15,
+          "totalValue": 1355103031.3500001,
+          "naicsCodes": {
+            "561210": 7,
+            "561612": 7,
+            "561320": 1
+          },
+          "samples": [
+            {
+              "title": "BASE OPERATIONS AND SPACEPORT SERVICES (BOSS) CONTRACT",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "AMENTUM SPACEPORT LLC",
+              "amount": 608219286.31,
+              "agency": "N/A",
+              "startDate": "2019-04-01",
+              "endDate": "2026-07-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80KSC018C0017_8000_-NONE-_-NONE-"
+            },
+            {
+              "title": "THIS IS A NEW TASK ORDER TO OBLIGATE FUNDING FOR HOUSING AND SAFEGUARDING ILLEGA",
+              "naics": "561612",
+              "naicsDesc": "SECURITY GUARDS AND PATROL SERVICES",
+              "recipient": "AKIMA INFRASTRUCTURE PROTECTION LLC",
+              "amount": 83320798.9,
+              "agency": "N/A",
+              "startDate": "2025-09-01",
+              "endDate": "2026-08-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000092_7012_70CDCR24D00000009_7012"
+            },
+            {
+              "title": "FY23 PRIVATE DETENTION SERVICES FOR CENTRAL VALLEY DETENTION FACILITY",
+              "naics": "561612",
+              "naicsDesc": "SECURITY GUARDS AND PATROL SERVICES",
+              "recipient": "THE GEO GROUP, INC.",
+              "amount": 66223550.16,
+              "agency": "N/A",
+              "startDate": "2023-10-01",
+              "endDate": "2026-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15M40023FA3500005_1544_70CDCR20D00000008_7012"
+            },
+            {
+              "title": "DETENTION SERVICES CONTRACT FOR GOVERNMENT OWNED CONTRACTOR OPERATED FACILITY IN",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "GEO SECURE SERVICES, LLC",
+              "amount": 63207560.03,
+              "agency": "N/A",
+              "startDate": "2023-12-23",
+              "endDate": "2025-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15M40024FA3500002_1544_15M40020DA3500004_1544"
+            },
+            {
+              "title": "DGMQ ENTRY SCREENING TASK ORDER",
+              "naics": "561320",
+              "naicsDesc": "TEMPORARY HELP SERVICES",
+              "recipient": "LOYAL SOURCE GOVERNMENT SERVICES LLC",
+              "amount": 62674167.5,
+              "agency": "N/A",
+              "startDate": "2020-09-17",
+              "endDate": "2022-03-20",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_75D30120F09856_7523_75D30120A09083_7523"
+            },
+            {
+              "title": "DETENTION, TRANSPORTATION, AND MEDICAL SERVICES FOR DENVER (AURORA) CONTRACT DET",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "THE GEO GROUP, INC.",
+              "amount": 59993453.2,
+              "agency": "N/A",
+              "startDate": "2024-10-16",
+              "endDate": "2025-10-15",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000005_7012_70CDCR22D00000001_7012"
+            },
+            {
+              "title": "THE PURPOSE OF THIS NEW TASK ORDER IS TO PROVIDE THE FUNDING NECESSARY FOR TRANS",
+              "naics": "561612",
+              "naicsDesc": "SECURITY GUARDS AND PATROL SERVICES",
+              "recipient": "THE GEO GROUP, INC.",
+              "amount": 58637673.24,
+              "agency": "N/A",
+              "startDate": "2025-03-01",
+              "endDate": "2026-02-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000029_7012_70CDCR25D00000007_7012"
+            },
+            {
+              "title": "CONTRACTOR SHALL PERFORM DETENTION SERVICES AS DESCRIBED IN THE STATEMENT OF WOR",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "THE GEO GROUP, INC.",
+              "amount": 56866471.02,
+              "agency": "N/A",
+              "startDate": "2024-11-01",
+              "endDate": "2025-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15M40025FA3500009_1544_15M40018DA3500001_1544"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$1,355,103,031",
+          "naicsTop": [
+            [
+              "561210",
+              7
+            ],
+            [
+              "561612",
+              7
+            ],
+            [
+              "561320",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "23",
+          "sectorDesc": "Construcao Civil",
+          "count": 13,
+          "totalValue": 812923529.38,
+          "naicsCodes": {
+            "236220": 10,
+            "236210": 1,
+            "237990": 2
+          },
+          "samples": [
+            {
+              "title": "DESIGN-BUILD CONSTRUCTION SERVICES FOR A NEW U. S. FEDERAL BUILDING LOCATED AT  ",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "BRASFIELD & GORRIE LLC",
+              "amount": 212588735.23,
+              "agency": "N/A",
+              "startDate": "2023-01-31",
+              "endDate": "2026-11-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47PE0323C0004_4740_-NONE-_-NONE-"
+            },
+            {
+              "title": "REBUILD SECTOR/STATION KEY WEST",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "RQ-AECOM 2 JV",
+              "amount": 86335155.54,
+              "agency": "N/A",
+              "startDate": "2021-07-06",
+              "endDate": "2027-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70Z04721FKWDSCN00_7008_70Z04718DRQAECM00_7008"
+            },
+            {
+              "title": "BILOXI BUILDING 1 RENOVATION",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "ESA SOUTH, INC.",
+              "amount": 80529494.18,
+              "agency": "N/A",
+              "startDate": "2025-01-07",
+              "endDate": "2027-11-10",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C10F25C50000_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "REPLACE AIR HANDING UNIT NO. 2 AND 3",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "ESA SOUTH, INC.",
+              "amount": 58257307.35,
+              "agency": "N/A",
+              "startDate": "2022-10-10",
+              "endDate": "2027-03-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822C0110_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "LOGISTICS HOUSING OPERATIONS UNIT INSTALLATION, MAINTENANCE AND DEACTIVATION - L",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "MLU SERVICES, LLC",
+              "amount": 57857604.89,
+              "agency": "N/A",
+              "startDate": "2022-10-19",
+              "endDate": "2025-10-18",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70FBR423F00000030_7022_70FB8018D00000013_7022"
+            },
+            {
+              "title": "RENOVATION OF BUILDING ONE",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "ECRMJV LLC",
+              "amount": 53916664.75,
+              "agency": "N/A",
+              "startDate": "2021-07-28",
+              "endDate": "2025-05-14",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C10F21C0011_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "THE CONTRACTOR SHALL PROVIDE ALL TOOLS, EQUIPMENT, MATERIALS, LABOR, SUPERVISION",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "THE POVOLNY GROUP INC",
+              "amount": 50824202.0,
+              "agency": "N/A",
+              "startDate": "2023-09-27",
+              "endDate": "2025-11-14",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C77623C0149_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "AWARD RELOCATE STA YANKEETOWN, YANKEETOWN, FL",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "THE HASKELL COMPANY",
+              "amount": 44186044.99,
+              "agency": "N/A",
+              "startDate": "2023-06-29",
+              "endDate": "2026-09-09",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70Z04723F43000005_7008_70Z04718DHASKLL00_7008"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$812,923,529",
+          "naicsTop": [
+            [
+              "236220",
+              10
+            ],
+            [
+              "237990",
+              2
+            ],
+            [
+              "236210",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "48",
+          "sectorDesc": "Transporte Rodoviario / Ferroviario",
+          "count": 5,
+          "totalValue": 784344464.55,
+          "naicsCodes": {
+            "488190": 2,
+            "481212": 3
+          },
+          "samples": [
+            {
+              "title": "ESTABLISHED OPTION YEAR THREE AVIATION SERVICE CONTRACTOR LINE ITEM NUMBERS (CLI",
+              "naics": "488190",
+              "naicsDesc": "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
+              "recipient": "AAR GOVERNMENT SERVICES, INC.",
+              "amount": 448993172.87,
+              "agency": "N/A",
+              "startDate": "2021-06-01",
+              "endDate": "2024-05-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_19AQMM21F1511_1900_SAQMMA16D0136_1900"
+            },
+            {
+              "title": "WORLDWIDE AVIATION SUPPORT SERVICES OY6",
+              "naics": "488190",
+              "naicsDesc": "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
+              "recipient": "AAR GOVERNMENT SERVICES, INC.",
+              "amount": 229491291.68,
+              "agency": "N/A",
+              "startDate": "2024-06-01",
+              "endDate": "2027-05-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_19AQMM24F0983_1900_SAQMMA16D0136_1900"
+            },
+            {
+              "title": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) CONTRACT TASK ORDER CS-7",
+              "naics": "481212",
+              "naicsDesc": "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
+              "recipient": "BLUE ORIGIN, LLC",
+              "amount": 55100000.0,
+              "agency": "N/A",
+              "startDate": "2025-09-16",
+              "endDate": "2026-06-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80JSC025F7071_8000_80JSC020D0010_8000"
+            },
+            {
+              "title": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) CONTRACT TASK ORDER CX-2B",
+              "naics": "481212",
+              "naicsDesc": "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
+              "recipient": "BLUE ORIGIN, LLC",
+              "amount": 25380000.0,
+              "agency": "N/A",
+              "startDate": "2026-05-26",
+              "endDate": "2027-08-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80JSC026F7015_8000_80JSC020D0010_8000"
+            },
+            {
+              "title": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) CONTRACT TASK ORDER CX-2A",
+              "naics": "481212",
+              "naicsDesc": "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
+              "recipient": "BLUE ORIGIN, LLC",
+              "amount": 25380000.0,
+              "agency": "N/A",
+              "startDate": "2026-05-26",
+              "endDate": "2027-08-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80JSC026F7013_8000_80JSC020D0010_8000"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$784,344,465",
+          "naicsTop": [
+            [
+              "481212",
+              3
+            ],
+            [
+              "488190",
+              2
+            ]
+          ]
+        },
+        {
+          "sector": "32",
+          "sectorDesc": "Papel, Quimicos, Plasticos",
+          "count": 1,
+          "totalValue": 352593356.29,
+          "naicsCodes": {
+            "325120": 1
+          },
+          "samples": [
+            {
+              "title": "THIS DELIVERY ORDER IS ISSUED PURSUANT TO THE SCHEDULE OF SUPPLIES, CONTRACT PER",
+              "naics": "325120",
+              "naicsDesc": "INDUSTRIAL GAS MANUFACTURING",
+              "recipient": "AIR PRODUCTS AND CHEMICALS, INC",
+              "amount": 352593356.29,
+              "agency": "N/A",
+              "startDate": "2022-12-01",
+              "endDate": "2026-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80KSC023FA026_8000_80KSC023DA010_8000"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$352,593,356",
+          "naicsTop": [
+            [
+              "325120",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "52",
+          "sectorDesc": "Financas & Seguros",
+          "count": 2,
+          "totalValue": 344312012.04,
+          "naicsCodes": {
+            "524114": 1,
+            "524292": 1
+          },
+          "samples": [
+            {
+              "title": "PART A/PART B MEDICARE ADMINISTRATIVE CONTRACTOR (MAC) JURISDICTION N (JN). JURI",
+              "naics": "524114",
+              "naicsDesc": "DIRECT HEALTH AND MEDICAL INSURANCE CARRIERS",
+              "recipient": "FIRST COAST SERVICE OPTIONS, INC.",
+              "amount": 321748707.0,
+              "agency": "N/A",
+              "startDate": "2022-05-01",
+              "endDate": "2027-04-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_75FCMC22C0018_7530_-NONE-_-NONE-"
+            },
+            {
+              "title": "THIS IS A TASK ORDER FOR THE NATIONAL FLOOD INSURANCE PROGRAMS DIRECT SERVICING ",
+              "naics": "524292",
+              "naicsDesc": "PHARMACY BENEFIT MANAGEMENT AND OTHER THIRD PARTY ADMINISTRATION OF INSURANCE AND PENSION FUNDS",
+              "recipient": "TAURUS, LLC",
+              "amount": 22563305.04,
+              "agency": "N/A",
+              "startDate": "2026-04-07",
+              "endDate": "2027-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70FA6026F00000001_7022_70FA6024D00000001_7022"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$344,312,012",
+          "naicsTop": [
+            [
+              "524114",
+              1
+            ],
+            [
+              "524292",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "61",
+          "sectorDesc": "Educacao",
+          "count": 5,
+          "totalValue": 189235734.53,
+          "naicsCodes": {
+            "611519": 4,
+            "611420": 1
+          },
+          "samples": [
+            {
+              "title": "IGF::OT::IGF JACKSONVILLE JCC WITH OUTREACH AND ADMINISTRATIONS AND CAREER TRANS",
+              "naics": "611519",
+              "naicsDesc": "OTHER TECHNICAL AND TRADE SCHOOLS",
+              "recipient": "HERITAGE SERVICES CORPORATION",
+              "amount": 47668364.41,
+              "agency": "N/A",
+              "startDate": "2018-03-01",
+              "endDate": "2023-05-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_1630J318C0001_1605_-NONE-_-NONE-"
+            },
+            {
+              "title": "PINELLAS COUNTY JOB CORPS CENTER OPERATIONS WITH OUTREACH AND ADMISSIONS AND CAR",
+              "naics": "611519",
+              "naicsDesc": "OTHER TECHNICAL AND TRADE SCHOOLS",
+              "recipient": "EXCEED, LLC",
+              "amount": 45111569.25,
+              "agency": "N/A",
+              "startDate": "2021-11-01",
+              "endDate": "2026-11-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_1605JE21C0015_1605_-NONE-_-NONE-"
+            },
+            {
+              "title": "MIAMI JOB CORPS CENTER WITH OUTREACH ADMISSIONS AND CAREER TRANSITION SERVICES",
+              "naics": "611519",
+              "naicsDesc": "OTHER TECHNICAL AND TRADE SCHOOLS",
+              "recipient": "ADAMS AND ASSOCIATES INC",
+              "amount": 38908749.71,
+              "agency": "N/A",
+              "startDate": "2022-09-16",
+              "endDate": "2026-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_1605JE22C0017_1605_-NONE-_-NONE-"
+            },
+            {
+              "title": "OPERATION OF JACKSONVILLE JOB CORPS CENTER W/ OA CTS",
+              "naics": "611519",
+              "naicsDesc": "OTHER TECHNICAL AND TRADE SCHOOLS",
+              "recipient": "COVENANT LEARNING SOLUTIONS LLC",
+              "amount": 33570762.04,
+              "agency": "N/A",
+              "startDate": "2023-05-01",
+              "endDate": "2027-05-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_1605JE23C0011_1605_-NONE-_-NONE-"
+            },
+            {
+              "title": "BRAND NAME DOCUMENT STORAGE SYSTEMS INC. (DSS) SUPPLY CHAIN GRAPHICAL USER INTER",
+              "naics": "611420",
+              "naicsDesc": "COMPUTER TRAINING",
+              "recipient": "DOCUMENT STORAGE SYSTEMS, INC.",
+              "amount": 23976289.12,
+              "agency": "N/A",
+              "startDate": "2023-06-01",
+              "endDate": "2026-04-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C10B23F0137_3600_47QTCA23D005Q_4732"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$189,235,735",
+          "naicsTop": [
+            [
+              "611519",
+              4
+            ],
+            [
+              "611420",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    "7days": {
+      "label": "Ultimos 7 dias",
+      "dateFrom": "2026-05-29",
+      "dateTo": "2026-06-05",
+      "totalContracts": 100,
+      "totalShown": 100,
+      "sectors": [
+        {
+          "sector": "54",
+          "sectorDesc": "Servicos Profissionais & Tecnicos",
+          "count": 21,
+          "totalValue": 1245157498.13,
+          "naicsCodes": {
+            "541330": 8,
+            "541512": 3,
+            "541715": 3,
+            "541511": 1,
+            "541990": 2,
+            "541611": 1,
+            "541620": 1,
+            "541519": 2
+          },
+          "samples": [
+            {
+              "title": "OPERATIONAL PLANNING IMPLEMENTATION AND ASSESSMENT SERVICES (OPIAS) BASE AWARD.",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "PERATON INC.",
+              "amount": 837885761.59,
+              "agency": "N/A",
+              "startDate": "2021-07-06",
+              "endDate": "2027-01-05",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA21F0058_4732_GS00Q14OADU117_4732"
+            },
+            {
+              "title": "THE UNITED STATES SOUTHERN COMMAND (USSOUTHCOM) CYBER INFORMATION TECHNOLOGY (IT",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "MANTECH ADVANCED SYSTEMS INTERNATIONAL, INC.",
+              "amount": 149743262.0,
+              "agency": "N/A",
+              "startDate": "2025-08-08",
+              "endDate": "2027-04-24",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFCA25F0024_4732_47QTCK18D0031_4732"
+            },
+            {
+              "title": "INFRASTRUCTURE INSTALL MOVE ADD CHANGE I2MAC",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "LOGISTICS SYSTEMS INCORPORATED",
+              "amount": 57624464.16,
+              "agency": "N/A",
+              "startDate": "2024-02-02",
+              "endDate": "2027-02-01",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFSA24F0001_4732_47QTCH18D0036_4732"
+            },
+            {
+              "title": "C4ISR TECHNICAL ENGINEERING RESEARCH AND SUSTAINMENT SUPPORT",
+              "naics": "541512",
+              "naicsDesc": "COMPUTER SYSTEMS DESIGN SERVICES",
+              "recipient": "BOOZ ALLEN HAMILTON INC",
+              "amount": 51420893.16,
+              "agency": "N/A",
+              "startDate": "2023-01-01",
+              "endDate": "2026-12-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFSA23F0008_4732_47QTCK18D0004_4732"
+            },
+            {
+              "title": "NSWC PCD SYSTEMS SUPPORT LI TO 19",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "SIGMA DEFENSE SYSTEMS LLC",
+              "amount": 28169307.56,
+              "agency": "N/A",
+              "startDate": "2024-08-26",
+              "endDate": "2026-08-25",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFLA24F0122_4732_47QFLA21D0007_4732"
+            },
+            {
+              "title": "THE SURVEILLANCE AND BROADCAST SERVICES (SBS II) PROGRAM IS THE FOLLOW-ON TO SBS",
+              "naics": "541330",
+              "naicsDesc": "ENGINEERING SERVICES",
+              "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+              "amount": 26000000.0,
+              "agency": "N/A",
+              "startDate": "2026-03-31",
+              "endDate": "2026-06-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_693KA726C00059_6920_-NONE-_-NONE-"
+            },
+            {
+              "title": "STARCOM TECHNICAL AND ORGANIZATIONAL CLASSIFIED SUPPORT",
+              "naics": "541715",
+              "naicsDesc": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)",
+              "recipient": "GALAPAGOS FEDERAL SYSTEMS LLC",
+              "amount": 25612944.9,
+              "agency": "N/A",
+              "startDate": "2025-07-01",
+              "endDate": "2027-04-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFSA25P0001_4732_-NONE-_-NONE-"
+            },
+            {
+              "title": "SPACE TECHNOLOGY - (SPACETECH - REDDI- 2020), 80HQTR20NOA01 AMENDMENT1, \"UTILIZI",
+              "naics": "541715",
+              "naicsDesc": "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT NANOTECHNOLOGY AND BIOTECHNOLOGY)",
+              "recipient": "ETA SPACE LLC",
+              "amount": 25487894.0,
+              "agency": "N/A",
+              "startDate": "2021-04-27",
+              "endDate": "2027-04-27",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80MSFC21C0008_8000_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$1,245,157,498",
+          "naicsTop": [
+            [
+              "541330",
+              8
+            ],
+            [
+              "541512",
+              3
+            ],
+            [
+              "541715",
+              3
+            ],
+            [
+              "541990",
+              2
+            ],
+            [
+              "541519",
+              2
+            ]
+          ]
+        },
+        {
+          "sector": "48",
+          "sectorDesc": "Transporte Rodoviario / Ferroviario",
+          "count": 4,
+          "totalValue": 457641339.60999995,
+          "naicsCodes": {
+            "488190": 2,
+            "485999": 1,
+            "481212": 1
+          },
+          "samples": [
+            {
+              "title": "ESTABLISHED OPTION YEAR THREE AVIATION SERVICE CONTRACTOR LINE ITEM NUMBERS (CLI",
+              "naics": "488190",
+              "naicsDesc": "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
+              "recipient": "AAR GOVERNMENT SERVICES, INC.",
+              "amount": 448993172.87,
+              "agency": "N/A",
+              "startDate": "2021-06-01",
+              "endDate": "2024-05-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_19AQMM21F1511_1900_SAQMMA16D0136_1900"
+            },
+            {
+              "title": "MALTA DHC8 CONVERSION REQUIREMENT",
+              "naics": "488190",
+              "naicsDesc": "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
+              "recipient": "AAR GOVERNMENT SERVICES, INC.",
+              "amount": 4949177.78,
+              "agency": "N/A",
+              "startDate": "2023-08-09",
+              "endDate": "2025-08-08",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_19AQMM23F2102_1900_SAQMMA16D0136_1900"
+            },
+            {
+              "title": "SHUTTLE AND VALET SERVICES",
+              "naics": "485999",
+              "naicsDesc": "ALL OTHER TRANSIT AND GROUND PASSENGER TRANSPORTATION",
+              "recipient": "PARKING VETERANS INC",
+              "amount": 2403263.0,
+              "agency": "N/A",
+              "startDate": "2022-12-01",
+              "endDate": "2026-11-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24823P0063_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "CALL WHEN NEEDED TYPE 1 HELICOPTER FLIGHT SERVICE IN SUPPORT OF THE DEPARTMENT O",
+              "naics": "481212",
+              "naicsDesc": "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
+              "recipient": "5-STATE HELICOPTERS, INC.",
+              "amount": 1295725.96,
+              "agency": "N/A",
+              "startDate": "2026-04-30",
+              "endDate": "2026-11-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140D0426F0379_1406_1202SA25T9200_12C2"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$457,641,340",
+          "naicsTop": [
+            [
+              "488190",
+              2
+            ],
+            [
+              "485999",
+              1
+            ],
+            [
+              "481212",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "23",
+          "sectorDesc": "Construcao Civil",
+          "count": 20,
+          "totalValue": 395618094.11,
+          "naicsCodes": {
+            "236220": 15,
+            "237990": 1,
+            "238290": 1,
+            "238210": 3
+          },
+          "samples": [
+            {
+              "title": "DESIGN-BUILD CONSTRUCTION SERVICES FOR A NEW U. S. FEDERAL BUILDING LOCATED AT  ",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "BRASFIELD & GORRIE LLC",
+              "amount": 212588735.23,
+              "agency": "N/A",
+              "startDate": "2023-01-31",
+              "endDate": "2026-11-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47PE0323C0004_4740_-NONE-_-NONE-"
+            },
+            {
+              "title": "RENOVATION OF BUILDING ONE",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "ECRMJV LLC",
+              "amount": 53916664.75,
+              "agency": "N/A",
+              "startDate": "2021-07-28",
+              "endDate": "2025-05-14",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C10F21C0011_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "THE CONTRACTOR SHALL PROVIDE ALL TOOLS, EQUIPMENT, MATERIALS, LABOR, SUPERVISION",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "THE POVOLNY GROUP INC",
+              "amount": 50824202.0,
+              "agency": "N/A",
+              "startDate": "2023-09-27",
+              "endDate": "2025-11-14",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C77623C0149_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "CONSTRUCTION SERVICES FOR SHORELINE STABILIZATION PROJECT.",
+              "naics": "237990",
+              "naicsDesc": "OTHER HEAVY AND CIVIL ENGINEERING CONSTRUCTION",
+              "recipient": "DICKERSON INFRASTRUCTURE INC",
+              "amount": 14342512.33,
+              "agency": "N/A",
+              "startDate": "2024-12-19",
+              "endDate": "2026-10-23",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140L0625C0002_1422_-NONE-_-NONE-"
+            },
+            {
+              "title": "THE CONTRACTOR SHALL PROVIDE ALL TOOLS, EQUIPMENT, MATERIALS, LABOR, SUPERVISION",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "ADVON CORPORATION",
+              "amount": 13733125.76,
+              "agency": "N/A",
+              "startDate": "2023-12-12",
+              "endDate": "2026-03-23",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C77624C0009_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "DINING FACILITY CONSTRUCTION AT THE KROME SERVICE PROCESSING CENTER (SPC)",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "CHENEGA MISSION OPERATIONS, LLC",
+              "amount": 13178352.43,
+              "agency": "N/A",
+              "startDate": "2022-09-23",
+              "endDate": "2026-02-28",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70CMSW22C00000009_7012_-NONE-_-NONE-"
+            },
+            {
+              "title": "CONTRACTOR TO PROVIDE ALL TOOLS, EQUIPMENT, MATERIALS, LABOR, SUPERVISION, PERSO",
+              "naics": "236220",
+              "naicsDesc": "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+              "recipient": "TL SERVICES, INC.",
+              "amount": 13082854.0,
+              "agency": "N/A",
+              "startDate": "2025-01-08",
+              "endDate": "2027-01-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C77625C0013_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "REPLACE AND RENOVATE TRANSPORTATION EQUIPMENT IN BLDG.1",
+              "naics": "238290",
+              "naicsDesc": "OTHER BUILDING EQUIPMENT CONTRACTORS",
+              "recipient": "ARMSTRONG ELEVATOR COMPANY",
+              "amount": 6305747.54,
+              "agency": "N/A",
+              "startDate": "2023-09-30",
+              "endDate": "2026-08-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24823C0098_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$395,618,094",
+          "naicsTop": [
+            [
+              "236220",
+              15
+            ],
+            [
+              "238210",
+              3
+            ],
+            [
+              "237990",
+              1
+            ],
+            [
+              "238290",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "56",
+          "sectorDesc": "Servicos Administrativos & Limpeza",
+          "count": 12,
+          "totalValue": 249407241.39,
+          "naicsCodes": {
+            "561612": 1,
+            "561210": 4,
+            "561320": 1,
+            "561720": 2,
+            "561450": 2,
+            "561710": 1,
+            "561990": 1
+          },
+          "samples": [
+            {
+              "title": "FY23 PRIVATE DETENTION SERVICES FOR CENTRAL VALLEY DETENTION FACILITY",
+              "naics": "561612",
+              "naicsDesc": "SECURITY GUARDS AND PATROL SERVICES",
+              "recipient": "THE GEO GROUP, INC.",
+              "amount": 66223550.16,
+              "agency": "N/A",
+              "startDate": "2023-10-01",
+              "endDate": "2026-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15M40023FA3500005_1544_70CDCR20D00000008_7012"
+            },
+            {
+              "title": "DETENTION SERVICES CONTRACT FOR GOVERNMENT OWNED CONTRACTOR OPERATED FACILITY IN",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "GEO SECURE SERVICES, LLC",
+              "amount": 63207560.03,
+              "agency": "N/A",
+              "startDate": "2023-12-23",
+              "endDate": "2025-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15M40024FA3500002_1544_15M40020DA3500004_1544"
+            },
+            {
+              "title": "DGMQ ENTRY SCREENING TASK ORDER",
+              "naics": "561320",
+              "naicsDesc": "TEMPORARY HELP SERVICES",
+              "recipient": "LOYAL SOURCE GOVERNMENT SERVICES LLC",
+              "amount": 62674167.5,
+              "agency": "N/A",
+              "startDate": "2020-09-17",
+              "endDate": "2022-03-20",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_75D30120F09856_7523_75D30120A09083_7523"
+            },
+            {
+              "title": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE DETENTION AND TRANSPORTATION SERVICES",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "THE GEO GROUP, INC.",
+              "amount": 51978428.0,
+              "agency": "N/A",
+              "startDate": "2024-08-18",
+              "endDate": "2026-08-17",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70CDCR25FR0000097_7012_HSCEDM17D00009_7012"
+            },
+            {
+              "title": "JANITORIAL SERVICES NATIONAL MARINE CENTER",
+              "naics": "561720",
+              "naicsDesc": "JANITORIAL SERVICES",
+              "recipient": "GENCO GENERAL CONTRACTORS OF PUERTO RICO CORP.",
+              "amount": 1026001.73,
+              "agency": "N/A",
+              "startDate": "2023-04-01",
+              "endDate": "2027-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70B02C23P00000103_7014_-NONE-_-NONE-"
+            },
+            {
+              "title": "ENERGY MANAGEMENT SYSTEM MAINTENANCE",
+              "naics": "561210",
+              "naicsDesc": "FACILITIES SUPPORT SERVICES",
+              "recipient": "JOHNSON CONTROLS, INC",
+              "amount": 954311.56,
+              "agency": "N/A",
+              "startDate": "2023-09-28",
+              "endDate": "2024-09-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24823P2264_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "LICENSE SUBSCRIPTION RENEWAL FOR ACCESS TO DUN AND BRADSTREET DIRECT PLUS DIRECT",
+              "naics": "561450",
+              "naicsDesc": "CREDIT BUREAUS",
+              "recipient": "DUN & BRADSTREET, INC",
+              "amount": 884753.0,
+              "agency": "N/A",
+              "startDate": "2021-09-26",
+              "endDate": "2024-09-25",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_1333ND21FNB480419_1341_GS00F022DA_4732"
+            },
+            {
+              "title": "WINDOW WASHING BAY PINES VAMC AND LEE COUNTY HCC",
+              "naics": "561720",
+              "naicsDesc": "JANITORIAL SERVICES",
+              "recipient": "VIP SPECIAL SERVICES LLC",
+              "amount": 784100.0,
+              "agency": "N/A",
+              "startDate": "2022-04-01",
+              "endDate": "2027-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822P0878_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$249,407,241",
+          "naicsTop": [
+            [
+              "561210",
+              4
+            ],
+            [
+              "561720",
+              2
+            ],
+            [
+              "561450",
+              2
+            ],
+            [
+              "561612",
+              1
+            ],
+            [
+              "561320",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "33",
+          "sectorDesc": "Metais, Maquinas, Eletronicos",
+          "count": 13,
+          "totalValue": 231115362.39,
+          "naicsCodes": {
+            "336611": 1,
+            "334510": 1,
+            "334220": 1,
+            "339999": 2,
+            "334290": 1,
+            "333998": 1,
+            "336992": 1,
+            "339113": 1,
+            "337215": 2,
+            "339950": 1,
+            "333618": 1
+          },
+          "samples": [
+            {
+              "title": "NATIONAL VESSEL MAINTENANCE AND LOGISTICS SUPPORT SERVICES",
+              "naics": "336611",
+              "naicsDesc": "SHIP BUILDING AND REPAIRING",
+              "recipient": "GLOBAL MARITEK SYSTEMS INC",
+              "amount": 193354420.11,
+              "agency": "N/A",
+              "startDate": "2021-04-01",
+              "endDate": "2027-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70B02C21C00000017_7014_-NONE-_-NONE-"
+            },
+            {
+              "title": "SCOPE LEASE PROGRAM",
+              "naics": "334510",
+              "naicsDesc": "ELECTROMEDICAL AND ELECTROTHERAPEUTIC APPARATUS MANUFACTURING",
+              "recipient": "OLYMPUS AMERICA INC",
+              "amount": 14520821.28,
+              "agency": "N/A",
+              "startDate": "2024-04-01",
+              "endDate": "2026-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824C0045_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "GOTENNA TAK ECOSYSTEM",
+              "naics": "334220",
+              "naicsDesc": "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING",
+              "recipient": "GOTENNA, INC.",
+              "amount": 5297759.97,
+              "agency": "N/A",
+              "startDate": "2025-09-19",
+              "endDate": "2026-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70B02C25F00000543_7014_70B06C23D00000014_7014"
+            },
+            {
+              "title": "LAUNCH PAD ELEMENT (LPE) LIQUID NITROGEN (LN2) SKID FABRICATION",
+              "naics": "339999",
+              "naicsDesc": "ALL OTHER MISCELLANEOUS MANUFACTURING",
+              "recipient": "PRECISION FABRICATING & CLEANING COMPANY, INC.",
+              "amount": 4981946.1,
+              "agency": "N/A",
+              "startDate": "2021-11-02",
+              "endDate": "2026-08-07",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80KSC022F0002_8000_80KSC019D0005_8000"
+            },
+            {
+              "title": "STING III ID05180024068  NAVAIR SPARES  KITS",
+              "naics": "334290",
+              "naicsDesc": "OTHER COMMUNICATIONS EQUIPMENT MANUFACTURING",
+              "recipient": "SIGMA DEFENSE SYSTEMS LLC",
+              "amount": 3170650.2,
+              "agency": "N/A",
+              "startDate": "2022-09-30",
+              "endDate": "2028-09-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFLA22F0259_4732_47QFLA19D0010_4732"
+            },
+            {
+              "title": "PURCHASE OF OEM QUANTUM MARINE ENGINEERING FIN STABILIZER SYSTEM AND ASSOCIATED ",
+              "naics": "333998",
+              "naicsDesc": "ALL OTHER MISCELLANEOUS GENERAL PURPOSE MACHINERY MANUFACTURING",
+              "recipient": "QUANTUM MARINE ENGINEERING, INC.",
+              "amount": 3121255.48,
+              "agency": "N/A",
+              "startDate": "2025-09-23",
+              "endDate": "2026-04-20",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_70Z08025C16005B00_7008_-NONE-_-NONE-"
+            },
+            {
+              "title": "NEW INSTALL PROJECT",
+              "naics": "336992",
+              "naicsDesc": "MILITARY ARMORED VEHICLE, TANK, AND TANK COMPONENT MANUFACTURING",
+              "recipient": "WILLIAMS ELECTRIC CO INC",
+              "amount": 2300668.24,
+              "agency": "N/A",
+              "startDate": "2022-07-21",
+              "endDate": "2026-08-05",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15M10522FA47NPH03_1544_15M20019AA32NP01H_1544"
+            },
+            {
+              "title": "MOBILE LAUNCHER 2 (ML-2) AFT SKIRT ELECTRICAL UMBILICAL (ASEU) KIT AND AFT SKIRT",
+              "naics": "339999",
+              "naicsDesc": "ALL OTHER MISCELLANEOUS MANUFACTURING",
+              "recipient": "EMF ENGINEERED COMPONENTS LLC",
+              "amount": 1484188.0,
+              "agency": "N/A",
+              "startDate": "2025-03-14",
+              "endDate": "2026-06-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_80KSC025FA040_8000_80KSC024DA007_8000"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$231,115,362",
+          "naicsTop": [
+            [
+              "339999",
+              2
+            ],
+            [
+              "337215",
+              2
+            ],
+            [
+              "336611",
+              1
+            ],
+            [
+              "334510",
+              1
+            ],
+            [
+              "334220",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "81",
+          "sectorDesc": "Outros Servicos (Reparo, Lavanderia, etc.)",
+          "count": 9,
+          "totalValue": 22003520.480000004,
+          "naicsCodes": {
+            "811210": 4,
+            "812930": 1,
+            "811198": 1,
+            "811213": 1,
+            "811219": 1,
+            "811310": 1
+          },
+          "samples": [
+            {
+              "title": "VARIAN MEDICAL SYSTEMS MAINTENANCE BASE YEAR",
+              "naics": "811210",
+              "naicsDesc": "ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+              "recipient": "VARIAN MEDICAL SYSTEMS, INC",
+              "amount": 11091997.96,
+              "agency": "N/A",
+              "startDate": "2023-12-01",
+              "endDate": "2026-11-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824C0016_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "SCOPE REPAIR & MAINTENANCE CONTRACT",
+              "naics": "811210",
+              "naicsDesc": "ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+              "recipient": "OLYMPUS AMERICA INC",
+              "amount": 4715126.53,
+              "agency": "N/A",
+              "startDate": "2024-09-01",
+              "endDate": "2026-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824P2082_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "GVAMC VALET PARKING SERVICES",
+              "naics": "812930",
+              "naicsDesc": "PARKING LOTS AND GARAGES",
+              "recipient": "VETPRIDE SERVICES, INC.",
+              "amount": 1637916.6,
+              "agency": "N/A",
+              "startDate": "2022-11-01",
+              "endDate": "2026-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24823P0040_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "EMRAS IS A COTS ELECTRONIC REAL-TIME MAINTENANCE AND REPAIR AUTHORIZATION SYSTEM",
+              "naics": "811198",
+              "naicsDesc": "ALL OTHER AUTOMOTIVE REPAIR AND MAINTENANCE",
+              "recipient": "AUTO INTEGRATE LLC",
+              "amount": 1605395.97,
+              "agency": "N/A",
+              "startDate": "2023-08-18",
+              "endDate": "2026-08-19",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QMCA23C0001_4732_-NONE-_-NONE-"
+            },
+            {
+              "title": "STERILIZER EQUIPMENT MAINTENANCE",
+              "naics": "811210",
+              "naicsDesc": "ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+              "recipient": "SUSTAINMENT TECHNOLOGIES, LLC",
+              "amount": 814455.84,
+              "agency": "N/A",
+              "startDate": "2024-10-07",
+              "endDate": "2026-10-06",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24825P0016_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "ANNUAL PREVENTATIVE MAINTENANCE SERVICE FOR HARRIS RADIO COMMUNICATION SYSTEM FR",
+              "naics": "811213",
+              "naicsDesc": "COMMUNICATION EQUIPMENT REPAIR AND MAINTENANCE",
+              "recipient": "COMMUNICATIONS INTERNATIONAL INC",
+              "amount": 692137.31,
+              "agency": "N/A",
+              "startDate": "2022-02-11",
+              "endDate": "2027-02-10",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822C0031_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "SUN NUCLEAR SERVICE CONTRACT",
+              "naics": "811219",
+              "naicsDesc": "OTHER ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+              "recipient": "SUN NUCLEAR CORP.",
+              "amount": 540659.28,
+              "agency": "N/A",
+              "startDate": "2022-07-01",
+              "endDate": "2027-06-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C25622P1076_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "LEASED FLEXIBLE ENDOSCOPES PREVENTIVE MAINTENANCE.",
+              "naics": "811210",
+              "naicsDesc": "ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+              "recipient": "OLYMPUS AMERICA INC",
+              "amount": 496825.76,
+              "agency": "N/A",
+              "startDate": "2025-04-01",
+              "endDate": "2027-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24825P1025_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$22,003,520",
+          "naicsTop": [
+            [
+              "811210",
+              4
+            ],
+            [
+              "812930",
+              1
+            ],
+            [
+              "811198",
+              1
+            ],
+            [
+              "811213",
+              1
+            ],
+            [
+              "811219",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "62",
+          "sectorDesc": "Saude & Assistencia Social",
+          "count": 6,
+          "totalValue": 12425226.03,
+          "naicsCodes": {
+            "621399": 1,
+            "621991": 1,
+            "621910": 1,
+            "621512": 1,
+            "623220": 1,
+            "623990": 1
+          },
+          "samples": [
+            {
+              "title": "THERAPUTIC MEDICAL PHYSICIST",
+              "naics": "621399",
+              "naicsDesc": "OFFICES OF ALL OTHER MISCELLANEOUS HEALTH PRACTITIONERS",
+              "recipient": "SUNCOAST PHYSICS LLC",
+              "amount": 4623253.0,
+              "agency": "N/A",
+              "startDate": "2023-02-13",
+              "endDate": "2026-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24823C0011_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "BLOOD AND BLOOD PRODUCTS",
+              "naics": "621991",
+              "naicsDesc": "BLOOD AND ORGAN BANKS",
+              "recipient": "LIFESOUTH COMMUNITY BLOOD CENTERS INC",
+              "amount": 3598713.0,
+              "agency": "N/A",
+              "startDate": "2023-10-01",
+              "endDate": "2026-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824P0016_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "AMBULANCE TRANSPORTATION SERVICE",
+              "naics": "621910",
+              "naicsDesc": "AMBULANCE SERVICES",
+              "recipient": "EXCELSIOR AMBULANCE SERVICE INC",
+              "amount": 2454050.0,
+              "agency": "N/A",
+              "startDate": "2025-08-01",
+              "endDate": "2026-07-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24825P1664_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "TELERADIOLOGY SERVICES PROVIDED TO THE VA GREATER LOS ANGELES HEALTHCARE SYSTEM",
+              "naics": "621512",
+              "naicsDesc": "DIAGNOSTIC IMAGING CENTERS",
+              "recipient": "VETMED GROUP LLC",
+              "amount": 668880.0,
+              "agency": "N/A",
+              "startDate": "2026-06-01",
+              "endDate": "2026-11-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C26226C0198_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "TRANSITIONAL RESIDENTIAL SHELTER",
+              "naics": "623220",
+              "naicsDesc": "RESIDENTIAL MENTAL HEALTH AND SUBSTANCE ABUSE FACILITIES",
+              "recipient": "BOLEY CENTERS INC",
+              "amount": 617652.0,
+              "agency": "N/A",
+              "startDate": "2025-05-01",
+              "endDate": "2026-04-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24825N0398_3600_36C24821D0067_3600"
+            },
+            {
+              "title": "RRC AND HOME CONFINEMENT (HC) SERVICES WITHIN THE CITY LIMITS OF FT MYERS, FLORI",
+              "naics": "623990",
+              "naicsDesc": "OTHER RESIDENTIAL CARE FACILITIES",
+              "recipient": "THE SALVATION ARMY",
+              "amount": 462678.03,
+              "agency": "N/A",
+              "startDate": "2025-04-01",
+              "endDate": "2026-03-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_15BRRC26F00000083_1540_15BRRC20D00000111_1540"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$12,425,226",
+          "naicsTop": [
+            [
+              "621399",
+              1
+            ],
+            [
+              "621991",
+              1
+            ],
+            [
+              "621910",
+              1
+            ],
+            [
+              "621512",
+              1
+            ],
+            [
+              "623220",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "32",
+          "sectorDesc": "Papel, Quimicos, Plasticos",
+          "count": 5,
+          "totalValue": 10719158.120000001,
+          "naicsCodes": {
+            "325412": 4,
+            "325120": 1
+          },
+          "samples": [
+            {
+              "title": "LENALIDOMIDE",
+              "naics": "325412",
+              "naicsDesc": "PHARMACEUTICAL PREPARATION MANUFACTURING",
+              "recipient": "EXELAN PHARMACEUTICALS INC",
+              "amount": 5486928.34,
+              "agency": "N/A",
+              "startDate": "2026-06-01",
+              "endDate": "2029-05-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24226N0564_3600_36F79720D0227_3600"
+            },
+            {
+              "title": "LENALIDOMIDE",
+              "naics": "325412",
+              "naicsDesc": "PHARMACEUTICAL PREPARATION MANUFACTURING",
+              "recipient": "EXELAN PHARMACEUTICALS INC",
+              "amount": 2620138.05,
+              "agency": "N/A",
+              "startDate": "2026-02-01",
+              "endDate": "2026-07-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C25026N0292_3600_36F79720D0227_3600"
+            },
+            {
+              "title": "SYNTHESIS OF NON-GMP SMALL MOLECULES - INCREMENTALLY FUNDED",
+              "naics": "325412",
+              "naicsDesc": "PHARMACEUTICAL PREPARATION MANUFACTURING",
+              "recipient": "ALCHEM LABORATORIES CORPORATION",
+              "amount": 1249540.0,
+              "agency": "N/A",
+              "startDate": "2022-06-05",
+              "endDate": "2027-06-04",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_75N91022F00001_7529_HHSN261201700007I_7529"
+            },
+            {
+              "title": "GALLIUM GA68 DOTATATE (NETSPOT) INJECTION",
+              "naics": "325412",
+              "naicsDesc": "PHARMACEUTICAL PREPARATION MANUFACTURING",
+              "recipient": "RLS (USA) INC.",
+              "amount": 956449.08,
+              "agency": "N/A",
+              "startDate": "2024-01-02",
+              "endDate": "2026-01-01",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C25724P0116_3600_-NONE-_-NONE-"
+            },
+            {
+              "title": "BULK LIQUID OXYGEN",
+              "naics": "325120",
+              "naicsDesc": "INDUSTRIAL GAS MANUFACTURING",
+              "recipient": "MEDICAL EQUIPMENT & SUPPLIES OF AMERICA LLC",
+              "amount": 406102.65,
+              "agency": "N/A",
+              "startDate": "2022-12-01",
+              "endDate": "2027-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24823P0322_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$10,719,158",
+          "naicsTop": [
+            [
+              "325412",
+              4
+            ],
+            [
+              "325120",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "11",
+          "sectorDesc": "Agricultura & Florestas",
+          "count": 2,
+          "totalValue": 8592573.26,
+          "naicsCodes": {
+            "115310": 2
+          },
+          "samples": [
+            {
+              "title": "ON-CALL SINGLE ENGINE AIR TANKER (SEAT) FLIGHT SERVICES",
+              "naics": "115310",
+              "naicsDesc": "SUPPORT ACTIVITIES FOR FORESTRY",
+              "recipient": "FLETCHER FLYING SERVICE INC",
+              "amount": 7643148.26,
+              "agency": "N/A",
+              "startDate": "2025-06-10",
+              "endDate": "2026-04-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140D0425F0216_1406_140D0424D0064_1406"
+            },
+            {
+              "title": "HAZARD FUEL REDUCTION PROJECT, LOWER SUWANNEE NWR  NATIONAL FUELS REDUCTION BPA",
+              "naics": "115310",
+              "naicsDesc": "SUPPORT ACTIVITIES FOR FORESTRY",
+              "recipient": "FORESTECH CONSULTING, INC",
+              "amount": 949425.0,
+              "agency": "N/A",
+              "startDate": "2026-05-28",
+              "endDate": "2027-10-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140FS326F0102_1448_140F0S24A0028_1448"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$8,592,573",
+          "naicsTop": [
+            [
+              "115310",
+              2
+            ]
+          ]
+        },
+        {
+          "sector": "31",
+          "sectorDesc": "Alimentos & Bebidas",
+          "count": 2,
+          "totalValue": 3401631.69,
+          "naicsCodes": {
+            "311991": 2
+          },
+          "samples": [
+            {
+              "title": "COMMODITIES FOR USG FOOD DONATIONS: 2000011099/4100033599/ORANGES CTN-34-39 LB",
+              "naics": "311991",
+              "naicsDesc": "PERISHABLE PREPARED FOOD MANUFACTURING",
+              "recipient": "DLF PACKING LLC",
+              "amount": 2701515.07,
+              "agency": "N/A",
+              "startDate": "2026-01-15",
+              "endDate": "2026-06-24",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_123J1426C0523_12K2_-NONE-_-NONE-"
+            },
+            {
+              "title": "COMMODITIES FOR USG FOOD DONATIONS: 2000011198/4400002554/4100034320/POTATO BULK",
+              "naics": "311991",
+              "naicsDesc": "PERISHABLE PREPARED FOOD MANUFACTURING",
+              "recipient": "ALL-AMERICAN FARMS INC",
+              "amount": 700116.62,
+              "agency": "N/A",
+              "startDate": "2026-06-01",
+              "endDate": "2026-12-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_123J1426F1260_12K2_123J1426D0011_12K2"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$3,401,632",
+          "naicsTop": [
+            [
+              "311991",
+              2
+            ]
+          ]
+        },
+        {
+          "sector": "51",
+          "sectorDesc": "Tecnologia & Comunicacao",
+          "count": 3,
+          "totalValue": 2942919.21,
+          "naicsCodes": {
+            "511210": 1,
+            "513210": 1,
+            "519290": 1
+          },
+          "samples": [
+            {
+              "title": "SNC SOLE SOURCE IDIQ TO98 USSOCOMSOF ATL",
+              "naics": "511210",
+              "naicsDesc": "SOFTWARE PUBLISHERS",
+              "recipient": "SIERRA NEVADA COMPANY, LLC",
+              "amount": 2158592.72,
+              "agency": "N/A",
+              "startDate": "2024-05-10",
+              "endDate": "2027-05-09",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_47QFLA24F0058_4732_47QFLA20D0022_4732"
+            },
+            {
+              "title": "CLOAK / STRATUS SOFTWARE LICENSES WILL ALLOW INTERNAL REVENUE SERVICE, CRIMINAL ",
+              "naics": "513210",
+              "naicsDesc": "SOFTWARE PUBLISHERS",
+              "recipient": "QUANTUM NETWORK LLC",
+              "amount": 396000.0,
+              "agency": "N/A",
+              "startDate": "2025-09-30",
+              "endDate": "2026-09-29",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_2023H225P00424_2050_-NONE-_-NONE-"
+            },
+            {
+              "title": "ONLINE MEDICAL DATA SUBSCRIPTION SERVICES",
+              "naics": "519290",
+              "naicsDesc": "WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES",
+              "recipient": "EBSCO INFORMATION SERVICES, LLC",
+              "amount": 388326.49,
+              "agency": "N/A",
+              "startDate": "2024-07-01",
+              "endDate": "2029-06-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824F0226_3600_03310323D0067_0300"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$2,942,919",
+          "naicsTop": [
+            [
+              "511210",
+              1
+            ],
+            [
+              "513210",
+              1
+            ],
+            [
+              "519290",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "22",
+          "sectorDesc": "Utilities / Energia",
+          "count": 1,
+          "totalValue": 1570520.95,
+          "naicsCodes": {
+            "221310": 1
+          },
+          "samples": [
+            {
+              "title": "WATER PURIFICATION SYSTEM AND TESTING",
+              "naics": "221310",
+              "naicsDesc": "WATER SUPPLY AND IRRIGATION SYSTEMS",
+              "recipient": "COVENTINA WATER, LLC",
+              "amount": 1570520.95,
+              "agency": "N/A",
+              "startDate": "2024-12-01",
+              "endDate": "2026-11-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24825P0047_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$1,570,521",
+          "naicsTop": [
+            [
+              "221310",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "49",
+          "sectorDesc": "Armazenagem & Courier",
+          "count": 1,
+          "totalValue": 1096464.0,
+          "naicsCodes": {
+            "492210": 1
+          },
+          "samples": [
+            {
+              "title": "STAT AND BLOOD COURIER",
+              "naics": "492210",
+              "naicsDesc": "LOCAL MESSENGERS AND LOCAL DELIVERY",
+              "recipient": "DALYWORKS, LLC",
+              "amount": 1096464.0,
+              "agency": "N/A",
+              "startDate": "2023-10-01",
+              "endDate": "2028-09-30",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824P0002_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$1,096,464",
+          "naicsTop": [
+            [
+              "492210",
+              1
+            ]
+          ]
+        },
+        {
+          "sector": "72",
+          "sectorDesc": "Alimentacao & Hotelaria",
+          "count": 1,
+          "totalValue": 663426.16,
+          "naicsCodes": {
+            "721110": 1
+          },
+          "samples": [
+            {
+              "title": "HOPTEL SERVICES",
+              "naics": "721110",
+              "naicsDesc": "HOTELS (EXCEPT CASINO HOTELS) AND MOTELS",
+              "recipient": "JAI SHREE HANUMAN LTD",
+              "amount": 663426.16,
+              "agency": "N/A",
+              "startDate": "2022-09-01",
+              "endDate": "2026-08-31",
+              "type": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_36C24822P1926_3600_-NONE-_-NONE-"
+            }
+          ],
+          "agencies": [
+            "N/A"
+          ],
+          "totalValueFmt": "$663,426",
+          "naicsTop": [
+            [
+              "721110",
+              1
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}
