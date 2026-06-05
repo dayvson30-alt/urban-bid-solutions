@@ -1,0 +1,2123 @@
+{
+  "lastUpdated": "2026-06-04T08:03:00",
+  "source": "Polk County",
+  "bids": [
+    {
+      "id": "polk-bid-25-635",
+      "source": "Polk County",
+      "orgao": "Polk County Parks",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 25-635",
+      "bidType": "BID",
+      "title": "Hunt Fountain Artificial Turf Fields",
+      "nicho": "landscaping",
+      "model": "product",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Fornecimento e instalacao de campos de grama sintetica no Hunt Fountain Park",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "low",
+      "veredito": "go",
+      "fit_score": 72,
+      "veredito_reason": "ITB para fornecimento de grama sintetica - mesmo modelo do tatame no Brasil. Produto sourceable + instalacao subcontratavel.",
+      "nextStep": "1. Baixar edital completo. 2. Cotar grama com FieldTurf/Shaw Sports Turf. 3. Cotar instalacao com subcontratada local. 4. Calcular margem minima 20%.",
+      "sourcing": {
+        "category": "Grama sintetica para campos esportivos",
+        "where": [
+          "FieldTurf",
+          "Shaw Sports Turf",
+          "Sprinturf",
+          "AstroTurf"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - fornecedor especializado, produto definido",
+        "marginEstimate": "20-35%"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma especifica",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid Package 25-635",
+          "url": "https://www.polkfl.gov/bid-form/hunt-fountain-artificial-turf-fields/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/hunt-fountain-artificial-turf-fields/"
+    },
+    {
+      "id": "polk-bid-25-667",
+      "source": "Polk County",
+      "orgao": "Polk County Parks",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 25-667",
+      "bidType": "BID",
+      "title": "Poinciana Park Artificial Turf Fields",
+      "nicho": "landscaping",
+      "model": "product",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Fornecimento e instalacao de campos de grama sintetica no Poinciana Park",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "low",
+      "veredito": "go",
+      "fit_score": 72,
+      "veredito_reason": "ITB identico ao 25-635 - mesmo produto, parque diferente. Submeter para ambos simultaneamente.",
+      "nextStep": "Submeter junto com Bid 25-635. Mesmo sourcing, mesma margem. Custo de entrada dividido.",
+      "sourcing": {
+        "category": "Grama sintetica para campos",
+        "where": [
+          "FieldTurf",
+          "Shaw Sports Turf",
+          "Sprinturf"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - mesmo sourcing do Bid 25-635",
+        "marginEstimate": "20-35%"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma especifica",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid Package 25-667",
+          "url": "https://www.polkfl.gov/bid-form/bid-25-667/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-25-667/"
+    },
+    {
+      "id": "polk-bid-24-610",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 24-610",
+      "bidType": "BID",
+      "title": "Janitorial Services - Group A, B & C",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "June 3, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Servicos de limpeza predial para instalacoes do Condado - Grupos A, B e C",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 42,
+      "veredito_reason": "Servico de limpeza - core do nome da empresa. Verificar se permite subcontratacao e exige 2 anos.",
+      "nextStep": "Baixar edital. Verificar: (1) permite subcontratacao? (2) exige DBPR license? (3) anos de experiencia?",
+      "sourcing": {
+        "category": "Servico de limpeza predial",
+        "where": [
+          "Subcontratacao local",
+          "Equipe propria"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - requer equipe ou parceiro",
+        "marginEstimate": "20-35%"
+      },
+      "barriers": {
+        "yearsRequired": null,
+        "bondRequired": false,
+        "licenseRequired": "Verificar DBPR Janitorial License",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Danielle Rose",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid Package 24-610",
+          "url": "https://www.polkfl.gov/bid-form/bid-24-610/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-24-610/"
+    },
+    {
+      "id": "polk-bid-25-716",
+      "source": "Polk County",
+      "orgao": "Polk County Stormwater",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 25-716 SM",
+      "bidType": "BID",
+      "title": "Mowing and Maintenance of Off-Road Stormwater Systems",
+      "nicho": "landscaping",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Corte de grama e manutencao de sistemas de drenagem pluvial",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "medium",
+      "risco_compliance": "low",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Servico de corte simples - verificar subcontratacao e equipamentos.",
+      "nextStep": "Baixar edital. Equipamento requerido? Frequencia? Subcontratacao permitida?",
+      "sourcing": {
+        "category": "Corte e manutencao de grama",
+        "where": [
+          "Subcontratacao - landscaping locais"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - requer equipe com equipamento",
+        "marginEstimate": "25-40%"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma especifica",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid 25-716",
+          "url": "https://www.polkfl.gov/bid-form/bid-25-716-sm/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-25-716-sm/"
+    },
+    {
+      "id": "polk-bid-26-129",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-129",
+      "bidType": "BID",
+      "title": "Fence Installation, Replacement and Repair Services",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Instalacao, substituicao e reparo de cercas para o condado",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "medium",
+      "risco_compliance": "low",
+      "veredito": "watch",
+      "fit_score": 35,
+      "veredito_reason": "Servico simples - fence contractors abundantes em FL. Verificar subcontratacao.",
+      "nextStep": "Baixar edital. Se subcontratacao permitida -> cotar com fence contractors locais e entrar como prime.",
+      "sourcing": {
+        "category": "Instalacao de cercas",
+        "where": [
+          "Fence contractors locais",
+          "Home Depot Pro"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - subcontratacao simples",
+        "marginEstimate": "20-30%"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Verificar Florida Contractor License",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid 26-129",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-129/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-129/"
+    },
+    {
+      "id": "polk-bid-26-231",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-231",
+      "bidType": "BID",
+      "title": "Motor Repair Services",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Reparo de motores eletricos e mecanicos para o condado",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "medium",
+      "risco_compliance": "low",
+      "veredito": "watch",
+      "fit_score": 30,
+      "veredito_reason": "Servico tecnico - verificar subcontratacao para motor repair shops locais.",
+      "nextStep": "Baixar edital. Se subcontratacao permitida -> cotar com motor repair shops em Polk County.",
+      "sourcing": {
+        "category": "Reparo de motores",
+        "where": [
+          "Motor repair shops locais"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil - requer tecnico certificado",
+        "marginEstimate": "15-25%"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Certificacao tecnica em motores",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid 26-231",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-231/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-231/"
+    },
+    {
+      "id": "polk-bid-26-018",
+      "source": "Polk County",
+      "orgao": "Polk County Utilities",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-018",
+      "bidType": "BID",
+      "title": "Master Meter Cloud Read Water Meters, Network Equipment and Accessories",
+      "nicho": "construction",
+      "model": "product",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Fornecimento de medidores de agua inteligentes com leitura em nuvem",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "low",
+      "risco_compliance": "low",
+      "veredito": "watch",
+      "fit_score": 40,
+      "veredito_reason": "Produto especializado - verificar programa de distribuidores Master Meter.",
+      "nextStep": "Contatar Master Meter para verificar distribuidores. Se viavel -> submeter proposta.",
+      "sourcing": {
+        "category": "Medidores de agua inteligentes",
+        "where": [
+          "Master Meter (fabricante)",
+          "Distribuidor autorizado"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil - requer relacionamento com fabricante",
+        "marginEstimate": "10-20%"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma (supply only)",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Utilities",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Bid 26-018",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-018/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-018/"
+    },
+    {
+      "id": "polk-cs-20-1111",
+      "source": "Polk County",
+      "orgao": "Polk County Parks",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 20-1111",
+      "bidType": "CS",
+      "title": "Janitorial Supplies",
+      "nicho": "cleaning",
+      "model": "product",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Suprimentos de limpeza com minimo 10% desconto - Hard Goods, Chemicals, Paper Goods",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "low",
+      "veredito": "wait",
+      "fit_score": 45,
+      "veredito_reason": "CS exige 2 anos operacao. Urban Clean qualifica jun/2027. Produto ideal drop-ship.",
+      "nextStep": "Agendar para jun/2027. Preparar: COI, Drug-Free Form, W-9, catalogo com precos.",
+      "sourcing": {
+        "category": "Suprimentos de limpeza",
+        "where": [
+          "Grainger",
+          "HD Supply",
+          "Amazon Business",
+          "Lakeland Sanitary Supplies"
+        ],
+        "difficulty": "easy",
+        "difficultyLabel": "Facil - commodity, multiplos fornecedores",
+        "marginEstimate": "15-25%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "yearsNote": "Minimo 2 anos - qualifica jun/2027",
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Danielle Rose",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 20-1111 Solicitation",
+          "url": "https://www.polkfl.gov/bid-form/cs-20-1111/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/"
+    },
+    {
+      "id": "polk-cs-25-463",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-463",
+      "bidType": "CS",
+      "title": "Safety Products and Equipment",
+      "nicho": "cleaning",
+      "model": "product",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Safety products e EPIs para o condado",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "low",
+      "veredito": "wait",
+      "fit_score": 45,
+      "veredito_reason": "CS exige 2 anos. Produto facil via Grainger/Fastenal. Alta prioridade para jun/2027.",
+      "nextStep": "Alta prioridade jun/2027. Montar catalogo safety products agora.",
+      "sourcing": {
+        "category": "EPIs e produtos de seguranca",
+        "where": [
+          "Grainger",
+          "Fastenal",
+          "Amazon Business",
+          "Safety Zone"
+        ],
+        "difficulty": "easy",
+        "difficultyLabel": "Facil - commodity disponivel",
+        "marginEstimate": "15-25%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 25-463",
+          "url": "https://www.polkfl.gov/bid-form/cs-25-463/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-463/"
+    },
+    {
+      "id": "polk-cs-25-303",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-303",
+      "bidType": "CS",
+      "title": "Plumbing Equipment, Fixtures, and Supplies",
+      "nicho": "construction",
+      "model": "product",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Materiais e equipamentos de encanamento",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "low",
+      "veredito": "wait",
+      "fit_score": 42,
+      "veredito_reason": "CS exige 2 anos. Produto via Ferguson/HD Supply. Boa para 2027.",
+      "nextStep": "Jun/2027: cadastrar como vendor de materiais de encanamento.",
+      "sourcing": {
+        "category": "Materiais de encanamento",
+        "where": [
+          "Ferguson",
+          "HD Supply",
+          "Grainger"
+        ],
+        "difficulty": "easy",
+        "difficultyLabel": "Facil - produto padrao",
+        "marginEstimate": "15-25%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma (supply only)",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 25-303",
+          "url": "https://www.polkfl.gov/bid-form/cs-25-303/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-303/"
+    },
+    {
+      "id": "polk-cs-25-475",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-475",
+      "bidType": "CS",
+      "title": "Sherwin Williams Paint and Supplies",
+      "nicho": "construction",
+      "model": "product",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Tintas e suprimentos Sherwin Williams para o condado",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "low",
+      "veredito": "wait",
+      "fit_score": 40,
+      "veredito_reason": "CS exige 2 anos. Produto facil direto via Sherwin Williams Pro.",
+      "nextStep": "Jun/2027: cadastrar como Sherwin Williams Pro Dealer antes de submeter.",
+      "sourcing": {
+        "category": "Tintas e suprimentos",
+        "where": [
+          "Sherwin Williams Pro"
+        ],
+        "difficulty": "easy",
+        "difficultyLabel": "Facil - marca especifica",
+        "marginEstimate": "15-20%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 25-475",
+          "url": "https://www.polkfl.gov/bid-form/cs-25-475/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-475/"
+    },
+    {
+      "id": "polk-cs-21-380",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 21-380",
+      "bidType": "CS",
+      "title": "Various Medical Related Supplies",
+      "nicho": "cleaning",
+      "model": "product",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Suprimentos medicos variados",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "medium",
+      "risco_juridico": "medium",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "medium",
+      "veredito": "wait",
+      "fit_score": 35,
+      "veredito_reason": "CS exige 2 anos. Verificar itens OTC vs controlados.",
+      "nextStep": "Jun/2027: verificar escopo - se OTC (luvas, mascaras) -> viavel. Se controlados -> licenca FDA.",
+      "sourcing": {
+        "category": "Suprimentos medicos",
+        "where": [
+          "Medline",
+          "McKesson",
+          "Amazon Business Medical"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - compliance medico",
+        "marginEstimate": "15-25%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "Verificar FDA/DEA se itens controlados",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 21-380",
+          "url": "https://www.polkfl.gov/bid-form/cs-21-380/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-21-380/"
+    },
+    {
+      "id": "polk-cs-25-456",
+      "source": "Polk County",
+      "orgao": "Polk County Environmental",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-456",
+      "bidType": "CS",
+      "title": "Chemicals and Herbicides for Aquatic Weeds",
+      "nicho": "landscaping",
+      "model": "product",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Quimicos e herbicidas para controle de plantas aquaticas",
+      "dropship_viavel": true,
+      "subcontratacao_permitida": false,
+      "complexidade": "medium",
+      "risco_juridico": "medium",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "high",
+      "veredito": "wait",
+      "fit_score": 30,
+      "veredito_reason": "CS exige 2 anos. Herbicidas - regulamentacao EPA.",
+      "nextStep": "Jun/2027: verificar EPA Pesticide Distributor License antes de submeter.",
+      "sourcing": {
+        "category": "Herbicidas aquaticos",
+        "where": [
+          "Helena Chemical",
+          "Univar Solutions",
+          "SePRO"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil - regulamentacao EPA",
+        "marginEstimate": "20-30%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "EPA Pesticide Distributor License",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 25-456",
+          "url": "https://www.polkfl.gov/bid-form/cs-25-456/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-456/"
+    },
+    {
+      "id": "polk-cs-20-633",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 20-633",
+      "bidType": "CS",
+      "title": "Litter Pickup",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Coleta de lixo e limpeza de areas publicas",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "low",
+      "risco_juridico": "low",
+      "risco_financeiro": "low",
+      "risco_operacional": "low",
+      "risco_compliance": "low",
+      "veredito": "wait",
+      "fit_score": 35,
+      "veredito_reason": "CS exige 2 anos. Servico simples - boa entrada 2027 com equipe.",
+      "nextStep": "Jun/2027: baixar edital e verificar area, frequencia, equipamento.",
+      "sourcing": {
+        "category": "Limpeza de vias publicas",
+        "where": [
+          "Equipe propria ou subcontratada"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - equipe e veiculo",
+        "marginEstimate": "25-40%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 20-633",
+          "url": "https://www.polkfl.gov/bid-form/cs-20-633/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-20-633/"
+    },
+    {
+      "id": "polk-cs-20-667",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 20-667",
+      "bidType": "CS",
+      "title": "Heavy Equipment and Tool Rentals",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "Continuo",
+      "deadline": "Sem prazo - lista aberta",
+      "valor_estimado": null,
+      "escopo": "Aluguel de equipamentos pesados e ferramentas",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "high",
+      "risco_operacional": "high",
+      "risco_compliance": "low",
+      "veredito": "wait",
+      "fit_score": 20,
+      "veredito_reason": "CS exige 2 anos. Requer frota - alto capital. Baixa prioridade.",
+      "nextStep": "Baixa prioridade. Considerar apenas com parceiro de frota.",
+      "sourcing": {
+        "category": "Aluguel equipamentos pesados",
+        "where": [
+          "United Rentals (sublease)"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil - requer frota",
+        "marginEstimate": "10-20%"
+      },
+      "barriers": {
+        "yearsRequired": true,
+        "bondRequired": false,
+        "licenseRequired": "Nenhuma",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "CS 20-667",
+          "url": "https://www.polkfl.gov/bid-form/cs-20-667/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cs-20-667/"
+    },
+    {
+      "id": "polk-bid-26-115",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-115",
+      "bidType": "BID",
+      "title": "Polk County History Center Dome Repairs",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "June 3, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Polk County History Center Dome Repairs",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CGC obrigatorio - reparo em edificio historico. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-115",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-115/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-115/"
+    },
+    {
+      "id": "polk-cq-26-219",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CQ 26-219",
+      "bidType": "CQ",
+      "title": "Lake Parker Dock Demolition",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "June 17, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Lake Parker Dock Demolition",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Demolicao aquatica - CGC + FDEP Water Permit. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital CQ 26-219",
+          "url": "https://www.polkfl.gov/bid-form/cq-26-219/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cq-26-219/"
+    },
+    {
+      "id": "polk-bid-26-243",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-243",
+      "bidType": "BID",
+      "title": "Concrete Sidewalks, Driveways, and Curbs",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "June 17, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Concrete Sidewalks, Driveways, and Curbs",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Obra civil - CGC + bond obrigatorios. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-243",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-243/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-243/"
+    },
+    {
+      "id": "polk-bid-26-148",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-148",
+      "bidType": "BID",
+      "title": "Commercial Irrigation Repairs and Services",
+      "nicho": "landscaping",
+      "model": "service",
+      "openDate": "June 17, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Commercial Irrigation Repairs and Services",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Florida Irrigation License obrigatorio. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-148",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-148/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-148/"
+    },
+    {
+      "id": "polk-bid-26-149",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-149",
+      "bidType": "BID",
+      "title": "Well Repairs and Services",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "June 17, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Well Repairs and Services",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Florida Water Well Contractor License + FDEP. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-149",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-149/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-149/"
+    },
+    {
+      "id": "polk-rfp-26-292",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 26-292",
+      "bidType": "RFP",
+      "title": "Construction Manager At Risk Kathleen Government Center",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "July 1, 2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Construction Manager At Risk Kathleen Government Center",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CMAR - CGC + bond + historico extenso. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 26-292",
+          "url": "https://www.polkfl.gov/bid-form/rfp-26-292/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-26-292/"
+    },
+    {
+      "id": "polk-rfp-25-599",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 25-599",
+      "bidType": "RFP",
+      "title": "Construction Manager at Risk Medical Examiner Expansion",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Construction Manager at Risk Medical Examiner Expansion",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CMAR obra publica - CGC + bond. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 25-599",
+          "url": "https://www.polkfl.gov/bid-form/rfp-25-599/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-25-599/"
+    },
+    {
+      "id": "polk-rfp-25-417",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 25-417",
+      "bidType": "RFP",
+      "title": "Construction Engineering and Inspection Maine Ave",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Construction Engineering and Inspection Maine Ave",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "PE obrigatorio - engenharia civil. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 25-417",
+          "url": "https://www.polkfl.gov/bid-form/rfp-25-417/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-25-417/"
+    },
+    {
+      "id": "polk-bid-25-418",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 25-418",
+      "bidType": "BID",
+      "title": "Maine Ave Sidewalk Construction",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Maine Ave Sidewalk Construction",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CGC + bond - obra civil. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 25-418",
+          "url": "https://www.polkfl.gov/bid-form/bid-25-418/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-25-418/"
+    },
+    {
+      "id": "polk-rfp-25-652",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 25-652",
+      "bidType": "RFP",
+      "title": "Engineering Services Circle B Bar Reserve",
+      "nicho": "landscaping",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Engineering Services Circle B Bar Reserve",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "PE + engenharia ambiental FDEP. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 25-652",
+          "url": "https://www.polkfl.gov/bid-form/rfp-25-652/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-25-652/"
+    },
+    {
+      "id": "polk-rfp-25-697",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 25-697",
+      "bidType": "RFP",
+      "title": "Engineering Services Caspian Road Sidewalk",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Engineering Services Caspian Road Sidewalk",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "PE Florida obrigatorio. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 25-697",
+          "url": "https://www.polkfl.gov/bid-form/rfp-25-697/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-25-697/"
+    },
+    {
+      "id": "polk-rfp-25-688",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 25-688",
+      "bidType": "RFP",
+      "title": "Construction Manager at Risk NW SW Regional Facilities",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Construction Manager at Risk NW SW Regional Facilities",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CMAR - CGC + bond elevado. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 25-688",
+          "url": "https://www.polkfl.gov/bid-form/rfp-25-688/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-25-688/"
+    },
+    {
+      "id": "polk-bid-26-030",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-030",
+      "bidType": "BID",
+      "title": "NERUSA AWS Supply Well",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - NERUSA AWS Supply Well",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Water Well License + FDEP obrigatorios. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-030",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-030/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-030/"
+    },
+    {
+      "id": "polk-bid-25-614",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 25-614",
+      "bidType": "BID",
+      "title": "Construction of New Inspection and Testing Building",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Construction of New Inspection and Testing Building",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CGC + bond - construcao de edificio publico. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 25-614",
+          "url": "https://www.polkfl.gov/bid-form/bid-25-614/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-25-614/"
+    },
+    {
+      "id": "polk-bid-25-615",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 25-615",
+      "bidType": "BID",
+      "title": "Bartow Courthouse Roof Repairs",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2025",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Bartow Courthouse Roof Repairs",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Florida Roofing Contractor License obrigatorio. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 25-615",
+          "url": "https://www.polkfl.gov/bid-form/bid-25-615/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-25-615/"
+    },
+    {
+      "id": "polk-rfp-26-055",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 26-055",
+      "bidType": "RFP",
+      "title": "Construction Manager at Risk Smith Lane Facility",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Construction Manager at Risk Smith Lane Facility",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CMAR - CGC + bond. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 26-055",
+          "url": "https://www.polkfl.gov/bid-form/rfp-26-055/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-26-055/"
+    },
+    {
+      "id": "polk-bid-26-040",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-040",
+      "bidType": "BID",
+      "title": "Painted Pavement Markings and Thermoplastic Markings",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Painted Pavement Markings and Thermoplastic Markings",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Servico com equipamento especializado - nao e produto. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-040",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-040/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-040/"
+    },
+    {
+      "id": "polk-bid-26-050",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-050",
+      "bidType": "BID",
+      "title": "Wabash Resource Center Basketball Court CDBG",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Wabash Resource Center Basketball Court CDBG",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CDBG federal - CGC + Davis-Bacon Act. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-050",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-050/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-050/"
+    },
+    {
+      "id": "polk-rfp-26-046",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 26-046",
+      "bidType": "RFP",
+      "title": "CEI Services Combee Academy Sidewalk",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - CEI Services Combee Academy Sidewalk",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "PE obrigatorio - CEI. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 26-046",
+          "url": "https://www.polkfl.gov/bid-form/rfp-26-046/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-26-046/"
+    },
+    {
+      "id": "polk-bid-26-045",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-045",
+      "bidType": "BID",
+      "title": "Combee Academy SRTS Sidewalk and Street Lighting",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - Combee Academy SRTS Sidewalk and Street Lighting",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "CGC + Electrical License + Davis-Bacon. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital Bid 26-045",
+          "url": "https://www.polkfl.gov/bid-form/bid-26-045/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-045/"
+    },
+    {
+      "id": "polk-cq-26-128",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CQ 26-128 SM",
+      "bidType": "CQ",
+      "title": "SWRWWTF New Perimeter Precast Concrete Wall",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - SWRWWTF New Perimeter Precast Concrete Wall",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Construcao de muro - CGC obrigatorio. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital CQ 26-128 SM",
+          "url": "https://www.polkfl.gov/bid-form/cq-26-128/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cq-26-128/"
+    },
+    {
+      "id": "polk-rfp-26-228",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "RFP 26-228",
+      "bidType": "RFP",
+      "title": "CEI Services Northwest Polk Connector",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - CEI Services Northwest Polk Connector",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "PE obrigatorio - CEI viaria. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital RFP 26-228",
+          "url": "https://www.polkfl.gov/bid-form/rfp-26-228/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/rfp-26-228/"
+    },
+    {
+      "id": "polk-cq-26-244",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CQ 26-244",
+      "bidType": "CQ",
+      "title": "SWRWWTF New Perimeter Precast Concrete Wall v2",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026",
+      "deadline": "Ver edital PDF",
+      "valor_estimado": null,
+      "escopo": "Ver edital completo - SWRWWTF New Perimeter Precast Concrete Wall v2",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "high",
+      "risco_juridico": "medium",
+      "risco_financeiro": "medium",
+      "risco_operacional": "high",
+      "risco_compliance": "medium",
+      "veredito": "skip",
+      "fit_score": 8,
+      "veredito_reason": "Construcao de muro - CGC obrigatorio. Fora do modelo de negocio atual.",
+      "nextStep": "Descartar.",
+      "sourcing": {
+        "category": "Servico especializado",
+        "where": [
+          "N/A"
+        ],
+        "difficulty": "hard",
+        "difficultyLabel": "Dificil",
+        "marginEstimate": "N/A"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": true,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL+",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Polk County Procurement",
+        "email": "procurement@polk-county.net",
+        "phone": "(863) 534-7593"
+      },
+      "documents": [
+        {
+          "name": "Edital CQ 26-244",
+          "url": "https://www.polkfl.gov/bid-form/cq-26-244/"
+        }
+      ],
+      "link": "https://www.polkfl.gov/bid-form/cq-26-244/"
+    }
+  ],
+  "summary": {
+    "go": 2,
+    "watch": 5,
+    "wait": 8,
+    "skip": 23
+  }
+}
