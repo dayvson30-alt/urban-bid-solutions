@@ -176,6 +176,16 @@ header{background:var(--navy);color:#fff;padding:14px 20px;display:flex;align-it
 .rebid-card.media{border-left-color:#d97706}
 .rebid-card.baixa{border-left-color:#16a34a}
 
+/* PDF Analysis */
+.pdf-status-open{background:#dcfce7;color:#16a34a;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:800;display:inline-block}
+.pdf-status-closed{background:#fee2e2;color:#dc2626;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:800;display:inline-block}
+.pdf-status-awarded{background:#fef3c7;color:#d97706;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:800;display:inline-block}
+.pdf-section{margin-bottom:12px}
+.pdf-section-title{font-size:10px;font-weight:800;text-transform:uppercase;color:#64748b;margin-bottom:5px;letter-spacing:.05em}
+.pdf-section-content{font-size:13px;color:#1e293b;line-height:1.6;background:#fff;border-radius:5px;padding:10px 12px;border:1px solid #e2e8f0}
+.pdf-ambiguidade{display:flex;align-items:flex-start;gap:8px;padding:7px 10px;background:#fff7ed;border-radius:5px;border:1px solid #fed7aa;margin-bottom:5px;font-size:12px;color:#92400e;line-height:1.5}
+.pdf-extracted-at{font-size:10px;color:#94a3b8;margin-left:8px}
+.pdf-pending-banner{background:#f0f9ff;border:1px solid #bae6fd;border-radius:7px;padding:12px 16px;display:flex;align-items:center;gap:12px;font-size:13px;color:#0369a1}
 /* Winners History */
 .winner-card{background:#f8fafc;border-radius:7px;padding:12px;border:1px solid #e2e8f0;margin-bottom:8px}
 .winner-rank{width:24px;height:24px;border-radius:50%;background:var(--navy);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;margin-right:8px;flex-shrink:0}
@@ -574,6 +584,7 @@ function renderDetail(b){
     '<div class="bi"><div class="bi-ic">INF</div><div><div class="bi-name">E-Verify</div><div class="bi-det">'+(ba.eVerify?'Obrigatorio - registre em e-verify.uscis.gov (gratuito)':'Nao mencionado')+'</div></div></div>'+
     '</div></div></div>'+
     ucHTML+
+    buildPdfAnalysis(b)+
     buildWinnersBlock(b)+
     buildPipelineBlock(b)+
     '<div class="dblock"><div class="dbhdr">Acao Imediata - Email e WhatsApp</div><div class="dbbody">'+
@@ -901,6 +912,71 @@ function setRebidFilter(f) {
 }
 
 
+// ── PDF ANALYSIS BLOCK ──────────────────────────────────────────────────
+function buildPdfAnalysis(b) {
+  var pa = b.pdf_analysis;
+
+  // If PDF is already stored in GitHub Pages — show nothing here, buildDocViewer handles it
+  if (b.pdf_url) return '';
+
+  // If no analysis data at all — show pending banner
+  if (!pa) {
+    return '<div class="dblock"><div class="dbhdr">Edital Completo</div>'+
+      '<div class="dbbody"><div class="pdf-pending-banner">'+
+      '<span style="font-size:22px">📄</span>'+
+      '<div><strong>PDF do edital sera baixado amanha (8h ET)</strong><br>'+
+      '<span style="font-size:12px;color:#0369a1">O N8N vai baixar, armazenar e resumir automaticamente cada edital.</span></div>'+
+      '</div></div></div>';
+  }
+
+  // Status badge
+  var st = pa.status_bid || 'unknown';
+  var statusBadge = st === 'open' ? '<span class="pdf-status-open">ABERTO</span>' :
+    st === 'awarded' ? '<span class="pdf-status-awarded">ADJUDICADO</span>' :
+    st === 'closed'  ? '<span class="pdf-status-closed">ENCERRADO</span>' :
+    '<span style="background:#f1f5f9;color:#475569;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:800">'+st.toUpperCase()+'</span>';
+
+  var extractedAt = pa.extracted_at ?
+    '<span class="pdf-extracted-at">Analisado: '+new Date(pa.extracted_at).toLocaleDateString('pt-BR')+'</span>' : '';
+
+  var vencedorHTML = pa.vencedor ?
+    '<div class="pdf-section"><div class="pdf-section-title">Vencedor Atual</div>'+
+    '<div class="pdf-section-content" style="background:#fefce8;border-color:#fde047;font-weight:700">'+pa.vencedor+'</div></div>' : '';
+
+  var instrHTML = pa.instrucoes_submissao ?
+    '<div class="pdf-section"><div class="pdf-section-title">Instrucoes de Submissao</div>'+
+    '<div class="pdf-section-content">'+pa.instrucoes_submissao+'</div></div>' : '';
+
+  var obsHTML = pa.observacoes ?
+    '<div class="pdf-section"><div class="pdf-section-title">Observacoes Importantes</div>'+
+    '<div class="pdf-section-content">'+pa.observacoes+'</div></div>' : '';
+
+  var ambHTML = '';
+  if (pa.ambiguidades && pa.ambiguidades.length) {
+    ambHTML = '<div class="pdf-section"><div class="pdf-section-title">Pontos de Atencao / Ambiguidades</div>'+
+      pa.ambiguidades.map(function(a){
+        return '<div class="pdf-ambiguidade"><span style="flex-shrink:0">AVS</span><span>'+a+'</span></div>';
+      }).join('')+'</div>';
+  }
+
+  var portalBtn = b.link ?
+    '<a href="'+b.link+'" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:7px 14px;background:#2563eb;color:#fff;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;margin-top:4px">'+
+    'Acessar Portal Original</a>' : '';
+
+  return '<div class="dblock">'+
+    '<div class="dbhdr">Analise do Edital — Extraida Automaticamente</div>'+
+    '<div class="dbbody">'+
+    '<div style="display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:14px">'+
+    statusBadge+extractedAt+
+    '</div>'+
+    vencedorHTML+instrHTML+obsHTML+ambHTML+
+    '<div style="border-top:1px solid #f1f5f9;margin-top:8px;padding-top:10px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">'+
+    '<span style="font-size:11px;color:#94a3b8">PDF completo sera disponibilizado amanha (8h ET) apos N8N rodar</span>'+
+    portalBtn+
+    '</div>'+
+    '</div></div>';
+}
+
 // ── WINNERS HISTORY BLOCK ────────────────────────────────────────────────
 function buildWinnersBlock(b) {
   var wh = INLINE_WINNERS;
@@ -987,7 +1063,23 @@ function buildPipelineBlock(b) {
 
 // ── DOCUMENT VIEWER ─────────────────────────────────────────────────────
 function buildDocViewer(b) {
-  // Collect all available document URLs
+  // Priority 1: PDF stored in GitHub Pages by N8N (amanha)
+  if (b.pdf_url) {
+    var tabs2 = (b.pdf_pages || []).length > 1 ?
+      b.pdf_pages.map(function(p,i){
+        return '<button onclick="switchDoc(\''+p.url+'\',this)" class="doc-tab'+(i===0?' doc-tab-active':'')+'">'+p.label+'</button>';
+      }).join('') :
+      '<button class="doc-tab doc-tab-active">Edital Completo</button>';
+    return '<div class="dblock"><div class="dbhdr">Edital Completo ('+
+      (b.pdf_pages?b.pdf_pages.length:1)+' documento'+(b.pdf_pages&&b.pdf_pages.length>1?'s':'')+
+      ')</div>'+
+      '<div class="dbbody" style="padding:0">'+
+      '<div class="doc-tabs">'+tabs2+'</div>'+
+      '<iframe id="doc-frame" src="'+b.pdf_url+'" style="width:100%;height:680px;border:none;display:block"></iframe>'+
+      '</div></div>';
+  }
+
+  // Priority 2: Collect PDF links from documents/pdf_links/resourceLinks
   var allDocs = [];
 
   // From documents array
