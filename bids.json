@@ -2996,7 +2996,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-20-667-Approved-Vendor-List.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-667/"
+      "link": "https://www.polkfl.gov/bid-form/cs-20-667/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-20-1111",
@@ -3059,7 +3060,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-20-1111-Approved-Vendor-List.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/"
+      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-20-633",
@@ -3122,7 +3124,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-20-633-Awarded-Vendor-List.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-633/"
+      "link": "https://www.polkfl.gov/bid-form/cs-20-633/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-21-380",
@@ -3185,7 +3188,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/bid-21-380-bid-package.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-21-380/"
+      "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-303",
@@ -3244,7 +3248,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2025/04/CS-25-303-Plumbing-Equipment-Fixtures-and-Supplies.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-303/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-463",
@@ -3303,7 +3308,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2025/05/CS-25-463-Safety-Products-and-Equipment.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-463/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-463/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-475",
@@ -3362,7 +3368,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2025/05/CS-25-475-Sherwin-Williams-Paint-and-Supplies.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-475/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-456",
@@ -3421,7 +3428,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2025/06/CS-25-456-Chemicals-and-Herbicides.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-456/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-24-610",
@@ -3476,7 +3484,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2026/04/Bid-24-610-Recommendation-of-Award-Group-C-4-24-26.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/bid-24-610/"
+      "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-rfp-25-599",
@@ -4106,7 +4115,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2025/11/Bid-25-716-Bid-Analysis.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/bid-25-716-sm/"
+      "link": "https://www.polkfl.gov/bid-form/bid-25-716-sm/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-25-614",
@@ -4673,7 +4683,8 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2026/02/Bid-26-129-Recommendation-of-Award.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/bid-26-129/"
+      "link": "https://www.polkfl.gov/bid-form/bid-26-129/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cq-26-128-sm",
