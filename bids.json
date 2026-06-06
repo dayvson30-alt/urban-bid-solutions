@@ -79,7 +79,8 @@
           "Deadline nao encontrada nos addendums - confirmar com Brad Howard",
           "Exige referencia de projetos similares - Urban Clean nao tem ainda"
         ]
-      }
+      },
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-25-667",
@@ -151,7 +152,8 @@
           "Deadline nao encontrada - confirmar com Brad Howard",
           "FTP site tem documentos revisados completos - baixar antes de cotar"
         ]
-      }
+      },
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-24-610",
@@ -209,7 +211,8 @@
       ],
       "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
       "pdf_processed": true,
-      "pdf_error": "No PDFs downloaded successfully"
+      "pdf_error": "No PDFs downloaded successfully",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-25-716",
@@ -273,7 +276,8 @@
         "instrucoes_submissao": "submitted with your",
         "extracted_at": "2026-06-05T08:37:46",
         "method": "regex"
-      }
+      },
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-26-129",
@@ -526,7 +530,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-20-1111/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/"
+      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-463",
@@ -584,7 +589,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-25-463/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-463/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-463/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-303",
@@ -641,7 +647,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-25-303/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-303/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-475",
@@ -696,7 +703,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-25-475/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-475/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-21-380",
@@ -753,7 +761,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-21-380/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-21-380/"
+      "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-25-456",
@@ -810,7 +819,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-25-456/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-456/"
+      "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-20-633",
@@ -865,7 +875,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-20-633/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-633/"
+      "link": "https://www.polkfl.gov/bid-form/cs-20-633/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-cs-20-667",
@@ -920,7 +931,8 @@
           "url": "https://www.polkfl.gov/bid-form/cs-20-667/"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-667/"
+      "link": "https://www.polkfl.gov/bid-form/cs-20-667/",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "polk-bid-26-115",
@@ -2240,7 +2252,8 @@
           "url": "https://sam.gov/workspace/contract/opp/bceae504b56541a484d69769ef29a369/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/bceae504b56541a484d69769ef29a369/view"
+      "link": "https://sam.gov/workspace/contract/opp/bceae504b56541a484d69769ef29a369/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-bbcb77e6a11141de9fecca2c6b3f38a2",
@@ -2295,7 +2308,8 @@
           "url": "https://sam.gov/workspace/contract/opp/bbcb77e6a11141de9fecca2c6b3f38a2/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/bbcb77e6a11141de9fecca2c6b3f38a2/view"
+      "link": "https://sam.gov/workspace/contract/opp/bbcb77e6a11141de9fecca2c6b3f38a2/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-fbcf63131f594ef9a6277bf8e0cf5bee",
@@ -2350,7 +2364,8 @@
           "url": "https://sam.gov/workspace/contract/opp/fbcf63131f594ef9a6277bf8e0cf5bee/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/fbcf63131f594ef9a6277bf8e0cf5bee/view"
+      "link": "https://sam.gov/workspace/contract/opp/fbcf63131f594ef9a6277bf8e0cf5bee/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-f86e129dc3f848a28e09936a1d1a3974",
@@ -2405,7 +2420,8 @@
           "url": "https://sam.gov/workspace/contract/opp/f86e129dc3f848a28e09936a1d1a3974/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/f86e129dc3f848a28e09936a1d1a3974/view"
+      "link": "https://sam.gov/workspace/contract/opp/f86e129dc3f848a28e09936a1d1a3974/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-f625fde687e246628b2f582bdfc511e4",
@@ -2460,7 +2476,8 @@
           "url": "https://sam.gov/workspace/contract/opp/f625fde687e246628b2f582bdfc511e4/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/f625fde687e246628b2f582bdfc511e4/view"
+      "link": "https://sam.gov/workspace/contract/opp/f625fde687e246628b2f582bdfc511e4/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-eaff85e0f0f24dbbaeab299e2a192480",
@@ -2515,7 +2532,8 @@
           "url": "https://sam.gov/workspace/contract/opp/eaff85e0f0f24dbbaeab299e2a192480/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/eaff85e0f0f24dbbaeab299e2a192480/view"
+      "link": "https://sam.gov/workspace/contract/opp/eaff85e0f0f24dbbaeab299e2a192480/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-e8b935cab9ed4ddf808552c54f0d746b",
@@ -2570,7 +2588,8 @@
           "url": "https://sam.gov/workspace/contract/opp/e8b935cab9ed4ddf808552c54f0d746b/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/e8b935cab9ed4ddf808552c54f0d746b/view"
+      "link": "https://sam.gov/workspace/contract/opp/e8b935cab9ed4ddf808552c54f0d746b/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-ca2e97b932ce44a4a74122b6a2964ea0",
@@ -2625,7 +2644,8 @@
           "url": "https://sam.gov/workspace/contract/opp/ca2e97b932ce44a4a74122b6a2964ea0/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/ca2e97b932ce44a4a74122b6a2964ea0/view"
+      "link": "https://sam.gov/workspace/contract/opp/ca2e97b932ce44a4a74122b6a2964ea0/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-bebeba89b13b48cabb665217207dbbdd",
@@ -2680,7 +2700,8 @@
           "url": "https://sam.gov/workspace/contract/opp/bebeba89b13b48cabb665217207dbbdd/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/bebeba89b13b48cabb665217207dbbdd/view"
+      "link": "https://sam.gov/workspace/contract/opp/bebeba89b13b48cabb665217207dbbdd/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-bd271668309849ad87834ee58b08d495",
@@ -2735,7 +2756,8 @@
           "url": "https://sam.gov/workspace/contract/opp/bd271668309849ad87834ee58b08d495/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/bd271668309849ad87834ee58b08d495/view"
+      "link": "https://sam.gov/workspace/contract/opp/bd271668309849ad87834ee58b08d495/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-bc74cad899574482963fa31de4f8d819",
@@ -2790,7 +2812,8 @@
           "url": "https://sam.gov/workspace/contract/opp/bc74cad899574482963fa31de4f8d819/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/bc74cad899574482963fa31de4f8d819/view"
+      "link": "https://sam.gov/workspace/contract/opp/bc74cad899574482963fa31de4f8d819/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-b86e6f4cb0ee482797e5584a4c0530be",
@@ -2845,7 +2868,8 @@
           "url": "https://sam.gov/workspace/contract/opp/b86e6f4cb0ee482797e5584a4c0530be/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/b86e6f4cb0ee482797e5584a4c0530be/view"
+      "link": "https://sam.gov/workspace/contract/opp/b86e6f4cb0ee482797e5584a4c0530be/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-b55fa7aa0fbe406581d30d75a4b225c6",
@@ -2900,7 +2924,8 @@
           "url": "https://sam.gov/workspace/contract/opp/b55fa7aa0fbe406581d30d75a4b225c6/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/b55fa7aa0fbe406581d30d75a4b225c6/view"
+      "link": "https://sam.gov/workspace/contract/opp/b55fa7aa0fbe406581d30d75a4b225c6/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-b3df31e292d546e5a7b4d11dfa4f7aa4",
@@ -2955,7 +2980,8 @@
           "url": "https://sam.gov/workspace/contract/opp/b3df31e292d546e5a7b4d11dfa4f7aa4/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/b3df31e292d546e5a7b4d11dfa4f7aa4/view"
+      "link": "https://sam.gov/workspace/contract/opp/b3df31e292d546e5a7b4d11dfa4f7aa4/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-9344cf728e7141909620921bc7aac08e",
@@ -3010,7 +3036,8 @@
           "url": "https://sam.gov/workspace/contract/opp/9344cf728e7141909620921bc7aac08e/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/9344cf728e7141909620921bc7aac08e/view"
+      "link": "https://sam.gov/workspace/contract/opp/9344cf728e7141909620921bc7aac08e/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-9277eec8bb9b4c8384f11223ea5c7b2a",
@@ -3065,7 +3092,8 @@
           "url": "https://sam.gov/workspace/contract/opp/9277eec8bb9b4c8384f11223ea5c7b2a/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/9277eec8bb9b4c8384f11223ea5c7b2a/view"
+      "link": "https://sam.gov/workspace/contract/opp/9277eec8bb9b4c8384f11223ea5c7b2a/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-90a7878836ad4e93a101f65e4022a07c",
@@ -3120,7 +3148,8 @@
           "url": "https://sam.gov/workspace/contract/opp/90a7878836ad4e93a101f65e4022a07c/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/90a7878836ad4e93a101f65e4022a07c/view"
+      "link": "https://sam.gov/workspace/contract/opp/90a7878836ad4e93a101f65e4022a07c/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-8dfa3e532b6e40c1b9cb4f5ba2b0f8dd",
@@ -3175,7 +3204,8 @@
           "url": "https://sam.gov/workspace/contract/opp/8dfa3e532b6e40c1b9cb4f5ba2b0f8dd/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/8dfa3e532b6e40c1b9cb4f5ba2b0f8dd/view"
+      "link": "https://sam.gov/workspace/contract/opp/8dfa3e532b6e40c1b9cb4f5ba2b0f8dd/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-7f0d99f832de4e74af7b6e794d7535b7",
@@ -3230,7 +3260,8 @@
           "url": "https://sam.gov/workspace/contract/opp/7f0d99f832de4e74af7b6e794d7535b7/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/7f0d99f832de4e74af7b6e794d7535b7/view"
+      "link": "https://sam.gov/workspace/contract/opp/7f0d99f832de4e74af7b6e794d7535b7/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-79246aaef44e462ca27071ab7fc5dadb",
@@ -3285,7 +3316,8 @@
           "url": "https://sam.gov/workspace/contract/opp/79246aaef44e462ca27071ab7fc5dadb/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/79246aaef44e462ca27071ab7fc5dadb/view"
+      "link": "https://sam.gov/workspace/contract/opp/79246aaef44e462ca27071ab7fc5dadb/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-6cb7314fe062430383a326fcba918abf",
@@ -3340,7 +3372,8 @@
           "url": "https://sam.gov/workspace/contract/opp/6cb7314fe062430383a326fcba918abf/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/6cb7314fe062430383a326fcba918abf/view"
+      "link": "https://sam.gov/workspace/contract/opp/6cb7314fe062430383a326fcba918abf/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-57df451a4f3c4e8d95d6bb40d37ac3de",
@@ -3395,7 +3428,8 @@
           "url": "https://sam.gov/workspace/contract/opp/57df451a4f3c4e8d95d6bb40d37ac3de/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/57df451a4f3c4e8d95d6bb40d37ac3de/view"
+      "link": "https://sam.gov/workspace/contract/opp/57df451a4f3c4e8d95d6bb40d37ac3de/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-517ec21f7f6942e4a98d9b43b3eacec5",
@@ -3450,7 +3484,8 @@
           "url": "https://sam.gov/workspace/contract/opp/517ec21f7f6942e4a98d9b43b3eacec5/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/517ec21f7f6942e4a98d9b43b3eacec5/view"
+      "link": "https://sam.gov/workspace/contract/opp/517ec21f7f6942e4a98d9b43b3eacec5/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-4581700e7a66432c980195cb54ea21dd",
@@ -3505,7 +3540,8 @@
           "url": "https://sam.gov/workspace/contract/opp/4581700e7a66432c980195cb54ea21dd/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/4581700e7a66432c980195cb54ea21dd/view"
+      "link": "https://sam.gov/workspace/contract/opp/4581700e7a66432c980195cb54ea21dd/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-423b1bd8f90c49d88090a6f999a8cf5d",
@@ -3560,7 +3596,8 @@
           "url": "https://sam.gov/workspace/contract/opp/423b1bd8f90c49d88090a6f999a8cf5d/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/423b1bd8f90c49d88090a6f999a8cf5d/view"
+      "link": "https://sam.gov/workspace/contract/opp/423b1bd8f90c49d88090a6f999a8cf5d/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-3415353a537e47de9b40c973c074301d",
@@ -3615,7 +3652,8 @@
           "url": "https://sam.gov/workspace/contract/opp/3415353a537e47de9b40c973c074301d/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/3415353a537e47de9b40c973c074301d/view"
+      "link": "https://sam.gov/workspace/contract/opp/3415353a537e47de9b40c973c074301d/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-0a169da265b6422481ce2d54ba4f1755",
@@ -3670,7 +3708,8 @@
           "url": "https://sam.gov/workspace/contract/opp/0a169da265b6422481ce2d54ba4f1755/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/0a169da265b6422481ce2d54ba4f1755/view"
+      "link": "https://sam.gov/workspace/contract/opp/0a169da265b6422481ce2d54ba4f1755/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-df7efdd5315b4c8e8786e6e1d89d0233",
@@ -3725,7 +3764,8 @@
           "url": "https://sam.gov/workspace/contract/opp/df7efdd5315b4c8e8786e6e1d89d0233/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/df7efdd5315b4c8e8786e6e1d89d0233/view"
+      "link": "https://sam.gov/workspace/contract/opp/df7efdd5315b4c8e8786e6e1d89d0233/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-ddcdc1c5b9324c0a84cd2f82f5aa0ad4",
@@ -3780,7 +3820,8 @@
           "url": "https://sam.gov/workspace/contract/opp/ddcdc1c5b9324c0a84cd2f82f5aa0ad4/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/ddcdc1c5b9324c0a84cd2f82f5aa0ad4/view"
+      "link": "https://sam.gov/workspace/contract/opp/ddcdc1c5b9324c0a84cd2f82f5aa0ad4/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-dd8489d739224096bd3c79efd130ae4a",
@@ -3835,7 +3876,8 @@
           "url": "https://sam.gov/workspace/contract/opp/dd8489d739224096bd3c79efd130ae4a/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/dd8489d739224096bd3c79efd130ae4a/view"
+      "link": "https://sam.gov/workspace/contract/opp/dd8489d739224096bd3c79efd130ae4a/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-daef631ccb0c4da09e11cf22cd430340",
@@ -3890,7 +3932,8 @@
           "url": "https://sam.gov/workspace/contract/opp/daef631ccb0c4da09e11cf22cd430340/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/daef631ccb0c4da09e11cf22cd430340/view"
+      "link": "https://sam.gov/workspace/contract/opp/daef631ccb0c4da09e11cf22cd430340/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-ccfedaf4159244999001295f9aaca3b9",
@@ -3945,7 +3988,8 @@
           "url": "https://sam.gov/workspace/contract/opp/ccfedaf4159244999001295f9aaca3b9/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/ccfedaf4159244999001295f9aaca3b9/view"
+      "link": "https://sam.gov/workspace/contract/opp/ccfedaf4159244999001295f9aaca3b9/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-c5663d1721da47d2ae4a86318186820a",
@@ -4000,7 +4044,8 @@
           "url": "https://sam.gov/workspace/contract/opp/c5663d1721da47d2ae4a86318186820a/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/c5663d1721da47d2ae4a86318186820a/view"
+      "link": "https://sam.gov/workspace/contract/opp/c5663d1721da47d2ae4a86318186820a/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-c53dff1f5a79435c81457f1ef1e7e3b7",
@@ -4055,7 +4100,8 @@
           "url": "https://sam.gov/workspace/contract/opp/c53dff1f5a79435c81457f1ef1e7e3b7/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/c53dff1f5a79435c81457f1ef1e7e3b7/view"
+      "link": "https://sam.gov/workspace/contract/opp/c53dff1f5a79435c81457f1ef1e7e3b7/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-c18677411e2d44fc867aba60a22bb14a",
@@ -4110,7 +4156,8 @@
           "url": "https://sam.gov/workspace/contract/opp/c18677411e2d44fc867aba60a22bb14a/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/c18677411e2d44fc867aba60a22bb14a/view"
+      "link": "https://sam.gov/workspace/contract/opp/c18677411e2d44fc867aba60a22bb14a/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-bfc3ff8a05d94971b2f8fd7eb10af106",
@@ -4165,7 +4212,8 @@
           "url": "https://sam.gov/workspace/contract/opp/bfc3ff8a05d94971b2f8fd7eb10af106/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/bfc3ff8a05d94971b2f8fd7eb10af106/view"
+      "link": "https://sam.gov/workspace/contract/opp/bfc3ff8a05d94971b2f8fd7eb10af106/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-aba6ebd9745348afa1b98f0c48ce4cfa",
@@ -4220,7 +4268,8 @@
           "url": "https://sam.gov/workspace/contract/opp/aba6ebd9745348afa1b98f0c48ce4cfa/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/aba6ebd9745348afa1b98f0c48ce4cfa/view"
+      "link": "https://sam.gov/workspace/contract/opp/aba6ebd9745348afa1b98f0c48ce4cfa/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-a166c1e8ab7f4fb28e8ca5d5a8410285",
@@ -4275,7 +4324,8 @@
           "url": "https://sam.gov/workspace/contract/opp/a166c1e8ab7f4fb28e8ca5d5a8410285/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/a166c1e8ab7f4fb28e8ca5d5a8410285/view"
+      "link": "https://sam.gov/workspace/contract/opp/a166c1e8ab7f4fb28e8ca5d5a8410285/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-a139c18ac336444480503715152691f0",
@@ -4330,7 +4380,8 @@
           "url": "https://sam.gov/workspace/contract/opp/a139c18ac336444480503715152691f0/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/a139c18ac336444480503715152691f0/view"
+      "link": "https://sam.gov/workspace/contract/opp/a139c18ac336444480503715152691f0/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-9ef2fa9e834f42e0b1c2e5e3b7325f61",
@@ -4385,7 +4436,8 @@
           "url": "https://sam.gov/workspace/contract/opp/9ef2fa9e834f42e0b1c2e5e3b7325f61/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/9ef2fa9e834f42e0b1c2e5e3b7325f61/view"
+      "link": "https://sam.gov/workspace/contract/opp/9ef2fa9e834f42e0b1c2e5e3b7325f61/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-94a0e27fa89e47649ba1192ff04b48cd",
@@ -4440,7 +4492,8 @@
           "url": "https://sam.gov/workspace/contract/opp/94a0e27fa89e47649ba1192ff04b48cd/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/94a0e27fa89e47649ba1192ff04b48cd/view"
+      "link": "https://sam.gov/workspace/contract/opp/94a0e27fa89e47649ba1192ff04b48cd/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-932a2f01bc464af7b65ffc643cfc7ef6",
@@ -4495,7 +4548,8 @@
           "url": "https://sam.gov/workspace/contract/opp/932a2f01bc464af7b65ffc643cfc7ef6/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/932a2f01bc464af7b65ffc643cfc7ef6/view"
+      "link": "https://sam.gov/workspace/contract/opp/932a2f01bc464af7b65ffc643cfc7ef6/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-8634ec1a3ea34fd984408b5667c8faf6",
@@ -4550,7 +4604,8 @@
           "url": "https://sam.gov/workspace/contract/opp/8634ec1a3ea34fd984408b5667c8faf6/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/8634ec1a3ea34fd984408b5667c8faf6/view"
+      "link": "https://sam.gov/workspace/contract/opp/8634ec1a3ea34fd984408b5667c8faf6/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-77944f3bed49400f82c5a74d1ca6ffd4",
@@ -4605,7 +4660,8 @@
           "url": "https://sam.gov/workspace/contract/opp/77944f3bed49400f82c5a74d1ca6ffd4/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/77944f3bed49400f82c5a74d1ca6ffd4/view"
+      "link": "https://sam.gov/workspace/contract/opp/77944f3bed49400f82c5a74d1ca6ffd4/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-73ec81fd554841d1a7b015fb48ef771e",
@@ -4660,7 +4716,8 @@
           "url": "https://sam.gov/workspace/contract/opp/73ec81fd554841d1a7b015fb48ef771e/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/73ec81fd554841d1a7b015fb48ef771e/view"
+      "link": "https://sam.gov/workspace/contract/opp/73ec81fd554841d1a7b015fb48ef771e/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-2b97a917630c430d98f762fc27533b18",
@@ -4715,7 +4772,8 @@
           "url": "https://sam.gov/workspace/contract/opp/2b97a917630c430d98f762fc27533b18/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/2b97a917630c430d98f762fc27533b18/view"
+      "link": "https://sam.gov/workspace/contract/opp/2b97a917630c430d98f762fc27533b18/view",
+      "ai_analysis_error": "Request failed with status code 404"
     },
     {
       "id": "sam-1f5a33ddceac425583113364519e8d78",
@@ -4770,7 +4828,8 @@
           "url": "https://sam.gov/workspace/contract/opp/1f5a33ddceac425583113364519e8d78/view"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/1f5a33ddceac425583113364519e8d78/view"
+      "link": "https://sam.gov/workspace/contract/opp/1f5a33ddceac425583113364519e8d78/view",
+      "ai_analysis_error": "Request failed with status code 404"
     }
   ]
 }
