@@ -62,7 +62,53 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/bceae504b56541a484d69769ef29a369/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 05/06/2026. Deadline para submissão: 22/06/2026. Confirme horário exato (geralmente 14h00 ou 16h00 ET) diretamente no SAM.gov. Submissões devem ser feitas exclusivamente pela plataforma SAM.gov. Não há indicação de prorrogação prevista, portanto organize sua equipe para entregar com pelo menos 5 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Com base no tipo de contrato e agência (VA), espere: (1) Proposta técnica descrevendo capacidade de atendimento, equipamentos, processos de lavagem e controle de qualidade; (2) Proposta de preço com planilha detalhada por item/frequência; (3) Cadastro ativo no SAM.gov (obrigatório - sem SAM.gov ativo você não pode submeter); (4) Certificação de Small Business (já enquadrada pelo set-aside); (5) Documentos de seguro (GL mínimo $1M); (6) Possíveis referências de contratos anteriores similares. Verifique no edital se há SF-1449 ou formulário específico da VA a ser preenchido.\n\nREQUISITOS TÉCNICOS | NAICS 812331 (Laundries, Linen Supply). Serviço de lavanderia com padrões de higiene adequados para ambiente de saúde/residencial. Empresa deve ter capacidade de processamento suficiente para atender a demanda da Fisher House. Verificar: frequência de coleta/entrega (diária, 3x/semana, semanal), padrões de temperatura de lavagem exigidos pela VA, rastreabilidade dos itens, controle de qualidade, e se é serviço de linen supply (empresa fornece as peças) ou apenas lavagem das peças da VA. Esta distinção é FUNDAMENTAL para precificação.\n\nSEGUROS E GARANTIAS | General Liability: mínimo $1.000.000 por ocorrência. Workers' Compensation: exigido conforme lei da Flórida. Bond: não confirmado - verificar no edital. Adicional: pode ser exigido automobile liability se a empresa faz coleta/entrega com veículo próprio. Inclua o VA como additional insured no certificado de seguro.\n\nCOMO CALCULAR O PREÇO | Passo 1: Solicite o Attachment/SOW completo no SAM.gov para identificar volume exato de itens e frequência. Passo 2: Calcule custo de processamento por libra ou por peça (lavagem + secagem + dobragem). Passo 3: Some custos de coleta e entrega (combustível, tempo de motorista). Passo 4: Se for linen supply, some o custo de reposição/depreciação das peças. Passo 5: Adicione overhead (20-25%) e margem de lucro (10-15%). Passo 6: Compare com preços de mercado local para lavanderia hospitalar em Orlando FL (tipicamente $0,50-$1,20/lb processada). Passo 7: Estruture a proposta com preço unitário mensal e total anual. Considere custos de seguro, mão de obra mínima da Flórida e combustível.\n\nESTRATÉGIA DE SUBMISSÃO | Este é um Total Small Business Set-Aside (FAR 19.5), o que significa que APENAS pequenas empresas podem concorrer - vantagem competitiva real. Estratégia recomendada: (1) Baixe imediatamente todos os documentos do SAM.gov e leia o Statement of Work completo; (2) Visite ou contate o OVAMC Fisher House para entender o volume real de operação (número de quartos/hóspedes habituais); (3) Submeta perguntas formais (Q&A) antes do prazo - geralmente há uma janela de perguntas; (4) Precifique competitivamente mas com margem saudável - contratos VA pagam pontualmente; (5) Destaque experiência prévia com lavanderias para saúde ou instituições governamentais na proposta técnica.\n\nRISCOS | (1) Volume desconhecido: sem saber a quantidade exata de itens, precificação pode ter erros - mitigar com pesquisa prévia; (2) Contrato de curto prazo (1 ano fiscal) com incerteza de renovação; (3) Padrões VA podem ser mais rígidos que lavanderia comercial comum; (4) Concorrência de empresas de lavanderia industrial já estabelecidas em Orlando; (5) Necessidade de SAM.gov ativo - se não tiver, não pode participar; (6) Possível exigência de equipamentos específicos ou certificações de higiene.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://sam.gov/workspace/contract/opp/bceae504b56541a484d69769ef29a369/view e baixe todos os documentos do edital, especialmente o Statement of Work (SOW) e qualquer attachment de preços. Confirme o horário exato do deadline. PASSO 2 (ATÉ 48H): Verifique se seu SAM.gov está ativo e atualizado com NAICS 812331. Se não tiver SAM.gov, inicie o cadastro IMEDIATAMENTE pois pode demorar dias. Leia o SOW completo e identifique volume, frequência e especificações técnicas. PASSO 3 (ATÉ 1 SEMANA ANTES DO DEADLINE): Monte sua proposta técnica e de preço. Se tiver dúvidas, submeta perguntas formais via SAM.gov dentro do prazo de Q&A. Obtenha certidão de seguro GL com cobertura de $1M e inclua VA como additional insured.",
+      "resumo_simples": "O governo federal (Departamento de Veteranos) quer contratar um serviço de lavanderia e fornecimento de roupas de cama/banho (lençóis, toalhas, fronhas, etc.) para a Fisher House localizada no Orlando VA Medical Center (OVAMC), na Flórida, para o ano fiscal de 2026.",
+      "categoria_curta": "Lavanderia e rouparia",
+      "o_que_comprar": "Contratação de serviço completo de lavanderia e linen (rouparia hospitalar) para a Fisher House do Orlando VA Medical Center (OVAMC). O escopo inclui coleta, lavagem, secagem, dobragem e devolução de itens como lençóis, fronhas, toalhas de banho, toalhas de rosto, tapetes de banheiro e demais itens de cama e banho utilizados na Fisher House. A Fisher House é uma residência temporária que acolhe familiares de veteranos em tratamento. O serviço deve atender padrões de higiene hospitalar/residencial. Frequência de coleta e entrega a ser confirmada no edital completo no SAM.gov. Quantidades exatas e especificações técnicas (grammagem, temperatura de lavagem, padrões de higiene) devem ser verificadas nos documentos do edital. Localização: Orlando VAMC, Orlando, FL. Período de contrato: Ano Fiscal 2026 (outubro 2025 a setembro 2026), podendo ter opções de renovação.",
+      "prazo_submissao": "22/06/2026 - Confirmar horário exato (provavelmente 14h00 ou 16h00 ET) no SAM.gov. Data de abertura/publicação: 05/06/2026.",
+      "documentos_lista": [
+        "Cadastro ativo no SAM.gov com NAICS 812331",
+        "Proposta técnica descrevendo capacidade operacional e processos de lavagem",
+        "Proposta de preço (planilha com preços unitários e total anual)",
+        "Certificado de seguro - General Liability mínimo $1.000.000",
+        "Certificado de Workers' Compensation conforme lei da Flórida",
+        "Certificação de Small Business (via SAM.gov)",
+        "Formulário de proposta exigido pela VA (verificar no edital - possivelmente SF-1449)",
+        "Referências de contratos anteriores similares (se exigido no SOW)",
+        "Automobile Liability insurance (se empresa realiza coleta/entrega com frota própria)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmado nas barreiras do edital)",
+        "workers_comp": "Exigido conforme legislação da Flórida - valor mínimo legal do estado",
+        "bond": "Não confirmado - verificar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Moderadamente vale a pena, com ressalvas. O Fit Score de 45/100 indica oportunidade média. Os pontos positivos são: é um Total Small Business Set-Aside (só pequenas empresas podem concorrer, reduzindo a concorrência), o pagador é o governo federal (VA paga pontualmente), e é um serviço recorrente que pode gerar renda estável por todo o ano fiscal. Os pontos negativos são: valor estimado não divulgado (dificulta avaliar se compensa o esforço de proposta), Fisher Houses são residências relativamente pequenas (volume pode ser baixo), e é necessário ter SAM.gov ativo. Recomenda-se baixar o SOW completo primeiro para avaliar o volume real antes de investir tempo na proposta."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) SAM.gov ativo e atualizado - sem isso é impossível participar; (2) Seguro GL de $1.000.000 - se não tiver, precisa contratar antes da submissão; (3) Capacidade técnica comprovada para serviço de lavanderia em padrão adequado para ambiente de saúde/residencial governamental; (4) Experiência prévia - a VA pode valorizar ou exigir referências de contratos similares; (5) Capacidade de coleta e entrega no OVAMC em Orlando; (6) Conformidade com padrões de higiene da VA que podem ser mais rigorosos que lavanderia comercial comum. A barreira mais crítica para novos participantes é a falta de histórico com contratos federais."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para serviços de lavanderia em contratos federais, a margem líquida típica fica entre 10% e 18%. Contratos VA tendem a ser competitivos mas pagam bem e pontualmente. Para estimar: custos diretos (lavagem, produtos, energia, embalagem) representam cerca de 50-60% da receita; mão de obra mais 20-25%; overhead e seguro mais 10-15%; sobram 10-18% de margem. Para uma Fisher House típica (8-21 quartos), o contrato anual pode variar de $15.000 a $60.000 dependendo do volume de itens. Sem o SOW completo é impossível precisar. Baixe o edital para ver se há estimativa de volume ou histórico de contratos anteriores."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para serviços de lavanderia comercial na Flórida, não existe uma licença estadual específica obrigatória para lavanderias comerciais B2B (diferente de estabelecimentos ao público). Entretanto, você deve verificar: (1) Licença comercial municipal/do condado de Orange County ou da cidade de Orlando para operar; (2) Se o edital exige alguma certificação específica de higiene ou qualidade (ex: HLAC - Healthcare Laundry Accreditation Council, comum em contratos hospitalares); (3) Registro ativo na Flórida (Sunbiz). O edital menciona 'Ver edital' para licenças, então leia o SOW completo para confirmar se há exigências específicas da VA."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos: (1) Identifique no SOW o número exato de itens e frequência de coleta/entrega; (2) Defina se é serviço de lavagem apenas ou linen supply (você fornece as peças) - muda drasticamente o preço; (3) Calcule seu custo por libra processada ou por peça (inclua água, energia, detergente, mão de obra, depreciação de equipamentos); (4) Some custo de transporte para Orlando VAMC; (5) Aplique overhead de 20-25% e margem de 12-15%; (6) Compare com preços de mercado em Orlando para lavanderia hospitalar/institucional (referência: $0,60 a $1,30 por libra processada no mercado atual); (7) Estruture a proposta com preço mensal fixo e total de 12 meses; (8) Não precifique abaixo do custo para ganhar - contratos VA que geram prejuízo são difíceis de renegociar."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:45:59.563Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-bbcb77e6a11141de9fecca2c6b3f38a2",
@@ -118,7 +164,52 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/bbcb77e6a11141de9fecca2c6b3f38a2/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura é 05/06/2026 e o prazo final (deadline) é 18/06/2026. Como é um Sources Sought, a submissão consiste em enviar uma Carta de Capacidade (Capability Statement) ou formulário de resposta específico ao contracting officer via SAM.gov ou e-mail indicado no edital completo. Confirme o horário exato (geralmente 17:00 ET) diretamente no SAM.gov. | DOCUMENTOS EXIGIDOS | Para um Sources Sought típico da Marinha com NAICS 541310, normalmente são exigidos: (1) Capability Statement de no máximo 5 páginas; (2) Registro ativo no SAM.gov; (3) Classificação como small business (verificar tamanho padrão SBA para NAICS 541310 — $25,5 milhões de receita anual média); (4) Experiência em projetos similares (listar 3 a 5 projetos relevantes com descrição, valor e cliente); (5) Qualificações da equipe técnica (engenheiros e arquitetos licenciados); (6) Informações sobre certificações (8(a), HUBZone, SDVOSB, WOSB, etc., se aplicável). Confirme os documentos exatos no SAM.gov. | REQUISITOS TÉCNICOS | NAICS 541310 exige que a empresa ofereça serviços de arquitetura. É muito provável que a Marinha exija pelo menos um arquiteto licenciado (RA) ou engenheiro profissional (PE) na equipe, além de familiaridade com normas UFC (Unified Facilities Criteria), NAVFAC standards, e possivelmente clearance de segurança para instalações militares. | SEGUROS E GARANTIAS | Seguro GL mínimo de $1.000.000 conforme indicado. Workers' Compensation exigido conforme lei da Florida. Professional Liability (E&O) de $1.000.000 é padrão para contratos A&E federais. Bond: não indicado para esta fase, mas pode ser exigido na licitação formal. | COMO CALCULAR O PREÇO | Esta fase (Sources Sought) NÃO exige proposta de preço. Serve apenas para demonstrar capacidade. Quando o RFP formal for publicado, os preços serão baseados em: tarifas horárias por disciplina (arquiteto, engenheiro civil, estrutural, etc.), overhead e lucro (tipicamente 10-15% para A&E federal), multiplicador de custo total (geralmente 2,5x a 3,5x o custo direto de mão de obra). | ESTRATÉGIA DE SUBMISSÃO | (1) Responder ao Sources Sought COM UM Capability Statement profissional, destacando experiência prévia com Marinha, DoD ou NAVFAC; (2) Indicar sua classificação como small business e qualquer certificação socioeconomica; (3) Expressar interesse em formar parcerias ou atuar como subcontratado se não tiver experiência federal suficiente; (4) Monitorar o SAM.gov para o RFP formal que deve ser publicado após análise das respostas. | RISCOS | (1) Concorrência alta — contratos A&E federais atraem empresas experientes com histórico DoD; (2) Exigência de licenças profissionais (PE/RA) pode excluir empresas sem profissionais certificados; (3) Valor não divulgado — difícil avaliar viabilidade financeira; (4) Possível exigência de facility clearance para trabalhos em áreas sensíveis da Marinha; (5) Fit Score baixo (38/100) indica que este edital pode não ser ideal para empresas iniciantes em contratos federais. | PRÓXIMOS 3 PASSOS | 1. ACESSAR O EDITAL COMPLETO em https://sam.gov/workspace/contract/opp/bbcb77e6a11141de9fecca2c6b3f38a2/view e ler todos os requisitos específicos, formulários e instruções de submissão; 2. VERIFICAR SE SUA EMPRESA está registrada no SAM.gov com NAICS 541310 ativo e se possui profissionais licenciados (PE ou RA) necessários para qualificar; 3. PREPARAR E ENVIAR o Capability Statement antes de 18/06/2026, mesmo que seja para explorar o mercado e aparecer no radar do contracting officer para o RFP formal futuro.",
+      "resumo_simples": "O governo (Marinha dos EUA) está buscando empresas de arquitetura e engenharia (A&E) para futuros contratos de serviços técnicos em instalações militares navais — esta é uma pesquisa de mercado (Sources Sought) para identificar quem tem capacidade de atender, antes de abrir uma licitação formal.",
+      "categoria_curta": "Serviços de Engenharia",
+      "o_que_comprar": "O Naval Surface Warfare Center (NAVSEA) está realizando uma pesquisa de mercado (Sources Sought) para serviços de Arquitetura e Engenharia (A&E), classificados sob o NAICS 541310 (Serviços de Arquitetura). O objetivo é identificar empresas qualificadas — especialmente pequenas empresas — capazes de fornecer serviços técnicos de A&E para instalações e projetos de suporte à Marinha dos EUA. Não há quantidade, valor ou escopo técnico detalhado divulgado neste momento, pois trata-se de uma etapa preliminar para avaliar o interesse e a capacidade do mercado antes de um edital formal (RFP/Solicitation). Os serviços podem incluir: projetos arquitetônicos, engenharia civil, estrutural, mecânica, elétrica, ambiental e outras disciplinas de apoio a infraestrutura militar naval.",
+      "prazo_submissao": "18/06/2026 — horário exato não divulgado, confirmar no SAM.gov (geralmente 17:00 ET). Esta é uma resposta a Sources Sought, não uma proposta formal.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com NAICS 541310",
+        "Capability Statement (máx. 5 páginas) com experiência em projetos A&E similares",
+        "Lista de 3 a 5 projetos de referência relevantes (descrição, valor, cliente, contato)",
+        "Qualificações da equipe técnica (engenheiros PE e/ou arquitetos RA licenciados)",
+        "Informação sobre classificação como small business (SBA size standard NAICS 541310)",
+        "Certificações socioeconomicas aplicáveis (8(a), HUBZone, SDVOSB, WOSB, etc.)",
+        "Confirmação de capacidade de seguro GL mínimo $1.000.000",
+        "Formulário de resposta específico do edital (verificar no SAM.gov)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (mínimo indicado)",
+        "workers_comp": "Exigido conforme legislação da Florida — valor mínimo estatutário",
+        "bond": "Não indicado para esta fase de Sources Sought — provável exigência no RFP formal futuro"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Para empresas pequenas de A&E com experiência em projetos federais ou militares, vale a pena responder ao Sources Sought pois não exige proposta de preço e posiciona a empresa para o RFP formal. Porém, o Fit Score de 38/100 indica barreiras significativas: concorrência acirrada, requisitos técnicos especializados (PE/RA licenciados) e experiência prévia com DoD/Marinha são diferenciais críticos. Se sua empresa não tem histórico federal, use esta oportunidade para explorar parcerias com empresas maiores como subcontratado."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Necessidade de profissionais licenciados — arquiteto (RA) ou engenheiro profissional (PE) registrado; (2) Experiência comprovada em projetos A&E para DoD ou Marinha — sem isso, a empresa dificilmente passa pela avaliação técnica; (3) Registro ativo e completo no SAM.gov com todos os dados atualizados; (4) Possível exigência de security clearance para trabalhos em instalações restritas da Marinha; (5) Concorrência de empresas estabelecidas com histórico NAVFAC/NAVSEA. Empresas sem pelo menos 2-3 anos de experiência em contratos federais de A&E têm baixa probabilidade de sucesso como prime contractor."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos A&E federais, a margem de lucro típica é de 10% a 15% sobre os custos diretos, com multiplicador total de mão de obra entre 2,5x e 3,5x. No entanto, como o valor estimado não foi divulgado e este é apenas um Sources Sought, não é possível calcular a margem real neste momento. Contratos A&E federais podem variar de contratos pequenos ($50K-$500K) a IDIQ de múltiplos anos com valores de milhões. Confirme o escopo e valor no RFP formal antes de comprometer recursos."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim. Para serviços de Arquitetura e Engenharia (NAICS 541310), é necessário ter profissionais com licença profissional ativa: Arquiteto Registrado (RA) ou Engenheiro Profissional (PE), preferencialmente licenciados na Florida ou com licença nacional reconhecida. Além disso, a empresa pode precisar de registro como firma de engenharia/arquitetura junto ao Florida Board of Architecture and Interior Design ou Florida Board of Professional Engineers, dependendo dos serviços prestados. Verifique os requisitos específicos no edital completo no SAM.gov."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Esta fase (Sources Sought) NÃO exige proposta de preço — apenas um Capability Statement demonstrando qualificações. Quando o RFP formal for publicado, a precificação para A&E federal é baseada em: (1) Tarifas horárias por categoria profissional (Arquiteto Sênior: $120-$200/h; Engenheiro: $100-$180/h; Técnico: $60-$100/h); (2) Overhead Rate (geralmente 150-200% sobre mão de obra direta); (3) Fee/Lucro (10-12% sobre custos totais); (4) Despesas diretas (viagens, reprodução, software). Use o formulário SF-330 para qualificações e aguarde o formato de proposta de preço do RFP formal."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:46:55.168Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-fbcf63131f594ef9a6277bf8e0cf5bee",
@@ -174,7 +265,53 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/fbcf63131f594ef9a6277bf8e0cf5bee/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para submissão: 12/06/2026. Isso representa uma janela de apenas 8 dias corridos para preparar e enviar a proposta — prazo MUITO apertado. Confirme horário exato (geralmente 17h ET) no SAM.gov. | DOCUMENTOS EXIGIDOS | Os documentos exatos precisam ser confirmados no SAM.gov, mas tipicamente para este tipo de contrato federal são exigidos: proposta técnica descrevendo metodologia, currículo dos consultores/especialistas, certificações relevantes (Joint Commission, NFPA, etc.), proposta de preços, registro ativo no SAM.gov, comprovação de elegibilidade SDVOSB (Service-Disabled Veteran-Owned Small Business), documentação de seguros, referências de contratos anteriores similares. | REQUISITOS TÉCNICOS | Este é um serviço altamente especializado. Os consultores precisam ter profundo conhecimento dos padrões da Joint Commission, especificamente os relacionados a Life Safety (baseados no NFPA 101 - Life Safety Code e NFPA 99 - Health Care Facilities Code). Experiência prévia em realizar Mock Surveys em ambientes hospitalares ou de saúde do governo federal é praticamente mandatória para ser competitivo. Familiarity com as diretrizes específicas do VA (VHA Directives) é um diferencial importante. | SEGUROS E GARANTIAS | General Liability: $1.000.000 conforme indicado nas barreiras. Workers' Compensation: verificar valor exato no edital (padrão federal costuma ser conforme lei estadual da Flórida). Professional Liability (Errors & Omissions): MUITO provável que seja exigido para serviços de consultoria técnica desta natureza — verificar valor no SAM.gov. Bond: não indicado, mas confirmar. | COMO CALCULAR O PREÇO | Valor estimado não divulgado. Para precificar: 1) Calcule horas de consultores sênior x taxa horária de mercado ($150-$300/hora para especialistas em Joint Commission); 2) Adicione custos de viagem e hospedagem para visitas às instalações do VA na Flórida; 3) Inclua horas de elaboração de relatório final; 4) Adicione overhead e margem de lucro (15-25%); 5) Pesquise contratos similares no USASpending.gov para benchmarking de preços. | ESTRATÉGIA DE SUBMISSÃO | Como o set-aside é EXCLUSIVO para SDVOSB (Service-Disabled Veteran-Owned Small Business), apenas empresas certificadas podem participar. Se sua empresa não tem essa certificação, a única alternativa seria subcontratação com uma empresa SDVOSB como prime. A proposta técnica deve demonstrar clareza metodológica, experiência específica em Life Safety e Joint Commission, e entregáveis bem definidos. | RISCOS | 1) SET-ASIDE EXCLUSIVO SDVOSB — barreira principal: sem certificação, não pode participar como prime; 2) Prazo de 8 dias é extremamente curto; 3) Serviço altamente especializado com poucos profissionais qualificados; 4) Valor não divulgado dificulta planejamento financeiro; 5) Contratos federais com VA podem ter processos de pagamento lentos; 6) Necessidade de credenciamento/acesso às instalações federais do VA. | PRÓXIMOS 3 PASSOS | 1) IMEDIATAMENTE: Acessar o link do SAM.gov (https://sam.gov/workspace/contract/opp/fbcf63131f594ef9a6277bf8e0cf5bee/view) para baixar o edital completo e verificar o Statement of Work (SOW) detalhado, confirmar deadline e horário exatos, e identificar o Contracting Officer para enviar perguntas formais; 2) ATÉ 48H: Verificar se sua empresa possui certificação SDVOSB ativa no VA (verificar em vetbiz.va.gov / SBA VetCert), avaliar se possui consultores com certificação e experiência em Joint Commission Life Safety surveys, e confirmar cobertura de seguros (especialmente Professional Liability); 3) ATÉ 5 DIAS: Se elegível, iniciar elaboração da proposta técnica com metodologia detalhada, levantar referências de contratos similares realizados, calcular proposta de preços com base em horas estimadas e custos de viagem.",
+      "resumo_simples": "Contratação de serviço especializado de simulação de inspeção da Joint Commission (como se fosse um 'ensaio geral') para avaliar a conformidade de segurança de vida em instalações de saúde do Departamento de Assuntos de Veteranos (VA) na Flórida.",
+      "categoria_curta": "Consultoria de conformidade",
+      "o_que_comprar": "O governo federal (VA - Departamento de Assuntos de Veteranos, Network Contract Office 8) está buscando contratar um serviço de 'Mock Life Safety Survey' — ou seja, uma inspeção simulada dos padrões de segurança de vida (Life Safety) nos moldes da Joint Commission (organização acreditadora de hospitais e instalações de saúde). O objetivo é que especialistas externos realizem uma auditoria/inspeção interna simulada nas instalações do VA para identificar deficiências, lacunas e não conformidades ANTES de uma inspeção real da Joint Commission. O NAICS 541690 indica 'Other Scientific and Technical Consulting Services'. O escopo detalhado (número de instalações, localização exata, duração da inspeção, entregáveis como relatórios) não está disponível no resumo do edital e precisa ser confirmado diretamente no SAM.gov. Provavelmente envolve: visitas físicas às instalações, avaliação de sistemas de sprinklers, saídas de emergência, portas corta-fogo, documentação de manutenção, treinamento de equipes, e relatório final com plano de ação corretiva.",
+      "prazo_submissao": "12/06/2026 — horário exato não confirmado, verificar no SAM.gov (geralmente 17:00 ET). Atenção: janela de apenas 8 dias a partir da abertura em 04/06/2026.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório)",
+        "Certificação SDVOSB ativa (SBA VetCert / VA VetBiz) — OBRIGATÓRIO para este set-aside",
+        "Proposta técnica com metodologia de Mock Life Safety Survey",
+        "Currículo dos consultores especialistas em Joint Commission e Life Safety",
+        "Certificações técnicas relevantes (NFPA, Joint Commission, etc.)",
+        "Proposta de preços detalhada",
+        "Comprovante de apólices de seguro (GL mínimo $1M, Workers Comp, Professional Liability)",
+        "Referências de contratos anteriores similares (past performance)",
+        "Formulários federais exigidos no edital (ex: SF-1449, FAR clauses — confirmar no SAM.gov)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 (General Liability confirmado nas barreiras do edital)",
+        "workers_comp": "Valor exato não divulgado — verificar no edital completo no SAM.gov (padrão FL: conforme lei estadual)",
+        "bond": "Não indicado nas informações disponíveis — confirmar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende fundamentalmente de dois fatores: 1) Sua empresa possui certificação SDVOSB ativa? Sem ela, não pode participar como prime. 2) Sua empresa tem experiência comprovada em realizar Mock Life Safety Surveys nos padrões da Joint Commission? Este é um nicho muito específico. Se ambas as respostas forem 'sim', vale muito a pena — contratos com o VA são estáveis, pagam bem e geram boa reputação federal. O Fit Score de 45/100 reflete principalmente a barreira do set-aside SDVOSB e a especialização técnica exigida. Para uma empresa SDVOSB com expertise em Joint Commission, o score real seria muito mais alto."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) SET-ASIDE EXCLUSIVO SDVOSB: Esta é a barreira mais crítica. Apenas empresas com certificação Service-Disabled Veteran-Owned Small Business podem submeter propostas como prime contractor. A certificação é feita pela SBA (VetCert program). 2) ESPECIALIZAÇÃO TÉCNICA: Conhecimento profundo dos padrões da Joint Commission para Life Safety (NFPA 101, NFPA 99, CMS Conditions of Participation) é essencial e não comum no mercado. 3) PRAZO CURTO: Apenas 8 dias entre abertura e deadline dificulta a preparação de uma proposta competitiva de qualidade. 4) SEGURO GL de $1M: Custo adicional se a empresa ainda não possui. 5) ACESSO A INSTALAÇÕES FEDERAIS: Pode exigir background checks e credenciamento dos consultores."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para serviços de consultoria especializada federal como este, as margens típicas ficam entre 20% a 35% sobre os custos diretos. O valor total do contrato não foi divulgado, mas contratos de Mock Survey para instalações do VA geralmente variam de $30.000 a $150.000+ dependendo do número de instalações, tamanho e escopo. Para calcular: some os custos reais (horas de consultor x taxa, viagens, relatórios) e adicione 25-30% de margem. Consulte o USASpending.gov buscando por NAICS 541690 + Department of Veterans Affairs para ver valores históricos de contratos similares."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças, o que significa que os requisitos exatos precisam ser confirmados no documento completo no SAM.gov. Porém, para este tipo de serviço é altamente provável que sejam exigidas ou fortemente valorizadas: certificações individuais dos consultores em padrões Joint Commission e NFPA (ex: CHFM - Certified Healthcare Facility Manager, ou certificações específicas de Life Safety), experiência documentada em surveys similares, e possivelmente credenciamento ou acesso verificado a instalações federais do VA. Não há indicação de licença estadual específica da Flórida para consultoria, mas confirme no edital completo."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Como o valor estimado não foi divulgado, siga esta abordagem: 1) PESQUISE: Acesse USASpending.gov e busque por contratos similares (NAICS 541690, VA, Life Safety, Mock Survey) para benchmarking de preços históricos. 2) CALCULE CUSTOS DIRETOS: Horas de consultores sênior (ex: 2-3 especialistas x X dias de field work + prep + relatório) x taxa horária de mercado ($150-$300/hora para especialistas Joint Commission). 3) ADICIONE VIAGENS: Passagens, hotel, per diem para deslocamento às instalações do VA na Flórida. 4) OVERHEAD E LUCRO: Adicione 25-30% sobre os custos diretos. 5) SEJA COMPETITIVO MAS SUSTENTÁVEL: Não subprecifique — contratos federais penalizam execuções deficientes. Apresente uma proposta de preços clara e bem justificada com breakdown detalhado de custos."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:47:55.831Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-f86e129dc3f848a28e09936a1d1a3974",
@@ -230,7 +367,55 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/f86e129dc3f848a28e09936a1d1a3974/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para submissão: 03/07/2026. Verifique no SAM.gov o horário exato (normalmente 12h00 ou 17h00 EST). Confirme se há período de perguntas e respostas antes do prazo final. DOCUMENTOS EXIGIDOS | Registro ativo no SAM.gov (System for Award Management) é obrigatório para qualquer contrato federal. Proposta técnica e proposta de preços separadas (padrão federal). Certificados de seguro (GL mínimo $1M). Licença de contratante HVAC válida no estado da Florida (CAC - Certified Air Conditioning Contractor ou equivalente). Documentação de experiência anterior em projetos similares. Formulários federais padrão (SF-1449 ou equivalente para BID). Possivelmente: SAM.gov representations and certifications. REQUISITOS TÉCNICOS | NAICS 238220 exige empresa contratante de HVAC licenciada. Trabalho em propriedade federal do National Park Service pode exigir conformidade com normas específicas de preservação e segurança federal. Técnicos devem possuir certificações EPA 608 para manuseio de refrigerantes. Possível exigência de verificação de antecedentes para acesso a área federal. Conformidade com normas ASHRAE e códigos da Florida Building Code. SEGUROS E GARANTIAS | General Liability mínimo de $1.000.000 por ocorrência. Workers' Compensation conforme exigências da Florida (obrigatório). Possível exigência de Performance Bond e Payment Bond (verificar no edital completo). Umbrella/Excess Liability pode ser solicitada. COMO CALCULAR O PREÇO | Valor estimado não divulgado — solicite dados históricos similares no USASpending.gov. Inclua: mão de obra (técnicos HVAC licenciados), equipamentos e componentes com markup, transporte e logística para área federal, overhead administrativo (15-20%), margem de lucro (10-15%), custos de conformidade federal (seguros adicionais, certificações). Atenção ao Prevailing Wage (Davis-Bacon pode se aplicar em contratos federais de construção). Prepare planilha detalhada de custos unitários. ESTRATÉGIA DE SUBMISSÃO | 1) Acesse imediatamente o SAM.gov para baixar o edital completo e verificar todos os requisitos. 2) Confirme se sua empresa já tem registro ativo no SAM.gov — se não, inicie imediatamente pois pode levar semanas. 3) Identifique o site exato do trabalho e faça visita técnica se permitido/obrigatório. 4) Avalie possibilidade de subcontratação para componentes especializados. 5) Submeta perguntas ao contracting officer dentro do prazo de Q&A. 6) Prepare proposta competitiva mas com margens realistas. RISCOS | Acesso a área federal pode criar atrasos e custos adicionais. Escopo pode ser maior do que o título sugere — risco de subprecificação. Sem valor estimado divulgado, difícil calibrar proposta. Prazo de execução pode ser apertado dependendo da disponibilidade de equipamentos HVAC. Competição aberta (open competition) significa maior número de concorrentes. Possível exigência de bond que pode ser barreira para pequenas empresas. PRÓXIMOS 3 PASSOS | 1) IMEDIATAMENTE: Acesse https://sam.gov/workspace/contract/opp/f86e129dc3f848a28e09936a1d1a3974/view e baixe todos os documentos do edital para entender o escopo completo. 2) ATÉ 48 HORAS: Verifique se seu SAM.gov está ativo e atualizado; confirme suas certificações HVAC na Florida e EPA 608; entre em contato com seu corretor de seguros para confirmar cobertura GL de $1M. 3) ATÉ 1 SEMANA: Decida se vai participar, inicie levantamento de custos, contate fornecedores de equipamentos HVAC para cotações, e registre-se para receber atualizações do edital no SAM.gov.",
+      "resumo_simples": "O governo federal (Serviço Nacional de Parques) quer contratar uma empresa para substituir componentes do sistema de ar-condicionado e climatização (HVAC) em uma instalação federal na Florida.",
+      "categoria_curta": "Manutenção HVAC",
+      "o_que_comprar": "Substituição de componentes do sistema HVAC (Heating, Ventilation and Air Conditioning) em instalação federal sob gestão do National Park Service, região SER South Mabo (Florida). O escopo exato dos componentes a serem substituídos não está detalhado no edital resumido — pode incluir compressores, condensadoras, evaporadoras, dutos, termostatos, controles ou unidades completas. O NAICS 238220 corresponde a 'Plumbing, Heating, and Air-Conditioning Contractors', confirmando tratar-se de serviço de instalação/substituição por empresa especializada. Quantidades, especificações técnicas detalhadas e localização exata da instalação devem ser verificados diretamente no SAM.gov pelo link fornecido.",
+      "prazo_submissao": "03/07/2026 — horário exato deve ser confirmado no SAM.gov (verifique se é 12h00 ou 17h00 EST). Acesse: https://sam.gov/workspace/contract/opp/f86e129dc3f848a28e09936a1d1a3974/view",
+      "documentos_lista": [
+        "Registro ativo e válido no SAM.gov (obrigatório para contratos federais)",
+        "Licença de contratante HVAC da Florida (CAC - Certified Air Conditioning Contractor)",
+        "Certificação EPA 608 para técnicos (manuseio de refrigerantes)",
+        "Certificado de seguro General Liability mínimo $1.000.000",
+        "Certificado de Workers' Compensation (Florida)",
+        "Proposta técnica detalhada com metodologia e cronograma",
+        "Proposta de preços (planilha detalhada de custos)",
+        "Formulários federais padrão (verificar quais no edital completo)",
+        "Comprovante de experiência em projetos HVAC similares",
+        "Representations and Certifications (via SAM.gov)",
+        "Performance Bond e Payment Bond (se exigidos — confirmar no edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmado nas barreiras do edital)",
+        "workers_comp": "Obrigatório conforme lei da Florida — valor conforme folha de pagamento (confirmar limites no edital completo)",
+        "bond": "A confirmar no edital completo — Performance Bond e Payment Bond são comuns em contratos federais de construção/reforma; possível exigência de 100% do valor do contrato"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 38/100 e veredito 'watch', este edital tem relevância moderada-baixa. Vale a pena IF: sua empresa já tem SAM.gov ativo, licença HVAC na Florida, certificação EPA 608, seguro GL de $1M e experiência comprovada em projetos federais. O principal problema é a falta de valor estimado divulgado, o que dificulta avaliar a viabilidade financeira antes de investir tempo na proposta. Recomendação: acesse o edital completo no SAM.gov PRIMEIRO — se o escopo for compatível com sua capacidade e o site for acessível, vale preparar proposta."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) SAM.gov ativo e atualizado — sem isso, não pode participar de nenhum contrato federal. 2) Licença HVAC específica da Florida (CAC) — obrigatória para trabalhos de refrigeração/ar condicionado. 3) Certificação EPA 608 para todos os técnicos que manuseiam refrigerantes. 4) Seguro GL de $1M — custo adicional para empresas menores. 5) Possível Performance Bond — pode ser difícil de obter para pequenas empresas sem histórico federal. 6) Acesso a área federal do National Park Service — pode exigir verificação de antecedentes dos funcionários. 7) Competição aberta significa concorrer com empresas maiores e mais experientes em contratos federais."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos federais de HVAC (NAICS 238220), a margem típica fica entre 8% e 15% sobre custos diretos. Como o valor estimado não foi divulgado, é impossível calcular o lucro absoluto. Fatores que afetam a margem: complexidade dos componentes a substituir, distância do site, disponibilidade de equipamentos no mercado atual (cadeias de suprimento HVAC ainda têm variações de prazo), e se Davis-Bacon Prevailing Wage se aplica (aumenta custo de mão de obra). Recomendação: calcule seus custos reais primeiro e não sacrifique margem abaixo de 8% para 'ganhar' o contrato."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim. Para trabalhos de HVAC na Florida são necessárias: 1) CAC (Certified Air Conditioning Contractor) emitida pelo Florida DBPR — licença estadual para empresas que instalam/substituem sistemas de ar condicionado. 2) Certificação EPA 608 para cada técnico que manuseia refrigerantes (CFC, HCFC, HFC). 3) Por se tratar de área federal, pode haver requisitos adicionais de credenciamento do National Park Service. Verifique também se o município/condado onde está a instalação exige licença local adicional. Confirme todos os requisitos de licenciamento no edital completo do SAM.gov."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estas etapas: 1) Baixe o edital completo e identifique TODOS os componentes a substituir e quantidades. 2) Colete cotações de no mínimo 3 fornecedores de equipamentos HVAC para os componentes específicos. 3) Calcule horas de mão de obra realistas com técnicos licenciados (inclua tempo de acesso a área federal). 4) Verifique se Davis-Bacon Prevailing Wage se aplica — consulte o site do DOL para as taxas da região. 5) Adicione overhead (15-20%), lucro (10-15%), seguros e eventuais bonds. 6) Pesquise contratos similares no USASpending.gov para referência de valores. 7) Prepare breakdown detalhado — contratos federais geralmente exigem planilha de custos itemizada. Não subestime custos de logística para área federal."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:48:52.676Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-f625fde687e246628b2f582bdfc511e4",
@@ -286,7 +471,53 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/f625fde687e246628b2f582bdfc511e4/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO: O prazo (deadline) está listado como N/A nos dados fornecidos. Data de abertura prevista: 04 de junho de 2026. É OBRIGATÓRIO acessar o SAM.gov no link fornecido para confirmar a data e hora exatas de submissão, pois editais federais têm prazos rígidos e penalidades por atraso. Acesse: https://sam.gov/workspace/contract/opp/f625fde687e246628b2f582bdfc511e4/view | DOCUMENTOS EXIGIDOS: Os documentos específicos precisam ser confirmados no edital completo no SAM.gov. Tipicamente para contratos deste tipo (suporte administrativo federal, SDVOSB set-aside), exige-se: registro ativo no SAM.gov, certificação SDVOSB válida no SBA Veteran Small Business Certification (VetCert), proposta técnica, proposta de preço, referências de contratos anteriores similares, e possivelmente um plano de qualidade ou gestão. | REQUISITOS TÉCNICOS: Este é um contrato de serviços profissionais de administração contratual para uma unidade da Força Aérea dos EUA. Provavelmente requer profissionais com experiência em contratos federais (FAR - Federal Acquisition Regulation), possivelmente com conhecimento de contratos de defesa (DFARS), e pode exigir clearance de segurança para o pessoal envolvido (a ser confirmado). O NAICS 541990 abrange serviços profissionais especializados. | SEGUROS E GARANTIAS: Seguro de Responsabilidade Civil Geral (GL): mínimo de $1.000.000 conforme indicado. Workers' Compensation: exigido conforme leis da Flórida. Bond: a ser verificado no edital completo (listado como N/A nos dados). Outros seguros podem ser exigidos para trabalho em instalações militares. | COMO CALCULAR O PREÇO: O valor estimado não foi divulgado, o que é comum em editais federais nesta fase. Para precificar: (1) Identifique as categorias de trabalho/posições (LCAT - Labor Category) e horas estimadas no edital completo; (2) Pesquise salários de mercado para administradores de contratos na região de Patrick SFB; (3) Adicione overhead, G&A (General & Administrative), fringe benefits e lucro; (4) Compare com contratos similares via USASpending.gov buscando NAICS 541990 em Patrick AFB/SFB; (5) Considere que contratos SDVOSB às vezes permitem margens de 10-15% sobre custo. | ESTRATÉGIA DE SUBMISSÃO: Este edital tem set-aside exclusivo para empresas SDVOSB (Service-Disabled Veteran-Owned Small Business). Se você não possui essa certificação, não pode concorrer diretamente, mas pode participar como subcontratado de uma empresa SDVOSB certificada. Se possui a certificação, a concorrência é limitada, o que é vantajoso. Foque na proposta técnica demonstrando experiência prévia em administração de contratos federais/militares. | RISCOS: (1) Restrição SDVOSB — se não certificado, participação direta é impossível; (2) Trabalho em instalações militares pode exigir clearance de segurança para funcionários, aumentando complexidade de contratação; (3) Valor não divulgado dificulta planejamento financeiro; (4) Localização em Patrick SFB pode exigir presença física, limitando trabalho remoto; (5) Contratos de suporte administrativo para defesa têm alta supervisão e conformidade regulatória exigida. | PRÓXIMOS 3 PASSOS: (1) IMEDIATO — Acesse o SAM.gov no link fornecido para baixar o edital completo, confirmar prazo real, escopo detalhado e requisitos de segurança; (2) EM 48H — Verifique se sua empresa possui certificação SDVOSB ativa no VetCert (SBA). Se não possui, avalie parceria com empresa SDVOSB certificada como subcontratado; (3) EM 1 SEMANA — Pesquise no USASpending.gov contratos NAICS 541990 em Patrick SFB para entender valores históricos e concorrentes atuais, e decida se vale investir na elaboração da proposta.",
+      "resumo_simples": "O governo federal (Força Aérea dos EUA) quer contratar uma empresa para apoiar a administração de contratos na base militar Patrick Space Force Base, na Flórida — ou seja, ajudar com tarefas burocráticas e de gestão de contratos militares.",
+      "categoria_curta": "Suporte administrativo",
+      "o_que_comprar": "Serviços de suporte à administração de contratos (ACASS - AMIC Contract Administration Support Services) para a unidade FA7022 AMIC DET 2, localizada em Patrick Space Force Base, Flórida. Os serviços envolvem assistência técnica e administrativa na gestão de contratos governamentais militares, provavelmente incluindo: revisão e acompanhamento de contratos, suporte documental, relatórios de conformidade, comunicação com contratados, monitoramento de desempenho e outras atividades de apoio à administração contratual. Detalhes específicos de escopo, volume de horas e especificações técnicas precisam ser verificados diretamente no SAM.gov, pois o edital completo não foi disponibilizado. NAICS: 541990 (Other Services to Buildings and Dwellings / Outros Serviços Especializados).",
+      "prazo_submissao": "Prazo não divulgado (N/A). Data de abertura prevista: 04 de junho de 2026. AÇÃO OBRIGATÓRIA: Acessar https://sam.gov/workspace/contract/opp/f625fde687e246628b2f582bdfc511e4/view para confirmar deadline exato. Configure alerta no SAM.gov para este número de oportunidade.",
+      "documentos_lista": [
+        "Registro ativo e válido no SAM.gov (UEI number)",
+        "Certificação SDVOSB ativa no VetCert (SBA) — OBRIGATÓRIO para participar",
+        "Proposta técnica detalhando abordagem aos serviços de administração de contratos",
+        "Proposta de preço (possivelmente em formato de horas por categoria de trabalho)",
+        "Referências de contratos federais similares (Past Performance)",
+        "Comprovação de seguros exigidos ($1M GL mínimo)",
+        "Formulários federais padrão (SF-1449 ou equivalente, a confirmar no edital)",
+        "Possivelmente: plano de gerenciamento de pessoal com clearance de segurança",
+        "DUNS/UEI e CAGE Code ativos"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (mínimo indicado nos dados do edital)",
+        "workers_comp": "Exigido conforme legislação da Flórida — valor mínimo a confirmar no edital completo",
+        "bond": "N/A nos dados fornecidos — verificar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende criticamente de dois fatores: (1) Sua empresa possui certificação SDVOSB ativa? Se não, não pode concorrer diretamente — seria necessário atuar como subcontratado. (2) Sua empresa tem experiência comprovada em administração de contratos federais, especialmente para o Departamento de Defesa? O Fit Score de 45/100 indica interesse moderado mas com barreiras significativas. Se você for SDVOSB certificado com experiência em contratos militares, vale muito a pena — a concorrência é restrita ao grupo SDVOSB. Se não for certificado, avalie a parceria estratégica como subcontratado."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As barreiras são: (1) CRÍTICA — Certificação SDVOSB obrigatória. Sem ela, participação direta é vedada por lei. O processo de certificação pelo SBA VetCert pode levar meses; (2) ALTA — Experiência em administração de contratos federais/defesa é provavelmente exigida como critério técnico; (3) MÉDIA — Possível exigência de clearance de segurança para funcionários que trabalharão na base militar Patrick SFB; (4) MÉDIA — Localização física próxima à base pode ser exigida; (5) BAIXA — Seguro de $1M GL é acessível para a maioria das pequenas empresas."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de serviços profissionais administrativos federais (NAICS 541990), margens típicas variam entre 8% e 15% sobre o custo total. Contratos de set-aside SDVOSB tendem a ter menos concorrência, o que pode permitir margens no topo dessa faixa (12-15%). O valor total do contrato não foi divulgado, mas contratos de suporte administrativo para unidades militares costumam variar de $500K a $5M anuais dependendo do escopo e duração. Pesquise contratos similares no USASpending.gov para ter referência mais precisa de valores históricos pagos."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para serviços de administração de contratos (NAICS 541990), geralmente não há exigência de licença profissional estadual específica como ocorre em construção ou saúde. Porém, é necessário: (1) Registro como empresa na Flórida (ativo); (2) Certificação SDVOSB no SBA VetCert — esta é a 'licença' mais crítica para este edital; (3) Registro ativo no SAM.gov; (4) Possivelmente, profissionais com certificações em aquisições federais (CFCM, CPCM) podem ser valorizados na proposta técnica, embora não necessariamente obrigatórios. Verifique o edital completo para confirmar requisitos de certificações profissionais."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Estratégia de precificação em 5 etapas: (1) Leia o edital completo para identificar o Period of Performance (duração do contrato), categorias de trabalho (LCAT) e horas estimadas ou método de contratação (IDIQ, FFP, T&M, etc.); (2) Pesquise salários de mercado no BLS.gov e SAM.gov para administradores de contratos na região de Brevard County, FL (onde fica Patrick SFB); (3) Calcule: Salário direto + Fringe Benefits (30-35%) + Overhead + G&A + Lucro (10-15%); (4) Consulte USASpending.gov com NAICS 541990 em Patrick AFB para ver valores históricos de contratos similares como referência de competitividade; (5) Seja competitivo mas não subprecifique — contratos SDVOSB têm menos concorrentes, então não sacrifique margem desnecessariamente."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:49:50.954Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-eaff85e0f0f24dbbaeab299e2a192480",
@@ -342,7 +573,54 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/eaff85e0f0f24dbbaeab299e2a192480/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04 de junho de 2026. Deadline para submissão: 17 de junho de 2026. Confirmar horário exato e fuso horário (provavelmente Eastern Time) diretamente no SAM.gov, pois o edital não especificou o horário. A janela de submissão é de aproximadamente 13 dias corridos após abertura — prazo relativamente curto, exigindo preparação antecipada.\n\nDOCUMENTOS EXIGIDOS | Com base no tipo de contrato federal e no escopo, os seguintes documentos são típicos: (1) Registro ativo no SAM.gov (obrigatório); (2) Proposta técnica descrevendo capacidade de execução de mudanças internacionais a partir das Bahamas; (3) Proposta de preços (planilha de custos por serviço ou por peso/volume); (4) Certificados de seguro (GL mínimo $1M); (5) Documentação de experiência anterior em HHG militares (preferencialmente com DOD); (6) Licenças de transporte aplicáveis (FMCSA para transporte nos EUA, possível licença internacional); (7) Formulários FAR padrão (como SF-1449 ou equivalente). Verificar no edital completo no SAM.gov se há formulários específicos exigidos.\n\nREQUISITOS TÉCNICOS | NAICS 484210 (Used Household and Office Goods Moving). A empresa deve ter experiência comprovada em transporte de HHG para militares. Por se tratar de operação com origem nas Bahamas (território estrangeiro), é necessária capacidade logística internacional: coordenação de transporte marítimo ou aéreo desde Andros Island, desembaraço alfandegário, e entrega final no destino do militar. Possível necessidade de parceria com agente alfandegário ou empresa local nas Bahamas. A empresa deve seguir os padrões do Defense Transportation Regulation (DTR) Part IV, que rege o transporte de HHG militares.\n\nSEGUROS E GARANTIAS | General Liability (GL): mínimo $1.000.000 por ocorrência. Workers' Compensation: verificar no edital (padrão federal exige cobertura conforme leis estaduais). Bond: não identificado como exigência, mas verificar no edital completo. Cargo/Transit Insurance: muito provável para este tipo de serviço (cobertura dos bens transportados). Recomenda-se verificar todos os requisitos de seguro no edital completo, pois operações internacionais frequentemente exigem cobertura adicional.\n\nCOMO CALCULAR O PREÇO | Considere os seguintes componentes de custo: (1) Custo de deslocamento até Andros Island, Bahamas (voo ou barco para a equipe); (2) Materiais de embalagem e caixas; (3) Mão de obra para embalagem e carregamento (packing crew); (4) Frete marítimo ou aéreo das Bahamas para o porto/aeroporto de entrada nos EUA; (5) Desembaraço alfandegário (customs broker fees); (6) Transporte terrestre no destino final; (7) Seguro de carga; (8) Overhead e margem de lucro (15-25% recomendado para operações internacionais). Verifique se o contrato paga por peso (pounds), volume (cubic feet) ou tarifa fixa por mudança. Consulte as tarifas do Military Rate Solicitation (MRS) do DOD como referência de precificação.\n\nESTRATÉGIA DE SUBMISSÃO | (1) Acesse o SAM.gov imediatamente para baixar o edital completo e todos os anexos; (2) Verifique se existe um incumbente atual (empresa que já presta o serviço) — isso indica competição existente; (3) Avalie se possui ou pode estabelecer parceria com empresa logística nas Bahamas para operacionalizar a coleta local; (4) Considere subcontratação com empresa local certificada em HHG nas Bahamas; (5) Prepare proposta técnica detalhada mostrando conhecimento das regulamentações DOD para HHG (DTR Part IV); (6) Destaque experiência anterior com contratos federais e militares; (7) Por não haver set-aside, concorre com grandes empresas — diferenciação por especialização internacional é fundamental.\n\nRISCOS | (1) ALTO RISCO LOGÍSTICO: Operação internacional com origem em ilha remota nas Bahamas — complexidade operacional elevada; (2) CONCORRÊNCIA: Sem set-aside, empresas grandes como SIRVA, UniGroup/Mayflower, Allied Van Lines têm vantagem; (3) VALOR NÃO DIVULGADO: Dificuldade de avaliar rentabilidade sem o valor estimado; (4) SAZONALIDADE MILITAR: Volume de mudanças varia com ciclos PCS (Permanent Change of Station) militares; (5) RISCOS CAMBIAIS E ALFANDEGÁRIOS: Operação internacional sujeita a regulamentações das Bahamas e dos EUA; (6) Fit Score baixo (45/100) indica que este edital tem barreiras significativas para pequenas empresas sem experiência prévia em HHG militar internacional.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO - hoje): Acesse https://sam.gov/workspace/contract/opp/eaff85e0f0f24dbbaeab299e2a192480/view e baixe todos os documentos do edital. Confirme o horário exato do deadline (17/06/2026) e verifique se há perguntas/respostas (Q&A) abertas. PASSO 2 (em até 3 dias): Avalie sua capacidade real de executar o serviço: você tem experiência com HHG militar? Tem como operar nas Bahamas? Se não tiver operação própria, identifique possível parceiro/subcontratado local. Confirme se sua empresa está com o SAM.gov ativo e atualizado. PASSO 3 (em até 7 dias): Tome a decisão de submeter ou não. Se decidir participar, inicie imediatamente a proposta técnica e contate seu corretor de seguros para confirmar cobertura GL de $1M. Considere submeter perguntas formais ao contracting officer pelo SAM.gov antes do prazo de Q&A.",
+      "resumo_simples": "Contratação de serviço de transporte e mudança de pertences pessoais (móveis e itens domésticos) de famílias militares saindo da Ilha Andros, nas Bahamas, para outros destinos (serviço de saída/outbound).",
+      "categoria_curta": "Transporte de mudança",
+      "o_que_comprar": "O governo (Marinha dos EUA - NAVSUP FLC Jacksonville) precisa contratar uma empresa especializada em transporte de bens domésticos (Household Goods - HHG) para realizar mudanças de saída (outbound) a partir da Ilha Andros, Bahamas. Isso inclui: coleta, embalagem, carregamento, transporte internacional (das Bahamas para destinos nos EUA ou outros locais), descarregamento e entrega dos pertences pessoais de militares e seus dependentes designados para transferência a partir da base naval localizada na Ilha Andros. O NAICS 484210 indica transporte por caminhão especializado (mudanças domésticas). Por se tratar de operação internacional com origem nas Bahamas, o serviço envolve logística internacional, documentação alfandegária e possivelmente coordenação marítima ou aérea para retirada da ilha.",
+      "prazo_submissao": "17 de junho de 2026 - confirmar horário exato e fuso horário (Eastern Time) diretamente no edital completo no SAM.gov.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório - sem isso não pode submeter)",
+        "Proposta técnica com descrição da capacidade de execução de HHG internacional",
+        "Planilha de preços conforme formato exigido no edital",
+        "Certificado de seguro General Liability mínimo $1.000.000",
+        "Certificado de Workers' Compensation (verificar requisito no edital)",
+        "Licença FMCSA para transporte doméstico nos EUA (se aplicável)",
+        "Documentação de experiência anterior em HHG militares",
+        "Formulários FAR padrão conforme listados no edital completo",
+        "Documentação de capacidade logística internacional (parcerias, agentes, etc.)",
+        "DUNS/UEI number ativo"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (conforme indicado nas barreiras do edital)",
+        "workers_comp": "Provavelmente exigido - verificar valor exato no edital completo no SAM.gov",
+        "bond": "Não identificado como exigência no resumo do edital - verificar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 45/100, este edital apresenta barreiras significativas. Vale a pena APENAS se sua empresa já possui: (1) experiência comprovada em transporte de HHG militares; (2) capacidade logística internacional ou parceiro nas Bahamas; (3) SAM.gov ativo; (4) seguro GL de $1M; e (5) conhecimento do Defense Transportation Regulation (DTR) Part IV. Para empresas pequenas sem experiência prévia em HHG militar internacional, o esforço pode não compensar dado o nível de complexidade operacional e concorrência com grandes operadores nacionais de mudanças militares."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) LOGÍSTICA INTERNACIONAL - o serviço parte das Bahamas, exigindo operação em território estrangeiro com desafios de alfândega, frete internacional e presença local ou parceiro na ilha; (2) CONCORRÊNCIA ABERTA - sem set-aside para pequenas empresas, competindo diretamente com gigantes do setor como SIRVA, UniGroup, Allied, que já têm contratos militares; (3) EXPERIÊNCIA EXIGIDA - contratos HHG militares geralmente exigem histórico comprovado com DOD; (4) SEGURO - mínimo $1M GL; (5) COMPLEXIDADE REGULATÓRIA - deve seguir DTR Part IV e possivelmente regulamentações das Bahamas para exportação de bens."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "O valor estimado não foi divulgado, dificultando a análise de rentabilidade. Para contratos HHG militares em geral, margens de 15% a 25% são típicas. Porém, por se tratar de operação internacional com origem em ilha remota (Andros, Bahamas), os custos operacionais são significativamente maiores que mudanças domésticas padrão — incluindo deslocamento da equipe para a ilha, frete internacional, agente alfandegário e possível armazenagem intermediária. Recomenda-se mapear todos os custos cuidadosamente antes de precificar e acrescentar uma reserva de contingência de pelo menos 10% para imprevistos logísticos internacionais."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim, provavelmente serão necessárias: (1) FMCSA Operating Authority (Motor Carrier Number) para transporte terrestre nos EUA; (2) Licença de transportadora de mudanças domésticas (household goods carrier); (3) Possivelmente licença ou autorização para operar nas Bahamas ou acordo com agente local licenciado; (4) Número FMC (Federal Maritime Commission) se utilizar frete marítimo internacional. O edital instrui 'Ver edital' para licenças específicas — é fundamental acessar o documento completo no SAM.gov para identificar todas as licenças exigidas antes de decidir participar."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para precificar corretamente: (1) Verifique no edital se o pagamento é por peso ($/cwt ou $/pound), por mudança (flat rate) ou por volume; (2) Consulte as Military Rate Solicitation (MRS) tarifas do SDDC/USTRANSCOM como referência de mercado; (3) Calcule todos os custos: deslocamento da equipe até Andros Island (voo + hospedagem), materiais de embalagem, mão de obra de coleta e embalagem, frete marítimo/aéreo Bahamas→EUA, despacho alfandegário, transporte terrestre no destino, seguro de carga, overhead geral (15%) e margem de lucro (10-15%); (4) Verifique se o contrato tem volume mínimo garantido ou é por demanda; (5) Peça orçamentos reais de frete internacional das Bahamas antes de fechar seu preço para não ter surpresas."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:50:59.285Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-e8b935cab9ed4ddf808552c54f0d746b",
@@ -398,7 +676,53 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/e8b935cab9ed4ddf808552c54f0d746b/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do edital: 04 de junho de 2026. Prazo final para submissão de proposta: 19 de junho de 2026. O prazo entre abertura e deadline é de apenas 15 dias corridos — isso é curto e exige preparação antecipada. A hora exata de encerramento não foi informada no resumo; é obrigatório confirmar no SAM.gov (link fornecido) pois propostas fora do prazo são automaticamente desqualificadas.\n\nDOCUMENTOS EXIGIDOS | Os documentos específicos não foram listados no resumo do edital. Com base no padrão federal para contratos de treinamento (NAICS 611430) pelo DoD/Air Force, é razoável esperar: (1) Proposta técnica descrevendo a metodologia e capacidade de entrega do curso; (2) Proposta de preço/custo; (3) Registro ativo no SAM.gov (obrigatório); (4) Capacitações e certificações dos instrutores; (5) Currículo do curso proposto; (6) Referências ou contratos anteriores similares; (7) Documentos de seguro (GL mínimo $1M). Acesse o edital completo para confirmar a lista oficial.\n\nREQUISITOS TÉCNICOS | NAICS 611430 indica serviço de treinamento profissional e de gestão. O curso 'Civilian Guardian' sugere conteúdo relacionado a operações espaciais, consciência situacional espacial, ou formação de civis para suporte a missões do STARCOM. É provável que o governo exija: instrutores com credenciais específicas (possivelmente clearance de segurança), experiência prévia em treinamento para órgãos militares ou defesa, e possivelmente acesso a instalações aprovadas. A ausência de set-aside indica que o governo não priorizou pequenas empresas neste contrato — o que eleva a concorrência.\n\nSEGUROS E GARANTIAS | General Liability (GL): mínimo $1.000.000. Workers' Compensation: exigido conforme legislação estadual aplicável (a confirmar no edital). Performance Bond: não confirmado (verificar no edital). Professional Liability (E&O): pode ser exigido para serviços de treinamento — confirmar no edital completo.\n\nCOMO CALCULAR O PREÇO | Sem valor estimado divulgado, o cálculo de preço exige: (1) Definir o número de participantes e turmas (obter do edital); (2) Calcular custo de instrutores por hora/dia; (3) Incluir custos de material didático, plataforma (se online), licenças; (4) Adicionar custos administrativos e overhead; (5) Calcular custo de seguros proporcional ao contrato; (6) Margem de lucro: para contratos federais de treinamento, margens típicas ficam entre 10% e 20%. Pesquise contratos similares em USASpending.gov usando NAICS 611430 + STARCOM para referência de valores históricos.\n\nESTRATÉGIA DE SUBMISSÃO | (1) Acesse imediatamente o edital completo no SAM.gov — o prazo é curto (15 dias); (2) Verifique se sua empresa está registrada e ativa no SAM.gov — sem isso, não é possível submeter proposta; (3) Analise se o escopo técnico do curso exige clearance de segurança para instrutores ou empresa; (4) Considere fazer perguntas ao contratante via SAM.gov antes do prazo de Q&A (se houver); (5) Avalie parceria com empresa com experiência DoD como opção de subcontratação; (6) Elabore proposta técnica robusta com evidências de experiência em treinamento para defesa ou governo federal.\n\nRISCOS | (1) Possível exigência de clearance de segurança — barreira significativa para empresas novas; (2) Conteúdo do curso pode ser restrito/classificado, limitando quem pode executar; (3) Concorrência de grandes empresas de treinamento DoD (sem proteção de set-aside); (4) Prazo curto de 15 dias para preparar proposta competitiva; (5) Valor não divulgado dificulta precificação competitiva; (6) Fit Score de 45/100 indica adequação moderada — o edital pode ter exigências que excluem pequenas empresas sem histórico federal.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse hoje o edital completo em https://sam.gov/workspace/contract/opp/e8b935cab9ed4ddf808552c54f0d746b/view e faça o download de todos os documentos anexos para identificar: formato do curso, número de participantes, requisitos de clearance e lista completa de documentos exigidos. PASSO 2: Confirme que sua empresa possui registro ATIVO no SAM.gov e que o NAICS 611430 está cadastrado no seu perfil — sem isso, a proposta será inválida. PASSO 3: Pesquise contratos anteriores similares em USASpending.gov (NAICS 611430 + Space Force/Air Force) para entender valores praticados e identificar concorrentes potenciais, decidindo se vale investir tempo na proposta.",
+      "resumo_simples": "O governo federal (Força Aérea dos EUA / Space Training and Readiness Command) quer contratar um serviço de treinamento/curso chamado 'Civilian Guardian Course' para civis ligados ao STARCOM, que é o comando de treinamento espacial militar.",
+      "categoria_curta": "Treinamento profissional",
+      "o_que_comprar": "Contratação de serviço educacional/treinamento profissional (NAICS 611430 - Treinamento Profissional e de Gestão) denominado 'STARCOM Civilian Guardian Course'. O curso é voltado para funcionários civis vinculados ao Space Training and Readiness Command (STARCOM), órgão subordinado ao Departamento da Força Aérea dos EUA. Detalhes específicos como número de participantes, carga horária, formato (presencial/online/híbrido), localização de execução, módulos e conteúdo programático não foram divulgados no resumo do edital — sendo necessário acessar o documento completo no SAM.gov para obter essas informações. Não há valor estimado divulgado. O contrato não possui set-aside (reserva para pequenas empresas), o que significa que empresas de qualquer porte podem competir.",
+      "prazo_submissao": "19 de junho de 2026 — hora exata não informada no resumo. CONFIRMAR OBRIGATORIAMENTE no SAM.gov antes de qualquer ação, pois o prazo pode ter hora específica (ex: 14:00 ET). Abertura do edital: 04 de junho de 2026.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório — sem isso a proposta é inválida)",
+        "Proposta técnica descrevendo metodologia e capacidade de entrega do curso",
+        "Proposta de preço/custo detalhada",
+        "Currículos e certificações dos instrutores responsáveis",
+        "Currículo/programa do curso proposto",
+        "Comprovante de seguro General Liability ($1M mínimo)",
+        "Comprovante de Workers' Compensation (conforme exigência)",
+        "Referências ou lista de contratos governamentais anteriores similares",
+        "Verificar edital completo para lista oficial de documentos exigidos"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 (confirmado no resumo do edital)",
+        "workers_comp": "Exigido — valor conforme legislação aplicável (confirmar no edital completo)",
+        "bond": "Não confirmado — verificar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 45/100, a adequação é moderada-baixa. Vale a pena SE sua empresa já possui: (1) registro ativo no SAM.gov, (2) experiência comprovada em treinamento para órgãos militares ou federais, (3) instrutores com possível clearance de segurança, e (4) capacidade de entregar treinamento especializado em área aeroespacial/espacial. Para empresas sem experiência federal em defesa, as barreiras são altas e a concorrência de empresas maiores é intensa (sem set-aside). Recomendação: leia o edital completo antes de decidir — se houver exigência de clearance ou experiência DoD específica, empresas iniciantes terão dificuldade."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Possível exigência de clearance de segurança para instrutores e/ou empresa — comum em contratos DoD/Space Force; (2) Ausência de set-aside — sem proteção para pequenas empresas, competindo diretamente com grandes empresas de treinamento DoD; (3) Exigência provável de experiência prévia em contratos federais de treinamento militar ou aeroespacial; (4) Seguro GL mínimo de $1M; (5) Prazo curto de 15 dias para preparar proposta competitiva; (6) Conteúdo técnico especializado (operações espaciais/STARCOM) que exige instrutores qualificados e experientes nessa área."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos federais de treinamento profissional (NAICS 611430), as margens típicas variam entre 10% e 20% sobre os custos diretos. Contratos DoD tendem a aceitar margens menores quando há componente de segurança nacional. Como o valor total não foi divulgado, é impossível estimar o lucro absoluto. Para calcular: some todos os custos (instrutores, materiais, overhead, seguros, administrativo), aplique 12-18% de margem, e pesquise preços históricos de contratos similares em USASpending.gov. Cuidado com custos ocultos como possível necessidade de adequação de materiais para padrões DoD."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O resumo indica 'ver edital' para licenças. Para serviços de treinamento profissional (NAICS 611430) em contratos federais DoD, geralmente não há licença estadual específica exigida como em construção ou saúde. Porém, é comum que o governo exija: (1) Credenciamento de instrutores na área específica (operações espaciais, defesa); (2) Certificações institucionais de qualidade educacional; (3) Possivelmente facility clearance se o conteúdo for classificado. Acesse o edital completo para verificar a seção de qualificações mínimas e requisitos de licença antes de qualquer outra ação."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estas etapas: (1) Leia o edital completo para identificar: número de participantes, número de turmas, carga horária, formato (presencial/online/híbrido) e local de execução; (2) Calcule custos de instrutores (tarifa diária x dias de instrução); (3) Some custos de desenvolvimento/adaptação do currículo (one-time cost); (4) Inclua materiais didáticos, plataformas digitais se aplicável; (5) Adicione overhead (10-15% dos custos diretos); (6) Inclua custo proporcional de seguros; (7) Pesquise preços de mercado em USASpending.gov com NAICS 611430 + Air Force/Space Force; (8) Aplique margem de 12-18%; (9) Considere oferecer preço por participante e preço por turma para flexibilidade. Não subestime custos de conformidade com padrões DoD."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:51:58.686Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-ca2e97b932ce44a4a74122b6a2964ea0",
@@ -454,7 +778,56 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/ca2e97b932ce44a4a74122b6a2964ea0/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para submissão: 29/06/2026. ATENÇÃO: Este aviso é uma PRÉ-SOLICITAÇÃO (Pre-Solicitation), o que significa que o edital completo com todos os requisitos ainda será publicado. O prazo de 29/06/2026 pode ser apenas o prazo para manifestação de interesse ou para submissão após publicação do edital completo. É OBRIGATÓRIO acessar o SAM.gov regularmente para acompanhar a publicação do edital definitivo e confirmar datas exatas. | DOCUMENTOS EXIGIDOS | Por ser pré-solicitação, os documentos definitivos ainda não foram divulgados. Tipicamente para contratos federais VA deste tipo exige-se: (1) SAM.gov ativo e em dia com todas as certidões; (2) Proposta técnica descrevendo metodologia de substituição dos painéis; (3) Proposta de preços detalhada; (4) Certificações de pequena empresa se aplicável (verificar Set-Aside no edital completo); (5) Licença de empreiteiro de vidro/glazing válida na Flórida; (6) Certificados de seguro (GL, Workers Comp); (7) Referências de projetos similares anteriores; (8) Documentação de compliance com Davis-Bacon Act (salários mínimos federais para construção); (9) Compliance com Buy American Act se materiais importados. | REQUISITOS TÉCNICOS | NAICS 238150 — Glass and Glazing Contractors. Espera-se que o licitante comprove experiência específica em substituição de painéis de vidro em edificações, preferencialmente em ambientes hospitalares ou governamentais. Possível necessidade de trabalhar em ambiente hospitalar ativo com protocolos de controle de infecção (ICRA), restrições de horário de trabalho, controle de ruído e poeira. Acesso a instalação federal requer verificação de antecedentes de todos os trabalhadores. Pode exigir certificações específicas como OSHA 30, trabalho em altura, e conhecimento de normas como ASTM E1300 para painéis de vidro estrutural. | SEGUROS E GARANTIAS | Seguro GL (General Liability): mínimo $1.000.000 por ocorrência (dado disponível no edital). Workers Compensation: exigido pela lei da Flórida para qualquer empreiteiro com funcionários. Performance Bond e Payment Bond: prováveis para contratos federais acima de $150.000 — verificar no edital completo. Umbrella/Excess Liability: frequentemente exigida pelo VA em valores de $2M a $5M — confirmar. O VA como Additional Insured deverá constar nos certificados de seguro. | COMO CALCULAR O PREÇO | Valor estimado não divulgado, o que dificulta o planejamento inicial. Passos para precificar: (1) Aguardar edital completo com plantas, especificações e quantitativos dos painéis; (2) Solicitar visita ao local (site visit) — o VA geralmente oferece para projetos de construção; (3) Calcular custo de materiais: vidros especificados, sistemas de fixação, vedação, descarte; (4) Calcular mão de obra com salários Davis-Bacon (pesquisar tabela salarial para condado específico na FL); (5) Adicionar custos de equipamentos (andaimes, guindaste se necessário); (6) Incluir seguros, bonds e overhead (15-20% típico para pequenas empresas); (7) Margem de lucro de 10-20% dependendo da complexidade; (8) Contingência de 5-10% para riscos de trabalho em edificação existente. | ESTRATÉGIA DE SUBMISSÃO | Esta é fase de pré-solicitação: use este período para: (1) Verificar se há Set-Aside (reserva para pequenas empresas, SDVOSB — Service-Disabled Veteran-Owned Small Business é muito valorizado pelo VA); (2) Preparar empresa no SAM.gov; (3) Estabelecer contato com o Contracting Officer (CO) via perguntas formais no SAM.gov; (4) Identificar fornecedores de vidro e subcontratados se necessário; (5) Estudar projetos anteriores do VA similares para benchmarking de preços. SDVOSB têm vantagem competitiva significativa em contratos VA — se a empresa for elegível, certificar antes da submissão. | RISCOS | (1) Valor não divulgado — pode ser contrato pequeno ou muito grande, incerteza no planejamento; (2) Ambiente hospitalar VA com restrições severas de horário e acesso; (3) Possível necessidade de verificação de antecedentes cara e demorada para toda a equipe; (4) Davis-Bacon aumenta custo de mão de obra; (5) Concorrência aberta (Open Competition) — sem set-aside confirmado, empresas grandes também podem participar; (6) Fit Score baixo (38/100) sugere que o perfil da empresa pode não estar alinhado com todos os requisitos; (7) Pré-solicitação pode ser cancelada ou modificada substancialmente. | PRÓXIMOS 3 PASSOS | PASSO 1 (Imediato — até 7 dias): Acessar o link do SAM.gov, criar alerta para este número de oportunidade, verificar se há documentos anexados na pré-solicitação, identificar nome e contato do Contracting Officer, confirmar se há set-aside para pequenas empresas ou SDVOSB. PASSO 2 (1-2 semanas): Verificar se SAM.gov da empresa está ativo e atualizado com NAICS 238150; verificar licença de glazing contractor na Flórida; contactar fornecedores de vidro para estabelecer parceria; avaliar capacidade de obter Performance Bond se necessário; preparar documentos padrão (certidões, seguros, referências). PASSO 3 (Após publicação do edital completo): Participar do site visit obrigatório ou recomendado; submeter perguntas formais ao CO dentro do prazo; elaborar proposta técnica e de preços completa; submeter no SAM.gov antes do deadline de 29/06/2026.",
+      "resumo_simples": "Substituição de painéis de vidro externos (fachada) em um hospital/centro de saúde para veteranos (LCHCC) no estado da Flórida, gerenciado pelo Departamento de Assuntos de Veteranos dos EUA.",
+      "categoria_curta": "Reforma de fachada",
+      "o_que_comprar": "Serviço de substituição de painéis de vidro externos (Exterior Glass Panel Replacement) em uma instalação do VA (Veterans Affairs) identificada como LCHCC (Lake City Health Care Center ou similar). O escopo envolve remoção dos painéis de vidro existentes na fachada do edifício e instalação de novos painéis de vidro, incluindo todo o trabalho de mão de obra, materiais, equipamentos e descarte dos materiais antigos. NAICS 238150 corresponde a 'Glass and Glazing Contractors' (Empreiteiros de vidro e glazing). Quantidades específicas, dimensões dos painéis, especificações técnicas de vidro (espessura, tipo, classificação energética) e localização exata não foram divulgadas nesta fase de pré-solicitação (Pre-Solicitation) — o edital completo será publicado posteriormente no SAM.gov. Local de execução: instalação federal do VA na Flórida, Rede de Contratos 8 (36C248), que cobre o estado da Flórida.",
+      "prazo_submissao": "Deadline: 29/06/2026. ATENÇÃO: Este é aviso de PRÉ-SOLICITAÇÃO. O edital completo será publicado posteriormente. Acesse https://sam.gov/workspace/contract/opp/ca2e97b932ce44a4a74122b6a2964ea0/view regularmente para confirmar data e hora exata de submissão da proposta definitiva e possíveis alterações de prazo.",
+      "documentos_lista": [
+        "SAM.gov ativo e atualizado (obrigatório — sem isso não pode participar)",
+        "Licença de Glass/Glazing Contractor válida no estado da Flórida",
+        "Certificado de seguro GL mínimo $1.000.000 com VA como Additional Insured",
+        "Certificado de Workers Compensation conforme lei da Flórida",
+        "Performance Bond e Payment Bond (provável — confirmar no edital completo)",
+        "Proposta técnica detalhando metodologia de substituição dos painéis",
+        "Proposta de preços itemizada",
+        "Comprovantes de experiência em projetos similares (referências)",
+        "Certificações OSHA dos trabalhadores (OSHA 10 ou 30)",
+        "Documentação de compliance com Davis-Bacon Act (tabela de salários)",
+        "Certificação de pequena empresa ou SDVOSB (se aplicável)",
+        "Documentação de verificação de antecedentes da equipe (para acesso à instalação federal)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (mínimo confirmado no edital)",
+        "workers_comp": "Exigido pela lei da Flórida — valor conforme legislação estadual e federal; confirmar limites específicos no edital completo",
+        "bond": "Provável sim — Performance Bond e Payment Bond típicos para contratos federais de construção acima de $150.000; valor igual ao valor do contrato; confirmar no edital completo quando publicado"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "O Fit Score de 38/100 indica adequação parcial. Vale a pena SE: sua empresa tem NAICS 238150 ativo no SAM.gov, possui licença de glazing contractor na FL, tem experiência comprovada em substituição de vidros em edificações e capacidade de trabalhar em ambiente federal/hospitalar. O VA é um excelente cliente federal — paga bem e tem contratos recorrentes. Se sua empresa é SDVOSB (Service-Disabled Veteran-Owned Small Business), a vantagem competitiva aumenta muito pois o VA tem metas de contratação com SDVOSBs. Se a empresa não tem experiência federal anterior ou SAM.gov inativo, o esforço pode não compensar neste momento."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) SAM.gov ativo e atualizado — sem isso, impossível participar; 2) Licença específica de glazing/vidro contractor na Flórida; 3) Capacidade de obter Performance e Payment Bond (exige histórico financeiro e crédito); 4) Experiência em ambiente federal/hospitalar com protocolos rígidos de segurança e acesso; 5) Compliance com Davis-Bacon Act que aumenta custo de mão de obra; 6) Verificação de antecedentes de TODA a equipe que acessará a instalação federal (processo demorado e às vezes custoso); 7) Concorrência aberta pode incluir empresas maiores e mais experientes em contratos VA."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de glazing/substituição de vidros em projetos federais, a margem líquida típica varia de 8% a 18%. Fatores que afetam: complexidade técnica dos painéis (vidro simples vs. vidro estrutural especial), altura e dificuldade de acesso, horários restritos de trabalho em hospital ativo. O VA geralmente paga preços justos de mercado, especialmente em projetos de construção. Como o valor não foi divulgado, é impossível estimar o montante absoluto. Após publicação do edital completo, faça pesquisa de mercado com fornecedores de vidro e compare com Davis-Bacon wages para calcular uma proposta competitiva mas rentável."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim. NAICS 238150 corresponde a Glass and Glazing Contractors. Na Flórida, contratistas de vidro precisam de licença emitida pelo Florida Department of Business and Professional Regulation (DBPR) — especificamente a categoria de 'Glass and Glazing Contractor' ou licença de empreiteiro geral que cubra esse escopo. Verifique se sua licença atual cobre o escopo ou se precisa de endorsement adicional. Além da licença estadual, pode ser necessária licença municipal na cidade onde está o LCHCC. Confirme todos os requisitos de licenciamento no edital completo quando publicado."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "1) Aguarde o edital completo com plantas e especificações para ter quantitativos exatos; 2) Participe do site visit para avaliar condições reais no local; 3) Pesquise tabela Davis-Bacon para o condado específico (wage determinations em sam.gov/search/content?query=wage+determinations); 4) Colete cotações de pelo menos 3 fornecedores de vidro; 5) Calcule: materiais + mão de obra (Davis-Bacon) + equipamentos + overhead (15-20%) + seguros e bond + margem (10-18%) + contingência (5-10%); 6) Pesquise preços de contratos similares publicados no USASpending.gov para benchmarking; 7) Não precifique abaixo do custo real — o VA analisa propostas com preços suspeita de 'too low to be realistic' e pode desqualificar."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T04:53:10.478Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-bebeba89b13b48cabb665217207dbbdd",
