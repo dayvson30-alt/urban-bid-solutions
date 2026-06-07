@@ -931,8 +931,12 @@ function setRebidFilter(f) {
 function buildPdfAnalysis(b) {
   var pa = b.pdf_analysis;
 
-  // If PDF is already stored in GitHub Pages — show nothing here, buildDocViewer handles it
+  // buildDocViewer handles display when documents/pdf_links exist
   if (b.pdf_url) return '';
+  var hasDocs = (b.documents||[]).some(function(d){return d.url&&d.url.indexOf('.pdf')>=0;});
+  var hasPdfLinks = (b.pdf_links||[]).length > 0;
+  var hasResourceLinks = (b.resourceLinks||[]).length > 0;
+  if (hasDocs || hasPdfLinks || hasResourceLinks) return '';
 
   // If no analysis data at all — show pending banner
   if (!pa) {
@@ -1124,8 +1128,14 @@ function buildDocViewer(b) {
 
   var firstPdf = allDocs[0].url;
   var tabs = allDocs.map(function(d,i){
-    return '<button onclick="switchDoc(\''+d.url+'\',this)" class="doc-tab'+(i===0?' doc-tab-active':'')+'" title="'+d.name+'">'+
-      d.name.substring(0,35)+(d.name.length>35?'...':'')+'</button>';
+    // Use filename from URL if name is generic
+    var label = d.name;
+    if(!label || label === 'View File' || label === 'Documento') {
+      var parts = d.url.split('/').pop().replace('.pdf','').replace(/-/g,' ').replace(/_/g,' ');
+      label = parts.length > 3 ? parts : d.name;
+    }
+    return '<button onclick="switchDoc(\''+d.url+'\',this)" class="doc-tab'+(i===0?' doc-tab-active':'')+'" title="'+label+'">'+
+      label.substring(0,35)+(label.length>35?'...':'')+'</button>';
   }).join('');
 
   return '<div class="dblock">'+
