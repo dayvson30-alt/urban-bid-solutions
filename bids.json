@@ -3129,7 +3129,55 @@
           "url": "https://www.polkfl.gov/wp-content/uploads/2026/05/Bid-26-243-Bid-Package.pdf"
         }
       ],
-      "link": "https://www.polkfl.gov/bid-form/bid-26-243/"
+      "link": "https://www.polkfl.gov/bid-form/bid-26-243/",
+      "ai_analysis": "PRAZO: A data exata de submissão não está disponível nos dados fornecidos — é necessário acessar o PDF em https://www.polkfl.gov/bid-form/bid-26-243/ para confirmar deadline, horário e local de entrega. Contratos do Polk County tipicamente requerem submissão física ou via portal BidSync/DemandStar. | DOCUMENTOS: Lista provável baseada no padrão Polk County: formulário de proposta assinado, lista de preços unitários (unit price schedule), certificado de seguro, licença de contratante, referências de projetos similares, formulário de informações do licitante, e possivelmente declaração de não-conluio (non-collusion affidavit). Verificar PDF para lista exata. | REQUISITOS: Empresa deve possuir Licença de Contratante Geral ou Licença Específica para Concreto válida no Estado da Flórida (Certified or Registered Contractor). Experiência comprovada em obras de concreto municipal. Capacidade de mobilização rápida após ordem de serviço. O escopo indica trabalho em campo com equipe própria — subcontratação pode ser restrita ou exigir aprovação. | SEGUROS: General Liability mínimo de $1.000.000 por ocorrência — verificar se exige $2M agregado. Workers' Compensation obrigatório conforme lei da Flórida (mínimo estatutário). Auto Liability provável (~$1M). Performance/Payment Bond: indicado como 'false' nos dados, mas confirmar no edital — alguns term contracts de Polk County exigem bond apenas acima de determinado valor de ordem de serviço. | PREÇO: Valor estimado não divulgado. Contratos similares em condados da Flórida variam de $200K a $2M anuais. A precificação é por preço unitário (por metro quadrado ou por linear foot de concreto). Inclua custos de: material (concreto, forms, rebar), mão de obra, equipamentos (saw cutting, finishing), descarte de entulho, e mobilização. Margem típica: 15-25% em contratos governamentais de concreto. | ESTRATÉGIA: Este é um contrato de term/continuing services — ideal para pequenas empresas que querem receita recorrente. Precifique competitivamente nos itens de maior volume (sidewalks por SF) e mantenha margem nos itens especiais. Visite locais recentes de obras da Polk County para entender padrões e especificações técnicas. Contacte o responsável pelo bid antes do deadline para tirar dúvidas técnicas. | RISCOS: (1) Sem volume mínimo garantido — fluxo de caixa incerto; (2) Concorrência de empresas maiores já estabelecidas com Polk County; (3) Custo de materiais de concreto volátil em 2024-2025; (4) Fit Score baixo (12/100) sugere possíveis barreiras não identificadas — leitura do PDF é essencial; (5) Possível exigência de licença específica que a empresa pode não possuir. | PRÓXIMOS 3 PASSOS: (1) IMEDIATO — Acesse https://www.polkfl.gov/bid-form/bid-26-243/ e faça download do PDF completo para verificar deadline exato, especificações técnicas e todos os documentos exigidos; (2) ATÉ 48H — Verifique se sua empresa possui licença de contratante válida na Flórida para obras de concreto e se os seguros atuais atendem os requisitos mínimos ($1M GL); (3) ANTES DO DEADLINE — Submeta perguntas técnicas ao Polk County Purchasing (período de Q&A geralmente termina 5-7 dias antes do deadline) e prepare planilha de preços unitários competitiva com base em custos reais de mão de obra e material na região de Lakeland/Polk County.",
+      "resumo_simples": "Polk County quer contratar empresa para construção e reparo de calçadas, entradas de garagem e meio-fios de concreto.",
+      "categoria_curta": "Obras de Concreto",
+      "o_que_comprar": "Contrato de serviços de concreto incluindo instalação, reparo e substituição de calçadas (sidewalks), entradas de veículos (driveways) e meio-fios/sarjetas (curbs) em propriedades e vias públicas do Condado de Polk, Florida. Trata-se de um contrato de demanda (term contract), onde o condado solicita serviços conforme necessidade ao longo do período contratual, sem garantia de volume mínimo.",
+      "prazo_submissao": "Não disponível nos dados fornecidos — verificar PDF do edital em https://www.polkfl.gov/bid-form/bid-26-243/",
+      "documentos_lista": [
+        "Formulário de proposta oficial assinado (Bid Form)",
+        "Planilha de preços unitários preenchida (Unit Price Schedule)",
+        "Certificado de seguro (General Liability $1M mínimo)",
+        "Certificado de Workers' Compensation",
+        "Cópia da licença de contratante da Flórida válida",
+        "Referências de projetos similares (mínimo 3)",
+        "Formulário de informações do licitante (Bidder Information Form)",
+        "Declaração de não-conluio (Non-Collusion Affidavit)",
+        "Formulário W-9 (se exigido)",
+        "Qualquer adendo (addenda) publicado deve ser assinado e incluído"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmar agregado no PDF)",
+        "workers_comp": "Obrigatório conforme estatuto da Flórida (verificar limites no edital)",
+        "auto_liability": "$1.000.000 — provável, confirmar no edital",
+        "bond": "Não exigido conforme dados disponíveis — confirmar no PDF do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar?",
+          "resposta": "Com Fit Score de 12/100, o edital apresenta sinais de alerta. Vale a pena SOMENTE se: sua empresa já possui licença de contratante para concreto na Flórida, tem experiência comprovada em obras municipais, possui os seguros exigidos ou pode obtê-los rapidamente, e tem capacidade operacional na região de Polk County. Sem esses elementos, o risco de desclassificação é alto e o esforço não compensa."
+        },
+        {
+          "pergunta": "Principais barreiras?",
+          "resposta": "As principais barreiras são: (1) Licença de contratante específica para obras de concreto na Flórida — sem ela, eliminação imediata; (2) Seguro GL de $1M — pequenas empresas iniciantes podem não ter esse nível de cobertura; (3) Experiência comprovada em projetos municipais similares — Polk County geralmente exige referências; (4) Concorrência de empresas locais já conhecidas pelo condado; (5) O Fit Score baixo sugere que o edital completo pode ter requisitos adicionais não capturados nos dados analisados."
+        },
+        {
+          "pergunta": "Margem de lucro esperada?",
+          "resposta": "Em contratos de concreto municipais na Flórida, margens líquidas típicas ficam entre 10-20%. Para pequenas empresas com overhead menor, é possível atingir 15-22% se os preços unitários forem bem calculados. O risco maior é a variação no custo do concreto (por yard cúbico) e mão de obra qualificada. Recomenda-se incluir cláusula de reajuste ou margem de contingência de 10% nos preços para absorver flutuações de material."
+        },
+        {
+          "pergunta": "Preciso de licença?",
+          "resposta": "Sim, muito provavelmente. Para obras de concreto em contratos públicos na Flórida, é necessária licença de Contratante Geral (General Contractor) ou Licença Específica de Concreto, podendo ser Certified (válida em todo o estado) ou Registered (válida apenas no município/condado). Verifique com o Florida Department of Business and Professional Regulation (DBPR) em myfloridalicense.com. Sem licença válida, a proposta será rejeitada."
+        },
+        {
+          "pergunta": "Como precificar?",
+          "resposta": "Precifique por preços unitários. Passos: (1) Solicite preços de concreto a fornecedores locais em Polk County (base ~$150-180/yard cúbico em 2024); (2) Calcule custo de mão de obra por SF de calçada (típico: $4-8/SF instalado); (3) Some custos de equipamentos, saw cutting, remoção de concreto antigo e descarte; (4) Adicione overhead (15-20%) e margem de lucro (10-15%); (5) Pesquise contratos anteriores similares do Polk County em DemandStar ou no portal de compras do condado para referência de preços praticados. Seja competitivo nos itens de sidewalk (maior volume) e mantenha margem nos itens especiais."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-07T05:10:41.392Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "polk-bid-26-148",
