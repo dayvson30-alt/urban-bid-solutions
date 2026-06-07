@@ -219,6 +219,20 @@ header{background:var(--navy);color:#fff;padding:14px 20px;display:flex;align-it
 .gdesc{font-size:12px;color:#475569;line-height:1.6}.gtip{margin-top:5px;padding:7px 11px;background:#f0fdf4;border-radius:5px;font-size:11px;color:#166534;font-weight:600}
 .empty{text-align:center;padding:40px 20px;color:#94a3b8}.empty .ic{font-size:44px;margin-bottom:10px}
 @media(max-width:600px){.dg2,.sg{grid-template-columns:1fr}.ab-cards{flex-direction:column}.dht{font-size:17px}}
+
+.cat-pill{display:inline-block;margin-top:4px;padding:2px 8px;background:#ede9fe;color:#7c3aed;border-radius:4px;font-size:11px;font-weight:700}
+.resumo-hero{display:flex;align-items:flex-start;gap:10px;padding:12px 22px;background:#f0f9ff;border-top:1px solid #bae6fd;font-size:13px;color:#0369a1;line-height:1.5}
+.resumo-icon{font-size:18px;flex-shrink:0}
+.resumo-text{font-weight:500}
+.ai-analysis-text{font-size:13px;line-height:1.7;color:#334155;white-space:pre-wrap}
+.faq-list{display:flex;flex-direction:column;gap:6px}
+.faq-item{border:1px solid #e2e8f0;border-radius:6px;overflow:hidden}
+.faq-item summary{padding:10px 14px;font-size:13px;font-weight:600;cursor:pointer;background:#f8fafc;color:#1e3a5f}
+.faq-item summary:hover{background:#eff6ff}
+.faq-ans{padding:10px 14px;font-size:13px;color:#475569;line-height:1.6;border-top:1px solid #e2e8f0;background:#fff}
+.analyze-btn{background:#2563eb;color:#fff;border:none;padding:9px 18px;border-radius:6px;font-size:13px;font-weight:700;cursor:pointer}
+.analyze-btn:hover{background:#1d4ed8}
+.analyze-btn:disabled{background:#94a3b8;cursor:wait}
 </style>
 </head>
 <body>
@@ -499,7 +513,7 @@ function renderCard(b){
     '<div class="cb"><div class="ct">'+b.title+pipBadge+'</div><div class="cm">'+b.bidNum+' - '+b.source+'</div>'+
     '<div class="cd"><div class="db"><div class="dlbl">Publicado</div><div class="dval">'+(b.openDate||'--')+'</div></div>'+
     '<div class="db dl"><div class="dlbl">Deadline</div><div class="dval">'+(b.deadline||'Ver edital')+cdBadge+'</div></div></div>'+
-    '<div class="cr">'+(b.veredito_reason||'')+'</div></div>'+
+    '<div class="cr">'+(b.resumo_simples||b.veredito_reason||'')+'</div>'+(b.categoria_curta?'<div class="cat-pill">'+b.categoria_curta+'</div>':'')+'</div>'+
     '<div class="cfoot"><span>Clique para analise completa</span><span>'+(diff==='easy'?'Facil':diff==='medium'?'Medio':'Dificil')+'</span></div></div>';
 }
 
@@ -1165,6 +1179,49 @@ loadData().then(function(){
     showDetail(hash, false);
   }
 });
+
+function analisarBid(bidNum, bidId) {
+  var btn = document.getElementById('anlz-'+bidId);
+  var res = document.getElementById('anlz-result-'+bidId);
+  if(btn) { btn.disabled=true; btn.textContent='Analisando... (30-60s)'; }
+  fetch('http://localhost:5678/webhook/analyze-bid', {
+    method:'POST', headers:{'Content-Type':'application/json'},
+    body: JSON.stringify({bidNum: bidNum})
+  }).then(function(r){ return r.json(); }).then(function(data) {
+    if(data.success) {
+      if(res) res.innerHTML='<strong style="color:#16a34a">✅ Analisado!</strong> Recarregue a pagina para ver a analise completa.';
+      if(btn) { btn.textContent='✅ Concluido'; }
+    } else {
+      if(res) res.innerHTML='<span style="color:#dc2626">Erro: '+( data.error||'falha')+'</span>';
+      if(btn) { btn.disabled=false; btn.textContent='Tentar novamente'; }
+    }
+  }).catch(function(e) {
+    if(res) res.innerHTML='<span style="color:#dc2626">Erro de conexao. N8N esta rodando?</span>';
+    if(btn) { btn.disabled=false; btn.textContent='Tentar novamente'; }
+  });
+}
+
+function perguntarBid(bidNum, bidId) {
+  var inp = document.getElementById('qa-inp-'+bidId);
+  var out = document.getElementById('qa-out-'+bidId);
+  var question = inp ? inp.value.trim() : '';
+  if(!question) return;
+  out.style.display='block';
+  out.innerHTML='<em>Pensando...</em>';
+  fetch('http://localhost:5678/webhook/bid-qa', {
+    method:'POST', headers:{'Content-Type':'application/json'},
+    body: JSON.stringify({bidNum: bidNum, question: question})
+  }).then(function(r){ return r.json(); }).then(function(data) {
+    if(data.success) {
+      out.innerHTML='<strong style="color:#1e3a5f">Pergunta:</strong> '+question+'<br><br><strong style="color:#1e3a5f">Resposta:</strong><br>'+data.answer.replace(/\n/g,'<br>');
+      if(inp) inp.value='';
+    } else {
+      out.innerHTML='<span style="color:#dc2626">Erro: '+( data.error||'falha')+'</span>';
+    }
+  }).catch(function(e) {
+    out.innerHTML='<span style="color:#dc2626">Erro de conexao. N8N esta rodando?</span>';
+  });
+}
 </script>
 </body>
 </html>
