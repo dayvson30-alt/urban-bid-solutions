@@ -573,7 +573,8 @@ function renderDetail(b){
     '<div class="dhm">'+b.bidNum+' - '+(b.orgao||b.source)+' - '+b.condado+' County, FL - <a href="'+b.link+'" target="_blank">Ver no portal</a></div></div>'+
     '<div class="dhreason">Por que este veredito: '+(b.veredito_reason||'')+'</div>'+
     (b.nextStep?'<div class="dhnext"><strong>Proximo Passo</strong>'+b.nextStep+'</div>':'')+
-    blockerHTML+'</div>'+
+    blockerHTML+(b.resumo_simples?'<div class="resumo-hero"><span class="resumo-icon">AI</span><div class="resumo-text">'+b.resumo_simples+'</div></div>':'')+
+    '</div>'+
     '<div class="dblocks">'+scoreHTML+
     '<div class="dblock"><div class="dbhdr">Datas Criticas</div><div class="dbbody"><div class="dg2">'+
     '<div class="dc pub"><div class="lbl">Data de Publicacao</div><div class="val">'+(b.openDate||'--')+'</div><div class="sub">Quando o edital foi lancado</div></div>'+
@@ -601,7 +602,7 @@ function renderDetail(b){
     buildPdfAnalysis(b)+
     buildWinnersBlock(b)+
     buildPipelineBlock(b)+
-    '<div class="dblock"><div class="dbhdr">Acao Imediata - Email e WhatsApp</div><div class="dbbody">'+
+    (b.ai_analysis?'<div class="dblock"><div class="dbhdr">Analise IA Claude <small style="font-weight:400;opacity:.7">'+(b.ai_analyzed_at?new Date(b.ai_analyzed_at).toLocaleDateString('pt-BR'):'')+' </small></div><div class="dbbody"><div class="ai-analysis-text">'+b.ai_analysis.replace(/\n/g,'<br>')+'</div></div></div>':'<div class="dblock"><div class="dbhdr">Analise IA Claude</div><div class="dbbody"><p style="font-size:13px;color:#475569;margin-bottom:12px">Analise nao disponivel. Clique para gerar com Claude (30-60s).</p><button class="analyze-btn" id="anlz-'+b.id+'" onclick="analisarBid(\''+b.bidNum+'\',' \"'+b.id+'\")">ð¤ Analisar com Claude IA</button><div id="anlz-result-'+b.id+'" style="margin-top:10px"></div></div></div>')+(b.perguntas_frequentes&&b.perguntas_frequentes.length?'<div class="dblock"><div class="dbhdr">Perguntas Frequentes</div><div class="dbbody"><div class="faq-list">'+b.perguntas_frequentes.map(function(q){return '<details class="faq-item"><summary>'+q.pergunta+'</summary><div class="faq-ans">'+q.resposta+'</div></details>';}).join('')+'</div></div></div>':'')+'<div class="dblock"><div class="dbhdr">Pergunte ao Claude</div><div class="dbbody"><p style="font-size:13px;color:#475569;margin-bottom:10px">Tire duvidas diretamente sobre este edital.</p><div style="display:flex;gap:8px;margin-bottom:8px"><input id="qa-inp-'+b.id+'" type="text" placeholder="Ex: Preciso de bond?" style="flex:1;padding:8px 12px;border:2px solid #e2e8f0;border-radius:6px;font-size:13px"><button onclick="perguntarBid(\''+b.bidNum+'\',' \"'+b.id+'\")" style="background:#1e3a5f;color:#fff;border:none;padding:8px 14px;border-radius:6px;cursor:pointer;font-weight:700">Perguntar</button></div><div id="qa-out-'+b.id+'" style="display:none;background:#f8fafc;border:1px solid #e2e8f0;border-radius:6px;padding:12px;font-size:13px;line-height:1.6"></div></div></div>'+'<div class="dblock"><div class="dbhdr">Acao Imediata - Email e WhatsApp</div><div class="dbbody">'+
     '<p style="font-size:13px;color:#475569;margin-bottom:12px">Templates prontos para enviar agora. Clique para copiar ou abrir diretamente.</p>'+
     '<button class="copybtn email" style="font-size:13px;padding:9px 18px" onclick="showEmailModal(allBids.find(function(x){return x.id===\''+b.id+'\'}))">Gerar Email + WhatsApp</button>'+
     '</div></div>'+
@@ -1221,6 +1222,29 @@ function perguntarBid(bidNum, bidId) {
   }).catch(function(e) {
     out.innerHTML='<span style="color:#dc2626">Erro de conexao. N8N esta rodando?</span>';
   });
+}
+
+function analisarBid(bidNum,bidId){
+  var btn=document.getElementById('anlz-'+bidId);
+  var res=document.getElementById('anlz-result-'+bidId);
+  if(btn){btn.disabled=true;btn.textContent='Analisando... (30-60s)';}
+  fetch('http://localhost:5678/webhook/analyze-bid',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({bidNum:bidNum})})
+  .then(function(r){return r.json();}).then(function(d){
+    if(d.success){if(res)res.innerHTML='<strong style="color:#16a34a">Analisado!</strong> Recarregue a pagina para ver.';if(btn)btn.textContent='OK';}
+    else{if(res)res.innerHTML='<span style="color:#dc2626">Erro: '+(d.error||'falha')+'</span>';if(btn){btn.disabled=false;btn.textContent='Tentar novamente';}}
+  }).catch(function(){if(res)res.innerHTML='<span style="color:#dc2626">Erro de conexao. N8N rodando?</span>';if(btn){btn.disabled=false;btn.textContent='Tentar novamente';}});
+}
+function perguntarBid(bidNum,bidId){
+  var inp=document.getElementById('qa-inp-'+bidId);
+  var out=document.getElementById('qa-out-'+bidId);
+  var q=inp?inp.value.trim():'';
+  if(!q)return;
+  out.style.display='block';out.innerHTML='<em>Pensando...</em>';
+  fetch('http://localhost:5678/webhook/bid-qa',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({bidNum:bidNum,question:q})})
+  .then(function(r){return r.json();}).then(function(d){
+    if(d.success){out.innerHTML='<strong>Pergunta:</strong> '+q+'<br><br><strong>Resposta:</strong><br>'+d.answer.replace(/\n/g,'<br>');if(inp)inp.value='';}
+    else{out.innerHTML='<span style="color:#dc2626">Erro: '+(d.error||'falha')+'</span>';}
+  }).catch(function(){out.innerHTML='<span style="color:#dc2626">Erro de conexao.</span>';});
 }
 </script>
 </body>
