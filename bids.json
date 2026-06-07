@@ -3175,7 +3175,13 @@
           "resposta": "Precifique por preços unitários. Passos: (1) Solicite preços de concreto a fornecedores locais em Polk County (base ~$150-180/yard cúbico em 2024); (2) Calcule custo de mão de obra por SF de calçada (típico: $4-8/SF instalado); (3) Some custos de equipamentos, saw cutting, remoção de concreto antigo e descarte; (4) Adicione overhead (15-20%) e margem de lucro (10-15%); (5) Pesquise contratos anteriores similares do Polk County em DemandStar ou no portal de compras do condado para referência de preços praticados. Seja competitivo nos itens de sidewalk (maior volume) e mantenha margem nos itens especiais."
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "question": "Preciso de bond para participar deste edital?",
+          "answer": "## Resposta sobre Bond no Bid 26-243 — Polk County\n\nCom base nos dados disponíveis, o edital indica **\"false\"** para o campo de Performance/Payment Bond, o que sugere que bond **não seria exigido** para participar da licitação. Porém, essa informação precisa ser **confirmada diretamente no PDF do edital** em https://www.polkfl.gov/bid-form/bid-26-243/, pois dados extraídos automaticamente podem não capturar todas as nuances do documento original.\n\nÉ importante entender que contratos de **term contract** (contrato guarda-chuva por período) como este costumam funcionar de forma diferente: o bond pode não ser exigido na fase de habilitação, mas pode ser **acionado por ordem de serviço individual** quando o valor ultrapassa determinado threshold — geralmente **$100.000 ou $200.000** por ordem de serviço, conforme política do Polk County. Verifique especificamente se o edital menciona esse tipo de gatilho.\n\nMesmo que o bond não seja obrigatório agora, **recomendo que você já se pré-qualifique com uma seguradora (surety bond company)** antes de submeter a proposta. Isso demonstra capacidade financeira, acelera sua resposta quando uma ordem de serviço grande chegar, e alguns órgãos valorizam isso na fase de referências e qualificação técnica.\n\n**Ação imediata:** Acesse o PDF do edital, pesquise os termos \"bond\", \"surety\" e \"performance\" no documento, e verifique a Seção de Instruções aos Licitantes e as Condições Gerais do Contrato. Se tiver dúvida, ligue diretamente para o Polk County Purchasing Department e peça confirmação por escrito — isso protege você caso haja divergência de interpretação.",
+          "timestamp": "2026-06-07T05:11:02.002Z"
+        }
+      ],
       "ai_analyzed_at": "2026-06-07T05:10:41.392Z",
       "ai_model": "claude-sonnet-4-6"
     },
