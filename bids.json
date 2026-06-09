@@ -23,26 +23,32 @@
       "model": "product",
       "openDate": "2026-05-26",
       "deadline": "2026-06-12",
-      "link": "https://vendor.myfloridamarketplace.com/search/bids/AD-16080",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/detail/16080",
       "pdf_url": "",
       "documents": [],
       "pdf_links": [],
       "resourceLinks": [],
-      "veredito": "go",
-      "fit_score": 72,
+      "veredito": "skip",
+      "fit_score": 0,
       "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
+      "categoria_curta": "Intel — Contrato adjudicado",
       "o_que_comprar": "",
       "prazo_submissao": "2026-06-12",
       "documentos_lista": [],
       "seguros_detalhado": {},
       "perguntas_frequentes": [],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "⚠️ ATENÇÃO — ESTE NÃO É UM BID ATIVO\n\nEste é um \"Agency Decision\" (Aviso de Intenção de Adjudicação). O DJJ está anunciando que vai dar o contrato de Roupas e Produtos de Higiene para a empresa Victory Supply. O prazo de 12/06 é a janela de protesto, não de submissão de proposta.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nINTEL COMPETITIVA — GUARDA PARA O PRÓXIMO CICLO\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nCONTRATO ATUAL: DJJ ITB 14765 (Clothing & Hygiene Products FY 25/26)\nGANHADOR: Victory Supply\nPRÓXIMO CICLO ESPERADO: FY 26/27 (em torno de março-maio 2027)\n\nO QUE O DJJ COMPRA (257 itens divididos nestas categorias):\n• Higiene pessoal: pasta de dente, escovas de dente, shampoo, condicionador, desodorante, loção, cremes de barbear, barbeadores, escovas de cabelo, pentes, produtos femininos de higiene\n• Roupas: camisetas, calças, shorts, sapatos, meias, luvas\n• Cama e banho: toalhas, lençóis, fronhas, capas de colchão, colchões\n• Outros: jogos, itens de restrição e segurança\n\nCONTATO PARA PRÓXIMO CICLO:\n• Carol Walters — Carol.Walters@fldjj.gov — (850) 756-8117\n• 2737 Centerview Drive, Tallahassee, FL 32399\n• Alexander Building, DJJ Procurement\n\nAÇÃO RECOMENDADA:\n1. Cadastre no MFMP como vendor de higiene/vestuário\n2. Contate Carol Walters para confirmar cronograma do próximo ITB\n3. Prepare catálogo de produtos com pricing competitivo ao da Victory Supply\n4. O DJJ tem unidades em vários condados da FL — contrato pode ser statewide",
+      "ai_analyzed_at": "2026-06-09T17:36:41.133Z",
+      "ai_model": "claude-sonnet-4-6 (manual)",
       "is_award_notice": true,
-      "fetchedAt": "2026-06-09"
+      "fetchedAt": "2026-06-09",
+      "nextStep": "Contate Carol Walters (Carol.Walters@fldjj.gov) para confirmar cronograma do ITB 26/27. Cadastre como vendor de higiene no MFMP.",
+      "contact": {
+        "name": "Carol Walters",
+        "email": "Carol.Walters@fldjj.gov",
+        "phone": "(850) 756-8117"
+      }
     },
     {
       "id": "MFMP-15466",
@@ -131,26 +137,42 @@
       "model": "service",
       "openDate": "2026-05-27",
       "deadline": "2026-06-26",
-      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-16091",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/detail/16091",
       "pdf_url": "",
       "documents": [],
       "pdf_links": [],
       "resourceLinks": [],
       "veredito": "watch",
-      "fit_score": 65,
+      "fit_score": 70,
       "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "categoria_curta": "Limpeza predial — detention center",
       "o_que_comprar": "",
       "prazo_submissao": "2026-06-26",
-      "documentos_lista": [],
+      "documentos_lista": [
+        {
+          "name": "ITB 21-002 Janitorial Services Collier County.pdf",
+          "attachmentId": 38087
+        },
+        {
+          "name": "ITB Attachments_0001.pdf",
+          "attachmentId": 38088
+        }
+      ],
       "seguros_detalhado": {},
       "perguntas_frequentes": [],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "ITB ATIVO — INVITATION TO BID (menor preço ganha)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nESCOPO: Serviços de limpeza (janitorial) para o Collier County Detention Center\nENDEREÇO: 3351 E Tamiami Trail, Naples, FL 34112\nDEADLINE SUBMISSÃO: 26/06/2026 às 20:00\nRESPONSE DATE: 10/06/2026 às 19:00 (possivelmente Q&A ou pre-bid conference)\nTIPO: ITB — menor preço GANHA (sem avaliação técnica)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nANÁLISE DE VIABILIDADE — URBAN CLEAN & REPAIR CORP\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n✅ FAVORÁVEL:\n• ITB = só preço. Se você cotar competitivo, você ganha.\n• Contrato governamental recorrente (anual) — renda garantida\n• DJJ tem vários centros em FL — ganhar este abre porta para os outros\n• Este é o 2º aviso do mesmo ITB (o original 15858 foi WITHDRAWN e re-emitido com ajustes na Seção 3.3)\n• Isso sugere dificuldade em encontrar licitantes — campo menos competitivo\n\n⚠️ ATENÇÃO — REQUISITOS ESPECÍFICOS DE DETENTION CENTER:\n• FDLE Background Check obrigatório para TODOS os funcionários que entrarão na unidade\n• Pode exigir autorização de segurança (clearance) prévia\n• Horários restritos — provável que a limpeza seja feita em turnos específicos\n• Protocolo rigoroso — não pode entrar com celular, material cortante, etc.\n• Funcionários devem passar por treinamento de segurança básico\n\n📍 FATOR DISTÂNCIA:\n• Naples está a ~155 milhas de Davenport (~2h30 de viagem)\n• Para contrato diário, precisa ou: recrutar equipe local em Naples, ou realocar um funcionário\n\nOPÇÕES ESTRATÉGICAS:\n1. PARCELAR/SUBCONTRATAR: Contratar uma empresa local em Naples como subcontratada para execução. Você gerencia, eles executam.\n2. RECRUTAR LOCAL: Postar job em Naples para supervisor + equipe de limpeza antes de ganhar o contrato.\n3. AVALIAR: Só vale se o contrato tiver volume suficiente (ex. mínimo $8k–$12k/mês) para cobrir custos de deslocamento ou de gestão local.\n\nDOCUMENTOS DISPONÍVEIS (requer login no MFMP):\n• \"ITB 21-002 Janitorial Services Collier County.pdf\" — escopo completo, especificações\n• \"ITB Attachments_0001.pdf\" — formulários de submissão, planilha de preços\n• \"Disclosure of Lobbying Activities Form.pdf\" — formulário obrigatório\n\nPRÓXIMOS PASSOS URGENTES (deadline: 26/06):\n1. Fazer login no MFMP e baixar os documentos do ITB\n2. Revisar Seção 3.3 (Schedule of Services) — foi alterada nesta versão\n3. Verificar o cronograma de limpeza (diário? quantos m²? quantos andares?)\n4. Calcular custo: equipe + benefícios + deslocamento + overhead\n5. Avaliar se submete própria proposta ou busca subcontratada local\n\nCONTATO:\n• Carol Walters — carol.walters@fldjj.gov — (850) 756-8117\n• Alexander Building, 2737 Centerview Drive, Tallahassee FL 32399-3100",
+      "ai_analyzed_at": "2026-06-09T17:36:41.133Z",
+      "ai_model": "claude-sonnet-4-6 (manual)",
       "is_award_notice": false,
-      "fetchedAt": "2026-06-09"
+      "fetchedAt": "2026-06-09",
+      "nextStep": "URGENTE: Baixar ITB PDF no MFMP. Avaliar se contrata equipe local em Naples ou subcontratada. Deadline 26/06.",
+      "contact": {
+        "name": "Carol Walters",
+        "email": "carol.walters@fldjj.gov",
+        "phone": "(850) 756-8117"
+      },
+      "escopo": "Serviços de limpeza para Collier County Detention Center (DJJ), 3351 E Tamiami Trail, Naples FL 34112. Contrato recorrente governo estadual FL."
     },
     {
       "id": "MFMP-16153",
@@ -2558,5 +2580,5 @@
       "fetchedAt": "2026-06-09"
     }
   ],
-  "updatedAt": "2026-06-09T16:49:55.968Z"
+  "updatedAt": "2026-06-09T17:36:41.615Z"
 }
