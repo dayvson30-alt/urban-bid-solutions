@@ -883,7 +883,53 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/bebeba89b13b48cabb665217207dbbdd/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para resposta/objeções: 18/06/2026. Por ser um 'Notice of Intent to Sole Source', este prazo é tipicamente para que outras empresas manifestem interesse ou contestem a intenção de contratação direta, e não para submissão de proposta competitiva. Confirme no SAM.gov se há prazo para envio de 'Capability Statement' ou objeção formal. || DOCUMENTOS EXIGIDOS | Por ser Sole Source federal, os documentos típicos incluem: Capability Statement demonstrando capacidade única de execução, registro ativo no SAM.gov (obrigatório), DUNS/UEI ativo, certificações relevantes na área de TI/treinamento, histórico de contratos similares com o governo federal ou Exército, proposta técnica e comercial caso o governo solicite. Verifique no edital completo no SAM.gov quais documentos específicos são requeridos. || REQUISITOS TÉCNICOS | NAICS 541519 - Other Computer Related Services. A empresa deve demonstrar expertise específica no tema do workshop (não divulgado no resumo). Por ser Sole Source, a empresa contratada provavelmente já possui relacionamento com o órgão ou detém conhecimento proprietário/exclusivo sobre o tema. Confirme escopo técnico detalhado diretamente no SAM.gov. || SEGUROS E GARANTIAS | General Liability mínimo de $1.000.000 indicado nas barreiras. Workers Compensation conforme exigência do estado da Florida. Não há indicação de Performance Bond, mas verifique no edital completo. Seguro de Professional Liability (E&O) pode ser exigido dado o caráter técnico do serviço. || COMO CALCULAR O PREÇO | Por ser workshop de 3 dias, considere: (1) Custo dos facilitadores/instrutores por dia, (2) Materiais didáticos e apostilas, (3) Equipamentos necessários (projetores, laptops, etc.), (4) Despesas de deslocamento e hospedagem se aplicável, (5) Overhead administrativo (15-20%), (6) Margem de lucro (10-20%). Como o valor não foi divulgado, pesquise contratos similares no USASpending.gov para benchmarking de preço. || ESTRATÉGIA DE SUBMISSÃO | Esta é uma notificação de intenção de contratação direta (Sole Source). Se você NÃO é a empresa já identificada, sua estratégia deve ser: (1) Apresentar imediatamente um Capability Statement sólido mostrando que também tem capacidade única para o serviço, (2) Enviar manifestação formal de interesse antes de 18/06/2026, (3) Contestar a justificativa de Sole Source se sua empresa tiver qualificações equivalentes. Se VOCÊ é a empresa identificada, confirme os termos e prepare proposta técnica e comercial detalhada. || RISCOS | ALTO RISCO: Sole Source indica que o governo já tem empresa preferida - chances de concorrência bem-sucedida são baixas. Valor não divulgado dificulta análise de viabilidade. Prazo curto (abertura 04/06 a deadline 18/06 = apenas 14 dias). NAICS 541519 é amplo e pode exigir certificações específicas não mencionadas. Contrato federal exige conformidade com FAR (Federal Acquisition Regulation). Sem Set-Aside, não há preferência para pequenas empresas neste edital. || PRÓXIMOS 3 PASSOS | 1. ACESSE O EDITAL COMPLETO em https://sam.gov/workspace/contract/opp/bebeba89b13b48cabb665217207dbbdd/view para ler a justificativa de Sole Source e identificar a empresa já selecionada e o tema exato do workshop. 2. VERIFIQUE SEU SAM.GOV: Confirme se seu registro está ativo, atualizado e com NAICS 541519 cadastrado - sem isso você não pode contratar com o governo federal. 3. SE ELEGÍVEL: Prepare e envie um Capability Statement formal antes de 18/06/2026 demonstrando capacidade única equivalente, ou contate o contracting officer listado no edital para expressar interesse formal.",
+      "resumo_simples": "O governo federal (Exército dos EUA) quer contratar uma empresa para realizar um workshop presencial de 3 dias sobre tópicos de tecnologia da informação ou serviços especializados, provavelmente treinamento ou consultoria técnica, para a unidade do Corpo de Engenheiros do Exército em Jacksonville, FL.",
+      "categoria_curta": "Workshop / Treinamento",
+      "o_que_comprar": "Contratação de empresa especializada para conduzir um Workshop Presencial de 3 Dias (On-Site Three Day Workshop) para a unidade W074 ENDIST Jacksonville, pertencente ao Corpo de Engenheiros do Exército dos EUA (US Army Corps of Engineers). O NAICS 541519 indica serviços de tecnologia da informação e suporte de computação 'Other Computer Related Services'. O edital é publicado como 'Notice of Intent to Sole Source', ou seja, o governo pretende contratar apenas um fornecedor específico sem concorrência aberta. Isso sugere que a empresa já foi identificada previamente como única capaz de executar o serviço. Detalhes como número de participantes, localização exata do workshop, conteúdo programático, materiais incluídos e entregáveis específicos não foram divulgados no resumo do edital e precisam ser verificados diretamente no SAM.gov.",
+      "prazo_submissao": "18/06/2026 - Confirmar hora exata no SAM.gov. Este é o prazo para manifestação de interesse/objeção ao Sole Source, não necessariamente para proposta completa.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com UEI/DUNS válido",
+        "Capability Statement demonstrando capacidade única no serviço",
+        "Histórico de contratos similares (past performance)",
+        "Certificações técnicas relevantes na área de TI/treinamento",
+        "Proposta técnica detalhada (se solicitado pelo contrating officer)",
+        "Proposta comercial com precificação do workshop de 3 dias",
+        "Comprovante de seguro General Liability mínimo $1.000.000",
+        "Comprovante de Workers Compensation (Florida)",
+        "Manifestação formal de interesse enviada antes do deadline"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 General Liability",
+        "workers_comp": "Exigido conforme lei da Florida - valor conforme folha de pagamento",
+        "bond": "Não indicado no edital - verificar no SAM.gov para confirmar"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Para a maioria das pequenas empresas: PROVAVELMENTE NÃO, pelo menos não como contratante principal. Este é um 'Notice of Intent to Sole Source', o que significa que o governo JÁ identificou uma empresa específica e pretende contratar diretamente, sem concorrência aberta. O Fit Score de 45/100 reflete essa dificuldade. Vale a pena APENAS se: (1) Sua empresa é exatamente a empresa já identificada pelo governo, ou (2) Você tem credenciais únicas e comprovadas que tornam sua empresa a única alternativa viável, e está disposto a contestar formalmente a intenção de Sole Source antes de 18/06/2026. Para subcontratação: verifique se a empresa ganhadora aceita parceiros."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1. SOLE SOURCE: A principal barreira é que o governo já tem empresa preferida - você precisaria provar que tem capacidade ÚNICA equivalente para contestar. 2. SEM SET-ASIDE: Não há preferência para pequenas empresas (8a, WOSB, SDVOSB, etc.), então não há vantagem competitiva por certificação. 3. REGISTRO SAM.GOV ATIVO: Obrigatório e leva tempo para ativar/atualizar. 4. SEGURO: General Liability de $1M mínimo. 5. EXPERIÊNCIA FEDERAL: Contratos com o Exército/DoD exigem familiaridade com FAR, cláusulas de segurança e compliance federal. 6. VALOR DESCONHECIDO: Sem saber o valor, fica difícil avaliar se a margem cobre os custos de participação."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para workshops de 3 dias em contratos federais de TI/treinamento (NAICS 541519), a margem típica varia entre 15% e 35% dependendo do nível de especialização exigido. Contratos com o Exército/DoD tendem a ter margens menores (15-20%) devido aos requisitos de compliance e overhead administrativo federal. Se você for a empresa Sole Source com conhecimento proprietário exclusivo, pode negociar margens mais altas (25-35%). Como o valor estimado não foi divulgado, pesquise contratos similares em USASpending.gov usando NAICS 541519 e agência W074 para ter referência de valores praticados."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças - ou seja, não foi especificado no resumo disponível. Para NAICS 541519 (Other Computer Related Services) no geral não há licença estadual específica obrigatória na Florida, diferente de contratos de construção ou saúde. No entanto, dado que é um contrato com o Departamento de Defesa/Exército, podem ser exigidos: (1) Clearance de segurança para os instrutores (dependendo do tema do workshop), (2) Certificações técnicas específicas na área do treinamento, (3) Conformidade com CMMC (Cybersecurity Maturity Model Certification) se envolver dados militares. AÇÃO: Leia o edital completo no SAM.gov para identificar exigências específicas de licença e clearance."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para um workshop de 3 dias com o governo federal, estruture o preço assim: (1) CUSTOS DIRETOS: Honorários dos facilitadores/instrutores (calcule por dia ou hora, considere 2-3 profissionais), materiais didáticos e apostilas, equipamentos e tecnologia necessários, deslocamento e hospedagem se o local não for em sua cidade. (2) CUSTOS INDIRETOS: Overhead (15-20% sobre custos diretos), fringe benefits dos funcionários (35-40% sobre salários). (3) LUCRO: 10-20% sobre custo total. (4) BENCHMARK: Use o USASpending.gov para pesquisar contratos similares de treinamento/workshop com o US Army Corps of Engineers. Busque por NAICS 541519 e agência W074 para referência de valores praticados. Para Sole Source, o governo irá negociar o preço - tenha justificativa detalhada para cada item de custo."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:15:57.634Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-bd271668309849ad87834ee58b08d495",
@@ -939,7 +985,54 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/bd271668309849ad87834ee58b08d495/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do edital: 04/06/2026. Deadline para submissão das propostas: 12/06/2026. Atenção: o prazo entre abertura e fechamento é de apenas 8 dias corridos — isso é muito curto e exige preparação antecipada. Confirme hora exata de encerramento diretamente no SAM.gov antes de qualquer ação. Submissão provavelmente será feita via SAM.gov ou sistema indicado no edital completo.\n\nDOCUMENTOS EXIGIDOS | Com base no tipo de contrato federal e NAICS 541690, os documentos típicos incluem: registro ativo no SAM.gov, proposta técnica descrevendo metodologia e experiência em Mock Life Safety Surveys, proposta de preço, qualificações da equipe (consultores certificados TJC ou equivalente), referências de contratos anteriores similares, certificados de seguro (GL mínimo $1M), e possivelmente representações e certificações FAR. Verifique o Statement of Work (SOW) no edital completo para lista definitiva.\n\nREQUISITOS TÉCNICOS | O serviço exige profundo conhecimento dos padrões da Joint Commission, especialmente o capítulo de Environment of Care (EC) e Life Safety (LS). Os consultores precisam ter experiência comprovada em inspeções de facilities hospitalares ou de saúde, preferencialmente em ambiente VA ou similar. Conhecimento das normas NFPA 101 (Life Safety Code) e NFPA 99 é essencial. É provável que seja exigida experiência prévia documentada em Mock Surveys para hospitais acreditados pela TJC.\n\nSEGUROS E GARANTIAS | General Liability (GL): mínimo $1.000.000 por ocorrência (confirmado nas barreiras do edital). Workers' Compensation: exigido conforme lei da Florida para empresas com funcionários. Professional Liability (E&O): provável exigência para serviços de consultoria técnica — verifique no edital. Bond: não indicado como obrigatório, mas confirme no SOW. Adicione a empresa federal como Additional Insured no certificado de seguro.\n\nCOMO CALCULAR O PREÇO | Este tipo de serviço é tipicamente cotado por: (a) diária de consultor (day rate) multiplicada pelo número de dias de inspeção + viagem; (b) valor fixo por projeto (fixed price). Custos a considerar: honorários dos consultores especialistas TJC ($1.500–$3.500/dia por consultor), despesas de viagem e hospedagem (FAR permite reembolso por GSA rates), tempo de preparação de relatório (estimativa 8–16 horas), overhead e margem. Para um Mock Survey de 2–3 dias com 1–2 consultores, o preço típico de mercado varia de $8.000 a $25.000. Como o valor estimado não foi divulgado, pesquise contratos similares no USASpending.gov usando NAICS 541690 + VA para benchmarking de preços.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Acesse imediatamente o SAM.gov para baixar o SOW completo e identificar todos os requisitos; 2) Confirme se sua empresa tem SAM.gov ativo e NAICS 541690 cadastrado; 3) Destaque na proposta técnica experiências anteriores específicas com Joint Commission Life Safety Standards; 4) Inclua CVs dos consultores com certificações relevantes (ex: CHFM, SASHE, ex-surveyor TJC); 5) Submeta proposta competitiva em preço, pois é open competition; 6) Considere parcerias ou subcontratação com consultores especializados se não tiver equipe interna.\n\nRISCOS | (1) Prazo extremamente curto (8 dias) para preparar proposta técnica de qualidade; (2) Concorrência de empresas grandes especializadas em consulting para VA; (3) Valor não divulgado dificulta precificação competitiva; (4) Exigência de consultores com experiência TJC específica pode ser barreira; (5) Necessidade de SAM.gov ativo — sem isso, impossível participar; (6) Possível exigência de clearance de segurança para acesso às instalações VA.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO - Hoje): Acesse https://sam.gov/workspace/contract/opp/bd271668309849ad87834ee58b08d495/view, baixe todos os documentos do edital (SOW, RFQ/RFP), confirme deadline exato com horário e identifique todos os requisitos de qualificação. PASSO 2 (Até 2 dias): Verifique se sua empresa tem SAM.gov ativo com NAICS 541690, avalie se possui consultores qualificados em Joint Commission Life Safety Standards, e pesquise no USASpending.gov contratos similares para benchmarking de preço. PASSO 3 (Até 5 dias antes do deadline): Prepare proposta técnica com metodologia detalhada, experiências comprovadas e equipe qualificada; prepare proposta de preço competitiva; organize todos os documentos exigidos e submeta com antecedência mínima de 24 horas.",
+      "resumo_simples": "Contratação de serviço especializado para simular uma inspeção de segurança de vida (Joint Commission Survey) em instalações do Departamento de Veteranos (VA) na Flórida, ajudando o hospital a se preparar para auditorias reais de conformidade.",
+      "categoria_curta": "Consultoria de conformidade",
+      "o_que_comprar": "O governo federal (VA - Department of Veterans Affairs, por meio do Network Contract Office 8) busca contratar uma empresa especializada para conduzir uma simulação ('Mock Survey') de inspeção de Segurança de Vida (Life Safety) nos moldes da Joint Commission (TJC). O serviço consiste em: (1) realização de uma vistoria simulada nas instalações do VA, avaliando conformidade com os padrões de segurança de vida da Joint Commission (como controle de incêndio, rotas de fuga, sistemas de sprinklers, portas corta-fogo, etc.); (2) identificação de deficiências e não-conformidades antes da inspeção oficial; (3) elaboração de relatório detalhado com findings e recomendações de correção; (4) possivelmente sessão de debriefing com a equipe do VA. O NAICS é 541690 (Other Scientific and Technical Consulting Services). Local de execução provável: instalação do VA na Flórida (região coberta pelo NCO 8, que inclui estados do sudeste dos EUA). Quantidades e especificações detalhadas não foram divulgadas no SAM.gov e devem ser verificadas no edital completo.",
+      "prazo_submissao": "12/06/2026 — hora exata não disponível neste resumo. CONFIRME O HORÁRIO EXATO no SAM.gov: https://sam.gov/workspace/contract/opp/bd271668309849ad87834ee58b08d495/view. Atenção: apenas 8 dias entre abertura (04/06) e fechamento (12/06). Inicie preparação imediatamente.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório - sem isso não é possível participar)",
+        "Proposta técnica com metodologia de Mock Life Safety Survey",
+        "Proposta de preço (fixed price ou T&M conforme definido no SOW)",
+        "Currículos dos consultores com qualificações em Joint Commission Standards",
+        "Certificado de Seguro (GL mínimo $1M, Workers' Comp, possivelmente E&O)",
+        "Referências de contratos anteriores similares (Mock Surveys hospitalares)",
+        "Representações e Certificações FAR (geralmente preenchidas no SAM.gov)",
+        "DUNS/UEI number ativo",
+        "Documentação de pequena empresa (se aplicável - verificar size standard NAICS 541690)",
+        "Verificar no edital completo se há formulários específicos do VA a preencher"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmado nas barreiras do edital)",
+        "workers_comp": "Exigido conforme legislação da Florida — valor conforme statutory limits",
+        "bond": "Não indicado como obrigatório — confirmar no SOW completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende do perfil da sua empresa. Vale a pena SE: você tem consultores com experiência comprovada em Joint Commission Life Safety Standards, sua empresa já tem SAM.gov ativo com NAICS 541690, você consegue mobilizar proposta técnica de qualidade em menos de 8 dias, e tem interesse em construir histórico de contratos federais com o VA. O Fit Score de 38/100 indica que é um contrato de nicho técnico com barreiras específicas. Não vale a pena se você não tem experiência em inspeções hospitalares TJC ou não tem SAM.gov ativo, pois o prazo é muito curto para regularizar situação."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Conhecimento técnico especializado em Joint Commission Life Safety Standards e NFPA 101/99 — é um nicho muito específico; (2) Experiência comprovada em Mock Surveys para hospitais ou facilities de saúde acreditadas pela TJC; (3) SAM.gov ativo com NAICS 541690 cadastrado (obrigatório para contratos federais); (4) Seguro GL mínimo $1M; (5) Prazo curtíssimo de apenas 8 dias para preparar proposta; (6) Concorrência de empresas de consultoria estabelecidas que já fazem este tipo de serviço para o VA regularmente; (7) Possível necessidade de consultores com histórico verificável para acesso às instalações do VA."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Serviços de consultoria especializada (NAICS 541690) tipicamente permitem margens de 25% a 45% sobre custos diretos em contratos federais. Para um Mock Life Safety Survey, os custos principais são honorários de consultores e viagens. Se você tem consultores in-house, a margem pode ser mais alta. Se precisar subcontratar especialistas, a margem cai para 15-25%. O valor do contrato provavelmente estará entre $8.000 e $30.000 dependendo da complexidade e tamanho da instalação VA. Pesquise no USASpending.gov contratos similares (NAICS 541690, agência VA) para referências de preço antes de formular sua proposta."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças, o que significa que não há uma licença específica claramente definida ainda. Para serviços de consultoria em Life Safety/Joint Commission, não existe uma licença estadual obrigatória específica na Florida para consultores, mas o mercado reconhece certificações como: CHFM (Certified Healthcare Facility Manager), SASHE (Senior Affiliate of the Society for Healthcare Engineering), ou experiência como ex-surveyor da Joint Commission. O VA pode exigir que os consultores tenham clearance básico de segurança para acesso às instalações. Verifique no SOW completo se há requisitos específicos de credenciamento ou certificação."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos para precificar: (1) Pesquise contratos similares no USASpending.gov (filtros: NAICS 541690, Department of Veterans Affairs) para benchmarking; (2) Calcule custos diretos: dias de consultor no local (geralmente 2-4 dias) x day rate ($1.500-$3.500/dia dependendo do nível), mais viagem/hospedagem (use GSA per diem rates para a cidade da instalação VA); (3) Adicione tempo de elaboração de relatório (8-20 horas); (4) Aplique overhead (15-25%) e margem de lucro (20-35%); (5) Verifique se é Fixed Price ou T&M — Fixed Price é mais comum para este tipo de serviço e requer estimativa precisa de horas; (6) Seja competitivo mas não subestime — propostas muito baixas levantam questionamentos no VA sobre capacidade de entrega."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:17:02.971Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-bc74cad899574482963fa31de4f8d819",
@@ -995,7 +1088,52 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/bc74cad899574482963fa31de4f8d819/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04 de junho de 2026. Deadline para submissão: 08 de junho de 2026. Atenção: a janela de resposta é extremamente curta — apenas 4 dias corridos entre abertura e fechamento. Isso é comum em editais de compra de peças militares (BID simples), mas exige agilidade total. Confirme horário exato de fechamento no SAM.gov pois pode ser 12h00, 15h00 ou 17h00 ET. | DOCUMENTOS EXIGIDOS | Os documentos básicos típicos para este tipo de licitação federal incluem: Cadastro ativo no SAM.gov (obrigatório), cotação de preços com todos os itens listados no edital (line items), prazo de entrega (lead time), dados bancários para pagamento (EFT), e possivelmente certificações de qualidade/origem das peças. Acesse o edital completo no SAM.gov para verificar se há formulários específicos como SF-1449 ou outros. | REQUISITOS TÉCNICOS | As peças devem ser compatíveis com o NIDA Model 130 Series. É provável que o governo exija peças OEM (Original Equipment Manufacturer) ou equivalentes aprovados. Poderá haver exigência de números de peça específicos (NSN - National Stock Numbers ou part numbers do fabricante NIDA). A conformidade técnica é crítica — peças incompatíveis resultarão em desqualificação. Verifique se há exigência de certificado de conformidade (Certificate of Conformance) ou teste de qualidade. | SEGUROS E GARANTIAS | Seguro de Responsabilidade Geral (GL): $1.000.000 conforme indicado nas barreiras do edital. Workers Compensation: valor a confirmar no edital completo. Bond (fiança): não indicado como exigido neste momento, mas confirmar no SAM.gov. Para contratos de fornecimento de peças de baixo valor, frequentemente não exigem performance bond, mas é necessário verificar. | COMO CALCULAR O PREÇO | 1) Identifique todos os part numbers e quantidades listados no edital. 2) Pesquise fornecedores/distribuidores das peças NIDA (NIDA Corporation ou distribuidores autorizados). 3) Calcule o custo unitário de cada peça + frete para Jacksonville, FL. 4) Adicione margem de lucro (tipicamente 15-35% para fornecimento de peças militares). 5) Considere embalagem adequada para envio a base militar. 6) Verifique se há tabela de preços GSA vigente para referência. O valor estimado não foi divulgado, o que é comum em editais de peças — pode variar de poucos centenas a dezenas de milhares de dólares dependendo dos itens. | ESTRATÉGIA DE SUBMISSÃO | Devido ao prazo curtíssimo (4 dias), aja imediatamente: acesse o SAM.gov hoje, baixe todos os documentos, identifique as peças exatas e contate fornecedores para cotações rápidas. Não há set-aside (sem preferência para small business neste edital), o que aumenta a competição mas também elimina restrições de elegibilidade. Submeta a proposta pelo menos 24 horas antes do deadline para evitar problemas técnicos. Certifique-se que seu SAM.gov está ativo e sem expiração. | RISCOS | 1) Prazo curtíssimo — alto risco de não conseguir cotações a tempo. 2) Peças específicas podem ter disponibilidade limitada ou lead time longo. 3) Sem valor estimado divulgado — dificulta avaliação de rentabilidade. 4) Sem set-aside — competição aberta pode incluir grandes distribuidores com preços mais baixos. 5) Requisitos técnicos específicos de compatibilidade com equipamento NIDA podem ser rígidos. 6) Fit Score baixo (45/100) indica incerteza sobre adequação. | PRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse o link do SAM.gov fornecido, faça login com suas credenciais e baixe todos os documentos do edital. Identifique os part numbers exatos, quantidades e especificações técnicas das peças NIDA 130 Series solicitadas. PASSO 2 (EM 24H): Contate imediatamente distribuidores de peças NIDA (NIDA Corporation, distribuidores eletrônicos militares como Mouser, Digi-Key, Arrow ou distribuidores especializados em equipamentos de treinamento técnico). Solicite cotações urgentes com prazo de entrega. PASSO 3 (EM 48-72H): Monte a proposta completa com todos os line items, preços unitários, lead time de entrega, e submeta pelo SAM.gov antes do deadline de 08/06/2026. Confirme que seu cadastro SAM.gov está ativo antes de submeter.",
+      "resumo_simples": "Compra de peças de reposição (partes NIDA) para kits do modelo NIDA 130 Series, utilizados pela Marinha dos EUA na base de Jacksonville, FL",
+      "categoria_curta": "Compra de componentes eletrônicos",
+      "o_que_comprar": "O governo (Marinha dos EUA - NAVSUP FLT LOG CTR Jacksonville) deseja adquirir peças/partes específicas para os kits NIDA Model 130 Series. O NIDA Model 130 Series é um equipamento de treinamento/teste eletrônico amplamente utilizado em ambientes militares e educacionais. As peças solicitadas são componentes de reposição para manutenção e reparo desses kits. As quantidades exatas, especificações detalhadas dos itens, números de peças (part numbers) e local de entrega precisam ser verificados diretamente no SAM.gov, pois o edital não divulgou esses detalhes no resumo disponível. O NAICS 334419 corresponde a 'Other Electronic Component Manufacturing' (Fabricação de Outros Componentes Eletrônicos), confirmando a natureza técnica/eletrônica dos itens.",
+      "prazo_submissao": "08 de junho de 2026 — confirmar horário exato (ET) diretamente no SAM.gov, pois pode ser 12h00, 15h00 ou 17h00 Eastern Time. Atenção: janela de apenas 4 dias corridos a partir da abertura em 04/06/2026.",
+      "documentos_lista": [
+        "Cadastro ativo no SAM.gov (UEI/CAGE Code válido)",
+        "Cotação de preços com todos os line items do edital preenchidos",
+        "Prazo de entrega (lead time) para cada item",
+        "Dados bancários para pagamento eletrônico (EFT Information)",
+        "Certificado de conformidade das peças (Certificate of Conformance) — verificar se exigido",
+        "Formulário de proposta específico do edital (verificar no SAM.gov — pode ser SF-1449 ou similar)",
+        "Documentação de origem/autenticidade das peças NIDA (se exigido)",
+        "Comprovante de seguro GL de $1.000.000"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 (General Liability) — conforme indicado nas barreiras do edital",
+        "workers_comp": "Valor a confirmar no edital completo no SAM.gov",
+        "bond": "Não indicado como exigido — confirmar no SAM.gov; provavelmente não aplicável para compra simples de peças"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende de dois fatores críticos: 1) Se você tem acesso rápido às peças NIDA Model 130 Series — caso já seja distribuidor ou tenha relacionamento com a NIDA Corporation, vale muito a pena. 2) O prazo de apenas 4 dias é o maior obstáculo. O Fit Score de 45/100 é moderado-baixo, indicando que o edital tem potencial mas com restrições. Se sua empresa atua no setor de componentes eletrônicos/militares e tem SAM.gov ativo, recomenda-se verificar imediatamente o edital completo antes de decidir. Sem set-aside, a competição é aberta, mas empresas especializadas em peças NIDA têm vantagem competitiva natural."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: 1) Acesso às peças específicas NIDA 130 Series — são equipamentos técnicos especializados e nem todo distribuidor eletrônico terá essas peças em estoque. 2) Prazo curtíssimo (4 dias) que impede pesquisa de fornecedores demorada. 3) Seguro GL de $1M exigido — empresas muito pequenas podem não ter essa cobertura. 4) SAM.gov ativo e em dia — sem cadastro ativo, não é possível submeter. 5) Competição aberta (sem set-aside) — grandes distribuidores militares podem ter preços melhores por volume. 6) Conhecimento técnico dos part numbers específicos do equipamento NIDA."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para fornecimento de peças técnicas/eletrônicas em contratos federais, a margem típica varia entre 15% e 40% dependendo da disponibilidade das peças no mercado. Peças muito específicas ou de difícil acesso podem ter margens de até 50-60% se você for o único fornecedor capaz de entregar no prazo. No entanto, como não há valor estimado divulgado, é impossível projetar o retorno absoluto sem verificar o edital completo. Calcule seu custo total (peças + frete + overhead) e aplique no mínimo 20% de margem líquida para compensar o risco e o esforço administrativo."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças, ou seja, é necessário verificar os requisitos completos no SAM.gov. Em geral, para fornecimento de peças eletrônicas (NAICS 334419), não há licença estadual específica exigida na Flórida para simples revenda/distribuição. Contudo, para fornecimento a base militar, pode ser necessário: 1) Cadastro ativo no SAM.gov com CAGE Code válido. 2) Possível verificação de segurança ou certificações de exportação (ITAR/EAR) dependendo da classificação das peças. 3) Verificar se as peças têm restrições de origem (Buy American Act). Acesse o edital completo para confirmar exigências específicas de licenciamento."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga este processo: 1) Acesse o SAM.gov e identifique os part numbers exatos e quantidades de cada peça NIDA 130 Series. 2) Contate a NIDA Corporation (fabricante) ou distribuidores autorizados para obter preços de custo. 3) Pesquise preços de mercado no GSA Advantage, eBay Supply, e distribuidores como Digi-Key ou especializados em equipamentos de treinamento técnico. 4) Some: custo da peça + frete até Jacksonville, FL + embalagem adequada para envio militar + seu overhead/administrativo. 5) Aplique margem de lucro de 20-35% sobre o custo total. 6) Verifique se há preços históricos de contratos similares no FPDS.gov ou USASpending.gov para se certificar que seu preço é competitivo. Evite precificar abaixo do custo real — contratos militares exigem entrega e qualidade comprovadas."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:18:04.146Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-b86e6f4cb0ee482797e5584a4c0530be",
@@ -1051,7 +1189,54 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/b86e6f4cb0ee482797e5584a4c0530be/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para submissão: 11/06/2026. Janela muito curta de apenas 7 dias — é essencial acessar o SAM.gov IMEDIATAMENTE para solicitar os desenhos técnicos usando seu CAGE Code, pois sem os desenhos não é possível preparar a proposta. Confirme horário exato (normalmente Eastern Time) diretamente no SAM.gov.\n\nDOCUMENTOS EXIGIDOS | 1) Proposta de preço (price quote) com identificação do fabricante e número de peça; 2) CAGE Code ativo; 3) Registro ativo no SAM.gov; 4) Documentação de equivalência técnica caso não ofereça a marca K-Monel exata (Brand Name or Equal — deverá demonstrar que o produto ofertado atende ou supera as especificações); 5) Certificação de pequena empresa (automática via SAM.gov se o perfil estiver correto); 6) Possivelmente: certificados de material (material certifications/mill certs) e certificado de conformidade (Certificate of Conformance).\n\nREQUISITOS TÉCNICOS | O produto deve atender às especificações dos desenhos técnicos oficiais (acessíveis via SAM.gov). K-Monel é a liga UNS N05500 — se oferecer equivalente, deve comprovar equivalência química e mecânica. Altíssimo padrão de qualidade militar/naval esperado. Atenção ao controle de qualidade: a Marinha frequentemente exige rastreabilidade de material e pode inspecionar os itens antes da aceitação.\n\nSEGUROS E GARANTIAS | GL (General Liability): $1.000.000 indicado. Workers' Compensation: verificar requisito no edital completo. Bond: não indicado para este tipo de compra de produto, mas confirme no edital. Para contratos de fornecimento de produtos, bonds geralmente não são exigidos abaixo de certos limites.\n\nCOMO CALCULAR O PREÇO | 1) Obtenha cotações do material K-Monel ou equivalente com fornecedores certificados; 2) Calcule custo de usinagem/fabricação se aplicável; 3) Adicione custo de certificações de material (mill certs); 4) Considere embalagem e frete para a instalação naval de destino; 5) Inclua margem para inspeção e possível rejeição de lotes; 6) Margem de lucro típica em contratos de parafusos especiais para defesa: 15-30% sobre custo total; 7) Atenção: K-Monel é material caro e especializado — pesquise preços de mercado em fornecedores como McMaster-Carr, Fastenal Industrial, ou distribuidores especializados em ligas de níquel.\n\nESTRATÉGIA DE SUBMISSÃO | 1) HOJE: Acesse SAM.gov com seu CAGE Code e solicite acesso aos desenhos — quanto antes melhor dado o prazo curto; 2) Analise os desenhos e identifique se consegue fornecer K-Monel genuíno ou equivalente aprovável; 3) Se for oferecer equivalente, prepare documentação técnica robusta comparando propriedades; 4) Verifique se há histórico de aquisições similares no USASpending.gov para entender faixas de preço praticadas; 5) Submeta proposta via SAM.gov dentro do prazo.\n\nRISCOS | Alto: Prazo curtíssimo (7 dias); Necessidade de acesso prévio aos desenhos técnicos; K-Monel é material de nicho e caro; Risco de rejeição se equivalente não for bem documentado; Possível inspeção rigorosa pelo governo naval; Possível necessidade de certificações de qualidade (ISO 9001, AS9100) que podem ser solicitadas. Médio: Valor do contrato não divulgado — pode ser muito pequeno para justificar o esforço. Baixo: Set-aside garante competição apenas entre pequenas empresas.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO (hoje): Acesse https://sam.gov/workspace/contract/opp/b86e6f4cb0ee482797e5584a4c0530be/view com seu CAGE Code e solicite acesso aos desenhos técnicos — sem isso não há proposta possível; 2) Em até 2 dias: Analise os desenhos, contate fornecedores de K-Monel/equivalente para cotações rápidas e verifique capacidade de entrega dentro do prazo contratual; 3) Até 10/06/2026: Prepare e submeta a proposta completa com preço, identificação do produto, certificações de material e documentação de equivalência se aplicável.",
+      "resumo_simples": "O governo (Marinha dos EUA) quer comprar parafusos especiais de marca K-Monel (ou equivalente) fabricados em material resistente à corrosão, para uso em equipamentos navais — é uma compra reservada exclusivamente para pequenas empresas.",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "Parafusos da marca K-Monel (ou equivalente aprovado) conforme especificações técnicas detalhadas nos desenhos anexos ao edital no SAM.gov. O NAICS 332722 indica parafusos de precisão (Bolts, Nuts, Screws, Rivets & Washers). K-Monel é uma liga metálica de níquel-cobre altamente resistente à corrosão marinha e à água salgada, muito utilizada em equipamentos navais. As quantidades, especificações dimensionais (diâmetro, comprimento, rosca, acabamento) e locais de entrega estão disponíveis apenas nos desenhos técnicos acessados via SAM.gov mediante solicitação com CAGE Code. Trata-se de um contrato federal do Departamento da Marinha (NAVSEA), com entrega provavelmente em instalação naval nos EUA.",
+      "prazo_submissao": "11/06/2026 — horário exato deve ser confirmado diretamente no SAM.gov. ATENÇÃO: Janela de apenas 7 dias a partir da abertura em 04/06/2026. Solicite acesso aos desenhos IMEDIATAMENTE com seu CAGE Code.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório)",
+        "CAGE Code ativo",
+        "Proposta de preço (Price Quote) com identificação do item ofertado",
+        "Identificação do fabricante e número de peça (Part Number)",
+        "Certificações de material (Mill Certifications) para K-Monel ou equivalente",
+        "Certificado de Conformidade (Certificate of Conformance)",
+        "Documentação técnica de equivalência (se não for marca K-Monel exata)",
+        "Certificação de pequena empresa (via SAM.gov)",
+        "Comprovante de General Liability Insurance ($1M)",
+        "Acesso aos desenhos técnicos via SAM.gov (solicitar com CAGE Code)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 (General Liability) — confirmar no edital completo",
+        "workers_comp": "Verificar requisito específico no edital — provável exigência para contratos federais",
+        "bond": "Não indicado para compra de produto — confirmar no edital; geralmente não exigido para fornecimento de materiais abaixo de $150.000"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende muito do seu perfil. Vale a pena SE: você já fabrica ou distribui parafusos/fixadores especiais (NAICS 332722), tem CAGE Code ativo, tem acesso a fornecedores de K-Monel (liga de níquel-cobre UNS N05500) ou equivalente, e consegue agir RÁPIDO (7 dias de janela). O Fit Score de 45/100 indica uma oportunidade de nicho — não é para qualquer empresa. Contratos com a Marinha para fixadores especiais tendem a ter boas margens mas exigem expertise em materiais de defesa. Se sua empresa não tem experiência com parafusos de precisão naval, o custo de entrada pode não compensar."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) MATERIAL ESPECIALIZADO: K-Monel é uma liga de níquel-cobre cara e de nicho — não é produto comum de hardware store; 2) PRAZO CURTÍSSIMO: Apenas 7 dias para acessar desenhos, cotar material, fabricar/localizar estoque e submeter proposta; 3) ACESSO AOS DESENHOS: Obrigatório ter CAGE Code e solicitar acesso no SAM.gov — sem isso não há como preparar proposta; 4) PADRÕES DE QUALIDADE NAVAIS: A Marinha exige certificações de material, rastreabilidade e pode inspecionar os itens; 5) EQUIVALÊNCIA TÉCNICA: Se não for K-Monel genuíno, precisa documentar tecnicamente que o produto equivale ou supera as especificações originais."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para parafusos especiais em ligas de níquel para uso naval, margens típicas variam entre 20-35% sobre o custo total (material + certificações + frete + overhead). K-Monel é um material premium — o custo de matéria-prima já é elevado, o que ajuda a justificar preços mais altos. Distribuidores que têm estoque em mãos podem ter margens maiores. Fabricantes que precisam processar do zero devem calcular cuidadosamente tempo de setup, certificações e possível inspeção governamental. Como o valor estimado não foi divulgado, é essencial pesquisar contratos similares no USASpending.gov (buscar NAICS 332722 + NAVSEA) para ter referência de preços praticados."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento de parafusos/fixadores (NAICS 332722) não há licença estatal específica obrigatória em Florida para o ato de vender. Porém, requisitos relevantes incluem: 1) CAGE Code ativo e registro no SAM.gov (obrigatório para qualquer contrato federal); 2) Possível necessidade de certificação de qualidade como ISO 9001 ou AS9100 dependendo dos requisitos do edital completo; 3) Se fabricar o produto, pode precisar atender normas militares (MIL-SPEC) específicas; 4) Verificar no edital completo (acessível após solicitar os desenhos) se há requisitos adicionais de qualificação. Recomenda-se ler atentamente as cláusulas FAR/DFARS incluídas no contrato."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "1) IDENTIFIQUE as especificações exatas dos parafusos nos desenhos técnicos (diâmetro, comprimento, tipo de rosca, acabamento, quantidade); 2) COTAR material K-Monel ou equivalente com fornecedores especializados (ex: distribuidor de ligas especiais, McMaster-Carr para pequenas quantidades, ou distribuidores navais); 3) CALCULE: Custo do material + custo de usinagem/conformação se necessário + certificações de material (mill certs) + embalagem + frete FOB destino + overhead + margem; 4) PESQUISE histórico no USASpending.gov para benchmarking; 5) ATENÇÃO ao FAR 15.404 — o governo pode solicitar breakdown de custos; 6) Não subestime os custos de certificação e possível inspeção — podem representar 5-10% do valor total em contratos navais de pequeno porte."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:19:06.373Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-b55fa7aa0fbe406581d30d75a4b225c6",
@@ -1107,7 +1292,53 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/b55fa7aa0fbe406581d30d75a4b225c6/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para submissão: 15/06/2026. O horário exato de fechamento não foi informado no resumo — acesse https://sam.gov/workspace/contract/opp/b55fa7aa0fbe406581d30d75a4b225c6/view para confirmar a hora limite (geralmente 12h00 ou 17h00 Eastern Time em contratos DoD). Atenção: prazos em contratos federais são rigorosos — propostas atrasadas são rejeitadas automaticamente.\n\nDOCUMENTOS EXIGIDOS | Os documentos específicos só estão disponíveis no SAM.gov, mas para contratos federais de compra de móveis (DoD), tipicamente exigem: (1) Registro ativo no SAM.gov (sam.gov registration); (2) Formulário de proposta (SF-1449 ou equivalente); (3) Lista de preços por item (line item pricing); (4) Certificações FAR (Federal Acquisition Regulation) — inclui certificações de small business, Buy American Act, etc.; (5) Comprovante de seguro GL mínimo de $1M; (6) DUNS/UEI number ativo; (7) Possivelmente catálogo ou fichas técnicas dos móveis ofertados.\n\nREQUISITOS TÉCNICOS | NAICS 337214 — fabricante ou revendedor de mobiliário de escritório não-madeireiro. Verifique se há exigência de marcas específicas (ex: Herman Miller, Steelcase, HON) ou se aceitam equivalentes. Entrega em base militar exige coordenação com o controle de acesso (base access) — fornecedores e motoristas precisarão de aprovação prévia para entrar na Patrick Space Force Base. Possível exigência de montagem e instalação incluída no preço.\n\nSEGUROS E GARANTIAS | General Liability (GL): mínimo $1.000.000 por ocorrência. Workers' Compensation: verificar no edital completo (geralmente exigido para instalação). Performance Bond: não mencionado como exigência — confirmar no SAM.gov. Auto Liability: pode ser exigido se houver entrega com frota própria.\n\nCOMO CALCULAR O PREÇO | (1) Identifique todos os itens da lista de compras (Bill of Materials) no edital completo; (2) Colete cotações de fornecedores/distribuidores de móveis de escritório; (3) Some custos: produto + frete até a base + mão de obra de instalação + seguro + overhead (15-20%) + margem de lucro (10-20%); (4) Verifique se há GSA Schedule 71 (furniture) — se você ou seu fornecedor tiver, pode simplificar a precificação e aumentar competitividade; (5) Atenção ao Buy American Act — produtos devem ser fabricados nos EUA ou ter waiver justificado; (6) Considere custos adicionais de acesso à base militar (credenciamento, tempo).\n\nESTRATÉGIA DE SUBMISSÃO | (1) Acesse o SAM.gov imediatamente para baixar o edital completo e verificar se há Q&A period aberto (envie perguntas técnicas antes do prazo); (2) Verifique se há set-aside para small business — atualmente indicado como 'No Set Aside', ou seja, aberto a todos os concorrentes, incluindo grandes empresas; (3) Considere parcerias com distribuidores de móveis que já tenham contratos com o DoD ou GSA Schedule 71; (4) Submeta via SAM.gov antes do deadline — nunca no último dia; (5) Certifique-se de que seu registro SAM.gov está ativo e atualizado (renovação anual obrigatória).\n\nRISCOS | (1) Sem set-aside: concorrência com grandes fornecedores federais de móveis — risco alto; (2) Acesso à base militar pode ser burocrático e gerar atrasos na entrega; (3) Valor estimado não divulgado — dificulta análise de viabilidade; (4) Buy American Act pode limitar fornecedores disponíveis; (5) Contratos DoD têm cláusulas FAR extensas — necessário revisar cuidadosamente; (6) Possível exigência de garantia pós-entrega (warranty) de 1-5 anos nos móveis.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://sam.gov/workspace/contract/opp/b55fa7aa0fbe406581d30d75a4b225c6/view, faça login no SAM.gov, baixe todos os documentos do edital e identifique: lista completa de itens, quantidades, especificações e horário exato do deadline. PASSO 2 (EM 2 DIAS): Verifique se sua empresa tem registro ativo no SAM.gov com NAICS 337214 cadastrado; colete cotações de pelo menos 3 fornecedores de móveis; confirme se consegue cumprir o Buy American Act. PASSO 3 (1 SEMANA ANTES DO DEADLINE): Monte a proposta completa com pricing por line item, reúna todos os documentos exigidos, confirme apólice de seguro GL vigente e submeta via SAM.gov com antecedência mínima de 48 horas.",
+      "resumo_simples": "Compra de móveis para a Base da Força Espacial Patrick (Patrick Space Force Base), na Flórida — o governo federal precisa adquirir mobiliário (mesas, cadeiras, armários, etc.) para uso nas instalações militares da base.",
+      "categoria_curta": "Compra de móveis",
+      "o_que_comprar": "Aquisição de móveis (furniture) para a Patrick Space Force Base, localizada em Patrick AFB, Brevard County, Flórida. O NAICS 337214 corresponde a 'Office Furniture (except Wood) Manufacturing', indicando mobiliário de escritório não-madeireiro — como estações de trabalho, cadeiras de escritório, mesas, gaveteiros, armários metálicos e afins. Quantidades específicas, modelos, marcas aprovadas e especificações técnicas detalhadas não foram divulgadas no resumo do edital e precisam ser verificadas diretamente no SAM.gov. A entrega provavelmente será na própria base militar. Trata-se de um contrato federal do Departamento de Defesa / Força Aérea / Space Systems Command.",
+      "prazo_submissao": "15/06/2026 — horário exato não divulgado. Confirmar no SAM.gov (normalmente 12h00 ou 17h00 Eastern Time). Data de abertura: 04/06/2026.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com UEI/DUNS number",
+        "Formulário de proposta federal (SF-1449 ou equivalente indicado no edital)",
+        "Lista de preços por item (line item pricing sheet)",
+        "Certificações FAR obrigatórias (Buy American, small business, etc.)",
+        "Comprovante de seguro General Liability mínimo $1.000.000",
+        "Comprovante de Workers' Compensation (verificar exigência no edital)",
+        "Fichas técnicas / catálogo dos móveis ofertados",
+        "Referências ou experiência prévia em contratos federais (se exigido)",
+        "Informações de acesso à base militar (para entrega) — coordenar com contracting officer"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmado no resumo do edital)",
+        "workers_comp": "Não especificado no resumo — verificar no edital completo no SAM.gov",
+        "bond": "Não mencionado como exigência — confirmar no SAM.gov (provavelmente não exigido para compra de produtos)"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende do porte e posicionamento da sua empresa. O Fit Score de 45/100 indica viabilidade moderada-baixa. Os pontos negativos são: sem set-aside para small business (concorrência aberta com grandes empresas), valor estimado desconhecido (dificulta análise de ROI) e exigências de acesso a base militar. Os pontos positivos são: é na Flórida (logística facilitada), contratos DoD pagam em dia e podem gerar relacionamento para futuros contratos. Recomendação: vale verificar o edital completo antes de decidir. Se sua empresa já distribui móveis de escritório e tem SAM.gov ativo, o esforço de submissão pode ser justificado."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Sem set-aside — você competirá com distribuidores federais estabelecidos e grandes empresas; (2) Buy American Act — os móveis precisam ser fabricados nos EUA, limitando fornecedores; (3) Acesso à base militar — entrega requer credenciamento prévio de pessoas e veículos, o que pode causar atrasos; (4) Necessidade de SAM.gov ativo e atualizado com NAICS 337214; (5) Possível exigência de GSA Schedule 71 (furniture) para maior competitividade; (6) Seguro GL de $1M deve estar vigente no momento da submissão."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos federais de fornecimento de produtos (móveis), a margem líquida típica para pequenas empresas fica entre 8% e 18%, dependendo do volume. Se você for revendedor (não fabricante), sua margem tende a ser menor (8-12%) pois precisa incluir o custo do produto do fabricante. Se tiver relação direta com fabricantes ou GSA Schedule, pode chegar a 15-20%. Lembre-se de incluir no cálculo: custo do produto + frete + instalação + seguro + tempo de credenciamento na base + overhead administrativo (propostas federais consomem tempo). O valor total do contrato não foi divulgado, então o retorno absoluto é incerto."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para venda e entrega de móveis em contratos federais, não há licença estadual específica obrigatória na Flórida para o produto em si. Porém, você precisa: (1) Registro ativo no SAM.gov (obrigatório para qualquer contrato federal); (2) NAICS 337214 cadastrado no seu perfil SAM.gov; (3) Se houver serviço de instalação/montagem, verifique se é necessária licença de contractor na Flórida (Florida DBPR); (4) Licença comercial municipal/estadual da sua empresa em dia. Confirme no edital completo se há alguma certificação específica de produto exigida (ex: GREENGUARD, BIFMA para móveis de escritório)."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos: (1) Baixe a lista completa de itens (SOW/PWS) no SAM.gov — você precisa saber exatamente quais móveis e quantidades; (2) Colete cotações de pelo menos 2-3 distribuidores ou fabricantes de móveis compatíveis com Buy American Act; (3) Calcule o custo total: produto + frete FOB destination (entrega na base) + montagem/instalação (se incluído) + embalagem e descarte; (4) Adicione overhead (10-15%) para cobrir administração, seguro e imprevistos; (5) Adicione margem de lucro (10-20%); (6) Compare com preços do GSA Advantage para móveis similares — esse é o benchmark que o governo usa; (7) Seja competitivo mas não subprecifique — contratos federais têm multas por não entrega. Pesquise contratos similares no USASpending.gov para referência de preços pagos anteriormente."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:20:09.185Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-b3df31e292d546e5a7b4d11dfa4f7aa4",
@@ -1163,7 +1394,54 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/b3df31e292d546e5a7b4d11dfa4f7aa4/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline para submissão: 10/06/2026. Atenção: o prazo entre abertura e fechamento é de apenas 6 dias corridos, o que exige agilidade na preparação da proposta. Confirmar horário exato de encerramento diretamente no SAM.gov, pois propostas tardias são automaticamente desclassificadas em contratos federais.\n\nDOCUMENTOS EXIGIDOS | Com base no tipo de contrato (BID federal VA/SAM.gov, NAICS 339113), os documentos tipicamente exigidos incluem: registro ativo no SAM.gov (obrigatório), catálogo ou ficha técnica dos produtos ofertados, comprovação de autorização como distribuidor ou fabricante (se exigida), formulário de oferta (SF-1449 ou equivalente), documentação de conformidade FDA (se aplicável ao produto), e possivelmente certificação de small business se aplicável. Verificar documentos específicos no edital completo no SAM.gov.\n\nREQUISITOS TÉCNICOS | NAICS 339113 indica instrumentos cirúrgicos e médicos. Os produtos devem atender padrões FDA para dispositivos médicos. É provável que o VA exija conformidade com regulamentações de qualidade (ISO 13485 ou equivalente), além de compatibilidade com equipamentos já existentes nas instalações. Marcas específicas ou equivalentes aprovados podem ser listados no edital completo. Verificar se há requisitos de Buy American Act (TAA compliance) para produtos médicos federais.\n\nSEGUROS E GARANTIAS | Seguro de Responsabilidade Geral (GL): mínimo de $1.000.000 por ocorrência. Workers' Compensation: verificar no edital completo. Bond: não identificado como exigência no resumo disponível, mas confirmar no edital. Para contratos federais de fornecimento de produtos médicos, seguros de product liability podem ser exigidos adicionalmente.\n\nCOMO CALCULAR O PREÇO | 1) Identifique os itens exatos listados no edital (part numbers, quantidades, especificações). 2) Colete preços de fornecedores/fabricantes autorizados. 3) Some custos diretos: produto + frete + embalagem + impostos aplicáveis. 4) Adicione margem operacional (tipicamente 10-25% para distribuidores de produtos médicos). 5) Verifique se há preços de referência no GSA Advantage ou contratos anteriores do VA para benchmark. 6) Considere que o VA frequentemente compara com preços praticados no mercado e em contratos GSA — preços inflados são facilmente identificados.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Acesse o edital completo no SAM.gov imediatamente para identificar itens e quantidades exatas. 2) Confirme se sua empresa tem SAM.gov ativo e atualizado. 3) Se não for fabricante, obtenha carta de autorização do fabricante/distribuidor. 4) Pesquise preços históricos do VA para handpieces cirúrgicos via USASpending.gov. 5) Submeta proposta competitiva com documentação técnica completa. 6) Se for small business certificada, destaque isso na proposta.\n\nRISCOS | - Prazo muito curto (6 dias) para preparação da proposta. - Valor estimado não divulgado dificulta planejamento financeiro. - Possível exigência de autorização de fabricante que pequenas empresas nem sempre possuem. - Concorrência com grandes distribuidores médicos como Henry Schein, Medline, Cardinal Health. - Fit Score baixo (38/100) indica baixa compatibilidade inicial. - Exigências de conformidade FDA e qualidade podem ser barreiras significativas. - Sem histórico de contrato divulgado, é difícil estimar volume real.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse https://sam.gov/workspace/contract/opp/b3df31e292d546e5a7b4d11dfa4f7aa4/view e baixe todos os documentos do edital para identificar itens exatos, quantidades e especificações técnicas. 2) ATÉ 48H: Verifique se sua empresa tem SAM.gov ativo, se possui os produtos solicitados em estoque ou acesso a fornecedores autorizados, e se atende aos requisitos de seguro mínimo ($1M GL). 3) ATÉ 5 DIAS: Prepare e submeta a proposta com documentação técnica completa, preços competitivos e todos os formulários exigidos antes do deadline de 10/06/2026.",
+      "resumo_simples": "Compra de peças cirúrgicas manuais (handpieces cirúrgicos) para uso em hospitais do Departamento de Assuntos de Veteranos (VA) na região da Flórida.",
+      "categoria_curta": "Compra de produtos médicos",
+      "o_que_comprar": "O governo federal (Departamento de Assuntos de Veteranos - VA) está solicitando a compra de Surgical Handpieces (peças de mão cirúrgicas), classificadas sob NAICS 339113 (Fabricação de Instrumentos Cirúrgicos e Médicos). Esses instrumentos são utilizados em procedimentos cirúrgicos em centros médicos do VA pertencentes à Network Contract Office 8 (NCO 8), que cobre a região da Flórida, Porto Rico e Ilhas Virgens. Não foram divulgadas quantidades específicas, marcas, modelos ou especificações técnicas detalhadas no resumo disponível — essas informações devem ser obtidas diretamente no SAM.gov através do link do edital. Tipicamente, handpieces cirúrgicos incluem instrumentos rotativos de alta/baixa velocidade usados em cirurgias ortopédicas, neurológicas ou gerais.",
+      "prazo_submissao": "Deadline: 10/06/2026. Horário exato deve ser confirmado no SAM.gov. Data de abertura: 04/06/2026.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório)",
+        "Formulário de oferta federal (SF-1449 ou equivalente indicado no edital)",
+        "Ficha técnica e catálogo dos produtos ofertados (Surgical Handpieces)",
+        "Carta de autorização do fabricante (se aplicável como distribuidor)",
+        "Comprovação de conformidade FDA para os dispositivos médicos",
+        "Certificado de seguro - General Liability mínimo $1.000.000",
+        "Certificado de seguro - Workers' Compensation (confirmar exigência no edital)",
+        "Documentação de small business (se aplicável: SBA, SDVOSB, WOSB, etc.)",
+        "Comprovação TAA/Buy American Act compliance (se exigida)",
+        "Histórico de fornecimentos similares (past performance, se solicitado)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (mínimo identificado)",
+        "workers_comp": "Valor não especificado - confirmar no edital completo no SAM.gov",
+        "bond": "Não identificado como exigência - confirmar no edital completo"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "O Fit Score de 38/100 indica compatibilidade baixa, o que sugere cautela. Vale a pena SOMENTE se sua empresa: (1) já possui SAM.gov ativo e atualizado, (2) é distribuidora ou fabricante autorizada de instrumentos cirúrgicos/médicos, (3) tem os produtos específicos prontamente disponíveis, e (4) possui os seguros mínimos exigidos. O prazo de apenas 6 dias entre abertura e fechamento é muito curto para quem não está preparado. Se sua empresa não atua no segmento de dispositivos médicos, o esforço provavelmente não compensará."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: 1) Necessidade de autorização de fabricante para distribuição de instrumentos cirúrgicos específicos; 2) Exigências de conformidade FDA para dispositivos médicos Classe II; 3) Concorrência com grandes distribuidores médicos nacionais que já possuem contratos VA estabelecidos; 4) Prazo extremamente curto de submissão (6 dias); 5) Possível exigência de histórico de fornecimento para o VA ou governo federal; 6) Requisitos técnicos específicos de compatibilidade que podem favorecer marcas determinadas; 7) Seguro GL de $1M necessário."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para distribuidores de instrumentos cirúrgicos em contratos federais VA, as margens típicas variam entre 10% e 30%, dependendo do produto, volume e nível de competição. Handpieces cirúrgicos de alta qualidade (ex: Stryker, DePuy, Medtronic) frequentemente têm margens menores para distribuidores (10-15%) devido ao controle rigoroso de preços pelos fabricantes. Produtos de marcas menores ou equivalentes aprovados podem permitir margens maiores (20-30%). Como o valor total do contrato não foi divulgado, é difícil estimar o retorno absoluto. Pesquise preços históricos no USASpending.gov antes de precificar."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças específicas. Em geral, para fornecimento de instrumentos cirúrgicos ao VA federal, você precisa: (1) SAM.gov ativo e registrado com NAICS 339113; (2) Possivelmente, registro como distribuidor autorizado FDA (dependendo do produto e classificação do dispositivo); (3) Carta de autorização do fabricante caso não seja o fabricante direto; (4) Não é exigida licença estadual específica da Flórida para venda de produtos médicos B2B federal, mas confirme no edital completo. Acesse o SAM.gov para verificar requisitos exatos de licenciamento."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos para precificação competitiva: 1) Identifique os itens exatos e quantidades no edital completo; 2) Obtenha cotações de fornecedores/fabricantes autorizados; 3) Pesquise preços históricos de contratos VA similares no USASpending.gov e FPDS.gov usando NAICS 339113; 4) Verifique se os produtos estão listados no GSA Advantage como referência de preço máximo aceitável pelo governo; 5) Calcule: Custo do produto + Frete/logística + Seguro + Overhead + Margem (10-25%); 6) Seja competitivo mas realista — o VA compara propostas e rejeita preços significativamente acima do mercado; 7) Considere oferecer garantias de produto ou suporte técnico como diferencial além do preço."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:21:04.699Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-9344cf728e7141909620921bc7aac08e",
@@ -1219,7 +1497,52 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/9344cf728e7141909620921bc7aac08e/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04/06/2026. Deadline: 08/06/2026. Janela de apenas 4 dias corridos entre abertura e fechamento. Este prazo curtíssimo é típico de editais Sole Source, onde o governo não espera propostas competitivas — apenas cumpre a obrigação legal de publicar o aviso. Confirme hora exata no SAM.gov. \n\nDOCUMENTOS EXIGIDOS | Por se tratar de Sole Source, os documentos são voltados ao fornecedor pré-selecionado (Honeywell). Contudo, qualquer empresa que queira contestar ou apresentar capacidade equivalente deve protocolar uma 'Capability Statement' formal com: registro ativo no SAM.gov, certificações técnicas para NAICS 334511, histórico de fornecimento de equipamentos similares à Defesa/Marinha, e documentação técnica do produto equivalente ao da Honeywell. \n\nREQUISITOS TÉCNICOS | NAICS 334511 — fabricação de instrumentos de navegação, busca e detecção. O equipamento deve atender especificações militares (provavelmente MIL-SPEC). Fornecedores alternativos precisariam demonstrar que seu produto é tecnicamente equivalente ao da Honeywell. Sem acesso ao documento completo, não é possível detalhar as specs. \n\nSEGUROS E GARANTIAS | General Liability: $1.000.000. Workers' Compensation: verificar edital. Bond: não indicado (verificar edital). Estes valores são padrão para contratos federais de defesa. \n\nCOMO CALCULAR O PREÇO | Como é Sole Source, o preço já foi negociado ou será negociado diretamente com a Honeywell. Se uma empresa concorrente quiser apresentar alternativa, deve precificar considerando: custo do equipamento + margem + custos de certificação militar + custos de logística para entrega em instalação naval + overhead de conformidade federal (FAR/DFARS). \n\nESTRATÉGIA DE SUBMISSÃO | Para pequenas empresas: este edital NÃO é uma oportunidade direta de venda. A estratégia viável seria: (1) Verificar se há possibilidade de subcontratação com a Honeywell; (2) Protocolar um 'Notice of Intent to Compete' no SAM.gov se possuir produto equivalente, dentro do prazo; (3) Usar este edital como inteligência de mercado para futuras oportunidades. \n\nRISCOS | Alto risco de não participação: o governo já decidiu pela Honeywell. Contestar uma Sole Source requer evidência forte de produto equivalente e pode gerar atrito com o cliente. Prazo de 4 dias é insuficiente para mobilizar uma resposta competitiva do zero. Valor não divulgado dificulta análise de ROI. \n\nPRÓXIMOS 3 PASSOS | 1) Acesse o edital completo em SAM.gov (link fornecido) para verificar se há abertura para produtos alternativos ou subcontratação. 2) Se sua empresa fabrica ou distribui equipamentos sob NAICS 334511, avalie se possui Capability Statement atualizada para responder com alternativa competitiva antes de 08/06/2026. 3) Se não há produto equivalente, arquive este edital como referência e monitore futuros contratos do Naval Surface Warfare Center para oportunidades de subcontratação.",
+      "resumo_simples": "O governo federal (Marinha dos EUA) quer comprar uma unidade de medição (Measurement Unit) diretamente da empresa Honeywell International Inc, sem concorrência aberta — ou seja, é uma compra exclusiva para um fornecedor específico.",
+      "categoria_curta": "Compra de equipamento",
+      "o_que_comprar": "Aquisição de uma Unidade de Medição (Measurement Unit) classificada sob o código NAICS 334511 (Fabricação de Instrumentos de Busca, Detecção, Navegação, Orientação, Aeronáutica e Náutica). O contrato é do tipo 'Sole Source', ou seja, a Marinha dos EUA (Naval Surface Warfare Center) pretende adquirir este equipamento exclusivamente da Honeywell International Inc, sem abrir concorrência para outros fornecedores. O edital é publicado no SAM.gov apenas para fins de notificação pública, como exigido por lei, e não representa uma oportunidade de competição aberta. Não há valor estimado divulgado, quantidades específicas ou especificações técnicas detalhadas disponíveis no resumo do edital — essas informações precisam ser verificadas diretamente no documento completo no SAM.gov.",
+      "prazo_submissao": "08/06/2026 — hora exata não divulgada no resumo. Confirmar horário limite diretamente no SAM.gov pelo link: https://sam.gov/workspace/contract/opp/9344cf728e7141909620921bc7aac08e/view",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório para qualquer resposta federal)",
+        "Capability Statement com experiência em NAICS 334511",
+        "Documentação técnica do produto (se apresentando alternativa à Honeywell)",
+        "Certificações militares ou equivalentes (MIL-SPEC, se aplicável)",
+        "Histórico de contratos federais similares (past performance)",
+        "Comprovante de seguro GL de $1.000.000",
+        "Certificado de Workers' Compensation (verificar exigência no edital completo)",
+        "Formulário de proposta conforme instruções do SAM.gov (se aplicável)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000",
+        "workers_comp": "Verificar edital completo no SAM.gov",
+        "bond": "Não indicado — verificar edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Para a grande maioria das pequenas empresas: NÃO diretamente. Este é um edital Sole Source, ou seja, o governo já determinou que comprará exclusivamente da Honeywell International Inc. A publicação no SAM.gov é uma exigência legal de transparência, não um convite à competição. Vale a pena apenas se sua empresa: (1) fabrica ou distribui uma Unidade de Medição tecnicamente equivalente e pode comprovar isso documentalmente; ou (2) tem relacionamento com a Honeywell e pode explorar subcontratação. Fit Score de 38/100 confirma baixa viabilidade."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) NATUREZA SOLE SOURCE: o governo já escolheu o fornecedor — Honeywell. Contestar isso exige evidência técnica robusta e processo formal. 2) NAICS 334511: fabricação de instrumentos de defesa/navegação exige capacidade técnica altamente especializada, certificações e histórico com clientes de defesa. 3) PRAZO CURTÍSSIMO: apenas 4 dias entre abertura e fechamento, impossibilitando mobilização de uma proposta competitiva do zero. 4) CLIENTE: Naval Surface Warfare Center é um cliente federal de defesa com exigências rígidas de conformidade (FAR/DFARS). 5) VALOR NÃO DIVULGADO: impossível calcular viabilidade financeira sem referência de valor."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Impossível calcular com precisão pois o valor estimado não foi divulgado. Em contratos federais de defesa para equipamentos eletrônicos/instrumentação (NAICS 334511), margens típicas variam entre 10% e 25% dependendo de: especificidade do produto, volume, custos de certificação militar e nível de customização. Porém, dado que é Sole Source para a Honeywell, as negociações de preço e margem já estão ocorrendo diretamente entre a Marinha e a Honeywell, fora do alcance de terceiros."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim. Para atuar no segmento NAICS 334511 em contratos de defesa, geralmente são necessárias: (1) registro ativo no SAM.gov — obrigatório para qualquer contrato federal; (2) certificações técnicas específicas para fabricação de instrumentos de navegação/defesa; (3) possivelmente licenças de exportação (ITAR/EAR) caso o equipamento tenha classificação de controle de exportação, o que é comum em equipamentos da Marinha; (4) conformidade com regulamentos FAR e DFARS para contratos de defesa. Verifique o edital completo no SAM.gov para requisitos específicos desta aquisição."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Se mesmo assim decidir tentar participar com um produto alternativo, a precificação deve contemplar: (1) Custo real do equipamento (materiais + mão de obra especializada); (2) Custos de certificação e conformidade com normas militares (podem ser substanciais); (3) Custos de testes e validação técnica exigidos pela Marinha; (4) Overhead de conformidade federal (gestão de contrato FAR/DFARS, documentação, auditorias); (5) Margem de lucro de 10-20%; (6) Custos de seguro ($1M GL mínimo); (7) Contingência de 10-15% para imprevistos em contratos de defesa. Pesquise preços históricos de contratos similares no USASpending.gov ou SAM.gov para ter referência de mercado."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:21:54.326Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-9277eec8bb9b4c8384f11223ea5c7b2a",
@@ -1275,7 +1598,54 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/9277eec8bb9b4c8384f11223ea5c7b2a/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura oficial é 04/06/2026, mas o deadline para envio de propostas é 15/05/2026. Atenção: o deadline é ANTERIOR à data de abertura listada, o que pode indicar uma data de abertura das propostas (não de submissão). Confirme urgentemente no SAM.gov se o prazo de 15/05/2026 é o prazo real para envio. Recomenda-se acessar o edital completo para verificar hora exata, fuso horário (provavelmente Eastern Time) e método de submissão (geralmente pelo próprio SAM.gov ou por email designado). | DOCUMENTOS EXIGIDOS | Os documentos típicos para este tipo de licitação federal SDVOSB incluem: (1) Proposta técnica e comercial conforme modelo do edital, (2) Registro ativo no SAM.gov com certificação SDVOSB válida no VA CVE (Center for Verification and Evaluation) ou SBA VetCert, (3) Formulários federais padrão como SF-1449 (para compras de produtos) ou equivalente, (4) Especificações do produto com fichas técnicas, amostras ou catálogos se solicitado, (5) Certificados de seguro conforme exigido (GL mínimo $1M). Verifique o edital completo para lista definitiva. | REQUISITOS TÉCNICOS | As cortinas hospitalares geralmente precisam atender normas como NFPA 701 (retardante de chama), padrões de controle de infecção, materiais laváveis ou descartáveis conforme política do VA. O produto pode exigir aprovação de amostra ou teste de conformidade antes do aceite. Verifique se há exigência de entrega FOB Destination (na instalação do VA) e prazo de entrega após emissão do pedido. | SEGUROS E GARANTIAS | General Liability (GL): mínimo $1.000.000 por ocorrência. Workers' Compensation: conforme leis do estado da Flórida (obrigatório se tiver funcionários). Bond: não identificado como obrigatório para este tipo de compra de produto, mas confirme no edital. O VA pode exigir certificado de seguro nomeando o governo federal como additional insured. | COMO CALCULAR O PREÇO | 1) Identifique as quantidades e especificações exatas no edital completo. 2) Consulte fornecedores de cortinas hospitalares (ex: Encompass Group, Standard Textile, ou distribuidores locais) para obter custo unitário. 3) Adicione custos de frete/entrega até a instalação do VA indicada. 4) Inclua margem de lucro de 15-30% típica para produtos de revenda B2G. 5) Considere custos de embalagem, documentação e possível amostras. 6) Pesquise preços históricos no USASpending.gov ou SAM.gov para cortinas VA com NAICS 314120 para ter referência de mercado. O valor estimado não foi divulgado, o que dificulta o planejamento — priorize obter o edital completo. | ESTRATÉGIA DE SUBMISSÃO | Este é um set-aside exclusivo SDVOSB, o que significa que APENAS empresas certificadas como SDVOSB podem submeter propostas. Se você não possui essa certificação, a única via é via subcontratação com uma empresa SDVOSB como prime contractor. Se possuir a certificação, a concorrência é mais restrita e as chances aumentam significativamente. Foque em oferecer produto que atenda 100% das especificações técnicas, com prazo de entrega competitivo e preço alinhado ao mercado. Propostas técnicas bem documentadas (fichas técnicas, conformidade com normas, referências de entregas anteriores ao VA) têm vantagem. | RISCOS | (1) Sem certificação SDVOSB ativa e válida no VetCert/SAM, a proposta será desclassificada automaticamente. (2) Valor estimado não divulgado dificulta precificação estratégica. (3) Prazo de submissão (15/05/2026) pode ser curto dependendo de quando você acessar o edital. (4) Especificações técnicas rígidas do VA podem exigir produto específico não facilmente disponível. (5) Concorrência de distribuidores estabelecidos com histórico VA. | PRÓXIMOS 3 PASSOS | PASSO 1 (URGENTE): Acesse https://sam.gov/workspace/contract/opp/9277eec8bb9b4c8384f11223ea5c7b2a/view e faça download completo do edital, Statement of Work (SOW) e todos os anexos. Confirme deadline real, especificações técnicas e quantidades. PASSO 2: Verifique se sua empresa possui registro ativo no SAM.gov E certificação SDVOSB válida no SBA VetCert — sem isso, participação é impossível como prime. Se não tiver, avalie parceria com empresa SDVOSB certificada. PASSO 3: Com as especificações em mãos, solicite cotações a pelo menos 3 fornecedores de cortinas hospitalares, calcule seu preço total incluindo frete e margem, e prepare a documentação de submissão conforme instruções do edital.",
+      "resumo_simples": "O Departamento de Assuntos de Veteranos (VA) quer comprar cortinas de privacidade (aquelas usadas em hospitais para separar leitos ou áreas de atendimento) para uso em uma de suas instalações médicas na Flórida.",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "Cortinas de privacidade (Privacy Curtains) classificadas sob NAICS 314120 (Fabricação de outros produtos têxteis). Trata-se de cortinas hospitalares do tipo trilho/suspensas, utilizadas em ambientes de saúde do VA (Veterans Affairs) para garantir privacidade de pacientes em enfermarias, cubículos ou áreas de tratamento. As quantidades específicas, dimensões, tecidos, especificações técnicas (antifungos, retardantes de chama, etc.) e local exato de entrega não estão disponíveis no resumo do edital — devem ser consultadas diretamente no SAM.gov. O contrato está reservado exclusivamente para empresas de propriedade de veteranos com deficiência em serviço (SDVOSB — Service-Disabled Veteran-Owned Small Business Set-Aside), vinculado ao Network Contract Office 8 (NCO 8), que cobre a região da Flórida e parte do sul dos EUA.",
+      "prazo_submissao": "15/05/2026 — confirmar hora exata e fuso horário (provavelmente Eastern Time) diretamente no SAM.gov, pois esta data é anterior à data de abertura listada (04/06/2026) e requer verificação urgente.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório)",
+        "Certificação SDVOSB válida no SBA VetCert (obrigatório — sem isso a proposta é desclassificada)",
+        "Formulário de proposta conforme modelo do edital (SF-1449 ou equivalente)",
+        "Proposta técnica com especificações do produto, fichas técnicas e conformidade com normas",
+        "Proposta comercial com preços unitários e total",
+        "Certificado de seguro — General Liability mínimo $1.000.000",
+        "Certificado de seguro — Workers' Compensation conforme FL",
+        "Catálogo ou amostras do produto (se solicitado no edital)",
+        "Referências de contratos anteriores com VA ou governo (se solicitado)",
+        "Qualquer formulário adicional listado no edital completo"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (mínimo identificado)",
+        "workers_comp": "Obrigatório conforme legislação da Flórida se a empresa tiver funcionários",
+        "bond": "Não identificado como obrigatório para compra de produto — confirmar no edital completo"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende de um fator crítico e inegociável: sua empresa precisa ser certificada como SDVOSB (Service-Disabled Veteran-Owned Small Business) com registro ativo no SBA VetCert e SAM.gov. Se não tiver essa certificação, não é possível participar como contratante principal. Assumindo que você tem a certificação, o edital tem potencial razoável: a concorrência é limitada ao universo SDVOSB, o VA é um comprador recorrente e confiável, e cortinas hospitalares são produto de revenda relativamente simples de operacionalizar. O Fit Score de 45/100 reflete justamente a restrição do set-aside como principal barreira. Vale a pena se você já fornece produtos para o VA ou tem experiência com produtos têxteis hospitalares."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) CERTIFICAÇÃO SDVOSB: É a barreira mais crítica — obrigatória e inegociável. Sem ela, participação é impossível como prime contractor. 2) CONHECIMENTO TÉCNICO DO PRODUTO: Cortinas hospitalares têm especificações rígidas (NFPA 701, controle de infecção, dimensionamento específico por local). Erro nas especificações desclassifica a proposta. 3) VALOR ESTIMADO DESCONHECIDO: Sem referência de valor, precificar competitivamente é desafiador — requer pesquisa de mercado em contratos similares. 4) SEGURO: GL de $1M necessário, o que pode ser um custo relevante para microempresas. 5) SAM.gov ATIVO: Registro deve estar 100% atualizado e sem pendências."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para produtos de revenda como cortinas hospitalares em contratos federais, a margem típica fica entre 15% e 35%, dependendo do volume, exclusividade do produto e competitividade da proposta. Distribuidores com relação direta com fabricantes tendem a conseguir margens maiores (25-35%). Se você for intermediário sem contrato direto com fabricante, espere 15-20%. O VA geralmente paga dentro de 30 dias após entrega e aceite, o que é positivo para fluxo de caixa. Recomenda-se pesquisar contratos similares no USASpending.gov com NAICS 314120 e agência VA para ter referência de valores pagos anteriormente."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento de cortinas hospitalares (produto têxtil) ao governo federal, não há licença estadual específica obrigatória para o produto em si na Flórida. No entanto, você precisa de: (1) Registro empresarial ativo no estado da Flórida (Sunbiz), (2) EIN (Employer Identification Number) federal, (3) Registro ativo no SAM.gov, (4) Certificação SDVOSB válida no SBA VetCert. Se a entrega envolver instalação das cortinas (e não apenas fornecimento), pode haver requisitos adicionais de licença. Verifique no edital completo se o escopo inclui apenas fornecimento ou também instalação — isso muda significativamente os requisitos."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos: 1) Obtenha o edital completo com quantidades e especificações exatas. 2) Solicite cotações a fabricantes/distribuidores de cortinas hospitalares como Encompass Group, Standard Textile, Medline ou distribuidores locais na Flórida. 3) Calcule: Custo do produto + Frete FOB Destination até a instalação VA + Custos administrativos (seguro, documentação, tempo) + Margem de lucro (recomendo 20-30% para primeira proposta). 4) Pesquise preços históricos: acesse USASpending.gov, filtre por NAICS 314120 e agência VA para ver valores de contratos similares anteriores. 5) Considere que o VA compara preços com GSA Advantage e outros contratos federais — seu preço precisa ser competitivo com o mercado federal. 6) Se houver itens opcionais ou variações de quantidade, precifique todos os cenários conforme solicitado no edital."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:23:00.003Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-90a7878836ad4e93a101f65e4022a07c",
@@ -1331,7 +1701,55 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/90a7878836ad4e93a101f65e4022a07c/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO: A data de abertura do edital é 04/06/2026 e o deadline para envio de propostas é 10/06/2026. Isso representa uma janela extremamente curta de apenas 6 dias. É essencial acessar o SAM.gov imediatamente para confirmar horário exato (geralmente 12:00 PM ou 2:00 PM ET) e verificar se houve amendments que alteraram o prazo. Qualquer proposta enviada após o deadline será automaticamente desconsiderada.\n\nDOCUMENTOS EXIGIDOS: Com base no tipo de licitação (BID federal via SAM.gov), geralmente são exigidos: (1) Registro ativo no SAM.gov com UEI válido; (2) Formulário de proposta preenchido (geralmente SF-1449 ou formulário específico do edital); (3) Especificações técnicas dos colchões oferecidos (fichas técnicas, catálogos, certificações); (4) Documentação de conformidade com padrões federais (ex: CertiPUR-US, normas de retardamento de chamas CPSC 16 CFR 1633); (5) Lista de preços unitários; (6) Prazo de entrega; (7) Informações bancárias para SAM.gov. Verificar no edital completo se há exigência de certificação de pequena empresa, formulários adicionais ou documentos de qualidade.\n\nREQUISITOS TÉCNICOS: NAICS 337910 cobre fabricação de móveis e produtos similares. Colchões para uso militar geralmente seguem especificações rigorosas: tamanho padrão (twin XL é comum em dormitórios militares), espessura mínima, tipo de espuma ou mola, revestimento resistente a fluidos, conformidade com normas de retardamento de chamas (requisito federal obrigatório para colchões em instalações governamentais — TB 603 ou equivalente federal), e possível exigência de fabricação nos EUA (Buy American Act / TAA compliance). Verificar se há especificação técnica anexada ao edital no SAM.gov.\n\nSEGUROS E GARANTIAS: O seguro de Responsabilidade Geral (GL) exigido é de $1.000.000. Não foi identificada exigência de Performance Bond ou Payment Bond neste momento (informado como N/A), mas isso deve ser confirmado no edital completo. Workers' Compensation deve ser verificado — para fornecimento de produtos com entrega, pode ser exigido se houver instalação ou mão de obra envolvida. Não há set-aside aplicado, ou seja, qualquer empresa pode participar independentemente do porte.\n\nCOMO CALCULAR O PREÇO: (1) Identifique as quantidades exatas no edital completo; (2) Calcule o custo do produto (colchão): inclua custo de fabricação ou aquisição, embalagem e proteção para transporte; (3) Adicione custo de frete/entrega até a base militar (verifique o endereço exato de entrega); (4) Considere custos administrativos: seguro, registro SAM.gov (gratuito), tempo de elaboração da proposta; (5) Aplique margem de lucro (sugerido entre 15% e 30% para produtos em licitações federais competitivas); (6) Pesquise preços históricos de contratos similares em USASpending.gov usando NAICS 337910 e palavras-chave 'mattress military'; (7) Verifique se há preço máximo (ceiling price) indicado no edital.\n\nESTRATÉGIA DE SUBMISSÃO: (1) Acesse o SAM.gov HOJE para baixar todos os documentos anexados; (2) Verifique se é necessário fazer perguntas ao contracting officer antes do deadline — geralmente há uma data limite para Q&A anterior ao prazo de proposta; (3) Como não há set-aside, a concorrência será ampla — para ser competitivo, foque em conformidade técnica total, prazo de entrega curto e preço justo; (4) Garanta que seu registro no SAM.gov está ativo e atualizado com NAICS 337910; (5) Prepare a documentação técnica dos colchões antecipadamente (fichas técnicas, certificações de retardamento de chamas); (6) Submeta a proposta com antecedência mínima de 24 horas para evitar problemas técnicos no sistema.\n\nRISCOS: (1) Prazo muito curto (6 dias) — alto risco de não conseguir preparar proposta completa a tempo; (2) Sem valor estimado divulgado — dificulta avaliação de viabilidade financeira; (3) Requisitos técnicos militares podem ser mais rígidos que o padrão comercial; (4) Buy American Act pode exigir produto fabricado nos EUA, eliminando fornecedores que importam; (5) Concorrência sem restrição de porte (sem set-aside) significa competir com grandes fabricantes; (6) Possível exigência de entrega em base militar com acesso controlado — verificar logística.\n\nPRÓXIMOS 3 PASSOS: (1) HOJE — Acesse https://sam.gov/workspace/contract/opp/90a7878836ad4e93a101f65e4022a07c/view, faça login e baixe TODOS os documentos do edital, incluindo Statement of Work, especificações técnicas e formulários de proposta; (2) EM ATÉ 2 DIAS — Verifique se seu SAM.gov está ativo com NAICS 337910, confirme se seus colchões atendem as especificações técnicas (especialmente normas de retardamento de chamas) e calcule o preço com base nas quantidades encontradas; (3) ATÉ 08/06/2026 — Prepare e submeta sua proposta completa pelo SAM.gov com pelo menos 48 horas de antecedência do deadline de 10/06/2026.",
+      "resumo_simples": "O Departamento de Defesa dos EUA (Força Aérea) quer comprar colchões para dormitórios militares na base aérea FA2521 45 CONS PK, provavelmente para acomodação de pessoal militar.",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "Colchões para dormitórios (Dorm Mattresses) destinados a instalações militares da Força Aérea dos EUA, sob o código NAICS 337910 (fabricação de outros móveis e produtos relacionados). Quantidades exatas, especificações de tamanho, densidade, materiais e local de entrega não foram divulgados no resumo do edital — essas informações constam no documento completo disponível no SAM.gov. Trata-se de uma aquisição federal conduzida pela Space Systems Command, provavelmente para dormitórios de uma base da Força Aérea na Flórida.",
+      "prazo_submissao": "Deadline: 10/06/2026 — horário exato deve ser confirmado no SAM.gov (geralmente 12:00 PM ou 2:00 PM Eastern Time). Data de abertura: 04/06/2026. Janela de apenas 6 dias — ação imediata necessária.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com UEI válido e NAICS 337910",
+        "Formulário de proposta oficial do edital (verificar no SAM.gov — pode ser SF-1449 ou similar)",
+        "Especificações técnicas dos colchões oferecidos (fichas técnicas, catálogos do fabricante)",
+        "Certificação de conformidade com normas de retardamento de chamas (CPSC 16 CFR 1633 ou equivalente federal)",
+        "Certificação CertiPUR-US ou similar (se aplicável e exigido)",
+        "Documentação Buy American Act / TAA compliance (se exigido)",
+        "Lista de preços unitários por item",
+        "Prazo de entrega garantido",
+        "Comprovante de seguro GL de $1.000.000",
+        "Informações bancárias cadastradas no SAM.gov para pagamento via EFT",
+        "Qualquer certificação adicional exigida no edital completo (verificar no SAM.gov)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 (General Liability)",
+        "workers_comp": "Verificar no edital completo — pode ser exigido dependendo se há entrega/instalação com mão de obra",
+        "bond": "Não indicado como exigido (N/A) — confirmar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende do seu perfil. Se você é fabricante ou distribuidor de colchões com NAICS 337910 ativo no SAM.gov, pode valer a pena, especialmente porque não há set-aside (qualquer empresa pode participar). Porém, há pontos negativos importantes: o prazo de apenas 6 dias é muito curto, o valor estimado não foi divulgado (impossível saber antecipadamente se compensa), e a concorrência é aberta a grandes fabricantes. O Fit Score de 45/100 indica compatibilidade moderada. Recomendação: acesse o edital HOJE para ver quantidades e especificações — só assim você poderá decidir com segurança se vale o esforço."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) SAM.gov ativo e atualizado com NAICS 337910 — sem isso, você não pode nem submeter proposta; (2) Conformidade com normas federais de retardamento de chamas para colchões — requisito obrigatório em instalações governamentais; (3) Possível exigência de fabricação nos EUA (Buy American Act) — pode eliminar revendedores de produtos importados; (4) Seguro GL de $1.000.000 já contratado; (5) Prazo curtíssimo de 6 dias para preparar proposta técnica e comercial completa; (6) Concorrência sem restrição de porte — você compete diretamente com grandes fabricantes como Sealy, Serta, Simmons que têm contratos federais estabelecidos."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para fornecimento de produtos em contratos federais competitivos sem set-aside, a margem líquida típica fica entre 10% e 25%, dependendo do volume. Para colchões especificamente, fabricantes diretos podem trabalhar com margens maiores (20-30%), enquanto distribuidores/revendedores ficam com margens menores (10-18%) devido ao custo de aquisição. Como o valor total do contrato não foi divulgado, é impossível calcular o retorno absoluto. Se as quantidades forem pequenas (menos de 50 unidades), o esforço de participação pode não compensar para pequenas empresas. Pesquise contratos similares em USASpending.gov para ter referência de preços históricos."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças — ou seja, precisa ser confirmado no documento completo no SAM.gov. Em geral, para venda de colchões ao governo federal, as exigências são: (1) Registro ativo no SAM.gov (obrigatório); (2) NAICS 337910 cadastrado no perfil SAM.gov; (3) Para fabricantes: conformidade com regulamentações da CPSC (Consumer Product Safety Commission) sobre colchões; (4) Licença comercial estadual da Flórida (se aplicável para operação local); (5) Não há indicação de licença profissional específica do setor além das regulamentações federais de segurança de produto. Verifique no edital completo se há exigências adicionais de certificação ou licença."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga esta metodologia: (1) Acesse o edital e identifique as quantidades exatas e especificações técnicas; (2) Calcule seu custo direto por colchão (fabricação ou compra); (3) Adicione custos de embalagem adequada para transporte (colchões exigem proteção especial); (4) Calcule frete até a base militar — use cotações reais de transportadoras; (5) Adicione custos indiretos: seguro, administrativo, SAM.gov compliance (aproximadamente 5-8% sobre custo direto); (6) Aplique margem de lucro desejada (15-25%); (7) Pesquise preços históricos no USASpending.gov e GSA Advantage para colchões militares similares; (8) Seja competitivo mas não venda abaixo do custo — contratos federais com prejuízo geram problemas de performance e penalidades. Lembre-se que o preço será o principal critério de seleção em licitações de produto commodity."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:24:06.313Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-8dfa3e532b6e40c1b9cb4f5ba2b0f8dd",
@@ -1387,7 +1805,54 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/8dfa3e532b6e40c1b9cb4f5ba2b0f8dd/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04 de junho de 2026. Deadline para submissão: 03 de agosto de 2026. O prazo total é de aproximadamente 60 dias a partir da abertura. É fundamental acessar o SAM.gov para confirmar horário exato de encerramento (geralmente 17h EST) e verificar se houve amendments que alteraram o prazo. DOCUMENTOS EXIGIDOS | Não foram detalhados no edital resumido disponível. Com base no padrão NASA/federal para este tipo de contrato, espera-se: proposta técnica, proposta de preços, declaração de capacidades da empresa, certificações SAM.gov ativas, documentação de experiência prévia em projetos similares, formulários federais padrão (SF-1449 ou equivalente), e possivelmente dados ITAR/export control dado o contexto espacial. Verificar no SAM.gov os attachments completos do edital. REQUISITOS TÉCNICOS | NAICS 336419 exige expertise em fabricação de partes e equipamentos auxiliares para veículos espaciais e mísseis guiados. O projeto MSolo é altamente especializado — envolve conhecimento profundo em espectrometria de massa, instrumentação científica para ambiente espacial (vácuo, radiação, temperaturas extremas), e familiaridade com requisitos de missões lunares da NASA. É provável que sejam exigidos: qualificação espacial dos componentes, compliance com padrões NASA (NPR, NAS, MIL-SPEC), e possivelmente experiência com projetos TRL (Technology Readiness Level) específicos. SEGUROS E GARANTIAS | Seguro de Responsabilidade Geral (GL): mínimo $1M conforme indicado. Workers' Compensation: provavelmente exigido conforme padrão federal. Bond: não indicado como obrigatório, mas verificar no edital completo. Seguros adicionais específicos para contratistas NASA podem ser requeridos. COMO CALCULAR O PREÇO | Valor estimado não divulgado — isso é comum em contratos de P&D/pesquisa da NASA. Para precificar: (1) calcule custo de pessoal técnico especializado (engenheiros aeroespaciais, cientistas de instrumentação), (2) inclua custos de materiais e componentes espacialmente qualificados (margem alta), (3) adicione overhead e G&A da empresa, (4) pesquise contratos similares NASA no FPDS.gov para benchmarking, (5) considere que contratos NASA de P&D frequentemente aceitam Cost-Plus ou Fixed-Price dependendo do nível de maturidade tecnológica. Margens em contratos NASA especializados podem variar de 10% a 25%+ dependendo da estrutura. ESTRATÉGIA DE SUBMISSÃO | Este é um contrato de alta especialização técnica sem set-aside (aberto a todos). A estratégia ideal para pequenas empresas: (1) considerar parceria/subcontratação com empresa maior já estabelecida na NASA, (2) verificar se existe uma Request for Information (RFI) anterior ou Sources Sought para entender o nível de competição, (3) destacar experiência específica em espectrometria de massa e instrumentação espacial, (4) explorar se a empresa tem certificação Small Business que possa ser vantajosa mesmo sem set-aside formal, (5) contatar o Contracting Officer identificado no SAM.gov para esclarecer dúvidas técnicas antes da submissão. RISCOS | (1) Alta barreira técnica — pouquíssimas empresas têm capacidade real neste nicho; (2) Sem set-aside, competição com grandes primes da NASA (Lockheed, Northrop, etc.); (3) Valor não divulgado dificulta precificação competitiva; (4) Possíveis requisitos ITAR que limitam equipe e parceiros; (5) Fit Score de 45/100 sugere baixa compatibilidade para empresa pequena generalista; (6) Prazos de execução em projetos NASA tendem a ser longos com fluxo de caixa complexo. PRÓXIMOS 3 PASSOS | PASSO 1: Acesse imediatamente o link SAM.gov (https://sam.gov/workspace/contract/opp/8dfa3e532b6e40c1b9cb4f5ba2b0f8dd/view) e baixe TODOS os documentos do edital para análise técnica completa. PASSO 2: Avalie honestamente se sua empresa possui as capacidades técnicas em espectrometria de massa e instrumentação espacial — se não, identifique parceiros ou primes para subcontratação. PASSO 3: Verifique seu registro ativo no SAM.gov, confirme que seu NAICS 336419 está cadastrado, e decida até 15 de julho de 2026 se submeterá proposta própria, em parceria, ou como subcontratada.",
+      "resumo_simples": "A NASA Kennedy Space Center busca conceitos e modelos de instrumentos de análise de gás baseados em espectrômetro de massa (MSolo) para observar operações na Lua, ou seja, quer contratar empresa especializada para desenvolver ou fornecer equipamentos científicos avançados que analisem gases durante missões lunares.",
+      "categoria_curta": "Equipamento científico espacial",
+      "o_que_comprar": "A NASA Kennedy Space Center solicita propostas para desenvolvimento de conceitos e modelos de instrumentos de análise de gás utilizando tecnologia de espectrômetro de massa (Mass Spectrometer observing lunar operations - MSolo). O escopo envolve: (1) desenvolvimento de conceitos instrumentais para análise de gases em ambiente lunar, (2) criação de modelos funcionais ou de engenharia do instrumento MSolo, (3) possível entrega de protótipos ou modelos de teste, e (4) suporte técnico e científico relacionado à tecnologia de espectrometria de massa aplicada a operações lunares. O NAICS 336419 indica 'Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing', confirmando a natureza altamente especializada e técnica do contrato. Não há quantidades específicas divulgadas nem valor estimado publicado. O contrato é de âmbito federal, vinculado ao programa de exploração lunar da NASA.",
+      "prazo_submissao": "03 de agosto de 2026 — confirmar horário exato (geralmente 17:00 EST) diretamente no SAM.gov, pois amendments podem alterar o prazo",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório)",
+        "Proposta técnica detalhada com abordagem ao MSolo Gas Analysis",
+        "Proposta de preços (formato a confirmar no edital completo)",
+        "Declaração de capacidades técnicas e experiência prévia em espectrometria de massa",
+        "Documentação de projetos similares / past performance",
+        "Formulários federais padrão (verificar no edital — SF-1449 ou solicitation específica)",
+        "Certificações de conformidade com regulamentos ITAR/EAR (provável dado contexto espacial)",
+        "Comprovante de seguro GL mínimo $1M",
+        "Workers Compensation Insurance",
+        "Quaisquer certificações técnicas ou qualificações espaciais exigidas pela NASA"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 (mínimo indicado — confirmar valor exato no edital completo)",
+        "workers_comp": "Provavelmente exigido conforme padrão federal — confirmar no edital",
+        "bond": "Não indicado como obrigatório — verificar no edital completo no SAM.gov"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Para a maioria das pequenas empresas generalistas, NÃO vale a pena sem parceiros estratégicos. O Fit Score de 45/100 já indica baixa compatibilidade geral. Este é um contrato extremamente técnico e nichado — desenvolvido para empresas com expertise específica em espectrometria de massa para aplicações espaciais. Porém, se sua empresa atua neste nicho ou tem acesso a engenheiros especializados, PODE valer muito a pena, pois contratos NASA de P&D costumam ter valores significativos (potencialmente $500K a $10M+) e abrem portas para contratos futuros. A estratégia mais inteligente para uma pequena empresa é buscar uma grande prime contratada NASA e se posicionar como subcontratada especializada."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As barreiras são muito elevadas: (1) Expertise técnica altamente especializada em espectrometria de massa e instrumentação para ambiente espacial lunar; (2) Sem set-aside — concorrência direta com grandes empresas aeroespaciais como Lockheed Martin, Northrop Grumman, Honeybee Robotics, etc.; (3) Possíveis requisitos ITAR que exigem que toda a equipe seja cidadã americana ou green card holders; (4) Necessidade de qualificação espacial dos equipamentos (processos caros e demorados); (5) Experiência prévia em projetos NASA pode ser critério eliminatório; (6) Capital de giro necessário para sustentar projeto de longa duração antes de recebimentos completos."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Contratos NASA de pesquisa e desenvolvimento (P&D) de instrumentação espacial tipicamente trabalham com margens entre 10% e 25% dependendo da estrutura contratual. Se for Cost-Plus (reembolso de custos + fee fixo), a margem é menor mas o risco também — geralmente 8% a 15% de fee. Se for Fixed-Price, a margem pode ser maior (15% a 30%) mas o risco de estouro de custos é da contratada. Dado que o valor não foi divulgado, é difícil estimar em termos absolutos. Contratos similares de instrumentação científica NASA variam de $200K a $5M+. Recomenda-se pesquisar FPDS.gov por contratos anteriores com NAICS 336419 na NASA Kennedy para ter benchmarks reais."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital indica 'Ver edital' para licenças, o que significa que os requisitos específicos estão nos documentos completos do SAM.gov. Para este tipo de contrato, é provável que sejam necessários: (1) Registro ativo e atualizado no SAM.gov (obrigatório para qualquer contrato federal); (2) Compliance com regulamentações ITAR (International Traffic in Arms Regulations) — extremamente provável dado o contexto de tecnologia espacial lunar; (3) Possível necessidade de facility clearance ou security clearance dependendo da classificação do projeto; (4) Licenças estaduais de negócio na Flórida se houver trabalho on-site no Kennedy Space Center; (5) Certificações técnicas específicas exigidas pela NASA para o desenvolvimento do instrumento. Acesse o edital completo para confirmar todos os requisitos de licenciamento."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Como o valor estimado não foi divulgado, siga esta abordagem: (1) Pesquise no FPDS.gov (usaspending.gov) contratos anteriores da NASA Kennedy com NAICS 336419 para obter benchmarks de preços; (2) Busque por 'MSolo' ou 'Mass Spectrometer lunar' em bases de dados de contratos NASA para identificar contratos predecessores; (3) Monte sua estrutura de custos bottom-up: horas de engenharia x taxa horária (engenheiros aeroespaciais em FL: $80-$150/hora) + materiais qualificados espacialmente + overhead + G&A + fee/lucro; (4) Se for Cost-Plus, o governo verificará a razoabilidade dos custos — certifique-se de documentar todas as estimativas; (5) Se for Fixed-Price, adicione contingência de 15-20% para riscos técnicos típicos de P&D; (6) Considere consultar um consultor de pricing de contratos federais antes de submeter — o investimento se paga."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:25:10.560Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-7f0d99f832de4e74af7b6e794d7535b7",
@@ -1443,7 +1908,56 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/7f0d99f832de4e74af7b6e794d7535b7/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura: 04 de junho de 2026. Deadline para submissão: 12 de junho de 2026. Janela de apenas 8 dias corridos entre abertura e fechamento — prazo extremamente curto que exige preparação antecipada. Confirme hora exata (geralmente 17h ET) diretamente no SAM.gov antes de qualquer ação.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão federal VA para NAICS 624221, esperam-se: registro ativo no SAM.gov, DUNS/UEI ativo, proposta técnica descrevendo capacidade de serviços residenciais, proposta de preço (por leito/noite ou valor mensal), evidência de licenciamento estadual FL para serviços sociais/residenciais, apólices de seguro (GL mínimo $1M), lista de referências ou contratos anteriores similares, formulários federais padrão (SF-1449 ou equivalente), e possivelmente System for Award Management (SAM) representations and certifications.\n\nREQUISITOS TÉCNICOS | NAICS 624221 exige experiência comprovada em serviços de abrigo/housing emergencial. O VA tipicamente exige: instalações que atendam padrões habitacionais da Florida, pessoal treinado em trabalho com veteranos ou populações vulneráveis, plano de segurança e supervisão 24/7, conformidade com regulamentações estaduais de housing assistido, possivelmente acreditação de agência (ex: CARF ou Joint Commission para serviços ao veterano). Verifique se há requisitos de distância máxima dos centros VA em Orlando (VAMC Orlando).\n\nSEGUROS E GARANTIAS | General Liability: mínimo $1.000.000 por ocorrência (confirmado nas barreiras). Workers' Compensation: exigido pelo estado da Florida — valores mínimos estaduais aplicáveis. Professional Liability: provável exigência dado o caráter de serviço social. Bond: não confirmado, mas contratos VA frequentemente exigem Performance Bond para valores acima de $150k. Verifique edital completo para valores exatos.\n\nCOMO CALCULAR O PREÇO | Valor estimado não divulgado — sinal de cautela. Modelos de precificação para NAICS 624221 em Orlando: Por leito/noite (bed-night rate): mercado Orlando gira entre $45-$120/noite por pessoa dependendo do nível de serviço. Por vaga mensal: $1.200-$3.500/mês por unidade. Inclua nos custos: aluguel/manutenção das instalações, salários de pessoal (gerente, case workers, segurança), utilidades, seguros, alimentação se aplicável, overhead administrativo (15-20%) e margem de lucro (10-15%). Pesquise contratos similares no USASpending.gov usando NAICS 624221 + VA + Florida para benchmark real.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Acesse imediatamente o SAM.gov para baixar o edital completo e identificar todos os requisitos. 2) Verifique se sua empresa já tem registro ativo no SAM.gov — se não, o processo leva até 10 dias úteis, o que inviabilizaria a participação dado o prazo. 3) Contate o Contracting Officer listado no edital para esclarecer escopo exato antes de submeter. 4) Considere parceria com empresa já estabelecida no VA se não tiver histórico federal. 5) Destaque experiência prévia com veteranos ou populações vulneráveis na proposta técnica. 6) Competição aberta (open competition) — sem set-aside para small business confirmado, mas verifique se há preferência.\n\nRISCOS | Fit Score baixo (38/100) sugere baixo alinhamento atual. Prazo muito curto (8 dias) para preparar proposta federal completa. Valor não divulgado dificulta análise de viabilidade financeira. Requisitos de licenciamento FL para serviços sociais podem ser barreiras significativas. Concorrência de organizações sem fins lucrativos (nonprofits) que podem ter vantagens em contratos VA de serviços sociais. Possibilidade de renovações de contrato existente (incumbent advantage). Conformidade com regulamentações VA extremamente rigorosa.\n\nPRÓXIMOS 3 PASSOS | 1) HOJE: Acesse https://sam.gov/workspace/contract/opp/7f0d99f832de4e74af7b6e794d7535b7/view e baixe TODOS os documentos do edital para análise completa de requisitos, valor e especificações. 2) EM 24-48H: Verifique se sua empresa tem SAM.gov ativo e licença FL adequada para NAICS 624221; se não tiver, avalie viabilidade de obter antes do deadline de 12/06/2026. 3) EM 72H: Decida go/no-go baseado no edital completo — se for participar, inicie imediatamente a proposta técnica e levantamento de preços, pois o prazo é crítico.",
+      "resumo_simples": "O Departamento de Assuntos de Veteranos dos EUA quer contratar uma empresa para prestar serviços residenciais de emergência para veteranos na região de Orlando, FL — como apoio habitacional temporário, abrigo emergencial ou serviços de moradia assistida.",
+      "categoria_curta": "Serviços sociais residenciais",
+      "o_que_comprar": "Serviços residenciais de emergência (Emergency Residential Services) para veteranos na área de Orlando, FL, sob o NAICS 624221 (Alojamento temporário de emergência). Este código NAICS cobre serviços como abrigos de emergência, housing transitório, suporte residencial emergencial e serviços de apoio à moradia para populações vulneráveis. O contratante provavelmente precisará fornecer vagas de acomodação temporária, supervisão residencial, acompanhamento de caso e suporte de serviços sociais para veteranos em situação de crise habitacional. Quantidades específicas, número de leitos/vagas e especificações técnicas completas não foram divulgadas no resumo do edital — devem ser consultadas diretamente no SAM.gov. O contrato é gerenciado pelo Network Contract Office 8 (36C248) do VA.",
+      "prazo_submissao": "12 de junho de 2026 — hora exata não confirmada, verificar no SAM.gov (geralmente 17:00 ET). Abertura: 04 de junho de 2026. Janela de apenas 8 dias.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com UEI/DUNS válido",
+        "Proposta técnica descrevendo capacidade de serviços residenciais emergenciais",
+        "Proposta de preço (unitária e total)",
+        "Apólice de seguro General Liability mínimo $1.000.000",
+        "Apólice de Workers' Compensation (exigência FL)",
+        "Licença estadual FL para serviços sociais/residenciais (NAICS 624221)",
+        "Referências de contratos anteriores similares (mínimo 3 recomendado)",
+        "Formulários federais padrão (verificar no edital — SF-1449 ou equivalente VA)",
+        "Representations and Certifications (via SAM.gov)",
+        "Plano operacional de serviços residenciais de emergência",
+        "Evidência de conformidade com padrões habitacionais FL",
+        "Possivelmente: Performance Bond (verificar no edital completo)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmado) — verificar se exige $2M agregado",
+        "workers_comp": "Exigido — valores mínimos FL: $100.000 por acidente / $100.000 por doença por funcionário / $500.000 apólice. Confirmar no edital.",
+        "bond": "Não confirmado — verificar no edital completo. Contratos VA acima de $150k frequentemente exigem Performance Bond de 100% do valor contratual."
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 38/100, a avaliação atual é WATCH (observar), não recomendar participação imediata. Vale a pena SOMENTE SE: sua empresa já opera serviços residenciais/sociais em Orlando, tem SAM.gov ativo, possui licença FL para NAICS 624221, e tem experiência comprovada com veteranos ou populações vulneráveis. O prazo de 8 dias é o maior obstáculo. Se você já tem toda documentação pronta e experiência no setor, pode valer o esforço — contratos VA costumam ser plurianuais e de alto valor recorrente. Se precisar correr para obter licenças, seguros ou registro SAM, provavelmente não é viável para este ciclo."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) PRAZO: Apenas 8 dias entre abertura e deadline é extremamente restrito para montar proposta federal completa. 2) LICENCIAMENTO: FL exige licença específica do AHCA ou DCF para operar serviços residenciais assistidos — processo que pode levar meses se não tiver. 3) EXPERIÊNCIA VA: O VA prefere fortemente fornecedores com histórico em serviços ao veterano. 4) CONCORRÊNCIA DE NONPROFITS: Organizações sem fins lucrativos (como Volunteers of America, Catholic Charities) dominam este segmento e têm vantagens competitivas em preço e relacionamento institucional. 5) SEGURO: GL de $1M é barreira de custo para micro-empresas. 6) CONFORMIDADE: Padrões federais VA para serviços sociais são rigorosos e auditados."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para NAICS 624221 em contratos federais VA, margens típicas ficam entre 8-15% sobre custos totais. Serviços residenciais têm estrutura de custo pesada (pessoal, instalações), então margens líquidas reais ficam em 5-12%. Empresas com instalações próprias tendem a ter margens melhores. Sem conhecer o valor total do contrato (não divulgado), é impossível calcular o retorno absoluto. Pesquise no USASpending.gov por contratos VA NAICS 624221 em Florida para ver valores históricos de contratos similares — isso dará base real para sua análise de viabilidade."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim, muito provavelmente. NAICS 624221 (Temporary Shelters) em Florida requer: 1) Licença da AHCA (Agency for Health Care Administration) se oferecer cuidados de saúde junto ao housing. 2) Licença do DCF (Department of Children and Families) para programas de assistência residencial. 3) Possível certificação específica para atendimento a veteranos (ex: HUD-VASH compliance). 4) Alvará de funcionamento municipal em Orlando. O edital completo no SAM.gov deve listar os requisitos exatos de licenciamento — esta é uma das primeiras coisas a verificar antes de decidir participar."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Sem o valor estimado divulgado, use esta metodologia: 1) Pesquise no USASpending.gov: busque NAICS 624221 + 'Veterans Affairs' + 'Florida' para ver valores de contratos anteriores similares. 2) Calcule seus custos reais: aluguel/manutenção de instalações + pessoal (gerente, case workers, segurança, limpeza) + utilidades + alimentação se incluída + seguros + overhead (15-20%). 3) Adicione margem de lucro de 10-12% sobre custo total. 4) Estruture a proposta por unidade de medida padrão VA: geralmente bed/night (por leito por noite) ou monthly rate (taxa mensal por vaga). 5) Compare com referências de mercado Orlando: $60-$100/leito/noite para serviços básicos com supervisão é faixa típica. 6) Não precifique abaixo do custo para 'ganhar' — VA pode questionar propostas anormalmente baixas (price realism analysis)."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:26:17.703Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-79246aaef44e462ca27071ab7fc5dadb",
@@ -1499,7 +2013,56 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/79246aaef44e462ca27071ab7fc5dadb/view",
-      "ai_analysis_error": "Request failed with status code 429"
+      "ai_analysis_error": "Request failed with status code 429",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura das propostas: 04/06/2026. Deadline para submissão: 08/06/2026. Atenção: há apenas 4 dias entre a abertura e o prazo final, o que é um período muito curto. Confirme horário exato (normalmente 14h ou 16h EST) diretamente no SAM.gov antes de qualquer ação. É fundamental acessar o edital completo imediatamente para verificar se há pré-qualificação, site visit obrigatória ou perguntas ao contrante com prazo anterior. | DOCUMENTOS EXIGIDOS | Com base no tipo de contrato federal VA com NAICS 236220 e set-aside SDVOSB, os documentos tipicamente exigidos incluem: registro ativo no SAM.gov, certificação SDVOSB válida no VA CVE (Veteran Small Business Certification - VetCert), proposta técnica, proposta de preço (bid), referências de projetos similares, apólices de seguro conforme especificado, licença de contratante válida na Flórida, e possivelmente bond de performance e payment. Verifique o edital completo para lista definitiva. | REQUISITOS TÉCNICOS | NAICS 236220 indica construção de edifícios comerciais e institucionais. Para sinalização e wayfinding externo em instalação VA, espere requisitos como: experiência comprovada em projetos similares em ambientes hospitalares ou governamentais, conformidade com normas ADA (Americans with Disabilities Act) para sinalização, possível necessidade de seguir padrões visuais do VA Design Guide, capacidade de obter badging/acesso à instalação federal para a equipe, e cumprimento de normas de segurança em ambiente hospitalar ativo. | SEGUROS E GARANTIAS | Seguro de Responsabilidade Geral (GL): mínimo $1.000.000 por ocorrência confirmado nas barreiras. Workers' Compensation: exigido conforme lei da Flórida. Professional Liability: pode ser exigido dependendo do escopo de design. Performance Bond e Payment Bond: verifique no edital - para contratos federais de construção acima de $150.000, bonds são exigidos por lei (Miller Act). Confirme todos os valores exatos no documento completo. | COMO CALCULAR O PREÇO | 1) Acesse o edital completo no SAM.gov para obter plantas, especificações e scope of work detalhado. 2) Calcule materiais: placas, suportes, elementos gráficos, iluminação se aplicável. 3) Calcule mão de obra: horas de instalação, remoção de sinalização existente, acabamento. 4) Adicione custos de licença, inspeções e badging. 5) Inclua overhead (15-20%) e margem de lucro (10-15% típico para contratos federais de construção de médio porte). 6) Adicione custos de seguros e bonds. 7) Pesquise contratos similares no USASpending.gov para benchmarking de preço. O valor estimado não foi divulgado, o que dificulta o planejamento - isso é um sinal de alerta. | ESTRATÉGIA DE SUBMISSÃO | 1) Acesse HOJE o SAM.gov para baixar todos os documentos do edital. 2) Verifique se há site visit obrigatória - em contratos VA de construção, visitas ao local são comuns e podem ter datas muito próximas. 3) Confirme sua certificação SDVOSB ativa no VetCert - sem isso, você está automaticamente desqualificado pois é um set-aside exclusivo para SDVOSB. 4) Se não for SDVOSB certificado, considere parceria como subcontratado de uma empresa SDVOSB certificada. 5) Prepare proposta técnica demonstrando experiência em projetos similares em instalações federais ou hospitalares. 6) Submeta via SAM.gov ou conforme instrução do edital antes do deadline. | RISCOS | ALTO RISCO - Set-aside exclusivo SDVOSB: se sua empresa não possui esta certificação ativa, não pode submeter proposta como prime contractor. Prazo muito curto (4 dias): pode indicar que o edital já foi trabalhado com um contratante preferido. Valor não divulgado: dificulta análise de viabilidade financeira. Ambiente federal VA: burocracia alta, possibilidade de delays e modificações de escopo. Acesso à instalação: toda equipe precisa de badging federal, processo que pode ser demorado. Licença de contratante: verifique se sua licença FL cobre NAICS 236220. | PRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://sam.gov/workspace/contract/opp/79246aaef44e462ca27071ab7fc5dadb/view e baixe todos os documentos. Verifique se há site visit agendada e confirme o horário exato do deadline. PASSO 2 (AMANHÃ): Confirme se sua empresa possui certificação SDVOSB ativa no VetCert (veterancertification.va.gov). Se não tiver, avalie parceria com empresa SDVOSB certificada como subcontratado. Verifique sua licença de contratante na Flórida. PASSO 3 (PRÓXIMOS 2 DIAS): Analise o scope completo, faça visita ao local se permitido, calcule custos detalhados e prepare proposta técnica e de preço para submissão antes de 08/06/2026.",
+      "resumo_simples": "Contratação de empresa para instalar e modernizar sinalização externa (placas, letreiros e sistemas de orientação de rotas) em um hospital ou instalação da Administração de Veteranos (VA) na Flórida, incluindo atualização visual do exterior do prédio para ajudar pacientes e visitantes a se localizarem melhor.",
+      "categoria_curta": "Sinalização e wayfinding",
+      "o_que_comprar": "O governo federal (Departamento de Assuntos de Veteranos - VA) está contratando serviços de atualização e instalação de sinalização externa (exterior signage) e sistema de orientação de rotas (wayfinding) para uma instalação da VA, identificada como projeto 548-23-112, sob o código BB Upgrade. Isso inclui tipicamente: fabricação e instalação de novas placas externas, letreiros direcionais, sinalização de identificação de edifícios, mapas e totens de orientação no exterior da instalação, além de possível remoção de sinalização antiga. O escopo segue o NAICS 236220 (Commercial and Institutional Building Construction), indicando que há componente de construção/instalação física. A localização exata não foi divulgada no resumo, mas trata-se de uma instalação da VA na região coberta pelo Network Contract Office 8, que abrange a Flórida. Valor estimado não foi divulgado no edital.",
+      "prazo_submissao": "08/06/2026 - Horário exato não confirmado. Acesse o edital no SAM.gov imediatamente para verificar o horário limite (normalmente 14h00 ou 16h00 Eastern Time). Atenção: janela de apenas 4 dias após abertura em 04/06/2026.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (UEI ativo e sem exclusões)",
+        "Certificação SDVOSB válida no VetCert (VA Veteran Small Business Certification) - OBRIGATÓRIO",
+        "Licença de contratante válida no estado da Flórida (verificar categoria adequada para NAICS 236220)",
+        "Proposta técnica com escopo de trabalho detalhado",
+        "Proposta de preço (bid form conforme especificado no edital)",
+        "Apólice de seguro GL com mínimo $1.000.000 por ocorrência",
+        "Certificado de Workers' Compensation conforme exigências da Flórida",
+        "Performance Bond e Payment Bond (verificar se exigido - Miller Act aplica acima de $150.000)",
+        "Referências de projetos similares concluídos (tipicamente 3 referências)",
+        "Formulários federais padrão (SF-1442 ou equivalente conforme edital)",
+        "Lista de subcontratados se aplicável",
+        "Plano de segurança (Safety Plan) para trabalho em instalação federal ativa"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência (confirmado nas barreiras do edital - verificar aggregate no documento completo)",
+        "workers_comp": "Exigido conforme legislação da Flórida - valor estatutário. Confirme limites exatos no edital completo.",
+        "bond": "Verificar no edital completo. Para contratos federais de construção acima de $150.000, Performance Bond e Payment Bond são exigidos pelo Miller Act (40 U.S.C. §§ 3131-3134). Valor tipicamente 100% do valor do contrato."
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 45/100 e veredito 'watch', a viabilidade é MODERADA-BAIXA para a maioria das pequenas empresas. Vale a pena APENAS SE sua empresa: (1) possui certificação SDVOSB ativa e válida - este é requisito eliminatório absoluto; (2) tem experiência comprovada em sinalização/wayfinding em ambientes federais ou hospitalares; (3) possui licença de contratante adequada na Flórida; (4) tem capacidade financeira para suportar bonds e seguros. O prazo curto de 4 dias entre abertura e deadline é um sinal de alerta que pode indicar edital direcionado. Recomendação: acesse o edital completo hoje e decida nas próximas horas se continua ou desiste."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "BARREIRA #1 (ELIMINATÓRIA): Certificação SDVOSB ativa no VetCert do VA. Sem isso, você não pode submeter proposta como prime contractor. BARREIRA #2: Experiência em projetos similares em instalações federais - a VA exige comprovação. BARREIRA #3: Licença de contratante na Flórida adequada para o escopo (NAICS 236220 - construção comercial/institucional). BARREIRA #4: Capacidade financeira para bonds (possivelmente 100% do valor do contrato) e seguros. BARREIRA #5: Acesso à instalação - toda equipe precisa de badging federal, exigindo cidadania ou status legal comprovado. BARREIRA #6: Prazo curtíssimo de 4 dias para preparar proposta completa."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos federais de construção/instalação como este (NAICS 236220), a margem típica varia entre 8% e 15% sobre os custos totais. Para sinalização e wayfinding especificamente, margens podem ser um pouco maiores (12-18%) devido ao componente especializado e menor competição. Entretanto, como o valor estimado não foi divulgado, é impossível calcular o retorno absoluto. Contratos VA de médio porte nesta categoria costumam variar entre $150.000 e $500.000. Custos administrativos extras para compliance federal (badging, relatórios, modificações) podem reduzir a margem real em 2-4%. Recomenda-se incluir contingência de 10% no preço devido às incertezas do escopo."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim. O edital indica 'Ver edital' para licença, o que significa que o documento completo especifica os requisitos. Para NAICS 236220 na Flórida, tipicamente é necessária: (1) Licença de Certified General Contractor (CGC) ou Certified Building Contractor emitida pela Florida DBPR, OR (2) Licença de Certified Specialty Contractor se o escopo for restrito à instalação de sinalização. Adicionalmente, para trabalho em instalações federais VA, pode ser exigido registro no sistema federal de contratantes. Acesse o edital completo para confirmar os requisitos exatos de licenciamento antes de submeter proposta."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "PASSO 1: Baixe o scope of work completo, plantas e especificações no SAM.gov. PASSO 2: Realize ou solicite visita ao local para medir e entender o escopo real. PASSO 3: Solicite cotações de pelo menos 3 fornecedores de sinalização para materiais. PASSO 4: Calcule mão de obra (horas x taxa horária incluindo benefícios e encargos). PASSO 5: Some overhead (15-20% sobre custos diretos). PASSO 6: Adicione custo de bonds (tipicamente 1-3% do valor do contrato), seguros, licenças e taxas. PASSO 7: Aplique margem de lucro (10-15%). PASSO 8: Pesquise contratos similares no USASpending.gov buscando 'VA signage wayfinding Florida' para benchmarking. DICA: Evite ser o mais barato - contratos VA valorizam qualidade e experiência. Seja competitivo mas não irreal."
+        }
+      ],
+      "questions": [],
+      "ai_analyzed_at": "2026-06-09T13:27:27.434Z",
+      "ai_model": "claude-sonnet-4-6"
     },
     {
       "id": "sam-6cb7314fe062430383a326fcba918abf",
