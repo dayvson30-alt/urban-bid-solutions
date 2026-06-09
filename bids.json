@@ -9,114 +9,479 @@
   },
   "bids": [
     {
-      "id": "sam-f885385f82b748488440ad37903c3e89",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
+      "id": "polk-bid-26-030",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
       "estado": "FL",
-      "bidNum": "SAM-f885385f82",
+      "bidNum": "Bid 26-030",
       "bidType": "BID",
-      "title": "6515--WPB Ceiling Lifts Replacements (VA-26-00046129)",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "N/A",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 339113. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339113. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "David.Henry3@va.gov",
-        "email": "David.Henry3@va.gov",
-        "phone": ""
-      },
+      "title": "NERUSA AWS Receiving Facility UFA Supply Well",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
       "documents": [
         {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/f885385f82b748488440ad37903c3e89/view"
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/10/Bid-26-030-Recommendation-of-Award.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/10/Bid-26-030-Notice-of-Invitation-for-Bid.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/10/Bid-26-030-Submittals-Received.pdf"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/f885385f82b748488440ad37903c3e89/view"
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-030/",
+      "veredito": "go",
+      "fit_score": 85,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
     },
     {
-      "id": "sam-f6fc3e9b083541bdaa89570318f4648c",
-      "source": "SAM.gov Federal",
-      "orgao": "NASA KENNEDY SPACE CENTER",
-      "condado": "KENNEDY SPACE CENTER",
+      "id": "polk-cs-20-1111",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
       "estado": "FL",
-      "bidNum": "SAM-f6fc3e9b08",
-      "bidType": "BID",
-      "title": "Spacecraft Processing and Operations Contract (SPOC) On-Ramp",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "2026-06-17",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 336419. Agencia: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA KENNEDY SPACE CENTER.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 336419. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "allyson.grooms@nasa.gov",
-        "email": "allyson.grooms@nasa.gov",
-        "phone": ""
-      },
+      "bidNum": "CS 20-1111",
+      "bidType": "CS",
+      "title": "Janitorial Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
       "documents": [
         {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/f6fc3e9b083541bdaa89570318f4648c/view"
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/cs-20-1111-addendum-1.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/cs-20-1111-addendum-2.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-20-1111-Approved-Vendor-List.pdf"
         }
       ],
-      "link": "https://sam.gov/workspace/contract/opp/f6fc3e9b083541bdaa89570318f4648c/view"
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
+    },
+    {
+      "id": "polk-cs-21-380",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 21-380",
+      "bidType": "CS",
+      "title": "Various Medical Related Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
+      "documents": [
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/cs-21-380-addendum-1.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-21-380-Approved-Vendor-List-1.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/bid-21-380-bid-package.pdf"
+        }
+      ],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
+    },
+    {
+      "id": "polk-cs-25-303",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-303",
+      "bidType": "CS",
+      "title": "Plumbing Equipment, Fixtures, and Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
+      "documents": [
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/04/CS-25-303-Approved-Vendors-List-12.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/04/CS-25-303-Plumbing-Equipment-Fixtures-and-Supplies.pdf"
+        }
+      ],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
+    },
+    {
+      "id": "polk-cs-25-475",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-475",
+      "bidType": "CS",
+      "title": "Sherwin Williams Paint and Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
+      "documents": [
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/05/CS-25-475-Approved-Vendors-List.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/05/CS-25-475-Sherwin-Williams-Paint-and-Supplies.pdf"
+        }
+      ],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
+    },
+    {
+      "id": "polk-cs-25-456",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-456",
+      "bidType": "CS",
+      "title": "Chemicals & Herbicides for Aquatic Weeds and Environmental Lands",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
+      "documents": [
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/06/CS-25-456-Approved-Vendors-List-1.pdf"
+        },
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2025/06/CS-25-456-Chemicals-and-Herbicides.pdf"
+        }
+      ],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
+    },
+    {
+      "id": "MFMP-16080",
+      "source": "MFMP",
+      "orgao": "Department of Juvenile Justice (DJJ)",
+      "condado": "State FL",
+      "estado": "FL",
+      "bidNum": "AD-16080",
+      "bidType": "Agency Decision",
+      "bidTypeId": "1",
+      "agency_ref": "Department of Juvenile Justice",
+      "title": "DJJ ITB Clothing and Hygiene Products 25/26 005",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "2026-05-26",
+      "deadline": "2026-06-12",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/AD-16080",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "2026-06-12",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "is_award_notice": true,
+      "fetchedAt": "2026-06-09"
+    },
+    {
+      "id": "polk-bid-24-610",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 24-610",
+      "bidType": "BID",
+      "title": "Janitorial Services – Group A, B & C",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "",
+      "deadline": "Ver edital (PDF)",
+      "pdf_url": "",
+      "documents": [
+        {
+          "name": "View File",
+          "url": "https://www.polkfl.gov/wp-content/uploads/2026/04/Bid-24-610-Recommendation-of-Award-Group-C-4-24-26.pdf"
+        }
+      ],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "Ver edital (PDF)",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": ""
+    },
+    {
+      "id": "MFMP-15466",
+      "source": "MFMP",
+      "orgao": "Department of Children and Families (DCF)",
+      "condado": "State FL",
+      "estado": "FL",
+      "bidNum": "ITB-15466",
+      "bidType": "Invitation to Bid",
+      "bidTypeId": "4",
+      "agency_ref": "DCF ITB 2425 076",
+      "title": "Cleaning Services Roberts Building",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "2026-03-25",
+      "deadline": "2026-07-07",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-15466",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "2026-07-07",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "is_award_notice": false,
+      "fetchedAt": "2026-06-09"
+    },
+    {
+      "id": "MFMP-15809",
+      "source": "MFMP",
+      "orgao": "Department of Children and Families (DCF)",
+      "condado": "State FL",
+      "estado": "FL",
+      "bidNum": "ITB-15809",
+      "bidType": "Invitation to Bid",
+      "bidTypeId": "4",
+      "agency_ref": "DCF ITB 2526 078",
+      "title": "Janitorial Services for Tampa Service Center",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "2026-04-30",
+      "deadline": "2026-07-15",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-15809",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "2026-07-15",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "is_award_notice": false,
+      "fetchedAt": "2026-06-09"
+    },
+    {
+      "id": "MFMP-16091",
+      "source": "MFMP",
+      "orgao": "Department of Juvenile Justice (DJJ)",
+      "condado": "State FL",
+      "estado": "FL",
+      "bidNum": "ITB-16091",
+      "bidType": "Invitation to Bid",
+      "bidTypeId": "4",
+      "agency_ref": "Department of Juvenile Justice",
+      "title": "DJJ ITB 25/26 006 Janitorial Services - Collier County",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "2026-05-27",
+      "deadline": "2026-06-26",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-16091",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "2026-06-26",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "is_award_notice": false,
+      "fetchedAt": "2026-06-09"
+    },
+    {
+      "id": "MFMP-16153",
+      "source": "MFMP",
+      "orgao": "Florida Department of Transportation (FDOT)",
+      "condado": "State FL",
+      "estado": "FL",
+      "bidNum": "ITB-16153",
+      "bidType": "Invitation to Bid",
+      "bidTypeId": "4",
+      "agency_ref": "DOT-ITB-26-9085-CA",
+      "title": "Janitorial Services for State Materials Office in Gainesville, Florida",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "2026-06-02",
+      "deadline": "2026-06-22",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-16153",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "2026-06-22",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "is_award_notice": false,
+      "fetchedAt": "2026-06-09"
     },
     {
       "id": "sam-f6a96fb4efc346a89b5fb0af280749c3",
@@ -229,61 +594,6 @@
       "link": "https://sam.gov/workspace/contract/opp/e8476a6568464cf19ce549e59df13dd9/view"
     },
     {
-      "id": "sam-e5b18ca9f709422b9e1ef59bfa5cf485",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-e5b18ca9f7",
-      "bidType": "BID",
-      "title": "J041--Replacement of Condenser Water Pump Skid â€“ Chiller Plant",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "2026-06-19",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 811310. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 811310. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "William.Penhallegon@va.gov",
-        "email": "William.Penhallegon@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/e5b18ca9f709422b9e1ef59bfa5cf485/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/e5b18ca9f709422b9e1ef59bfa5cf485/view"
-    },
-    {
       "id": "sam-e0a9e7372c264375b140eee3a72ed495",
       "source": "SAM.gov Federal",
       "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
@@ -337,61 +647,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/e0a9e7372c264375b140eee3a72ed495/view"
-    },
-    {
-      "id": "sam-b9778eab0ba640e38cbfd091aa4e4640",
-      "source": "SAM.gov Federal",
-      "orgao": "NAVSUP FLT LOG CTR JACKSONVILLE",
-      "condado": "JACKSONVILLE",
-      "estado": "FL",
-      "bidNum": "SAM-b9778eab0b",
-      "bidType": "BID",
-      "title": "Pipe Bending Machine Parts",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "N/A",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: . Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC JACKSONVILLE.NAVSUP FLT LOG CTR JACKSONVILLE.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS . Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "laura.a.martinez10.civ@us.navy.mil",
-        "email": "laura.a.martinez10.civ@us.navy.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/b9778eab0ba640e38cbfd091aa4e4640/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/b9778eab0ba640e38cbfd091aa4e4640/view"
     },
     {
       "id": "sam-ae9021bad78f42d19dcccf1dda5e45b1",
@@ -614,61 +869,6 @@
       "link": "https://sam.gov/workspace/contract/opp/7d133bce767148a395900676cdc85794/view"
     },
     {
-      "id": "sam-73184cb23c024b61a4b42e7baef20977",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-73184cb23c",
-      "bidType": "BID",
-      "title": "6515--GNV Pulmonary Respiratory Gas Analyzer",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "2026-06-11",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 334510. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 334510. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Jeremy.Parrish@va.gov",
-        "email": "Jeremy.Parrish@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/73184cb23c024b61a4b42e7baef20977/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/73184cb23c024b61a4b42e7baef20977/view"
-    },
-    {
       "id": "sam-6fb30f21402f41bd8e7336c4c6b89f52",
       "source": "SAM.gov Federal",
       "orgao": "FA4814 6 CONS PK",
@@ -889,61 +1089,6 @@
       "link": "https://sam.gov/workspace/contract/opp/48a71052a95c4d3a8916e090e2de44c7/view"
     },
     {
-      "id": "sam-37b9c4e077ad4fca86ddce2818a22e03",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-37b9c4e077",
-      "bidType": "BID",
-      "title": "Q524--On-site Cardiothoracic Physician Services | San Juan    Extend RFP Close Date and Time",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "2026-06-26",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 621111. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 621111. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Jayne.Messer@va.gov",
-        "email": "Jayne.Messer@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/37b9c4e077ad4fca86ddce2818a22e03/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/37b9c4e077ad4fca86ddce2818a22e03/view"
-    },
-    {
       "id": "sam-2e16209b26024460acabd6a9be8de389",
       "source": "SAM.gov Federal",
       "orgao": "W6QK ACC-ORLANDO",
@@ -997,61 +1142,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/2e16209b26024460acabd6a9be8de389/view"
-    },
-    {
-      "id": "sam-23e041307fd24b819904792fd090f57f",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-23e041307f",
-      "bidType": "BID",
-      "title": "6515--GNV IMAGING INSUFFLATORS    36C24826Q0763",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-09",
-      "deadline": "2026-06-17",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Jeremy.Parrish@va.gov",
-        "email": "Jeremy.Parrish@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/23e041307fd24b819904792fd090f57f/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/23e041307fd24b819904792fd090f57f/view"
     },
     {
       "id": "sam-087ba936979940c3b29f0b14be6a61db",
@@ -1219,116 +1309,6 @@
       "link": "https://sam.gov/workspace/contract/opp/f57a9edc13ba48108455e18ab3d1a5a7/view"
     },
     {
-      "id": "sam-f002ffbb468447729192872b80cac16d",
-      "source": "SAM.gov Federal",
-      "orgao": "NAVAL SURFACE WARFARE CENTER",
-      "condado": "PANAMA CITY BEACH",
-      "estado": "FL",
-      "bidNum": "SAM-f002ffbb46",
-      "bidType": "BID",
-      "title": "Littoral and Expeditionary Maneuver (EXMAN) Program Support",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-22",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 541330. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541330. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "julia.m.phillips8.civ@us.navy.mil",
-        "email": "julia.m.phillips8.civ@us.navy.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/f002ffbb468447729192872b80cac16d/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/f002ffbb468447729192872b80cac16d/view"
-    },
-    {
-      "id": "sam-efcc14dd3ba4487480d5b92ac255daac",
-      "source": "SAM.gov Federal",
-      "orgao": "NAVFACSYSCOM SOUTHEAST",
-      "condado": "NAS JACKSONVILLE",
-      "estado": "FL",
-      "bidNum": "SAM-efcc14dd3b",
-      "bidType": "BID",
-      "title": "P683 Aircraft Engine Repair Facility, NAS Jacksonville, FL",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-16",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 236220. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC SOUTHEAST.NAVFACSYSCOM SOUTHEAST.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 236220. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "cynthia.a.mcmonigle.civ@us.navy.mil",
-        "email": "cynthia.a.mcmonigle.civ@us.navy.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/efcc14dd3ba4487480d5b92ac255daac/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/efcc14dd3ba4487480d5b92ac255daac/view"
-    },
-    {
       "id": "sam-e73e49e7d3ee4154a3496ea2e9cc9d12",
       "source": "SAM.gov Federal",
       "orgao": "NAVSUP FLT LOG CTR JACKSONVILLE",
@@ -1382,116 +1362,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/e73e49e7d3ee4154a3496ea2e9cc9d12/view"
-    },
-    {
-      "id": "sam-d03883dc0256411f89e7bb063d1e4650",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-d03883dc02",
-      "bidType": "BID",
-      "title": "6515--GNV ANSTE TEE Probe    36C24826Q0734",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-15",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Jeremy.Parrish@va.gov",
-        "email": "Jeremy.Parrish@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/d03883dc0256411f89e7bb063d1e4650/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/d03883dc0256411f89e7bb063d1e4650/view"
-    },
-    {
-      "id": "sam-b6c297f65697498f9a5b295cc8e849ce",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-b6c297f656",
-      "bidType": "BID",
-      "title": "J056--LCHCC Exterior Glass Panel Replacement",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-29",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 238150. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 238150. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Michael.Shook@va.gov",
-        "email": "Michael.Shook@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/b6c297f65697498f9a5b295cc8e849ce/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/b6c297f65697498f9a5b295cc8e849ce/view"
     },
     {
       "id": "sam-8c51e04af6234441972b3058a15c6a27",
@@ -1879,171 +1749,6 @@
       "link": "https://sam.gov/workspace/contract/opp/631dc0d4eee348faa192f4dff05ada7d/view"
     },
     {
-      "id": "sam-615bdeda6440400586c5d09efba010ff",
-      "source": "SAM.gov Federal",
-      "orgao": "NAVAL SURFACE WARFARE CENTER",
-      "condado": "PANAMA CITY BEACH",
-      "estado": "FL",
-      "bidNum": "SAM-615bdeda64",
-      "bidType": "BID",
-      "title": "Diving, Biomedical, Information Technology (IT), Logistics and Program Management Support for the Navy Experimental Diving Unit (NEDU). ",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-23",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 541330. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541330. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "nitaya.prater.civ@us.navy.mil",
-        "email": "nitaya.prater.civ@us.navy.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/615bdeda6440400586c5d09efba010ff/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/615bdeda6440400586c5d09efba010ff/view"
-    },
-    {
-      "id": "sam-5469fb2f248648a48587d775401cf407",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-5469fb2f24",
-      "bidType": "BID",
-      "title": "X1DB--FY27: Largo Business Office Replacement Lease",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-12",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 531120. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 531120. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Brittany.Rodriguez7@va.gov",
-        "email": "Brittany.Rodriguez7@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/5469fb2f248648a48587d775401cf407/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/5469fb2f248648a48587d775401cf407/view"
-    },
-    {
-      "id": "sam-46d0394e52054ae69e541d7d5a0a0e55",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-46d0394e52",
-      "bidType": "BID",
-      "title": "6515--Strong T-Bar Retractor System",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "N/A",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "wilfredo.perez3@va.gov",
-        "email": "wilfredo.perez3@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/46d0394e52054ae69e541d7d5a0a0e55/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/46d0394e52054ae69e541d7d5a0a0e55/view"
-    },
-    {
       "id": "sam-3f71abe455cb4067a523f19be166259e",
       "source": "SAM.gov Federal",
       "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
@@ -2152,116 +1857,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/2f000b6e241f4fbdba43de0102e1b285/view"
-    },
-    {
-      "id": "sam-260a426354ae4457a7db13f5e0ced01c",
-      "source": "SAM.gov Federal",
-      "orgao": "NAWC TRAINING SYSTEMS DIV",
-      "condado": "ORLANDO",
-      "estado": "FL",
-      "bidNum": "SAM-260a426354",
-      "bidType": "BID",
-      "title": "N6134025R0062 SOURCES SOUGHT: Aviation Distributed Virtual Training Environment (ADVTE) III",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2025-07-29",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 541512. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC TSD.NAWC TRAINING SYSTEMS DIV.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541512. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "jarod.r.astwood.civ@us.navy.mil",
-        "email": "jarod.r.astwood.civ@us.navy.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/260a426354ae4457a7db13f5e0ced01c/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/260a426354ae4457a7db13f5e0ced01c/view"
-    },
-    {
-      "id": "sam-1afcdce1c68d4c6186481c851e8d5b62",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-1afcdce1c6",
-      "bidType": "BID",
-      "title": "Z1AA--LCHCC Roof Cleaning Annual Contract",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-08",
-      "deadline": "2026-06-12",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 238160. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 238160. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Angel.Garay@va.gov",
-        "email": "Angel.Garay@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/1afcdce1c68d4c6186481c851e8d5b62/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/1afcdce1c68d4c6186481c851e8d5b62/view"
     },
     {
       "id": "sam-12d75f7321c64c12adab38fd078f45b7",
@@ -2429,299 +2024,885 @@
       "link": "https://sam.gov/workspace/contract/opp/b99c91962aa14db39592216d62d77c35/view"
     },
     {
-      "id": "polk-cs-20-1111",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
+      "id": "sam-f885385f82b748488440ad37903c3e89",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
       "estado": "FL",
-      "bidNum": "CS 20-1111",
-      "bidType": "CS",
-      "title": "Janitorial Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
-      "documents": [
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/cs-20-1111-addendum-1.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/cs-20-1111-addendum-2.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-20-1111-Approved-Vendor-List.pdf"
-        }
-      ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
-    },
-    {
-      "id": "polk-cs-21-380",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 21-380",
-      "bidType": "CS",
-      "title": "Various Medical Related Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
-      "documents": [
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/cs-21-380-addendum-1.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/CS-21-380-Approved-Vendor-List-1.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2023/10/bid-21-380-bid-package.pdf"
-        }
-      ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
-    },
-    {
-      "id": "polk-cs-25-303",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 25-303",
-      "bidType": "CS",
-      "title": "Plumbing Equipment, Fixtures, and Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
-      "documents": [
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/04/CS-25-303-Approved-Vendors-List-12.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/04/CS-25-303-Plumbing-Equipment-Fixtures-and-Supplies.pdf"
-        }
-      ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
-    },
-    {
-      "id": "polk-cs-25-475",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 25-475",
-      "bidType": "CS",
-      "title": "Sherwin Williams Paint and Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
-      "documents": [
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/05/CS-25-475-Approved-Vendors-List.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/05/CS-25-475-Sherwin-Williams-Paint-and-Supplies.pdf"
-        }
-      ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
-    },
-    {
-      "id": "polk-cs-25-456",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 25-456",
-      "bidType": "CS",
-      "title": "Chemicals & Herbicides for Aquatic Weeds and Environmental Lands",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
-      "documents": [
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/06/CS-25-456-Approved-Vendors-List-1.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/06/CS-25-456-Chemicals-and-Herbicides.pdf"
-        }
-      ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
-    },
-    {
-      "id": "polk-bid-24-610",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "Bid 24-610",
+      "bidNum": "SAM-f885385f82",
       "bidType": "BID",
-      "title": "Janitorial Services – Group A, B & C",
-      "nicho": "cleaning",
+      "title": "6515--WPB Ceiling Lifts Replacements (VA-26-00046129)",
+      "nicho": "construction",
       "model": "service",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
+      "openDate": "2026-06-09",
+      "deadline": "N/A",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 339113. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339113. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "David.Henry3@va.gov",
+        "email": "David.Henry3@va.gov",
+        "phone": ""
+      },
       "documents": [
         {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2026/04/Bid-24-610-Recommendation-of-Award-Group-C-4-24-26.pdf"
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/f885385f82b748488440ad37903c3e89/view"
         }
       ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
-      "veredito": "watch",
-      "fit_score": 65,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
+      "link": "https://sam.gov/workspace/contract/opp/f885385f82b748488440ad37903c3e89/view"
     },
     {
-      "id": "polk-bid-26-030",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
+      "id": "sam-f6fc3e9b083541bdaa89570318f4648c",
+      "source": "SAM.gov Federal",
+      "orgao": "NASA KENNEDY SPACE CENTER",
+      "condado": "KENNEDY SPACE CENTER",
       "estado": "FL",
-      "bidNum": "Bid 26-030",
+      "bidNum": "SAM-f6fc3e9b08",
       "bidType": "BID",
-      "title": "NERUSA AWS Receiving Facility UFA Supply Well",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital (PDF)",
-      "pdf_url": "",
+      "title": "Spacecraft Processing and Operations Contract (SPOC) On-Ramp",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-09",
+      "deadline": "2026-06-17",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 336419. Agencia: NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA KENNEDY SPACE CENTER.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 336419. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "allyson.grooms@nasa.gov",
+        "email": "allyson.grooms@nasa.gov",
+        "phone": ""
+      },
       "documents": [
         {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/10/Bid-26-030-Recommendation-of-Award.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/10/Bid-26-030-Notice-of-Invitation-for-Bid.pdf"
-        },
-        {
-          "name": "View File",
-          "url": "https://www.polkfl.gov/wp-content/uploads/2025/10/Bid-26-030-Submittals-Received.pdf"
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/f6fc3e9b083541bdaa89570318f4648c/view"
         }
       ],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/bid-26-030/",
-      "veredito": "go",
-      "fit_score": 85,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "Ver edital (PDF)",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": ""
+      "link": "https://sam.gov/workspace/contract/opp/f6fc3e9b083541bdaa89570318f4648c/view"
+    },
+    {
+      "id": "sam-e5b18ca9f709422b9e1ef59bfa5cf485",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-e5b18ca9f7",
+      "bidType": "BID",
+      "title": "J041--Replacement of Condenser Water Pump Skid â€“ Chiller Plant",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-09",
+      "deadline": "2026-06-19",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 811310. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 811310. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "William.Penhallegon@va.gov",
+        "email": "William.Penhallegon@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/e5b18ca9f709422b9e1ef59bfa5cf485/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/e5b18ca9f709422b9e1ef59bfa5cf485/view"
+    },
+    {
+      "id": "sam-b9778eab0ba640e38cbfd091aa4e4640",
+      "source": "SAM.gov Federal",
+      "orgao": "NAVSUP FLT LOG CTR JACKSONVILLE",
+      "condado": "JACKSONVILLE",
+      "estado": "FL",
+      "bidNum": "SAM-b9778eab0b",
+      "bidType": "BID",
+      "title": "Pipe Bending Machine Parts",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-09",
+      "deadline": "N/A",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: . Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC JACKSONVILLE.NAVSUP FLT LOG CTR JACKSONVILLE.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS . Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "laura.a.martinez10.civ@us.navy.mil",
+        "email": "laura.a.martinez10.civ@us.navy.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/b9778eab0ba640e38cbfd091aa4e4640/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/b9778eab0ba640e38cbfd091aa4e4640/view"
+    },
+    {
+      "id": "sam-73184cb23c024b61a4b42e7baef20977",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-73184cb23c",
+      "bidType": "BID",
+      "title": "6515--GNV Pulmonary Respiratory Gas Analyzer",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-09",
+      "deadline": "2026-06-11",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 334510. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 334510. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Jeremy.Parrish@va.gov",
+        "email": "Jeremy.Parrish@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/73184cb23c024b61a4b42e7baef20977/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/73184cb23c024b61a4b42e7baef20977/view"
+    },
+    {
+      "id": "sam-37b9c4e077ad4fca86ddce2818a22e03",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-37b9c4e077",
+      "bidType": "BID",
+      "title": "Q524--On-site Cardiothoracic Physician Services | San Juan    Extend RFP Close Date and Time",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-09",
+      "deadline": "2026-06-26",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 621111. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 621111. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Jayne.Messer@va.gov",
+        "email": "Jayne.Messer@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/37b9c4e077ad4fca86ddce2818a22e03/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/37b9c4e077ad4fca86ddce2818a22e03/view"
+    },
+    {
+      "id": "sam-23e041307fd24b819904792fd090f57f",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-23e041307f",
+      "bidType": "BID",
+      "title": "6515--GNV IMAGING INSUFFLATORS    36C24826Q0763",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-09",
+      "deadline": "2026-06-17",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Jeremy.Parrish@va.gov",
+        "email": "Jeremy.Parrish@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/23e041307fd24b819904792fd090f57f/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/23e041307fd24b819904792fd090f57f/view"
+    },
+    {
+      "id": "sam-f002ffbb468447729192872b80cac16d",
+      "source": "SAM.gov Federal",
+      "orgao": "NAVAL SURFACE WARFARE CENTER",
+      "condado": "PANAMA CITY BEACH",
+      "estado": "FL",
+      "bidNum": "SAM-f002ffbb46",
+      "bidType": "BID",
+      "title": "Littoral and Expeditionary Maneuver (EXMAN) Program Support",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-22",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 541330. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541330. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "julia.m.phillips8.civ@us.navy.mil",
+        "email": "julia.m.phillips8.civ@us.navy.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/f002ffbb468447729192872b80cac16d/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/f002ffbb468447729192872b80cac16d/view"
+    },
+    {
+      "id": "sam-efcc14dd3ba4487480d5b92ac255daac",
+      "source": "SAM.gov Federal",
+      "orgao": "NAVFACSYSCOM SOUTHEAST",
+      "condado": "NAS JACKSONVILLE",
+      "estado": "FL",
+      "bidNum": "SAM-efcc14dd3b",
+      "bidType": "BID",
+      "title": "P683 Aircraft Engine Repair Facility, NAS Jacksonville, FL",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-16",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 236220. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC SOUTHEAST.NAVFACSYSCOM SOUTHEAST.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 236220. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "cynthia.a.mcmonigle.civ@us.navy.mil",
+        "email": "cynthia.a.mcmonigle.civ@us.navy.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/efcc14dd3ba4487480d5b92ac255daac/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/efcc14dd3ba4487480d5b92ac255daac/view"
+    },
+    {
+      "id": "sam-d03883dc0256411f89e7bb063d1e4650",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-d03883dc02",
+      "bidType": "BID",
+      "title": "6515--GNV ANSTE TEE Probe    36C24826Q0734",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-15",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Jeremy.Parrish@va.gov",
+        "email": "Jeremy.Parrish@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/d03883dc0256411f89e7bb063d1e4650/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/d03883dc0256411f89e7bb063d1e4650/view"
+    },
+    {
+      "id": "sam-b6c297f65697498f9a5b295cc8e849ce",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-b6c297f656",
+      "bidType": "BID",
+      "title": "J056--LCHCC Exterior Glass Panel Replacement",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-29",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 238150. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 238150. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Michael.Shook@va.gov",
+        "email": "Michael.Shook@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/b6c297f65697498f9a5b295cc8e849ce/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/b6c297f65697498f9a5b295cc8e849ce/view"
+    },
+    {
+      "id": "sam-615bdeda6440400586c5d09efba010ff",
+      "source": "SAM.gov Federal",
+      "orgao": "NAVAL SURFACE WARFARE CENTER",
+      "condado": "PANAMA CITY BEACH",
+      "estado": "FL",
+      "bidNum": "SAM-615bdeda64",
+      "bidType": "BID",
+      "title": "Diving, Biomedical, Information Technology (IT), Logistics and Program Management Support for the Navy Experimental Diving Unit (NEDU). ",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-23",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 541330. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541330. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "nitaya.prater.civ@us.navy.mil",
+        "email": "nitaya.prater.civ@us.navy.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/615bdeda6440400586c5d09efba010ff/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/615bdeda6440400586c5d09efba010ff/view"
+    },
+    {
+      "id": "sam-5469fb2f248648a48587d775401cf407",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-5469fb2f24",
+      "bidType": "BID",
+      "title": "X1DB--FY27: Largo Business Office Replacement Lease",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-12",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 531120. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 531120. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Brittany.Rodriguez7@va.gov",
+        "email": "Brittany.Rodriguez7@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/5469fb2f248648a48587d775401cf407/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/5469fb2f248648a48587d775401cf407/view"
+    },
+    {
+      "id": "sam-46d0394e52054ae69e541d7d5a0a0e55",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-46d0394e52",
+      "bidType": "BID",
+      "title": "6515--Strong T-Bar Retractor System",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "N/A",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "wilfredo.perez3@va.gov",
+        "email": "wilfredo.perez3@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/46d0394e52054ae69e541d7d5a0a0e55/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/46d0394e52054ae69e541d7d5a0a0e55/view"
+    },
+    {
+      "id": "sam-260a426354ae4457a7db13f5e0ced01c",
+      "source": "SAM.gov Federal",
+      "orgao": "NAWC TRAINING SYSTEMS DIV",
+      "condado": "ORLANDO",
+      "estado": "FL",
+      "bidNum": "SAM-260a426354",
+      "bidType": "BID",
+      "title": "N6134025R0062 SOURCES SOUGHT: Aviation Distributed Virtual Training Environment (ADVTE) III",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2025-07-29",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 541512. Agencia: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC TSD.NAWC TRAINING SYSTEMS DIV.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541512. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "jarod.r.astwood.civ@us.navy.mil",
+        "email": "jarod.r.astwood.civ@us.navy.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/260a426354ae4457a7db13f5e0ced01c/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/260a426354ae4457a7db13f5e0ced01c/view"
+    },
+    {
+      "id": "sam-1afcdce1c68d4c6186481c851e8d5b62",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-1afcdce1c6",
+      "bidType": "BID",
+      "title": "Z1AA--LCHCC Roof Cleaning Annual Contract",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-08",
+      "deadline": "2026-06-12",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 238160. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 238160. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Angel.Garay@va.gov",
+        "email": "Angel.Garay@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/1afcdce1c68d4c6186481c851e8d5b62/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/1afcdce1c68d4c6186481c851e8d5b62/view"
     }
-  ]
+  ],
+  "updatedAt": "2026-06-09T16:30:55.565Z"
 }
