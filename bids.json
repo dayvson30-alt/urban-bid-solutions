@@ -1568,23 +1568,59 @@
       ],
       "veredito": "watch",
       "fit_score": 50,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "O governo dos EUA (Marinha) quer contratar empresa para transportar mudanças residenciais (móveis e pertences) de saída da Ilha de Andros, Bahamas.",
+      "categoria_curta": "Mudança Residencial",
       "escopo": "SAM.gov. NAICS: 484210. Agência: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC JACKSONVILLE.NAVSUP FLT LOG CTR JACKSONVILLE. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9e84ad5aeaf84459bcaf74689d0c3a6a",
       "set_aside": "No Set aside used",
       "naics": "484210",
       "contact": "kimberley.a.sanders.civ@us.navy.mil",
       "contactName": "Kimberley Sanders",
       "solicitationNumber": "N6883626QS036",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-17",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Contratação de serviços de transporte e mudança residencial de saída (Outbound Household Goods - HHG) para militares e civis do Departamento da Marinha estacionados na Ilha de Andros, Bahamas. Inclui coleta, embalagem, transporte internacional e entrega dos pertences pessoais/domésticos dos servidores designados para transferência. NAICS 484210 corresponde a 'Used Household and Office Goods Moving'. O serviço envolve logística internacional (Bahamas → EUA ou outros destinos designados), coordenação com alfândega, e cumprimento das normas do DPS/DPM (Defense Personal Property Program) da Marinha.",
+      "prazo_submissao": "17 de junho de 2026 — hora exata não informada no resumo; verificar no edital completo (tipicamente 14:00 ou 16:00 hora local EST)",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (System for Award Management)",
+        "Cadastro como TSP (Transportation Service Provider) no DPS/move.mil",
+        "Licença FMCSA/DOT ativa para transporte de bens domésticos",
+        "Apólice de General Liability Insurance",
+        "Apólice de Cargo/Goods in Transit Insurance",
+        "Certificado de Workers Compensation Insurance",
+        "Histórico de contratos similares (Past Performance)",
+        "Formulário de proposta/oferta conforme solicitação (SF-1449 ou equivalente)",
+        "Documentação de experiência em movimentação internacional",
+        "Possível Performance Bond (verificar no edital completo)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo estimado $1.000.000 por ocorrência / $2.000.000 agregado (confirmar no edital)",
+        "workers_comp": "Obrigatório conforme legislação da Florida — valores mínimos estatutários",
+        "bond": "Provável — verificar no texto integral do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar?",
+          "resposta": "Depende do seu perfil. Vale a pena SE você já é TSP credenciado no DPS, tem experiência com HHG militar e tem capacidade logística para operações internacionais (Bahamas). Fit Score de 50/100 indica oportunidade moderada — não é ideal para iniciantes no setor, mas pode ser estratégico para empresas que querem ampliar presença no mercado de mudanças militares. Andros Island tem base naval americana (AUTEC) com movimento regular de pessoal militar, o que pode garantir volume consistente."
+        },
+        {
+          "pergunta": "Principais barreiras?",
+          "resposta": "1) Necessidade de ser TSP credenciado no programa DPM da Marinha — processo que leva tempo. 2) Operação internacional com Bahamas exige experiência em alfândega e logística marítima/aérea. 3) Localização remota de Andros Island aumenta custos operacionais. 4) Concorrência de empresas já estabelecidas com histórico comprovado no programa DPM. 5) Valor do contrato não divulgado dificulta avaliação prévia de viabilidade."
+        },
+        {
+          "pergunta": "Margem de lucro esperada?",
+          "resposta": "Contratos HHG militares tipicamente oferecem margem de 15% a 30% sobre custos operacionais para empresas eficientes. No caso de Andros Island, os custos adicionais de acesso à ilha (frete aéreo ou marítimo) podem pressionar margens para baixo, mas também justificam tarifas mais elevadas. A margem real depende do volume de mudanças por ano e da eficiência na sub-contratação de agentes locais nas Bahamas."
+        },
+        {
+          "pergunta": "Preciso de licença?",
+          "resposta": "Sim. São necessárias: (1) Licença FMCSA como transportador de bens domésticos interestaduais (MC Number ativo), (2) Credenciamento como TSP no sistema DPS do Departamento de Defesa (via move.mil), (3) Possivelmente registro como agente de carga internacional se não tiver parceiro. Sem o credenciamento TSP no DPS, a empresa não pode receber designações de mudanças militares — este é o requisito mais crítico."
+        },
+        {
+          "pergunta": "Como precificar?",
+          "resposta": "Contratos DPM/HHG militares geralmente seguem sistema de tarifas baseado em peso (libras) e distância (milhas), com adicionais para serviços especiais (embalagem, desmontagem, armazenamento). Para Andros Island, inclua: custo de transporte aéreo ou marítimo até Nassau/Miami, taxas alfandegárias internacionais, custos de agente local nas Bahamas, e margem de 20-25%. Pesquise tarifas históricas no sistema DPS e consulte outros TSPs experientes. Evite subprecificar — os custos logísticos insulares são imprevisíveis."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO | Deadline: 17 de junho de 2026. Prazo amplo, mas recomenda-se iniciar preparação imediatamente para garantir registros, certificações e documentação completa com antecedência de pelo menos 60-90 dias.\n\nDOCUMENTOS | Necessários: registro ativo no SAM.gov, certificação como TSP (Transportation Service Provider) no sistema DPS (Defense Personal Property System), apólices de seguro vigentes, licença do DOT/FMCSA para transporte interstate e possivelmente internacional, e formulários padrão FAR (SF-1449 ou equivalente). Pode exigir histórico de performance em contratos similares.\n\nREQUISITOS | Empresa deve estar cadastrada como TSP no programa DPM (Defense Personal Property Move). Exige experiência em movimentação internacional de HHG, coordenação alfandegária EUA-Bahamas, e conformidade com regulamentos militares de mudança (JFTR/JTR). Localização geográfica próxima a portos/aeroportos com rotas para Andros Island é vantagem competitiva significativa. NAICS 484210 tem tamanho limite para pequenas empresas de 27,5 milhões de dólares de receita anual.\n\nSEGUROS | Provavelmente exigidos: General Liability mínimo de 1 milhão por ocorrência, Cargo Insurance para cobertura dos bens pessoais transportados (tipicamente 100% do valor declarado), Workers Compensation conforme lei da Florida, e possivelmente Performance Bond. Valores exatos não divulgados no edital resumido — consultar texto integral.\n\nPREÇO | Valor estimado não divulgado. Contratos DPM/HHG militares geralmente são pagos por weight (libra/peso) e distance (milhas) com tabela de tarifas regulamentada pelo governo. A precificação segue o sistema de tarifas GBL (Government Bill of Lading) ou equivalente DPS. Margens típicas no setor variam de 15% a 30% dependendo do volume e eficiência operacional.\n\nESTRATÉGIA | Verificar imediatamente se já possui cadastro TSP no DPS. Fazer parceria com agente/forwarder especializado em Bahamas se não tiver experiência internacional. Contatar o NAVSUP FLC Jacksonville para esclarecer requisitos antes da submissão. Avaliar volume histórico de movimentações em Andros Island para estimar receita potencial.\n\nRISCOS | Operação internacional (Bahamas) adiciona complexidade alfandegária e logística. Ilha remota pode ter limitações de acesso e custos adicionais de frete. Valor do contrato não divulgado dificulta análise de viabilidade financeira. Concorrência de TSPs já credenciados e com histórico no programa DPM pode ser barreira.\n\nPRÓXIMOS 3 PASSOS | 1) Acessar o link completo do edital no SAM.gov e baixar todos os documentos, especialmente Statement of Work e Schedule of Prices, para entender requisitos detalhados. 2) Verificar/obter cadastro ativo como TSP no sistema DPS (Defense Personal Property System) em move.mil — sem isso, não é possível participar. 3) Entrar em contato com o contracting officer do NAVSUP FLC Jacksonville para fazer perguntas técnicas e confirmar se sua empresa atende os requisitos mínimos antes de investir tempo na proposta.",
+      "ai_analyzed_at": "2026-06-10T22:36:17.432Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-10"
     },
     {
