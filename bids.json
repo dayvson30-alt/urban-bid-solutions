@@ -28,17 +28,56 @@
       "link": "https://www.polkfl.gov/bid-form/bid-26-030/",
       "veredito": "go",
       "fit_score": 85,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "resumo_simples": "Contratação de obra de perfuração e instalação de um poço de abastecimento de água (Supply Well) na instalação NERUSA AWS Receiving Facility UFA, localizada no Condado de Polk, Flórida — projeto de infraestrutura hídrica subterrânea.",
+      "categoria_curta": "Perfuração de poço",
+      "o_que_comprar": "O Condado de Polk (Polk County) está solicitando propostas para a perfuração, revestimento, desenvolvimento e instalação de um poço de abastecimento de água no Aquífero Floridan Superior (UFA - Upper Floridan Aquifer) na instalação chamada NERUSA AWS Receiving Facility. O escopo provavelmente inclui: mobilização e desmobilização de equipamentos de perfuração; perfuração rotativa ou percussiva até a profundidade necessária no UFA; instalação de revestimento (casing) e tela (screen); desenvolvimento do poço; testes de bombeamento; coleta de amostras de água para análise; fornecimento de relatório geológico e hidrogeológico; e conformidade com as normas do FDEP (Florida Department of Environmental Protection) e do Distrito de Gestão de Água (Water Management District). A localização específica é a instalação NERUSA AWS Receiving Facility no Condado de Polk, FL. Quantidades e profundidades exatas devem ser confirmadas no PDF do edital disponível em https://www.polkfl.gov/bid-form/bid-26-030/.",
+      "prazo_submissao": "Data e hora não informadas nos dados fornecidos. ACESSE IMEDIATAMENTE o edital em https://www.polkfl.gov/bid-form/bid-26-030/ para confirmar o deadline exato. Editais do Polk County tipicamente encerram às 2:00 PM horário local.",
+      "documentos_lista": [
+        "Formulário de proposta (Bid Form) original assinado",
+        "Bid Bond — garantia de proposta (tipicamente 5% do valor total)",
+        "Water Well Contractor License C-11 ativa no Estado da Flórida",
+        "Certificado de General Liability Insurance",
+        "Certificado de Workers' Compensation Insurance",
+        "Certificado de Commercial Auto Insurance",
+        "Contractor Qualification Statement com lista de projetos similares",
+        "Declaração de subcontratados (Subcontractor List)",
+        "E-Verify Affidavit (conformidade com lei de verificação de emprego)",
+        "Drug-Free Workplace Certification",
+        "Formulários de divulgação de conflito de interesses",
+        "Referências de projetos de perfuração de poços UFA concluídos",
+        "Quaisquer adendos assinados publicados pelo Polk County"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado — CONFIRMAR no edital PDF",
+        "workers_comp": "Conforme exigido pelo Florida Statute — mínimo exigido por lei para todos os empregados",
+        "bond": "Sim — Bid Bond de aproximadamente 5% do valor da proposta; Performance Bond e Payment Bond de 100% do contrato após adjudicação — CONFIRMAR valores exatos no edital PDF"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Sim, com Fit Score de 85/100 e veredito 'go', este edital apresenta boa oportunidade. Projetos de perfuração de poços UFA para entidades governamentais são altamente valorizados no portfólio de empresas do setor hídrico na Flórida. O Condado de Polk é um cliente recorrente e pagador confiável. A baixa concorrência (por ser especializado) pode resultar em margens melhores. Recomenda-se participar SE a empresa possuir a licença C-11 ativa e experiência comprovada em poços UFA."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) LICENÇA OBRIGATÓRIA — Water Well Contractor License C-11 emitida pelo FDEP/Estado da Flórida é inegociável; sem ela, a proposta será desclassificada; (2) BONDING — necessidade de Bid Bond e Performance Bond pode ser difícil para empresas novas ou sem histórico de crédito; (3) EQUIPAMENTOS — perfuração no UFA exige equipamentos pesados especializados (rotary drill rigs) com alto custo de mobilização; (4) EXPERIÊNCIA COMPROVADA — editais governamentais geralmente exigem histórico de projetos similares concluídos; (5) CAPITAL DE GIRO — obras governamentais podem demorar 30-60 dias para pagamento após fatura."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para perfuração de poços governamentais no UFA em Polk County, espera-se margem líquida de 15% a 25% sobre o custo total, dependendo da competitividade da licitação e da complexidade geológica encontrada. Projetos com cláusulas de unit price (preço por pé perfurado) podem ter margem maior se a formação for mais fácil que o esperado. Recomenda-se incluir contingência de 10-15% para variações geológicas e calcular cuidadosamente todos os custos de mobilização, que podem ser significativos (10-20% do total do projeto)."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "SIM — é OBRIGATÓRIA a Water Well Contractor License (C-11) emitida pelo Florida Department of Environmental Protection (FDEP) ou pelo respectivo Water Management District (SWFWMD para Polk County). Esta licença certifica que o profissional/empresa está habilitado a perfurar, construir, reparar e abandonar poços no Estado da Flórida conforme o Florida Well Construction Act. Adicionalmente, pode ser necessária licença de empreiteiro geral (General Contractor) dependendo do escopo total da obra. Verifique também se há necessidade de licença específica do SWFWMD para a perfuração neste aquífero."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para precificar corretamente: (1) Obtenha o conjunto completo de especificações técnicas do edital; (2) Pesquise logs de poços existentes no SWFWMD (disponíveis publicamente) para estimar profundidade e formações geológicas na área; (3) Calcule: mobilização + perfuração por pé linear + materiais (casing, screen, cimento) + desenvolvimento + teste de bombeamento + análises laboratoriais + relatórios + taxas regulatórias; (4) Adicione overhead (10-15%) + margem de lucro (15-25%) + contingência geológica (10-15%); (5) Compare com projetos similares no condado para verificar competitividade; (6) Não subestime custos de mobilização de equipamentos pesados — este erro é comum em small businesses neste tipo de licitação."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de submissão não foi informada nos dados fornecidos. É OBRIGATÓRIO acessar o edital completo em https://www.polkfl.gov/bid-form/bid-26-030/ para verificar a data e hora limite. Editais do Polk County geralmente exigem submissão presencial ou eletrônica até as 2:00 PM (horário local). Recomenda-se verificar imediatamente e colocar um alerta no calendário com 5 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais de obras do Polk County, esperam-se: Formulário de proposta (Bid Form) preenchido e assinado; Bid Bond (garantia de proposta) geralmente de 5% do valor total da proposta; Formulário de qualificação de empresa (Contractor Qualification Statement); Licenças de perfuração de poço ativas na Flórida (Water Well Contractor License - C-11); Certificados de seguro (GL, Workers' Comp, Auto); Lista de projetos similares concluídos (referências); Formulário de subcontratados (se aplicável); E-Verify compliance; e qualquer formulário adicional listado no edital PDF.\n\nREQUISITOS TÉCNICOS | Perfuração de poços no UFA (Upper Floridan Aquifer) exige expertise específica em geologia cárstica da Flórida. O contratante precisa ter: experiência comprovada em perfuração de poços profundos no UFA (tipicamente 200-800 pés de profundidade na região de Polk County); equipamentos adequados para perfuração rotativa em calcário; conhecimento das regulamentações do Southwest Florida Water Management District (SWFWMD); capacidade de realizar testes de bombeamento e análises hidráulicas; e conformidade com o Florida Well Construction Act (Capítulo 373, F.S.) e regras 62-532 FAC do FDEP.\n\nSEGUROS E GARANTIAS | Projetos desta natureza no Polk County tipicamente exigem: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pela lei da Flórida; Auto Liability $1.000.000; Bid Bond de 5% do valor da proposta; Performance Bond e Payment Bond de 100% do valor do contrato após adjudicação. CONFIRMAR valores exatos no edital PDF.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Calcular custo de mobilização/desmobilização de equipamentos pesados; (2) Custo por pé de perfuração (linear foot) — na região de Polk County, perfuração no UFA pode variar de $35 a $80/pé dependendo da formação; (3) Custo de materiais: casing PVC ou aço, screen, centralizers, cimento de vedação; (4) Custo de desenvolvimento do poço (air surging, jetting); (5) Testes de bombeamento (equipamentos, mão de obra, análises laboratoriais); (6) Licenças e taxas regulatórias (SWFWMD, FDEP); (7) Relatórios técnicos e documentação; (8) Overhead e margem de lucro (recomenda-se 15-25% para obras desta complexidade); (9) Contingência de 10-15% para imprevistos geológicos. Solicite o conjunto completo de plantas e especificações antes de calcular.\n\nESTRATÉGIA DE SUBMISSÃO | Com Fit Score de 85/100, este é um edital FAVORÁVEL. Recomendações: (1) Baixar IMEDIATAMENTE o edital completo e todos os adendos; (2) Registrar-se como vendor no sistema do Polk County para receber notificações de adendos; (3) Participar do site visit/pre-bid meeting se houver — fundamental para projetos de perfuração; (4) Preparar portfólio de projetos similares no UFA com dados de produção dos poços; (5) Garantir que todas as licenças (C-11) estejam ativas e válidas; (6) Submeter perguntas técnicas dentro do prazo estabelecido no edital; (7) Preparar proposta detalhada com breakdown de custos por item de serviço.\n\nRISCOS | (1) GEOLÓGICO: O UFA na região de Polk County pode apresentar variações imprevisíveis (cavernas, zonas de colapso, lost circulation zones) que aumentam custos; (2) REGULATÓRIO: Aprovações do SWFWMD e FDEP podem atrasar o cronograma; (3) AMBIENTAL: Zona de Polk County tem contaminação histórica por fosfato — possível complexidade adicional; (4) COMPETITIVO: Poucos contratantes têm licença C-11 ativa, mas os que têm são especializados e competitivos em preço; (5) BOND: Exigência de Performance Bond pode ser barreira para empresas pequenas sem histórico de crédito estabelecido.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acessar https://www.polkfl.gov/bid-form/bid-26-030/ e baixar o edital completo PDF, verificar prazo de submissão, valor estimado e se há pre-bid meeting agendado. PASSO 2 (ATÉ 48H): Verificar se sua empresa possui Water Well Contractor License (C-11) ativa na Flórida e se os certificados de seguro estão em vigor com os valores exigidos; contatar sua seguradora/bonding company para confirmar capacidade de emitir Bid Bond. PASSO 3 (ATÉ 5 DIAS): Realizar visita ao local (site visit), analisar logs de poços existentes na região (disponíveis no SWFWMD), calcular proposta detalhada e preparar todos os documentos de qualificação.",
+      "ai_analyzed_at": "2026-06-10T13:16:14.846Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "ITB — Menor preço ganha",
         "badge": "ITB",
@@ -67,17 +106,53 @@
       "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
       "veredito": "go",
       "fit_score": 72,
-      "resumo_simples": "",
+      "resumo_simples": "Compra de materiais e suprimentos de limpeza (produtos de higiene e limpeza em geral) para uso nos prédios e instalações do Condado de Polk, Flórida.",
       "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O edital CS 20-1111 do Condado de Polk (Polk County, FL) solicita a compra de suprimentos de limpeza e higiene (Janitorial Supplies) para abastecimento dos prédios públicos do condado. Tipicamente, este tipo de contrato inclui: papel higiênico, papel toalha, sabonete líquido, desinfetantes, detergentes, produtos multiuso, sacos de lixo, luvas descartáveis, esfregões, panos de limpeza, dispensers e outros consumíveis de higiene e limpeza. As quantidades exatas, especificações técnicas detalhadas (marcas aceitas, equivalentes aprovados, concentrações de produtos químicos) e locais de entrega não estão disponíveis no resumo fornecido — é imprescindível acessar o PDF completo do edital no link https://www.polkfl.gov/bid-form/cs-20-1111/ para obter a lista completa de itens com quantidades estimadas e especificações. O contrato pode ser estruturado como um contrato de fornecimento contínuo (term contract) com preços unitários fixos, o que é comum para suprimentos de limpeza em condados da Flórida.",
+      "prazo_submissao": "Não divulgado no resumo. OBRIGATÓRIO consultar o PDF completo do edital em https://www.polkfl.gov/bid-form/cs-20-1111/ para confirmar data, hora e local/método de submissão.",
+      "documentos_lista": [
+        "Formulário de proposta oficial do Polk County preenchido e assinado",
+        "Lista de preços unitários por item solicitado",
+        "Certificado de seguro (GL, Workers' Comp, Auto se aplicável) com Polk County como Additional Insured",
+        "Registro empresarial ativo na Flórida (Sunbiz)",
+        "Formulário W-9 preenchido",
+        "Non-Collusion Affidavit (Declaração de não-conluio)",
+        "Referências comerciais (clientes similares — governo ou privado)",
+        "Safety Data Sheets (SDS) dos produtos químicos ofertados (pode ser exigido)",
+        "Certificações de produto (EPA Safer Choice, Green Seal — se exigido)",
+        "Confirmar lista completa no PDF do edital"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência / $2.000.000 agregado (valor típico para Polk County — confirmar no edital)",
+        "workers_comp": "Conforme legislação da Flórida — mínimo $100.000 por acidente (confirmar no edital)",
+        "bond": "Provavelmente não exigido para contrato de suprimentos, mas confirmar no PDF do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Sim, com Fit Score de 72/100 e veredito 'go', este edital apresenta boa compatibilidade para pequenas empresas de suprimentos de limpeza. Contratos de Janitorial Supplies com condados da Flórida tendem a ser contratos term (anuais ou bianuais, renováveis), gerando receita recorrente e previsível. O Polk County é um dos maiores condados da Flórida (população ~700.000), o que representa volume relevante. A barreira de entrada é relativamente baixa comparada a contratos de serviços ou construção. Vale a pena se sua empresa já distribui ou pode distribuir produtos de limpeza com capacidade logística para atender o condado."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Concorrência de grandes distribuidores regionais e nacionais com estrutura de custo menor por volume; (2) Necessidade de estoque ou acesso rápido a produtos para cumprir prazos de entrega do contrato; (3) Capital de giro para financiar o estoque antes do recebimento (prazos de pagamento governamental geralmente 30-45 dias); (4) Certificado de seguro adequado já vigente; (5) Experiência prévia em fornecimento governamental pode ser um critério avaliado. Para pequenas empresas, a estratégia de parceria com um distribuidor atacadista pode reduzir a barreira de estoque e preço."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de suprimentos de limpeza governamentais na Flórida, a margem líquida típica para pequenos fornecedores fica entre 10% e 20%, dependendo do volume, mix de produtos e eficiência logística. Empresas que compram diretamente de fabricantes ou têm acesso a distribuidores atacadistas conseguem margens melhores (18-25%). Distribuidores de médio porte que revendem tendem a trabalhar com margens entre 12-18%. Itens commoditizados (papel higiênico, sacos de lixo) têm margens mais comprimidas; produtos especializados ou de nicho permitem margens maiores. O segredo é equilibrar preço competitivo nos itens de alto volume com margem adequada nos itens de menor concorrência."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para venda/distribuição de suprimentos de limpeza no estado da Flórida, geralmente não é exigida licença profissional específica além do registro empresarial padrão (LLC ou Corp registrada no Sunbiz) e do Business Tax Receipt (BTR) municipal. Se sua empresa comercializar produtos químicos concentrados ou biocidas, pode ser necessário registro junto à Florida Department of Agriculture and Consumer Services (FDACS). Verifique também se o Polk County exige registro prévio de fornecedores no seu sistema de compras. Confirme os requisitos exatos de licenciamento no PDF do edital."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Estratégia de precificação recomendada: (1) Identifique todos os itens da lista e classifique por volume estimado (itens de alto giro vs. baixo giro); (2) Obtenha cotações de atacadistas (Waxie, HD Supply, Unisan, Grainger) para cada item; (3) Nos itens de maior volume e mais competitivos (papel higiênico, papel toalha, sacos de lixo), precifique mais agressivamente com margem de 10-15% para ganhar o contrato; (4) Nos itens especializados ou de menor demanda, aplique margem de 20-30%; (5) Inclua no preço todos os custos: produto, frete/entrega, embalagem, overhead e margem; (6) Pesquise contratos anteriores similares no Polk County para benchmarking (solicite via Public Records Request se necessário); (7) Não precifique abaixo do custo — contratos governamentais penalizam não-entrega."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de abertura e o prazo final (deadline) não foram divulgados no resumo. É OBRIGATÓRIO acessar o PDF do edital no link oficial (https://www.polkfl.gov/bid-form/cs-20-1111/) para confirmar a data e hora limite de submissão, o local de entrega das propostas (físico ou eletrônico) e eventuais pré-requisitos de cadastro. Recomenda-se verificar também o portal de licitações do Polk County para atualizações e adendos. | DOCUMENTOS EXIGIDOS | Com base no padrão de licitações do Polk County para suprimentos, os documentos tipicamente exigidos incluem: formulário de proposta oficial preenchido e assinado, lista de preços unitários por item, comprovante de registro empresarial (Sunbiz/Florida Division of Corporations), certificado de seguro (GL e Workers' Comp), referências comerciais ou lista de clientes similares, e possivelmente formulário de não-conluio (Non-Collusion Affidavit) e formulário W-9. A lista exata deve ser confirmada no PDF do edital. | REQUISITOS TÉCNICOS | Para contratos de Janitorial Supplies, o condado geralmente exige que os produtos atendam especificações mínimas de qualidade (equivalência a marcas de referência), que itens químicos possuam SDS (Safety Data Sheets) disponíveis, e que o fornecedor comprove capacidade de entrega no prazo. Pode haver preferência por produtos EPA Safer Choice ou certificações verdes (Green Seal). Verifique se há requisitos de embalagem mínima, prazo de entrega após pedido e política de devolução. | SEGUROS E GARANTIAS | O Polk County normalmente exige para contratos de fornecimento: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigido pela legislação da Flórida (mínimo $100.000 por acidente), e Auto Liability se houver entrega com veículo próprio ($1.000.000). Bond (Performance/Payment Bond) geralmente não é exigido para contratos de suprimentos de pequeno valor, mas deve ser confirmado no edital. O Polk County deve ser listado como Additional Insured no certificado de seguro. | COMO CALCULAR O PREÇO | 1) Obtenha a lista completa de itens do edital; 2) Colete cotações de pelo menos 3 distribuidores atacadistas (ex: Waxie, Veritiv, Unisan, HD Supply); 3) Calcule o custo unitário de cada item; 4) Adicione margem de lucro (sugerido 15-25% para contratos governamentais de suprimentos); 5) Considere custos de entrega, embalagem e logística; 6) Verifique preços praticados em contratos similares via Florida Accountability Contract Tracking System (FACTS) ou MyFloridaMarketPlace; 7) Para contratos term, estime o volume anual com base em histórico do condado (se disponível via pedido de records). | ESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score 72/100 e veredito 'go', o que indica boa compatibilidade. Estratégia recomendada: (a) Baixar e ler o PDF completo imediatamente; (b) Registrar-se como fornecedor no portal do Polk County se ainda não estiver registrado; (c) Enviar perguntas/esclarecimentos dentro do prazo estabelecido para dúvidas técnicas; (d) Pesquisar vencedores de contratos anteriores similares no Polk County para benchmarking de preços; (e) Precificar de forma competitiva nos itens de maior volume e com margem adequada nos demais; (f) Garantir que todos os documentos estejam completos para evitar desclassificação por questões formais. | RISCOS | Riscos identificados: (1) Informações incompletas no resumo — necessário confirmar todos os detalhes no PDF; (2) Competição de grandes distribuidores regionais com poder de negociação maior; (3) Flutuação de preços de insumos pode comprimir margens em contratos de longa duração; (4) Requisitos de estoque mínimo podem ser exigidos; (5) Penalidades por atraso na entrega são comuns neste tipo de contrato. | PRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acessar https://www.polkfl.gov/bid-form/cs-20-1111/ e baixar o PDF completo do edital para verificar prazo exato, lista de itens, quantidades e requisitos específicos; 2) ATÉ 48H: Registrar-se no portal de fornecedores do Polk County (se necessário), obter cotações de distribuidores atacadistas para os itens listados e verificar se há pré-qualificação ou visita técnica obrigatória; 3) ANTES DO PRAZO: Preparar proposta com todos os documentos exigidos, obter certificado de seguro atualizado com Polk County como Additional Insured e submeter dentro do prazo com folga mínima de 24 horas.",
+      "ai_analyzed_at": "2026-06-10T13:17:18.641Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "CS — Lista aberta de vendors",
         "badge": "CS",
@@ -106,17 +181,53 @@
       "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
       "veredito": "go",
       "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "resumo_simples": "O Condado de Polk (Florida) quer comprar diversos materiais e suprimentos médicos variados para uso em suas instalações e serviços de saúde públicos.",
+      "categoria_curta": "Suprimentos médicos",
+      "o_que_comprar": "O edital CS 21-380 do Condado de Polk solicita a aquisição de diversos suprimentos relacionados à área médica ('Various Medical Related Supplies'). Com base no título e no tipo de contrato (CS - Continuing Supply/Contract), trata-se provavelmente de um contrato contínuo de fornecimento de itens médicos variados, podendo incluir: luvas descartáveis, máscaras, curativos, materiais de primeiros socorros, equipamentos de proteção individual (EPI) de uso médico, seringas, bandagens, desinfetantes, termômetros, esfigmomanômetros e demais consumíveis médicos utilizados pelos departamentos do condado (saúde pública, serviços de emergência, etc.). As quantidades específicas, especificações técnicas detalhadas e locais de entrega não foram divulgados nos dados fornecidos e devem ser consultados diretamente no PDF do edital disponível em https://www.polkfl.gov/bid-form/cs-21-380/.",
+      "prazo_submissao": "Não informado nos dados disponíveis. ACESSE IMEDIATAMENTE o edital em https://www.polkfl.gov/bid-form/cs-21-380/ para verificar a data e hora exata de submissão. Esta é a ação mais urgente.",
+      "documentos_lista": [
+        "Formulário de proposta oficial do Condado de Polk preenchido e assinado",
+        "Lista de preços unitários para cada item solicitado",
+        "Certificado de Seguro atualizado (GL + Workers Comp + Auto se aplicável)",
+        "Registro ativo na Florida Division of Corporations (Sunbiz)",
+        "Formulário W-9 preenchido e assinado",
+        "Referências de contratos governamentais anteriores similares",
+        "Formulário de certificação de não discriminação",
+        "Formulário de declaração de conflito de interesses",
+        "Fichas técnicas (spec sheets) ou catálogos dos produtos ofertados (verificar se exigido)",
+        "Certificações FDA ou de qualidade dos produtos (se exigido no edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado (incluindo Products & Completed Operations). Confirmar valor exato no PDF do edital.",
+        "workers_comp": "Obrigatório conforme legislação do Estado da Florida se a empresa possuir funcionários. Confirmar limites mínimos no edital.",
+        "bond": "Provavelmente não exigido para contrato de suprimentos, mas confirmar no PDF do edital. Performance bond raramente é requerido para CS de produtos médicos."
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com um Fit Score de 72/100 e veredito 'go', há uma indicação positiva de viabilidade. Vale a pena SE: você já tem relacionamento estabelecido com distribuidores de suprimentos médicos, consegue oferecer preços competitivos frente a grandes distribuidores nacionais, e tem capacidade logística para atender entregas rápidas em Polk County. O risco principal é que contratos CS geralmente não garantem volume mínimo de compras, então o condado pode comprar pouco ou nada dependendo da demanda real. Recomenda-se analisar o PDF completo antes de decidir definitivamente."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Competição com grandes distribuidores médicos nacionais (Henry Schein, McKesson, Medline, Bound Tree) que têm custos operacionais muito menores por volume; (2) Necessidade de estoque local ou capacidade de entrega rápida; (3) Conformidade regulatória FDA para produtos médicos; (4) Capacidade de fornecer ampla variedade de itens — editais de 'Various Medical Supplies' geralmente têm dezenas ou centenas de itens e o licitante que cobrir mais itens tem vantagem; (5) Certificados de seguro nos valores exigidos (custo para pequenas empresas). Para pequenas empresas, a estratégia é focar nos itens em que você tem vantagem competitiva de preço ou disponibilidade."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para suprimentos médicos em contratos governamentais, margens típicas variam entre 15% a 30% sobre o custo, dependendo dos itens. Itens commoditizados (luvas, máscaras genéricas) têm margens menores (10-18%) devido à alta concorrência. Itens especializados ou de difícil acesso podem ter margens de 25-35%. Como contrato CS sem volume garantido, o risco financeiro é baixo — você só vende o que o condado pedir. Certifique-se de incluir no preço: custo do produto + frete/entrega + overhead administrativo (processamento de pedidos, faturamento) + margem de lucro. Nunca precifique abaixo do custo total para 'ganhar' — contratos sem volume mínimo garantido não compensam margem zero."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para venda de suprimentos médicos gerais (não medicamentos, não dispositivos médicos de classe II/III), geralmente não é necessária licença específica além do registro comercial padrão (Florida business license, Sunbiz registration). No entanto, se os itens incluírem: medicamentos ou controlados (precisa de licença da DEA e Florida Board of Pharmacy), dispositivos médicos de alta complexidade (pode exigir registro FDA como distribuidor), ou produtos que requerem cadeia de custódia fria, licenças adicionais podem ser necessárias. Verifique a lista completa de itens no edital PDF para determinar se há necessidade de licenças específicas para os produtos que você pretende oferecer."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Estratégia de precificação para este edital: (1) Obtenha cotações de pelo menos 2-3 distribuidores para cada item e use o menor custo como base; (2) Pesquise preços públicos disponíveis no Florida Transparency Portal, DemandStar e GSA Advantage para benchmarking — fique 3-8% abaixo da média do mercado público; (3) Para itens onde você não tem vantagem competitiva, pode precificar mais alto — em CS contracts você não precisa ganhar todos os itens; (4) Inclua uma margem de segurança de 5-10% para flutuação de preços de insumos; (5) Verifique se o edital permite reajuste de preços (price escalation clause) — fundamental para contratos de prazo mais longo; (6) Não use preço como único diferencial — destaque disponibilidade imediata, qualidade dos produtos e capacidade de entrega rápida como valor agregado."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura consta como N/A e o prazo final está indicado apenas no PDF do edital. É URGENTE acessar o link https://www.polkfl.gov/bid-form/cs-21-380/ imediatamente para verificar a data e hora exatas de submissão. Editais do tipo CS do Condado de Polk geralmente exigem submissão presencial ou eletrônica até determinada hora (normalmente 2:00 PM ou 3:00 PM horário local de Florida). Não perca o prazo — verifique hoje. | DOCUMENTOS EXIGIDOS | Com base em editais similares do Condado de Polk para suprimentos médicos, espera-se: (1) Formulário de proposta preenchido e assinado; (2) Lista de preços unitários para cada item solicitado; (3) Certificado de Seguro (GL, Workers' Comp, Auto se aplicável); (4) Referências de contratos anteriores similares; (5) Documentação de registro da empresa (Sunbiz/Florida Division of Corporations); (6) W-9 preenchido; (7) Formulário de conflito de interesses; (8) Formulário de certificação de não discriminação. Verifique no PDF se há exigência de catálogos de produtos ou fichas técnicas (spec sheets) dos itens. | REQUISITOS TÉCNICOS | Provavelmente os produtos precisam atender padrões FDA para dispositivos médicos, certificações de qualidade (ISO, CE quando aplicável), prazos de validade mínimos (geralmente 12-24 meses a partir da entrega), conformidade com normas OSHA para EPIs. Verifique se o edital exige marcas específicas ou aceita equivalentes aprovados. Contratos CS geralmente permitem substituições equivalentes mediante aprovação prévia do condado. | SEGUROS E GARANTIAS | Para fornecimento de suprimentos médicos ao governo, o Condado de Polk tipicamente exige: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pelo estado da Florida (obrigatório se tiver funcionários); Commercial Auto se houver veículos de entrega ($1.000.000 combinado); Products & Completed Operations Liability geralmente incluída na GL. Bond (performance bond) raramente é exigido para contratos de fornecimento de suprimentos, mas confirme no edital. O Condado de Polk deve ser listado como Additional Insured. | COMO CALCULAR O PREÇO | (1) Levante o custo real de cada item com seus fornecedores/distribuidores; (2) Adicione custos de logística e entrega para Polk County, FL; (3) Considere margem de estoque/quebra (~5-10%); (4) Adicione overhead administrativo (~8-12%); (5) Adicione margem de lucro desejada (~15-25% para suprimentos médicos é razoável); (6) Pesquise preços em contratos públicos similares no Florida Transparency Portal e GSA Advantage para benchmarking; (7) Verifique se o edital usa preço por unidade ou preço total estimado — CS contracts geralmente são por unidade com quantidade estimada não vinculante. | ESTRATÉGIA DE SUBMISSÃO | (1) Baixe e leia o PDF completo do edital hoje; (2) Identifique todos os itens solicitados e verifique quais você pode fornecer com qualidade e prazo; (3) Entre em contato com 2-3 distribuidores para obter cotações competitivas; (4) Prepare preços unitários competitivos mas com margem saudável — não precifique apenas para ganhar; (5) Certifique-se que todos os documentos estão completos e assinados; (6) Submeta com antecedência de pelo menos 24-48 horas; (7) Se houver pré-bid meeting ou prazo para perguntas, participe e envie dúvidas técnicas por escrito. | RISCOS | (1) Valores não divulgados — risco de subestimar volume e não ter estoque suficiente; (2) Contrato CS pode ter cláusula de mínimo garantido zero (o condado não é obrigado a comprar); (3) Concorrência de grandes distribuidores médicos (Henry Schein, McKesson, Medline) que têm preços de custo muito menores; (4) Itens médicos sujeitos a variações de preço de mercado (especialmente pós-COVID para EPIs); (5) Exigências regulatórias FDA podem eliminar produtos de qualidade inferior; (6) Prazo de entrega — o condado pode exigir entrega em 24-72 horas após pedido, o que exige estoque local. | PRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://www.polkfl.gov/bid-form/cs-21-380/ e baixe o PDF completo do edital. Identifique o prazo exato de submissão, lista completa de itens, quantidades estimadas e todos os requisitos técnicos. PASSO 2 (PRÓXIMOS 2-3 DIAS): Levante cotações com distribuidores médicos, verifique seu certificado de seguro (atualize se necessário para incluir os valores mínimos exigidos) e prepare a documentação administrativa (W-9, Sunbiz registration, referências). PASSO 3 (ANTES DO PRAZO): Monte a proposta completa com lista de preços unitários, organize todos os documentos exigidos em ordem, revise tudo antes de submeter e entregue com pelo menos 24 horas de antecedência.",
+      "ai_analyzed_at": "2026-06-10T13:18:30.684Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "CS — Lista aberta de vendors",
         "badge": "CS",
@@ -145,17 +256,53 @@
       "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
       "veredito": "go",
       "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "resumo_simples": "Compra de equipamentos, acessórios e materiais de encanamento (hidráulica) para o Condado de Polk, FL — como tubos, conexões, válvulas, torneiras e outros suprimentos usados em manutenção e instalações públicas.",
+      "categoria_curta": "Compra de materiais hidráulicos",
+      "o_que_comprar": "O Condado de Polk (Polk County, FL) está buscando fornecedores para um contrato de fornecimento contínuo (Continuing Services - CS) de equipamentos, acessórios e suprimentos de encanamento/hidráulica. Isso inclui, tipicamente: tubos e conexões (PVC, cobre, PEX, ferro galvanizado), válvulas de diversos tipos, torneiras, registros, caixas de descarga, vasos sanitários, pias, ralos, sifões, caixas de inspeção, medidores de água, ferramentas e acessórios de encanamento, além de materiais de vedação (fitas, silicones, flanges). O contrato é do tipo 'aberto' (open-ended/continuing), ou seja, o condado realiza compras conforme a necessidade ao longo da vigência do contrato, sem quantidade mínima garantida. Os itens são usados para manutenção de instalações públicas do condado em Polk County, FL. Quantidades específicas e lista completa de itens devem constar no PDF do edital, que não foi disponibilizado nesta análise.",
+      "prazo_submissao": "Não divulgado nos dados fornecidos. ACESSE OBRIGATORIAMENTE o PDF do edital em https://www.polkfl.gov/bid-form/cs-25-303/ para confirmar data e hora exata. Tipicamente Polk County usa prazo às 2:00 PM ET.",
+      "documentos_lista": [
+        "Formulário de proposta preenchido e assinado",
+        "Tabela de preços por item ou percentual de desconto sobre catálogo",
+        "Certificado de Seguro (Certificate of Insurance) atualizado",
+        "Registro da empresa na Flórida - Sunbiz (sunbiz.org)",
+        "Formulário W-9",
+        "Referências de clientes anteriores (mínimo 3)",
+        "Declaração de Drug-Free Workplace",
+        "Formulário de conflito de interesses",
+        "Qualquer licença profissional exigida no edital",
+        "Confirmar lista completa no PDF oficial do edital"
+      ],
+      "seguros_detalhado": {
+        "GL": "Estimar $1,000,000 por ocorrência / $2,000,000 agregado — confirmar no PDF do edital",
+        "workers_comp": "Obrigatório conforme lei da Flórida se houver funcionários — confirmar limites no edital",
+        "bond": "Provavelmente não exigido para fornecimento de materiais, mas confirmar no PDF do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Sim, especialmente se sua empresa já é distribuidora ou revendedora de materiais hidráulicos em Polk County ou região. O Fit Score de 72/100 indica compatibilidade razoável. Contratos CS (Continuing Services) de fornecimento de materiais são interessantes porque, uma vez aprovado, sua empresa entra na lista de fornecedores habilitados e pode receber pedidos recorrentes ao longo de 1-3 anos de vigência. A desvantagem é que não há volume mínimo garantido, mas o Condado de Polk tem grande infraestrutura pública (escolas, parques, edifícios administrativos, utilidades) e consome materiais de encanamento de forma constante. Se você tem estoque disponível, preço competitivo e entrega rápida, vale muito a pena."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) Concorrência com grandes distribuidores nacionais (Ferguson Enterprises, Hajoca, HD Supply, Waxman) que têm poder de compra e margens mais agressivas; 2) Necessidade de estoque diversificado para atender pedidos variados do condado; 3) Capacidade de entrega rápida (o condado pode exigir entrega em 24-48h para itens urgentes); 4) Certificados de seguro atualizados nos valores exigidos; 5) Experiência comprovada com contratos governamentais (referências). Para pequenas empresas, a estratégia de nicho — especialização em certas linhas de produtos, atendimento personalizado e proximidade geográfica — pode superar a desvantagem de escala."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para distribuidores/revendedores de materiais hidráulicos em contratos governamentais, a margem bruta típica fica entre 15% e 35%, dependendo da categoria de produto e do seu poder de negociação com fabricantes. Itens de alto giro (conexões PVC, fita veda-rosca, registros comuns) têm margem menor mas volume maior. Itens especializados ou de baixo giro podem ter margem maior. Considere também custos operacionais: entrega, armazenagem, processamento de pedidos e eventual suporte técnico. A margem líquida para pequenas empresas neste segmento costuma ficar entre 8% e 18%. Sem o PDF completo do edital, não é possível calcular com precisão — analise os itens listados e compare com seus custos reais de aquisição."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento/venda de materiais e equipamentos de encanamento (sem instalação), geralmente NÃO é necessária licença de encanador (plumber's license). Você precisa apenas do registro regular de empresa comercial na Flórida (Division of Corporations - Sunbiz) e eventuais licenças municipais/do condado para operar como distribuidor. Se o contrato incluir qualquer serviço de instalação ou manutenção (verifique o escopo exato no PDF), aí sim seria necessária licença de plomeiro certificado no estado da Flórida (State Certified Plumbing Contractor). Confirme o escopo exato no edital — o título sugere apenas 'equipment, fixtures and supplies' (fornecimento de materiais), sem serviço."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "O modelo mais comum para este tipo de contrato em Polk County é: (1) Desconto sobre lista de preços do fabricante/distribuidor — ex: 'X% abaixo do preço de catálogo Mueller' — o que protege você de flutuações de mercado; ou (2) Tabela de preços unitários por item específico listado no edital. Recomendações: pesquise compras históricas do condado no portal de transparência (polkfl.gov) para entender quais itens são mais demandados; negocie melhores condições com seus fornecedores antes de submeter; inclua custos de frete e entrega no seu preço ou especifique claramente se há cobrança adicional; ofereça um desconto que seja sustentável por toda a vigência do contrato (1-3 anos); não ofereça desconto tão agressivo que comprometa sua margem em períodos de alta de preços de commodities como cobre e PVC."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de submissão não foi divulgada nos dados fornecidos. É obrigatório acessar o PDF oficial do edital em https://www.polkfl.gov/bid-form/cs-25-303/ para confirmar a data e hora limite. Tipicamente, editais de Polk County exigem submissão até as 2:00 PM (horário local, ET) na data estipulada. Não perca o prazo — propostas atrasadas são automaticamente desqualificadas.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais do tipo CS de Polk County, espera-se: (1) Formulário de proposta preenchido e assinado; (2) Lista de preços por item (price sheet/catalog pricing); (3) Certificado de seguro (Certificate of Insurance) com os valores exigidos; (4) Formulário de referências de clientes anteriores (mínimo 3 geralmente); (5) Formulário de conflito de interesses e declaração de ética; (6) Registro da empresa no estado da Flórida (Sunbiz); (7) Formulário W-9; (8) Qualquer outra declaração exigida no edital (ex: Drug-Free Workplace, Non-Discrimination). Confirmar lista completa no PDF.\n\nREQUISITOS TÉCNICOS | Espera-se que o fornecedor comprove capacidade de atender pedidos de forma ágil (entrega rápida ou retirada em loja/distribuidor local). Produtos devem atender normas técnicas aplicáveis (ASTM, ANSI, NSF quando aplicável para contato com água potável). Pode ser exigida lista de fabricantes/marcas aceitas ou equivalência. O condado pode exigir que itens sejam novos, sem uso e dentro das especificações originais do fabricante. É comum exigirem desconto sobre lista de preços publicada (price list discount structure) ao invés de preço fixo por item.\n\nSEGUROS E GARANTIAS | Não detalhados nos dados fornecidos. Com base no padrão Polk County para contratos de fornecimento de materiais: General Liability geralmente $1,000,000 por ocorrência / $2,000,000 agregado; Workers' Compensation conforme exigência do estado da Flórida (obrigatório se tiver funcionários); Auto Liability se houver entrega com veículo próprio (~$1,000,000); Performance Bond geralmente NÃO exigido para contratos de fornecimento simples, mas confirmar no edital.\n\nCOMO CALCULAR O PREÇO | Para contratos CS de suprimentos, o modelo usual é: (A) Oferecer uma porcentagem de desconto sobre o catálogo/lista de preços oficial do fabricante/distribuidor; ou (B) Submeter uma tabela de preços por item. Estratégia: pesquise os preços de mercado dos itens mais comuns usados pelo condado (verificar compras anteriores no portal de transparência), calcule sua margem desejada (20-40% para distribuidores de materiais hidráulicos é razoável), e ofereça desconto competitivo sobre lista. Considere custos de entrega, estoque mínimo, e eventuais pedidos urgentes.\n\nESTRATÉGIA DE SUBMISSÃO | (1) Baixe e leia o PDF completo imediatamente; (2) Se for distribuidor autorizado de marcas reconhecidas (Mueller, Nibco, Watts, Charlotte Pipe, etc.), destaque isso; (3) Se tiver loja/depósito em Polk County ou região, enfatize proximidade e rapidez na entrega; (4) Participe de eventuais Pre-Bid Meetings se houver; (5) Envie perguntas formais ao condado antes do prazo de Q&A para esclarecer dúvidas sobre itens ou forma de precificação; (6) Certifique-se que todos os formulários estão assinados — falta de assinatura é causa comum de desqualificação.\n\nRISCOS | (1) Contrato sem volume garantido — pode gerar poucos pedidos; (2) Concorrência com grandes distribuidores (Ferguson, Hajoca, HD Supply) que têm poder de desconto maior; (3) Flutuação de preços de materiais (cobre, PVC) pode corroer margem se o contrato usar tabela de preços fixa; (4) Exigências de entrega rápida podem ser difíceis sem estoque adequado; (5) Renovações anuais dependem de desempenho satisfatório.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse HOJE o link https://www.polkfl.gov/bid-form/cs-25-303/ e baixe o PDF completo do edital para confirmar prazo, lista de itens, forma de precificação e requisitos de seguro. PASSO 2: Verifique se sua empresa está registrada no portal de fornecedores de Polk County e se seus certificados de seguro estão atualizados com os valores exigidos. PASSO 3: Monte a planilha de preços com base nos itens listados no edital, consultando seus fornecedores para garantir competitividade, e prepare todos os documentos exigidos com antecedência mínima de 5 dias úteis antes do prazo.",
+      "ai_analyzed_at": "2026-06-10T13:19:42.989Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "CS — Lista aberta de vendors",
         "badge": "CS",
@@ -184,17 +331,52 @@
       "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
       "veredito": "go",
       "fit_score": 72,
-      "resumo_simples": "",
+      "resumo_simples": "Compra de tintas e materiais/suprimentos da marca Sherwin Williams para uso pelo Condado de Polk, FL — como tintas, primers, solventes e acessórios de pintura para manutenção de instalações públicas.",
       "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O Condado de Polk (Polk County), Florida, está buscando fornecedor para suprir tintas e suprimentos da marca Sherwin Williams (Sherwin Williams Paint and Supplies). Isso tipicamente inclui: tintas internas e externas em diversas cores e acabamentos, primers, selantes, solventes, diluentes, rolos, pincéis, bandejas e demais acessórios de pintura. O contrato provavelmente funciona como um 'contrato guarda-chuva' (cooperative/term contract) onde o condado compra conforme necessidade ao longo de um período determinado, com preços fixados (geralmente desconto sobre lista de preços Sherwin Williams). Quantidades exatas não foram divulgadas pois dependem da demanda durante a vigência do contrato. Os produtos seriam entregues ou retirados em lojas Sherwin Williams parceiras ou entregues nas instalações do condado conforme necessidade.",
+      "prazo_submissao": "Prazo não disponível nos dados fornecidos. Acesse imediatamente o edital completo em https://www.polkfl.gov/bid-form/cs-25-475/ para confirmar a data e hora exata de submissão.",
+      "documentos_lista": [
+        "Formulário oficial de proposta do Polk County preenchido e assinado",
+        "Lista de preços ou percentual de desconto sobre tabela Sherwin Williams vigente",
+        "Certificado de registro de empresa no Estado da Flórida",
+        "Formulário W-9 assinado",
+        "Certificado de seguro General Liability (mínimo $1.000.000)",
+        "Certificado de Workers Compensation (se aplicável)",
+        "Comprovação de status de distribuidor/revendedor autorizado Sherwin Williams",
+        "Referências de contratos governamentais anteriores (se exigido)",
+        "Certificado de seguro Auto Liability (se realizar entregas com frota própria)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado (valor típico Polk County — confirmar no edital)",
+        "workers_comp": "Obrigatório conforme legislação da Flórida se a empresa possuir funcionários",
+        "bond": "Provavelmente não exigido para contrato de fornecimento de produtos, mas confirmar no edital PDF"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende diretamente do perfil da sua empresa. Vale muito a pena SE você já é revendedor, distribuidor autorizado ou tem parceria comercial com a Sherwin Williams, pois contratos com o governo garantem fluxo de caixa previsível e volume constante. O Fit Score de 72/100 indica potencial razoável. NÃO vale a pena se sua empresa é apenas aplicadora de tintas (prestadora de serviço de pintura) sem capacidade de fornecimento/revenda dos produtos — nesse caso você provavelmente não atende os requisitos básicos de elegibilidade."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "A principal barreira é ser um fornecedor/revendedor autorizado da Sherwin Williams — sem esse status, a empresa provavelmente não pode participar. Outras barreiras incluem: capacidade de manter estoque ou acesso rápido aos produtos, concorrência direta com a própria rede Sherwin Williams e grandes distribuidores regionais que operam com margens muito menores, e cumprimento de todos os requisitos de seguros e documentação do Polk County. Para pequenas empresas, a competição por preço pode ser o maior desafio."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de fornecimento de produtos como este, a margem tipicamente varia entre 10% e 25% dependendo do volume negociado com o fabricante e do desconto ofertado ao governo. Distribuidores autorizados conseguem comprar com 30-40% de desconto do preço de varejo e podem oferecer 20-25% de desconto ao governo mantendo margem saudável. Revendedores menores com menos poder de negociação podem ter margens mais apertadas (8-15%). É fundamental negociar pricing especial para contrato governamental diretamente com o representante comercial Sherwin Williams antes de calcular sua proposta."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento de tintas e suprimentos (venda de produtos), não é necessária licença de empreiteiro (contractor license). Você precisa de: registro ativo de empresa no Estado da Flórida, Business Tax Receipt/Occupational License do município onde opera, e mais importante, status de revendedor/distribuidor autorizado pela Sherwin Williams. Se o contrato envolver qualquer serviço de aplicação de tinta (o que não parece ser o caso aqui), aí sim seria necessária licença de painting contractor na Flórida."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "A precificação mais comum neste tipo de contrato é oferecer um percentual fixo de desconto sobre a tabela de preços de varejo (retail/list price) da Sherwin Williams vigente. Para ser competitivo: 1) Consulte seu representante Sherwin Williams e negocie o melhor preço de custo para contratos governamentais; 2) Pesquise contratos similares de outros condados da Flórida para saber qual desconto é praticado (muitos são públicos); 3) Calcule: se você compra com 35% de desconto do preço de lista e oferece 20% de desconto ao governo, sua margem bruta é de aproximadamente 23% sobre o preço final; 4) Considere custos de entrega, administrativos e overhead para definir sua margem mínima aceitável; 5) Ofereça um desconto que seja competitivo mas sustentável — geralmente entre 15% e 30% sobre preço de lista é a faixa comum em contratos governamentais de tintas."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | O prazo exato não está disponível nos dados fornecidos. É imprescindível acessar o edital completo em https://www.polkfl.gov/bid-form/cs-25-475/ para confirmar a data e hora limite de submissão. Contratos do tipo CS (Cooperative/Supply) do Polk County geralmente têm prazos de 2 a 4 semanas após publicação. Acesse o portal imediatamente para não perder o deadline.\n\nDOCUMENTOS EXIGIDOS | Contratos deste tipo em Polk County normalmente exigem: formulário de proposta preenchido e assinado, lista de preços ou desconto percentual sobre tabela Sherwin Williams vigente, certificado de registro no estado da Flórida, formulário de W-9, certificados de seguro (GL e Workers Comp), e possivelmente referências de contratos similares. Confirme a lista exata no PDF do edital.\n\nREQUISITOS TÉCNICOS | Por se tratar de fornecimento de produtos de marca específica (Sherwin Williams), o licitante deve ser: distribuidor autorizado Sherwin Williams, revendedor credenciado, ou loja franqueada da rede. Pequenas empresas de pintura que apenas aplicam tinta provavelmente NÃO se qualificam diretamente — o foco aqui é no fornecimento/venda dos produtos, não na aplicação. O fornecedor deve ter capacidade de atender pedidos do condado de forma consistente e com entrega ágil.\n\nSEGUROS E GARANTIAS | Polk County tipicamente exige: General Liability mínimo de $1.000.000 por ocorrência, Workers Compensation conforme legislação da Flórida (obrigatório se tiver funcionários), Auto Liability se houver entrega com veículos próprios. Bond (surety bond) geralmente não é exigido para contratos de fornecimento de produtos, mas confirme no edital. O condado deve ser listado como Additional Insured no certificado de GL.\n\nCOMO CALCULAR O PREÇO | A precificação neste tipo de contrato geralmente é feita como percentual de desconto sobre o preço de lista (retail price) da Sherwin Williams. Exemplo: 'oferecemos 25% de desconto sobre todos os produtos da tabela de preços vigente'. Quanto maior o desconto ofertado, mais competitiva a proposta. Calcule sua margem considerando: custo de aquisição dos produtos, custo de entrega/logística, overhead administrativo, e margem de lucro desejada (tipicamente 10-20% para distribuidores). Pesquise o preço de custo atual junto ao seu representante Sherwin Williams antes de submeter.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Confirme imediatamente o prazo no portal; 2) Se você já é cliente ou revendedor Sherwin Williams, entre em contato com seu representante comercial para obter pricing especial para contratos governamentais; 3) Ofereça um desconto competitivo mas que preserve sua margem; 4) Destaque capacidade de entrega rápida e disponibilidade de estoque; 5) Mencione experiência prévia com contratos governamentais se houver; 6) Submeta todos os documentos com antecedência mínima de 48 horas.\n\nRISCOS | Principal risco: este contrato pode ser exclusivo para distribuidores/revendedores autorizados Sherwin Williams — empresas sem esse status podem ser desqualificadas. Outro risco: flutuação de preços dos produtos pode comprimir margens se o contrato fixar desconto por período longo. Risco de volume: como é contrato por demanda, o volume real de compras pode ser baixo. Risco competitivo: a própria Sherwin Williams ou grandes distribuidores regionais podem participar com preços muito mais competitivos.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse https://www.polkfl.gov/bid-form/cs-25-475/ hoje mesmo, baixe o PDF completo do edital e confirme o prazo de submissão e todos os requisitos de elegibilidade; 2) ATÉ 48H: Verifique se sua empresa é elegível (distribuidor/revendedor autorizado Sherwin Williams) e entre em contato com representante Sherwin Williams para negociar pricing de custo para contratos governamentais; 3) ATÉ 1 SEMANA: Calcule sua estrutura de desconto ofertado, reúna toda a documentação necessária e submeta a proposta com antecedência.",
+      "ai_analyzed_at": "2026-06-10T13:20:45.265Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "CS — Lista aberta de vendors",
         "badge": "CS",
@@ -223,17 +405,54 @@
       "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
       "veredito": "go",
       "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "resumo_simples": "Compra de produtos químicos e herbicidas usados para controlar e eliminar plantas aquáticas invasoras em lagos, rios e áreas ambientais do Condado de Polk, na Flórida.",
+      "categoria_curta": "Compra de produtos químicos",
+      "o_que_comprar": "O Condado de Polk (Polk County), Flórida, está solicitando o fornecimento de produtos químicos e herbicidas voltados especificamente para o controle de plantas aquáticas invasoras (aquatic weeds) e para uso em áreas de preservação ambiental (environmental lands). Os produtos típicos neste tipo de edital incluem herbicidas aquáticos registrados pela EPA como fluridone, glyphosate aquático, imazapyr, diquat, endothall, triclopyr, entre outros adjuvantes e surfactantes compatíveis. As quantidades exatas, marcas aceitas, especificações técnicas detalhadas, locais de entrega e cronograma de fornecimento devem ser verificados diretamente no PDF do edital disponível em https://www.polkfl.gov/bid-form/cs-25-456/, pois esses dados não foram disponibilizados no resumo fornecido. Trata-se de um Commodity Solicitation (CS), o que indica compra de produtos/commodities e não prestação de serviço de aplicação.",
+      "prazo_submissao": "Data não disponível nos dados fornecidos. Acesse imediatamente o PDF do edital em https://www.polkfl.gov/bid-form/cs-25-456/ para confirmar a data e hora exata de submissão. Não perca o prazo - configure alerta de calendário.",
+      "documentos_lista": [
+        "Formulário de proposta de preços (Bid Form) preenchido e assinado",
+        "Lista de preços unitários por item/produto",
+        "Informações da empresa: nome legal, endereço, FEIN/Tax ID",
+        "Fichas de dados de segurança (SDS/MSDS) de todos os produtos ofertados",
+        "Certificados de registro EPA dos produtos químicos/herbicidas",
+        "Labels (rótulos) dos produtos aprovados para uso na Flórida",
+        "Certificado de seguro (Certificate of Insurance) com GL e Workers' Comp",
+        "Referências de contratos governamentais anteriores (se exigido)",
+        "Formulário de registro de fornecedor do Polk County (se ainda não cadastrado)",
+        "Sunbiz (registro ativo da empresa no estado da Flórida)",
+        "Confirmar lista completa no PDF do edital"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência / $2.000.000 agregado (valor típico Polk County - confirmar no edital)",
+        "workers_comp": "Exigido conforme leis do estado da Flórida (confirmar limites no edital)",
+        "bond": "Provavelmente não exigido para compra de commodities, mas confirmar no PDF do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 72/100 e veredito 'go', este edital apresenta boa oportunidade para empresas distribuidoras ou revendedoras de produtos químicos e herbicidas aquáticos. Vale a pena se sua empresa já trabalha com esses produtos ou tem acesso a fornecedores/fabricantes. O Condado de Polk é um dos maiores condados da Flórida, com extensas áreas de lagos e preservação ambiental, o que indica demanda consistente e contratos de médio/longo prazo ou com renovações anuais."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Necessidade de fornecedores/fabricantes de herbicidas aquáticos registrados pela EPA - não são produtos de venda livre comum; (2) Conhecimento técnico sobre os produtos para preencher especificações corretamente; (3) Concorrência de distribuidores estabelecidos que já fornecem para o condado; (4) Requisitos regulatórios específicos da Flórida (FDEP/FDACS) para produtos aquáticos; (5) Capital de giro para comprar estoque e aguardar pagamento governamental (30-45 dias após entrega). Para pequenas empresas, o maior desafio é competir em preço com distribuidores de grande volume."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para distribuição de produtos químicos em contratos governamentais, margens típicas variam entre 12% e 25% sobre o custo de aquisição. Herbicidas aquáticos especializados podem ter margens maiores (18-25%) por serem produtos de nicho com menos concorrentes. Contudo, se a concorrência for intensa, margens podem ser comprimidas para 10-15%. Considere todos os custos: aquisição do produto, frete para entrega no condado, armazenagem, seguros, overhead administrativo e eventual custo de capital. Recomenda-se calcular o break-even e não precificar abaixo de 12% de margem líquida."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento (venda/distribuição) de pesticidas e herbicidas na Flórida, é necessário verificar os requisitos do FDACS (Florida Department of Agriculture and Consumer Services). A licença de Pesticide Dealer pode ser necessária dependendo dos produtos. Importante: este edital é de COMPRA de produtos (CS - Commodity Solicitation), não de aplicação. Se fosse aplicação, seria obrigatório possuir Licensed Pesticide Applicator Certificate. Para venda/distribuição, consulte o FDACS em fdacs.gov e confirme no edital se há exigência de licença específica. Registro ativo no Sunbiz é obrigatório."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga esta metodologia: (1) Liste todos os itens do edital e cote preços com pelo menos 2-3 fabricantes/distribuidores (SePRO, Nufarm, UPL, Helena). (2) Calcule custo total incluindo produto + frete + seguro + overhead (use 10% de overhead). (3) Pesquise preços de mercado desses produtos online e em distribuidores agrícolas da Flórida para ter referência competitiva. (4) Aplique margem de lucro de 15-20% para ser competitivo mas sustentável. (5) Para itens de maior volume/valor, seja mais agressivo no preço. (6) Para itens especializados ou de menor demanda, mantenha margem maior. (7) Em editais de commodities, o critério geralmente é menor preço por item ou menor preço total - revise qual critério o edital usa antes de definir estratégia."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data e hora exata de submissão não foram incluídas nos dados fornecidos. É obrigatório acessar o PDF do edital em https://www.polkfl.gov/bid-form/cs-25-456/ para confirmar o prazo. Prazos típicos do Polk County para CS são entre 2 a 4 semanas após publicação. Recomenda-se verificar imediatamente e configurar alerta de calendário com 3 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Editais de Commodity Solicitation do Polk County geralmente exigem: formulário de proposta de preço preenchido e assinado, lista de preços unitários por item, informações do fornecedor (nome legal, endereço, FEIN/Tax ID), referências de contratos similares anteriores, fichas técnicas (SDS/MSDS) dos produtos ofertados, registros EPA dos produtos químicos, e em alguns casos certificado de registro como fornecedor do Polk County. Confirmar lista completa no PDF.\n\nREQUISITOS TÉCNICOS | Os produtos devem ser herbicidas registrados pela U.S. EPA para uso em ambientes aquáticos no estado da Flórida. O estado da Flórida possui regulamentações específicas da FDEP (Florida Department of Environmental Protection) e do FDACS (Florida Department of Agriculture and Consumer Services) para herbicidas aquáticos. Os produtos devem estar aprovados para uso na Flórida, com rótulos (labels) que permitam aplicação em corpos d'água. Embalagens devem atender especificações do edital. Entrega provavelmente será em depósito(s) do condado em Polk County.\n\nSEGUROS E GARANTIAS | Para fornecimento de produtos químicos, o Polk County tipicamente exige: General Liability Insurance mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigência do estado da Flórida, e Auto Liability se houver entrega com veículos próprios. Performance Bond geralmente não é exigido para compras de commodities, mas confirmar no edital. O condado deve ser listado como Additional Insured.\n\nCOMO CALCULAR O PREÇO | 1) Identifique todos os itens da lista de preços unitários no edital. 2) Calcule seu custo de aquisição do fabricante/distribuidor. 3) Some custos de frete/entrega até Polk County. 4) Adicione custos de armazenagem se aplicável. 5) Calcule seguros e overhead (tipicamente 8-15% para distribuidores). 6) Aplique margem de lucro de 12-25% dependendo da competitividade. 7) Compare com preços de mercado de distribuidores de herbicidas aquáticos na Flórida (SePRO, Nufarm, UPL, BASF são fabricantes comuns). 8) Para editais de commodities, o menor preço geralmente vence - seja competitivo.\n\nESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score de 72/100 com veredito 'go', o que indica boa oportunidade. Estratégia recomendada: (a) Estabeleça relacionamento com 2-3 distribuidores/fabricantes de herbicidas aquáticos para garantir preços competitivos, como SePRO Corporation, Nufarm Americas ou PBI/Gordon. (b) Verifique se você possui ou pode obter registro como fornecedor aprovado do Polk County antes da submissão. (c) Certifique-se de que os produtos ofertados possuem registro EPA ativo e label aprovado para uso na Flórida. (d) Submeta proposta para TODOS os itens da lista se possível, pois condados preferem fornecedores completos. (e) Inclua fichas técnicas de todos os produtos. (f) Considere oferecer desconto por volume ou entrega em prazo menor como diferencial.\n\nRISCOS | (1) Concorrência de distribuidores estabelecidos com contratos históricos com o condado. (2) Flutuação de preços de produtos químicos agrícolas pode comprimir margens. (3) Regulamentações estaduais da Flórida são rígidas para herbicidas aquáticos - risco de não conformidade de produto. (4) Possibilidade de exigência de experiência prévia em fornecimento para governos. (5) Contratos de commodities frequentemente têm cláusulas de renovação, beneficiando o fornecedor atual. (6) Quantidades estimadas podem variar muito ao longo do contrato.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://www.polkfl.gov/bid-form/cs-25-456/ e baixe o PDF completo do edital. Identifique o prazo exato de submissão, lista completa de produtos/itens, quantidades estimadas e local de entrega. PASSO 2 (ATÉ 48 HORAS): Entre em contato com distribuidores de herbicidas aquáticos registrados na Flórida (SePRO, Nufarm, UPL, Helena Agri-Enterprises) para cotar preços. Verifique se sua empresa está registrada como fornecedor do Polk County (vendor registration). Contate o Purchasing Department do Polk County para esclarecer dúvidas técnicas e solicitar adenda se necessário. PASSO 3 (ANTES DO PRAZO): Prepare proposta de preços com todos os itens, reúna documentos exigidos, obtenha certificados de seguro atualizados e submeta proposta antes do prazo com todos os anexos exigidos.",
+      "ai_analyzed_at": "2026-06-10T13:21:53.714Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "CS — Lista aberta de vendors",
         "badge": "CS",
@@ -298,17 +517,56 @@
       "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
+      "resumo_simples": "O Condado de Polk (Florida) quer contratar uma empresa para prestar serviços de limpeza e conservação predial em múltiplos prédios públicos, divididos em três grupos (A, B e C), cobrindo diferentes localidades e tipos de instalações governamentais.",
       "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Contratação de serviços de limpeza (janitorial services) para instalações públicas do Condado de Polk, FL, organizadas em três grupos: Grupo A, Grupo B e Grupo C. Os serviços tipicamente incluem limpeza de pisos, banheiros, áreas comuns, salas administrativas, esvaziamento de lixeiras, aspiração de carpetes, limpeza de vidros internos e manutenção geral da higiene das edificações. A divisão em grupos sugere diferentes prédios ou regiões geográficas do condado, permitindo que empresas participem de um, dois ou todos os grupos. Quantidades exatas, metragens, frequência de limpeza e endereços específicos dos prédios devem ser confirmados no PDF do edital disponível em https://www.polkfl.gov/bid-form/bid-24-610/. O Condado de Polk é um dos maiores da Flórida, podendo envolver dezenas de edificações públicas como escritórios administrativos, centros comunitários, instalações de manutenção e outras dependências governamentais.",
+      "prazo_submissao": "Data não disponível nos metadados. Acesse o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ para confirmar data e hora exata do deadline, bem como possível data de visita técnica obrigatória.",
+      "documentos_lista": [
+        "Formulário oficial de proposta de preço assinado (fornecido pelo condado)",
+        "Certificado de seguro - General Liability com Polk County como Additional Insured",
+        "Certificado de seguro - Workers' Compensation",
+        "Certificado de seguro - Commercial Auto (se aplicável)",
+        "Registro da empresa no estado da Flórida (Sunbiz)",
+        "Formulário W-9 preenchido e assinado",
+        "Lista de referências de contratos de limpeza anteriores (mínimo 3)",
+        "Lista de equipamentos de limpeza disponíveis",
+        "Lista de produtos de limpeza utilizados",
+        "Declaração de E-Verify compliance",
+        "Declaração de não conflito de interesse",
+        "Performance Bond (confirmar se exigido no edital)",
+        "Possivelmente: plano de limpeza (cleaning plan) por grupo"
+      ],
+      "seguros_detalhado": {
+        "GL": "Estimado $1.000.000 por ocorrência / $2.000.000 agregado - confirmar valor exato no edital PDF",
+        "workers_comp": "Obrigatório conforme legislação da Flórida - confirmar limites mínimos no edital PDF",
+        "bond": "A confirmar no edital PDF - típico em contratos governamentais de limpeza; se exigido, geralmente Performance Bond de 100% do valor anual do contrato"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 65/100 e status 'watch', vale a pena avaliar com cautela. Licitações de limpeza predial para condados são contratos estáveis e recorrentes, geralmente com duração de 1-3 anos com opção de renovação. Para uma pequena empresa de limpeza já estabelecida em Polk County, com equipe disponível e seguros em dia, pode ser uma excelente oportunidade de crescimento. O ponto crítico é confirmar o escopo exato (quantos prédios, qual metragem) para verificar se sua capacidade operacional é compatível. A divisão em Grupos A, B e C é um ponto positivo, pois permite que empresas menores licitem apenas 1 grupo em vez de assumir todo o contrato."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Seguros — obter GL e Workers' Comp nos valores exigidos tem custo inicial significativo para empresas muito pequenas; (2) Experiência comprovada — condados geralmente exigem referências de contratos governamentais ou comerciais de porte similar; (3) Background check dos funcionários — exigência comum em prédios públicos que pode atrasar contratações e aumentar custos de RH; (4) Capacidade operacional — dependendo do número de prédios em cada grupo, pode ser necessária uma equipe mínima de 5-15 pessoas; (5) Competição de preço — empresas maiores com economias de escala podem ofertar preços muito competitivos; (6) Possível Performance Bond — se exigido, pode ser barreira financeira para empresas sem histórico de crédito sólido."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos de limpeza predial governamental, a margem de lucro líquida típica fica entre 8% e 18%, dependendo da eficiência operacional. Empresas que conseguem manter baixa rotatividade de funcionários, utilizam equipamentos próprios e têm supervisão eficiente tendem a atingir margens na faixa superior. Atenção: muitas pequenas empresas perdem dinheiro nos primeiros meses do contrato por subestimar custos de treinamento, substituição de funcionários, materiais e transporte. Recomenda-se calcular o custo real antes de aplicar a margem, e não o contrário. Licitações públicas exigem que o preço mais baixo nem sempre vença — qualidade e referências também contam em muitos casos."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para serviços de limpeza (janitorial) na Flórida, não existe uma licença estadual específica obrigatória para a atividade em si, diferente de, por exemplo, serviços de pest control. Porém, você precisará: (1) Registro ativo da empresa no estado da Flórida via Sunbiz (LLC, Corp ou similar); (2) Business Tax Receipt (BTR) do município/condado onde a empresa opera; (3) Registro no E-Verify (exigência para contratos governamentais na Flórida); (4) Possivelmente, licença de vendedor (Seller's Permit) se houver venda de produtos incluída. Verifique também se o edital exige alguma certificação específica como ISSA (International Sanitary Supply Association) ou Green Cleaning certification, que algumas agências governamentais valorizam."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga este processo: (1) VISITE todos os prédios do(s) grupo(s) que pretende licitar — anote metragem, tipos de piso, número de banheiros, frequência de uso e condição atual; (2) CALCULE horas necessárias por visita: divida a área por um índice de produtividade realista (ex: 300-400 sqft/hora para limpeza básica, menos para banheiros e áreas de alto tráfego); (3) MULTIPLIQUE pela frequência mensal e pelo seu custo real de mão de obra (salário + payroll taxes + benefícios + EPI = tipicamente $18-25/hora all-in na Flórida); (4) ADICIONE materiais (8-12% do custo de MO), supervisão, transporte e overhead administrativo (10-15%); (5) APLIQUE margem de 12-18% sobre o custo total; (6) COMPARE com o preço histórico do contrato anterior, se disponível via public records request ao condado. Nunca precifique para baixo esperando recuperar depois — contratos públicos têm preço fixo."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de abertura e o deadline não foram informados nos metadados disponíveis. É OBRIGATÓRIO acessar o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ para confirmar a data e hora limite de submissão, o local de entrega (físico ou eletrônico) e possíveis datas de visita técnica obrigatória (mandatory site visit), que são comuns em editais de limpeza predial. Recomenda-se verificar também o portal oficial de licitações do Polk County para atualizações e adendos.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais de janitorial services em condados da Flórida, espera-se: formulário oficial de proposta de preço assinado; referências de contratos anteriores similares (geralmente 3 a 5 referências); certidão de registro da empresa (Sunbiz/Florida Division of Corporations); certificados de seguro (GL, Workers' Comp, Auto); lista de equipamentos disponíveis; lista de produtos de limpeza (alguns condados exigem produtos EPA Safer Choice ou green cleaning); declaração de não conflito de interesse; formulário W-9; e possivelmente declaração de cumprimento do E-Verify. Confirmar lista exata no edital PDF.\n\nREQUISITOS TÉCNICOS | Espera-se que o edital especifique: frequência dos serviços (diária, semanal, mensal); horários permitidos de execução; equipe mínima exigida; exigência de supervisor dedicado; treinamento dos funcionários; uso de EPI; controle de acesso às instalações (possível exigência de background check para todos os funcionários); e plano de limpeza (cleaning schedule). A divisão em Grupos A, B e C sugere que é possível licitar por grupo separadamente, o que favorece pequenas empresas que podem não ter capacidade para atender todos os prédios simultaneamente.\n\nSEGUROS E GARANTIAS | Contratos de limpeza para condados da Flórida tipicamente exigem: General Liability de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigência do estado da Flórida (obrigatório para empresas com 4+ funcionários, ou qualquer número em construção); Commercial Auto Liability se houver veículos utilizados; e possível Performance Bond. O Condado de Polk deve ser listado como 'Additional Insured' nos certificados. Valores exatos devem ser confirmados no edital.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Faça visita técnica a todos os prédios dos grupos que pretende licitar — meça as áreas, identifique tipos de piso, quantidade de banheiros e número de andares; (2) Calcule horas de mão de obra por visita × frequência mensal × custo/hora (incluindo salário, encargos, benefícios e overhead — na Flórida, considere ao menos $15-18/hora para limpadores + 25-30% de encargos); (3) Adicione custo de materiais e equipamentos (tipicamente 8-12% do custo total); (4) Adicione custos administrativos e supervisão; (5) Aplique margem de lucro de 10-20%; (6) Considere reajuste anual se o contrato for plurianual. Atenção: editais de limpeza têm alta competitividade — evite subprecificar para ganhar, pois isso resulta em prejuízo operacional.\n\nESTRATÉGIA DE SUBMISSÃO | Recomendações: (1) Participe da visita técnica obrigatória, se houver — é oportunidade de avaliar os prédios e demonstrar seriedade; (2) Considere licitar apenas os grupos onde você tem capacidade operacional real — é melhor vencer 1 grupo com lucro do que perder dinheiro em 3; (3) Solicite esclarecimentos por escrito dentro do prazo de perguntas (Q&A period) para esclarecer dúvidas técnicas; (4) Prepare proposta visualmente organizada, mesmo que o formato seja simples — demonstra profissionalismo; (5) Destaque experiência com contratos governamentais similares nas referências; (6) Certifique-se de que todos os certificados de seguro já estejam atualizados antes de submeter.\n\nRISCOS | (1) Alta competitividade — limpeza predial é um dos segmentos mais disputados em licitações públicas, com muitos concorrentes de pequeno e médio porte; (2) Margens apertadas — o risco de subprecificação é alto; (3) Rotatividade de mão de obra — dificuldade em manter equipe estável pode gerar penalidades contratuais; (4) Exigência de background check dos funcionários pode aumentar custos e tempo de contratação; (5) Contratos governamentais podem ter cláusula de cancelamento com aviso prévio de 30-60 dias, gerando instabilidade; (6) Custos de seguro podem ser significativos para empresas muito pequenas.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse IMEDIATAMENTE o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ e confirme: deadline de submissão, data de visita técnica, lista de prédios por grupo e requisitos de seguro. PASSO 2: Agende ou confirme participação na visita técnica (site visit) aos prédios — sem essa visita, é impossível precificar com precisão. PASSO 3: Solicite cotações atualizadas de seguro (GL + Workers' Comp) com seu corretor, especificando que o Condado de Polk será Additional Insured, para garantir que os custos de compliance estejam incluídos na proposta.",
+      "ai_analyzed_at": "2026-06-10T13:23:11.565Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "ITB — Menor preço ganha",
         "badge": "ITB",
@@ -339,17 +597,54 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
+      "resumo_simples": "O governo do Estado da Flórida (Departamento de Crianças e Famílias) quer contratar uma empresa de limpeza para realizar serviços de limpeza no Roberts Building, um prédio público em uso pelo DCF.",
       "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-07-07",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Contratação de serviços de limpeza comercial/predial para o Roberts Building, pertencente ou utilizado pelo Department of Children and Families (DCF) da Flórida. Os serviços tipicamente incluem limpeza de escritórios, banheiros, corredores, áreas comuns, esvaziamento de lixeiras, aspiração de carpetes, limpeza de pisos, vidros internos, e manutenção geral da higiene do edifício. Frequência, equipe mínima, horários de execução, produtos a utilizar e especificações técnicas detalhadas devem ser confirmados diretamente no edital completo disponível em: https://vendor.myfloridamarketplace.com/search/bids/ITB-15466. Não foram fornecidos documentos anexos para análise detalhada de quantitativos ou metragens.",
+      "prazo_submissao": "07/07/2026 - confirme a hora exata de encerramento na plataforma MyFloridaMarketplace em https://vendor.myfloridamarketplace.com/search/bids/ITB-15466",
+      "documentos_lista": [
+        "Formulário de proposta de preços assinado (conforme modelo do edital)",
+        "Registro ativo na plataforma MyFloridaMarketplace (MFMP)",
+        "Certificado de seguro General Liability (com DCF como additional insured)",
+        "Certificado de seguro Workers' Compensation",
+        "Business License / Licença de operação ativa",
+        "Comprovante de registro no E-Verify",
+        "Referências de contratos de limpeza anteriores (governamentais ou comerciais)",
+        "Formulário de certificação de conflito de interesses",
+        "Formulário W-9 atualizado",
+        "Política de background check para funcionários (provável exigência DCF)",
+        "Lista de produtos/químicos de limpeza a serem utilizados (confirmar no edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Valor exato não divulgado - tipicamente $1.000.000 por ocorrência / $2.000.000 agregado para contratos DCF. Confirmar no edital completo.",
+        "workers_comp": "Obrigatório conforme legislação do Estado da Flórida. Valor exato a confirmar no edital completo.",
+        "bond": "Não confirmado - dependendo do valor do contrato pode ser exigido Performance Bond. Confirmar no edital completo."
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com base nas informações disponíveis (Fit Score 65/100 e status 'watch'), o edital tem potencial moderado. Vale a pena SE: sua empresa já possui funcionários com ficha limpa (ou processo de background check), tem seguro GL e Workers Comp ativos, está registrada no MFMP, e tem experiência comprovável em limpeza comercial. O contrato com o DCF é relativamente estável (governo estadual), o que garante pagamento regular. O risco principal é não conhecer o valor do contrato sem o edital completo. Recomendação: baixe o edital completo primeiro para confirmar requisitos e depois decida."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras prováveis são: 1) Exigência de background check rigoroso para todos os funcionários, por se tratar de ambiente DCF (crianças e famílias vulneráveis) - isso tem custo e tempo; 2) Necessidade de seguros ativos com valores mínimos específicos; 3) Possível exigência de experiência mínima em contratos governamentais; 4) Registro ativo e completo no MyFloridaMarketplace; 5) Concorrência de empresas maiores já estabelecidas com o DCF. As barreiras específicas (anos de experiência, bond, licença especial) não foram divulgadas no sumário - é essencial consultar o edital completo."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de limpeza governamental na Flórida, a margem líquida típica fica entre 8% e 18%, dependendo da eficiência operacional. Contratos governamentais tendem a pagar menos que o mercado privado premium, mas oferecem estabilidade de pagamento. Para maximizar a margem: otimize o número de funcionários e horas por visita, negocie fornecedores de produtos de limpeza em quantidade, e garanta que o preço cubra eventuais turnover de funcionários (comum no setor). Sem conhecer o valor estimado do contrato, é difícil projetar o retorno absoluto."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Na Flórida, serviços de limpeza comercial/janitorial geralmente não exigem licença estadual específica além da Business License (Sunbiz registration). Porém, confirme no edital completo se há exigência de: licença de manuseio de produtos químicos, certificação de limpeza verde (green cleaning), ou qualquer certificação profissional específica do DCF. O mais crítico para este tipo de contrato é o processo de background check dos funcionários e os seguros em dia."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos: 1) Obtenha a metragem do Roberts Building (via visita técnica ou pergunta oficial ao órgão); 2) Calcule custo real de mão de obra: horas necessárias x frequência x $15-20/hora (incluindo encargos); 3) Adicione 5-8% para materiais e produtos; 4) Adicione 10-12% de overhead (seguro, administração, veículo); 5) Aplique margem de 10-15%; 6) Compare com referências de contratos similares disponíveis no MFMP ou DMS. Evite subcotar drasticamente - contratos governamentais têm fiscalização e subcotar pode inviabilizar a operação. Busque ser competitivo, não necessariamente o mais barato."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do edital: 25/03/2026. Deadline para submissão de propostas: 07/07/2026. Isso representa uma janela de aproximadamente 3 meses e meio, o que é confortável para preparar uma proposta competitiva. Confirme a hora exata de encerramento diretamente na plataforma MyFloridaMarketplace (MFMP). Submissões fora do prazo são automaticamente rejeitadas na plataforma.\n\nDOCUMENTOS EXIGIDOS | Como o PDF do edital não foi fornecido para análise, os documentos tipicamente exigidos em licitações de limpeza do DCF na Flórida incluem: formulário de proposta de preços assinado, certidão de registro na plataforma MyFloridaMarketplace, comprovante de seguro (GL, Workers Comp, Auto se aplicável), licença de operação/business license ativa, referências de contratos anteriores com órgãos públicos ou privados, formulário de conflito de interesses, e documentação de conformidade com E-Verify. Acesse o edital completo para confirmar a lista exata.\n\nREQUISITOS TÉCNICOS | Espera-se que o contratado forneça toda a mão de obra, equipamentos, materiais e produtos de limpeza. Frequência de serviços (diária, semanal, mensal) precisa ser confirmada no edital. Pode haver exigência de supervisor ou encarregado presente durante a execução. Produtos utilizados podem ter que ser aprovados previamente. Funcionários podem necessitar de verificação de antecedentes criminais (background check) por se tratar de ambiente governamental do DCF. Uniformes identificados podem ser obrigatórios.\n\nSEGUROS E GARANTIAS | Valores exatos não foram divulgados no sumário do edital. Para contratos de limpeza governamental na Flórida, são comuns: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigência do Estado da Flórida (obrigatório para empresas com 4+ funcionários), Commercial Auto se houver uso de veículos da empresa, e pode ser exigido Performance Bond dependendo do valor do contrato. Confirme os valores exatos no edital completo.\n\nCOMO CALCULAR O PREÇO | 1) Levante a metragem quadrada total do Roberts Building (solicite nas perguntas oficiais do edital se não constar). 2) Calcule o custo de mão de obra: número de funcionários necessários x horas por visita x frequência mensal x custo/hora (incluindo impostos, benefícios e seguro). 3) Some o custo de materiais e produtos de limpeza (estimativa: 5-10% do custo total). 4) Adicione custo de equipamentos (depreciação/aluguel). 5) Inclua overhead administrativo (10-15%). 6) Aplique sua margem de lucro desejada (10-20% é razoável para contratos governamentais de limpeza). 7) Pesquise contratos similares do DCF no MFMP para ter referência de preços de mercado. Atenção: como o valor estimado não foi divulgado, não há referência oficial de budget.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Registre-se ou confirme cadastro ativo no MyFloridaMarketplace (MFMP). 2) Faça o download do edital completo e leia todos os anexos. 3) Submeta perguntas oficiais antes do prazo de Q&A (geralmente 2-3 semanas antes do deadline). 4) Destaque experiência prévia com contratos governamentais ou com o DCF especificamente. 5) Demonstre capacidade de realizar background check em funcionários. 6) Seja competitivo no preço, mas não comprometa qualidade - contratos de limpeza para DCF têm fiscalização rigorosa. 7) Revise todos os documentos antes de submeter na plataforma.\n\nRISCOS | Risco 1: Sem o PDF completo, há incerteza sobre requisitos específicos de experiência mínima (anos de operação, contratos anteriores de mesmo porte). Risco 2: O Roberts Building pode ter restrições de acesso por ser ambiente do DCF (trabalha com crianças e famílias vulneráveis), exigindo background check extenso dos funcionários. Risco 3: Valor estimado não divulgado dificulta avaliação de viabilidade financeira. Risco 4: Concorrência de empresas maiores já estabelecidas com contratos DCF. Risco 5: Possíveis exigências de certificações específicas (green cleaning, por exemplo).\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse imediatamente https://vendor.myfloridamarketplace.com/search/bids/ITB-15466, faça download do edital completo e de todos os anexos para análise detalhada. PASSO 2: Verifique os requisitos de seguros, experiência mínima e background check, e confirme se sua empresa já atende ou pode atender esses requisitos antes do deadline de 07/07/2026. PASSO 3: Solicite uma visita técnica ao Roberts Building (se permitida/prevista no edital) para levantar metragem, tipo de pisos, número de banheiros e demais informações necessárias para precificação precisa.",
+      "ai_analyzed_at": "2026-06-10T13:24:17.213Z",
+      "ai_model": "claude-sonnet-4-6",
       "is_award_notice": false,
       "fetchedAt": "2026-06-10"
     },
@@ -375,17 +670,55 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
+      "resumo_simples": "O governo do estado da Flórida (Departamento de Crianças e Famílias) quer contratar uma empresa de limpeza para realizar serviços de limpeza e conservação no Tampa Service Center, um escritório público localizado em Tampa, FL.",
       "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-07-15",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Contratação de serviços de limpeza (janitorial services) para o Tampa Service Center, unidade operacional do Department of Children and Families (DCF) localizada em Tampa, Flórida. Os serviços tipicamente incluem: limpeza de pisos, carpetes e superfícies; limpeza de banheiros e reposição de suprimentos (sabonete, papel toalha, papel higiênico); limpeza de janelas internas; esvaziamento de lixeiras e descarte de resíduos; limpeza de áreas de copa/cozinha; aspiração de carpetes; enceramento de pisos; limpeza de móveis e divisórias. A frequência de execução (diária, semanal, mensal) e as especificações exatas de metragem do imóvel, número de banheiros, salas e demais detalhes devem ser confirmados diretamente no documento completo do edital disponível no portal MyFlorida Market Place, pois o PDF do edital ainda não foi analisado.",
+      "prazo_submissao": "15/07/2026 — horário exato a confirmar no edital (provavelmente 2:00 PM ET, padrão do Estado da Flórida). Acesse: https://vendor.myfloridamarketplace.com/search/bids/ITB-15809",
+      "documentos_lista": [
+        "Formulário oficial de proposta de preço (Bid Price Sheet) preenchido e assinado",
+        "Cadastro ativo e atualizado no MyFlorida Market Place (MFMP)",
+        "Formulário W-9 atualizado",
+        "Certificado de General Liability Insurance com o Estado da Flórida como Additional Insured",
+        "Certificado de Workers' Compensation Insurance",
+        "Certificado de Commercial Auto Liability (se aplicável)",
+        "Referências de contratos de limpeza comercial anteriores (mínimo 2-3 referências)",
+        "Lista de produtos e equipamentos de limpeza a serem utilizados",
+        "Licença comercial (Business Tax Receipt) do município de Tampa ou Hillsborough County",
+        "Comprovante de experiência em serviços de limpeza comercial/predial",
+        "Política de background check para funcionários (verificar se exigido pelo DCF)",
+        "Eventuais adendos assinados (verificar no portal durante o período do edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência / $2.000.000 agregado (valor típico para contratos DCF — confirmar no edital)",
+        "workers_comp": "Obrigatório conforme Florida Statute 440 — cobertura total para todos os funcionários (confirmar limites exatos no edital)",
+        "bond": "A confirmar no edital — editais de limpeza do Estado da Flórida podem ou não exigir Performance Bond; se exigido, geralmente 100% do valor anual do contrato"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com um Fit Score de 65/100 e status 'watch', este edital tem potencial moderado. Vale a pena se sua empresa: (1) já opera em Tampa ou região, reduzindo custos de deslocamento; (2) tem experiência comprovada em limpeza de escritórios/órgãos públicos; (3) consegue atender o requisito de background check para funcionários; (4) tem estrutura para participar de contrato com o governo estadual (documentação, seguros, MFMP ativo). O ponto positivo é que serviços de limpeza têm baixa complexidade técnica e representam uma boa porta de entrada para contratos governamentais. O ponto negativo é que como é ITB (menor preço), a competição de preço pode ser intensa. Recomendação: baixe o edital completo, calcule seus custos reais e decida com base na viabilidade financeira."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras identificadas são: (1) BACKGROUND CHECK — O DCF trabalha com populações vulneráveis (crianças e famílias), então provavelmente exigirá verificação de antecedentes criminais de TODOS os funcionários que acessarão o local, o que pode aumentar custos e tempo de contratação; (2) EXPERIÊNCIA EM CONTRATOS PÚBLICOS — O edital pode exigir referências de contratos similares anteriores; (3) SEGUROS — Manter apólices de seguro adequadas tem custo fixo relevante para pequenas empresas; (4) COMPETIÇÃO DE PREÇO — Por ser ITB (menor preço vence), empresas maiores com mais escala podem ter vantagem competitiva; (5) CADASTRO NO MFMP — Necessário estar registrado e ativo no portal MyFlorida Market Place. Barreiras específicas de anos de experiência, bond e licença especial ainda precisam ser confirmadas no edital completo."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de limpeza predial governamental em Tampa, FL, a margem líquida típica para pequenas empresas varia entre 10% e 20%, dependendo de: eficiência operacional, custo de mão de obra local (Tampa tem mercado de trabalho competitivo), custos de suprimentos e equipamentos, e distância/logística. Empresas bem estruturadas com processos eficientes conseguem margens próximas a 20-25%. Empresas menos eficientes ou que subestimam custos (especialmente mão de obra com os encargos da Flórida) podem ficar em 8-12%. ATENÇÃO: Como o valor estimado não foi divulgado, é essencial fazer o levantamento real dos custos antes de precificar. Não arrisque propor preço muito baixo apenas para ganhar — contratos de limpeza mal precificados são a principal causa de prejuízo para pequenas empresas neste segmento."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para serviços de limpeza comercial na Flórida, geralmente não é exigida licença estadual específica de limpeza, mas você precisará de: (1) Business Tax Receipt (licença comercial) emitida pelo município de Tampa e/ou Hillsborough County; (2) Registro como entidade legal na Flórida (LLC, Corp, etc.) ativo no Sunbiz (Division of Corporations); (3) Cadastro ativo no MyFlorida Market Place (MFMP); (4) Federal Employer Identification Number (EIN/FEIN). Se a empresa utilizar produtos químicos específicos ou serviços especializados (como dedetização conjunta), licenças adicionais podem ser necessárias. Confirme os requisitos exatos de licenciamento diretamente no edital completo."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga este processo para precificar corretamente: (1) VISITE O LOCAL — Agende uma visita ao Tampa Service Center para medir a área em sq ft, contar banheiros, salas, áreas de circulação e entender o fluxo de trabalho; (2) CALCULE HORAS — Estime quantas horas por semana/mês são necessárias para executar todos os serviços do escopo; (3) MÃO DE OBRA — Em Tampa, calcule $15-19/hora para auxiliares de limpeza + 20-25% de encargos (FICA, FUTA, SUTA, workers comp); (4) SUPRIMENTOS — Estime 8-12% do valor total para materiais e produtos; (5) OVERHEAD — Some custos fixos (seguro, veículo, supervisão, administração) — geralmente 15-20% do custo direto; (6) LUCRO — Adicione sua margem desejada (15-20%); (7) PESQUISE CONCORRÊNCIA — Consulte contratos anteriores similares do DCF no portal de transparência do Estado da Flórida para ter referência de preços históricos. Apresente o preço no formato solicitado pelo edital (mensal, anual ou por sq ft)."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura do processo é 30/04/2026 e o prazo final (deadline) para envio das propostas é 15/07/2026. É provável que o horário limite seja 2:00 PM (horário local de Tallahassee/Tampa) conforme padrão do Estado da Flórida, mas isso DEVE ser confirmado diretamente no edital completo disponível em: https://vendor.myfloridamarketplace.com/search/bids/ITB-15809. Atenção: propostas fora do prazo são automaticamente desclassificadas, sem exceções. | DOCUMENTOS EXIGIDOS | Com base no padrão de editais ITB do DCF/Estado da Flórida para serviços de limpeza, os documentos geralmente exigidos são: formulário de proposta de preço preenchido (Bid Price Sheet), certificado de registro no MyFlorida Market Place (MFMP), W-9 atualizado, certificados de seguro (GL, Workers' Comp, Auto), referências de contratos anteriores similares, lista de equipamentos e produtos de limpeza a serem utilizados, e eventualmente comprovante de licença de negócio local. O edital completo deve ser consultado para a lista exata. | REQUISITOS TÉCNICOS | Espera-se que a empresa contratada forneça toda a mão de obra, equipamentos, materiais e suprimentos de limpeza, salvo indicação contrária no edital. Normalmente exige-se que os funcionários passem por background check (verificação de antecedentes criminais), dado que o local é um órgão público que atende famílias e crianças vulneráveis — este é um requisito CRÍTICO para contratos com o DCF. A empresa deve ter experiência comprovada em limpeza comercial/predial. | SEGUROS E GARANTIAS | O padrão do Estado da Flórida para este tipo de contrato normalmente exige: General Liability (GL) de pelo menos $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme legislação da Flórida (obrigatório se tiver 4 ou mais funcionários); Commercial Auto Liability se houver uso de veículos; o Estado deve ser listado como Additional Insured. Bond (fiança) pode ou não ser exigido — verificar no edital. Valores exatos devem ser confirmados no documento original. | COMO CALCULAR O PREÇO | Para precificar corretamente: 1) Visite o local pessoalmente para medir a área total (sq ft) e mapear banheiros, salas, áreas comuns; 2) Estime o número de horas semanais necessárias; 3) Calcule o custo de mão de obra (salário + benefícios + payroll taxes — média de $15-18/hora em Tampa para auxiliares de limpeza); 4) Some o custo de suprimentos e materiais (estimativa de 8-12% do valor do contrato); 5) Adicione custos de equipamentos, seguros, overhead e lucro (margens típicas de 15-25% para pequenas empresas neste segmento); 6) Pesquise contratos similares do DCF no banco de dados público do Estado para referência de preços históricos. | ESTRATÉGIA DE SUBMISSÃO | 1) Baixe e leia o edital completo imediatamente; 2) Registre-se ou confirme cadastro ativo no MFMP (myfloridamarketplace.com); 3) Submeta perguntas por escrito dentro do prazo de Q&A do edital (geralmente 2-3 semanas após abertura); 4) Agende visita ao local (site visit) se houver — é altamente recomendado; 5) Garanta que todos os certificados de seguro estejam atualizados; 6) Prepare proposta com preço competitivo mas sustentável — editais ITB são julgados pelo MENOR PREÇO, então competitividade é essencial; 7) Envie a proposta com antecedência mínima de 48 horas para evitar problemas técnicos no portal. | RISCOS | Principais riscos identificados: (1) Exigência de background check para todos os funcionários pode gerar custo extra e atrasos na contratação de pessoal; (2) Como é um ITB (menor preço), a concorrência de preço pode ser agressiva; (3) Valor estimado não divulgado dificulta o planejamento financeiro inicial; (4) Contratos de limpeza para órgãos públicos têm fiscalização rigorosa e penalidades por descumprimento; (5) Rotatividade de funcionários pode ser um desafio operacional em Tampa. | PRÓXIMOS 3 PASSOS | PASSO 1 (Imediato — Esta semana): Acesse o link do edital (https://vendor.myfloridamarketplace.com/search/bids/ITB-15809), faça o download de TODOS os documentos e leia o escopo completo, requisitos de seguro, cronograma de perguntas e site visit. PASSO 2 (Semana 1-2): Visite o Tampa Service Center pessoalmente para medir as instalações, entender o fluxo de pessoas e identificar necessidades específicas; submeta perguntas formais ao órgão dentro do prazo estabelecido no edital. PASSO 3 (Semanas 3-10): Prepare e revise sua proposta de preço, obtenha/atualize certificados de seguro, organize toda a documentação exigida e submeta a proposta via MFMP antes do prazo de 15/07/2026.",
+      "ai_analyzed_at": "2026-06-10T13:25:34.133Z",
+      "ai_model": "claude-sonnet-4-6",
       "is_award_notice": false,
       "fetchedAt": "2026-06-10"
     },
@@ -447,17 +780,54 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
+      "resumo_simples": "Contratação de serviço de limpeza (janitorial) para o Escritório Estadual de Materiais do FDOT localizado em Gainesville, Florida.",
       "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-22",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O governo do Estado da Flórida (FDOT) deseja contratar uma empresa de limpeza (janitorial services) para realizar serviços de limpeza e conservação no seu Escritório Estadual de Materiais (State Materials Office) localizado em Gainesville, FL. Os serviços tipicamente incluem limpeza de pisos, banheiros, áreas comuns, escritórios, esvaziamento de lixeiras, aspiração de carpetes, limpeza de superfícies e janelas internas, reposição de materiais de higiene (papel toalha, sabonete, papel higiênico), além de serviços periódicos como limpeza profunda. As quantidades exatas, frequência das visitas (diária, semanal, mensal), metragem quadrada do local e especificações técnicas detalhadas estão disponíveis no edital completo publicado no portal MyFloridaMarketplace. O link direto é: https://vendor.myfloridamarketplace.com/search/bids/ITB-16153. Como os documentos do edital não foram anexados, recomenda-se acessar o portal para obter o escopo completo antes de qualquer decisão.",
+      "prazo_submissao": "22/06/2026 — hora exata deve ser confirmada no portal MyFloridaMarketplace: https://vendor.myfloridamarketplace.com/search/bids/ITB-16153",
+      "documentos_lista": [
+        "Formulário de proposta de preço (Bid Form) preenchido e assinado",
+        "Certificado de seguro (General Liability mínimo $1M/$2M)",
+        "Certificado de Workers' Compensation",
+        "Cópia da licença de negócio ativa (Sunbiz / Business License)",
+        "Registro ativo no MyFloridaMarketplace como fornecedor",
+        "Formulário W-9 (ou equivalente para pagamento governamental)",
+        "Lista de referências de contratos similares de limpeza",
+        "Declaração de conflito de interesses",
+        "Comprovante de participação em visita técnica obrigatória (se exigida)",
+        "Performance Bond (confirmar se exigido no edital completo)",
+        "Declaração de empresa pequena / certificação SBE (se aplicável)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado anual — FDOT deve constar como Additional Insured. Confirmar valor exato no edital completo.",
+        "workers_comp": "Obrigatório conforme lei da Flórida — cobertura estatutária exigida para todos os funcionários alocados no contrato.",
+        "bond": "A confirmar no edital completo — contratos de limpeza governamental de menor porte frequentemente não exigem Performance Bond, mas editais do FDOT podem solicitar. Verifique no documento oficial."
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com base nas informações disponíveis, o Fit Score atual é 65/100 (watch), o que indica potencial moderado. É um contrato de limpeza predial para escritório governamental em Gainesville — segmento de entrada relativamente acessível para pequenas empresas. O FDOT é um cliente pagador confiável e contratos governamentais oferecem estabilidade. No entanto, o valor estimado não foi divulgado, o que dificulta avaliar a atratividade financeira. Recomenda-se: acessar o edital completo para entender o escopo e estimar o valor, verificar se a empresa já tem infraestrutura na região de Gainesville (economiza mobilização), e calcular se o contrato cobre custos com margem adequada antes de decidir participar."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras para este tipo de edital são: 1) Registro ativo obrigatório no MyFloridaMarketplace e no Sunbiz — sem isso a empresa nem consegue submeter proposta; 2) Seguros com valores mínimos específicos — empresas muito pequenas podem ter dificuldade em obter GL de $1M+; 3) Background check dos funcionários — exigência comum em instalações do FDOT que pode gerar custo e tempo; 4) Experiência comprovada — o FDOT pode exigir referências de contratos similares; 5) Competição por preço — ITBs são julgados pelo menor preço, o que pressiona as margens; 6) Presença física em Gainesville — empresas de outras cidades terão custos de deslocamento que prejudicam competitividade."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos de limpeza governamental na Flórida, a margem líquida típica para pequenas empresas varia entre 10% e 20%, dependendo da eficiência operacional. Como este é um ITB (menor preço vence), a competição pode comprimir margens. Para maximizar: otimize rotas e escale eficientemente os funcionários, negocie bem os suprimentos de limpeza em volume, e evite subprecificar para 'ganhar o contrato' — contratos com margem negativa prejudicam o fluxo de caixa. Recomenda-se calcular custos reais com precisão antes de aplicar qualquer margem."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Na Flórida, serviços de limpeza (janitorial/cleaning) geralmente não exigem licença estadual específica do setor, diferente de, por exemplo, serviços de dedetização ou construção. No entanto, você precisará de: 1) Registro ativo no Sunbiz (Florida Division of Corporations) — obrigatório para contratos governamentais; 2) Business License local do município de Gainesville ou do condado de Alachua, se exigida; 3) Registro como fornecedor no MyFloridaMarketplace; 4) EIN (Employer Identification Number) do IRS. Verifique no edital completo se há exigência de alguma certificação específica de limpeza ou treinamento."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para precificar corretamente: 1) Faça a visita técnica ao local — é a etapa mais importante para entender o escopo real; 2) Calcule horas de trabalho necessárias por visita multiplicado pela frequência mensal; 3) Use taxa horária total (salário + FICA + seguro + benefícios) — em Gainesville, FL, estimativa de $18 a $25/hora total por funcionário; 4) Some custos de materiais (tipicamente $50 a $150/mês para escritório médio); 5) Inclua overhead (supervisão, transporte, telefone) — adicione 15 a 20% sobre custos diretos; 6) Aplique margem de lucro de 15 a 20%; 7) Pesquise preços de contratos similares publicados no FDOT para ter benchmark. Dica: não submeta o menor preço possível sem fazer as contas — contratos governamentais têm penalidades por má execução."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO: A data de abertura do edital é 02/06/2026 e o prazo final para submissão das propostas é 22/06/2026. Isso significa que há aproximadamente 20 dias entre a abertura e o fechamento. A hora exata de encerramento deve ser confirmada diretamente no portal MyFloridaMarketplace (https://vendor.myfloridamarketplace.com/search/bids/ITB-16153), pois editais do FDOT normalmente estabelecem horário até as 14h ou 17h (horário do leste). ATENÇÃO: propostas enviadas após o prazo são automaticamente desclassificadas.\n\nDOCUMENTOS EXIGIDOS: Em editais de limpeza do FDOT, os documentos normalmente exigidos incluem: formulário de proposta de preço preenchido (Bid Form), certificado de seguro (General Liability + Workers' Compensation), cópia da licença de negócio (Business License/Sunbiz), formulário de referências de contratos similares, formulário de certificação de empresa pequena (se aplicável), W-9 ou documentação de registro no MyFloridaMarketplace, declaração de conflito de interesses, e eventualmente formulário de visita técnica obrigatória ao local (mandatory site visit). Acesse o edital completo para confirmar a lista exata de documentos exigidos.\n\nREQUISITOS TÉCNICOS: Serviços de limpeza para escritórios governamentais na Flórida geralmente exigem: registro ativo no Sunbiz (Florida Division of Corporations), registro ativo no MyFloridaMarketplace como fornecedor, capacidade de fornecer todos os materiais e equipamentos de limpeza (salvo disposição contrária no edital), funcionários com background check (verificação de antecedentes criminais), pois trata-se de instalação governamental. Pode haver exigência de visita técnica obrigatória ao local antes da submissão da proposta — verifique no edital se há data agendada para site visit.\n\nSEGUROS E GARANTIAS: Para contratos de limpeza governamental na Flórida, os seguros típicos exigidos são: General Liability (GL) mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pela lei da Flórida (obrigatório para empresas com 4 ou mais funcionários, mas recomendado mesmo para empresas menores em contratos governamentais); Commercial Auto Liability se funcionários usarem veículos para o serviço. Performance Bond pode ser exigido dependendo do valor do contrato — verifique no edital. O FDOT deve ser listado como Additional Insured no certificado de seguro.\n\nCOMO CALCULAR O PREÇO: Para precificar corretamente, siga estes passos: 1) Faça a visita técnica ao local para medir a área e entender o escopo real; 2) Calcule o custo de mão de obra (horas necessárias x taxa horária incluindo impostos, seguro e benefícios); 3) Calcule os custos de materiais e suprimentos de limpeza mensais; 4) Inclua custos de transporte/deslocamento; 5) Adicione custos indiretos (supervisão, overhead); 6) Aplique margem de lucro de 15% a 25%; 7) Considere o custo do seguro como parte do overhead. Editais do FDOT geralmente pedem preço mensal e/ou anual, e eventualmente preço por tarefa específica. Pesquise contratos similares no banco de dados do FDOT para ter referência de preços praticados.\n\nESTRATÉGIA DE SUBMISSÃO: 1) Acesse imediatamente o portal e baixe TODOS os documentos do edital; 2) Confirme se há visita técnica obrigatória e agende sua participação; 3) Prepare os certificados de seguro com antecedência (leva 2-3 dias úteis); 4) Verifique se seu registro no MyFloridaMarketplace está ativo e atualizado; 5) Leia o edital completo buscando critérios de julgamento — ITB (Invitation to Bid) é julgado pelo MENOR PREÇO, portanto sua estratégia deve focar em eficiência operacional; 6) Submeta a proposta pelo menos 2 dias antes do prazo para evitar problemas técnicos no sistema; 7) Guarde confirmação de envio.\n\nRISCOS: Risco 1 — Desconhecimento do escopo real sem acesso ao edital completo: mitigado com leitura detalhada e visita técnica. Risco 2 — Precificação abaixo do custo por estimativa incorreta da área ou frequência de limpeza: mitigado com visita ao local. Risco 3 — Documentação incompleta ou fora do prazo: mitigado com checklist e submissão antecipada. Risco 4 — Background check dos funcionários pode gerar custo adicional e atraso na mobilização. Risco 5 — Renovação e renovação de seguros pode ser burocrática para empresas menores. Risco 6 — Valor estimado não divulgado dificulta avaliação da atratividade financeira do contrato.\n\nPRÓXIMOS 3 PASSOS: PASSO 1 (IMEDIATO — hoje): Acesse https://vendor.myfloridamarketplace.com/search/bids/ITB-16153, faça login ou crie conta, e baixe TODOS os documentos do edital para análise completa. PASSO 2 (dentro de 3 dias): Confirme se há visita técnica obrigatória agendada, verifique seu registro ativo no Sunbiz e no MyFloridaMarketplace, e contate sua seguradora para obter cotação dos certificados de seguro exigidos. PASSO 3 (até 10 dias antes do prazo): Realize a visita ao local, faça levantamento detalhado de custos, prepare e revise toda a documentação exigida, e submeta a proposta com antecedência mínima de 2 dias úteis antes do prazo de 22/06/2026.",
+      "ai_analyzed_at": "2026-06-10T13:26:49.787Z",
+      "ai_model": "claude-sonnet-4-6",
       "is_award_notice": false,
       "fetchedAt": "2026-06-10"
     },
@@ -483,23 +853,57 @@
       ],
       "veredito": "watch",
       "fit_score": 40,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "Compra de máquinas de fazer gelo (ice makers) para unidades de saúde do Departamento de Veteranos (VA) na Flórida, especificamente para a unidade GNV MICU.",
+      "categoria_curta": "Compra de equipamentos",
       "escopo": "SAM.gov. NAICS: 333415. Agência: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248). https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecb07e68e5cb4936870a844b3f2d507d",
       "set_aside": "None",
       "naics": "333415",
       "contact": "Jeremy.Parrish@va.gov",
       "contactName": "Jeremy C Parrish",
       "solicitationNumber": "36C24826Q0789",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-18",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Aquisição de máquinas de gelo (ice makers) para uso em unidade de terapia intensiva médica (MICU - Medical Intensive Care Unit) da rede hospitalar do Departamento de Assuntos de Veteranos dos EUA (VA), sob o código NAICS 333415 (fabricação de equipamentos de refrigeração e aquecimento de ar). A sigla GNV provavelmente se refere à instalação em Gainesville, FL. Quantidades exatas, marcas aceitas, especificações técnicas detalhadas (capacidade de produção de gelo por dia, tipo de gelo, dimensões, requisitos elétricos, certificações sanitárias) não estão disponíveis nos dados fornecidos e devem ser verificadas diretamente no edital publicado no SAM.gov. Trata-se de uma solicitação de cotação (RFQ - Request for Quotation), indicando compra direta de produto.",
+      "prazo_submissao": "18/06/2026 - Confirmar horário exato (provavelmente 16h ou 17h EST) no edital completo no SAM.gov",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com UEI/DUNS válido",
+        "Formulário de proposta de preço (SF-1449 ou formulário específico do edital)",
+        "Ficha técnica / datasheet do equipamento ofertado",
+        "Certificações do produto (NSF/ANSI 12, Energy Star, FDA se aplicável)",
+        "Prazo de entrega e condições de garantia por escrito",
+        "Documentação de small business / set-aside se aplicável (ex: SDVOSB, VOSB, 8(a))",
+        "Informações bancárias para SAM.gov (para pagamento via EFT)",
+        "Representações e Certificações (completadas no SAM.gov)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Verificar no edital - tipicamente $1.000.000 por ocorrência para fornecimento de produtos ao VA",
+        "workers_comp": "Geralmente não exigido para fornecedor de produto - confirmar no edital",
+        "bond": "Não esperado para RFQ de produto - confirmar no edital completo"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "O Fit Score de 40/100 indica adequação moderada-baixa. Vale a pena SE: sua empresa já distribui equipamentos de refrigeração/alimentação comercial, possui NAICS 333415 ativo, e principalmente se tiver certificação SDVOSB ou VOSB (Service-Disabled Veteran-Owned ou Veteran-Owned Small Business), pois o VA dá preferência enorme a essas empresas. Se não tiver essas certificações e não atuar no setor de equipamentos de refrigeração, o esforço pode não compensar dado o prazo curto e competição especializada."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Necessidade de ter acesso a distribuidores de ice makers comerciais aprovados para uso hospitalar (NSF certificados); (2) Prazo extremamente curto de 8 dias para preparar proposta; (3) Requisitos técnicos rigorosos para equipamentos em ambiente de UTI hospitalar; (4) Possível preferência por empresas certificadas como SDVOSB/VOSB pelo VA; (5) Competição com distribuidores estabelecidos que já possuem contratos com o VA; (6) Necessidade de NAICS 333415 ativo no cadastro SAM.gov."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para fornecimento de equipamentos ao governo federal, margens típicas variam entre 15% e 35% sobre o custo do produto, dependendo da competitividade. Ice makers comerciais de qualidade hospitalar custam entre $1.500 e $8.000 por unidade dependendo da capacidade. Se forem poucas unidades (1-5), o contrato pode valer entre $5.000 e $40.000, com margem líquida estimada de $1.000 a $10.000. Sem o valor estimado divulgado, é difícil calcular com precisão. Pesquise contratos similares no USASpending.gov para ter referência real."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento (venda) de equipamentos, geralmente não é necessária licença técnica específica além do registro no SAM.gov. Porém, SE o contrato incluir instalação do equipamento, pode ser necessária licença de eletricista ou técnico em refrigeração no estado da Flórida (licença de contratante emitida pelo DBPR). Verifique no edital completo se a instalação está inclusa no escopo ou se é apenas fornecimento do equipamento."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Estratégia de precificação recomendada: (1) Identifique o modelo exato solicitado no edital; (2) Obtenha cotações de pelo menos 3 distribuidores (WebstaurantStore, Ace Mart, TriMark, distribuidores locais em Gainesville/FL); (3) Adicione frete até o endereço de entrega do VA em Gainesville, FL; (4) Aplique margem de 20-25% sobre custo total; (5) Inclua garantia mínima de 1 ano; (6) Ofereça prazo de entrega curto (2-4 semanas) pois o VA valoriza agilidade; (7) Pesquise no USASpending.gov o histórico de preços pagos pelo VA em compras similares (NAICS 333415) para calibrar sua proposta competitivamente."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura do edital é 10/06/2026 e o prazo final para submissão de propostas é 18/06/2026. Isso representa uma janela de apenas 8 dias corridos para preparar e enviar a proposta. É fundamental acessar o edital completo no SAM.gov para confirmar o horário exato de encerramento (geralmente 16h ou 17h horário do leste). Recomenda-se submeter com pelo menos 24h de antecedência para evitar problemas técnicos na plataforma. | DOCUMENTOS EXIGIDOS | Como se trata de uma RFQ federal (VA), os documentos típicos exigidos incluem: registro ativo no SAM.gov, DUNS/UEI number ativo, proposta de preço preenchendo o formulário SF-1449 ou similar disponível no edital, especificações técnicas do produto ofertado (ficha técnica/datasheet), prazo de entrega, garantia do produto e informações sobre small business se aplicável. Verificar no edital se há formulários específicos do VA a serem preenchidos. | REQUISITOS TÉCNICOS | NAICS 333415 corresponde a fabricação de equipamentos de refrigeração comercial. A empresa precisa estar cadastrada com este ou NAICS compatível no SAM.gov. Os ice makers para ambiente hospitalar/ICU geralmente precisam atender normas sanitárias específicas (NSF/ANSI 12), ser aprovados pela FDA para uso em ambientes de saúde, e possuir certificação Energy Star ou equivalente. Verificar se o VA exige marca específica (como Manitowoc, Hoshizaki, Ice-O-Matic) ou aceita equivalentes. Confirmar tensão elétrica, capacidade mínima de produção e tipo de gelo (cubinho, nugget, escama) exigidos. | SEGUROS E GARANTIAS | Por ser uma compra de produto (não serviço), os requisitos de seguro tendem a ser menores. Geralmente para fornecimento de equipamentos ao VA exige-se: General Liability básica (mínimo $1M por ocorrência), não sendo comum exigência de Workers' Comp para vendedor de produto. Performance Bond raramente exigido em RFQs de baixo valor. Confirmar no texto completo do edital se há cláusulas FAR específicas de seguro. | COMO CALCULAR O PREÇO | O valor estimado não foi divulgado, o que é comum em RFQs do VA. Para precificar: (1) Identifique o modelo exato de ice maker solicitado ou equivalente aprovado; (2) Consulte preços de distribuidores (Sysco, WebstaurantStore, distribuidores locais de equipamentos comerciais); (3) Adicione custo de frete/entrega até Gainesville, FL; (4) Considere margem de 15% a 30% sobre custo para fornecedores de produto; (5) Se houver instalação inclusa, adicione custo de mão de obra e possível licença de instalação; (6) Verifique se há GSA Schedule ou contrato de preço já estabelecido para o item. Pesquise contratos similares anteriores no USASpending.gov para ter referência de valores pagos pelo VA. | ESTRATÉGIA DE SUBMISSÃO | Esta é uma RFQ simplificada, o que significa processo mais rápido e menos burocrático. Estratégia recomendada: (1) Acesse o edital IMEDIATAMENTE para baixar todos os documentos e identificar especificações exatas; (2) Verifique se há set-aside para Small Business, SDVOSB (Service-Disabled Veteran-Owned Small Business) ou VOSB - o VA frequentemente reserva compras para veteranos, o que pode ser uma vantagem competitiva enorme; (3) Confirme que seu SAM.gov está ativo com NAICS 333415; (4) Identifique o produto exato e obtenha cotações de pelo menos 3 fornecedores; (5) Submeta proposta competitiva com prazo de entrega curto, pois o VA valoriza agilidade. | RISCOS | Riscos identificados: (1) Janela de apenas 8 dias é muito curta para identificar produto, obter preços e preparar proposta; (2) Valor não divulgado dificulta análise de viabilidade prévia; (3) Hospitais do VA têm requisitos técnicos rigorosos para equipamentos médicos/hospitalares; (4) Possível exigência de entrega FOB Destination com prazo curto; (5) Se não houver set-aside para small business, competição com grandes distribuidores de equipamentos; (6) Risco de produto ser marca específica sem aprovação de equivalente; (7) Fit Score baixo (40/100) indica que este edital pode não ser ideal para o perfil da empresa. | PRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse imediatamente o link do edital https://sam.gov/workspace/contract/opp/ecb07e68e5cb4936870a844b3f2d507d/view e baixe todos os documentos anexos. Identifique: especificações técnicas exatas, quantidade, set-aside type, e requisitos de entrega. PASSO 2 (em 1-2 dias): Verifique seu cadastro no SAM.gov (deve estar ativo com NAICS 333415 ou similar). Pesquise o produto específico em distribuidores como Ace Mart, WebstaurantStore, TriMark e obtenha cotações. Consulte USASpending.gov por contratos anteriores similares do VA em Gainesville. PASSO 3 (até 2 dias antes do prazo): Prepare e submeta a proposta via SAM.gov com preço competitivo, prazo de entrega definido, ficha técnica do produto e todos os formulários exigidos preenchidos.",
+      "ai_analyzed_at": "2026-06-10T13:27:52.706Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-10"
     },
     {
@@ -524,23 +928,57 @@
       ],
       "veredito": "watch",
       "fit_score": 50,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "Compra de máquinas de gelo (ice makers) para unidades de cuidados intensivos móveis (MICU) do Departamento de Assuntos de Veteranos (VA) na rede do Florida/região 8.",
+      "categoria_curta": "Compra de equipamentos",
       "escopo": "SAM.gov. NAICS: 333415. Agência: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248). https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a39e5b8e10244b28aefd508b91516309",
       "set_aside": "Service-Disabled Veteran-Owned Small Business Set Aside",
       "naics": "333415",
       "contact": "Jeremy.Parrish@va.gov",
       "contactName": "Jeremy Parrish",
       "solicitationNumber": "36C24826Q0789",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-18",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O edital solicita a aquisição de máquinas de gelo (Ice Makers) para unidades MICU (Mobile Intensive Care Unit) do Departamento de Assuntos de Veteranos (VA), sob o código NAICS 333415 (fabricação de equipamentos de refrigeração e aquecimento de ar). O número do edital é 36C24826Q0789 e é gerenciado pelo Network Contract Office 8 (NCO 8), que cobre hospitais e clínicas VA na região do sudeste dos EUA, incluindo Florida. As quantidades exatas, especificações técnicas detalhadas e locais de entrega não foram divulgados nesta fase de pré-solicitação (Presolicitation), sendo necessário acompanhar a publicação do edital completo para obter esses detalhes.",
+      "prazo_submissao": "18 de junho de 2026 (data exata e horário devem ser confirmados no edital completo quando publicado em 10/06/2026 no SAM.gov)",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com UEI válido",
+        "Código NAICS 333415 no perfil da empresa",
+        "Quote/proposta comercial com preço unitário e total",
+        "Ficha técnica do equipamento (datasheet do fabricante)",
+        "Prazo de entrega confirmado",
+        "Representações e Certificações (Reps & Certs) atualizadas no SAM.gov",
+        "Documentação de equivalência técnica (se produto não for da marca especificada)",
+        "Informações bancárias para pagamento federal (ACH)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Provavelmente não exigido para fornecimento simples de produto; confirmar no edital completo",
+        "workers_comp": "Provavelmente não exigido para fornecimento simples de produto; confirmar no edital completo",
+        "bond": "Não esperado para este tipo de compra de equipamento de pequeno/médio valor; confirmar no edital completo"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "O Fit Score atual é 50/100, indicando oportunidade moderada. Vale a pena se sua empresa já fornece ou distribui equipamentos de refrigeração/ice makers comerciais ou hospitalares, especialmente se tiver experiência prévia com contratos federais ou VA. O principal ponto positivo é que compras de equipamentos ao VA são geralmente pagas com rapidez e o relacionamento pode gerar contratos futuros. O ponto negativo é o prazo curto e valor estimado não divulgado."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: 1) Necessidade de registro ativo no SAM.gov; 2) Possível exigência de produto de marca específica aprovada pelo VA; 3) Concorrência de distribuidores já credenciados com contratos GSA Schedule; 4) Prazo de apenas 8 dias para preparar e submeter proposta após publicação; 5) Sem histórico de fornecimento ao VA, pode ser mais difícil ganhar confiança do avaliador."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para fornecimento de equipamentos ao governo federal, margens típicas para revendedores ficam entre 15% e 30% dependendo da concorrência e do valor do contrato. Se você for distribuidor autorizado do fabricante, pode trabalhar com margens maiores. Pesquise contratos similares no FPDS.gov usando o NAICS 333415 e palavras-chave 'ice maker VA' para ter referência de preços praticados anteriormente."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento simples de equipamentos (sem instalação), geralmente não é necessária licença específica além do registro no SAM.gov. Se o contrato incluir instalação do equipamento, pode ser necessária licença de contratante em Florida (dependendo do escopo elétrico/hidráulico). Aguardar o edital completo para verificar se há exigência de instalação e quais licenças seriam necessárias nesse caso."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "1) Identifique o modelo específico solicitado no edital completo; 2) Obtenha cotação do fabricante ou distribuidor; 3) Pesquise o mesmo produto no GSA Advantage para referência de preço federal; 4) Consulte o FPDS.gov para verificar preços pagos em contratos anteriores similares; 5) Some ao custo do produto: frete até a instalação VA, embalagem, e sua margem (15-25%); 6) Seja competitivo mas não abaixo do custo - o VA busca 'best value' e não apenas menor preço."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura do edital completo está prevista para 10 de junho de 2026, com prazo final de submissão de propostas em 18 de junho de 2026. O prazo entre abertura e fechamento é de apenas 8 dias corridos, o que exige preparação antecipada. Recomenda-se monitorar o SAM.gov a partir de maio de 2026 para não perder a publicação oficial. | DOCUMENTOS EXIGIDOS | Como se trata de uma pré-solicitação, os documentos finais não foram divulgados. Tipicamente para este tipo de compra federal (equipamentos), são exigidos: registro ativo no SAM.gov, DUNS/UEI ativo, oferta técnica e comercial (quote), especificações do produto com documentação do fabricante, capacidade de entrega e prazo, e possivelmente representações e certificações (Reps & Certs). | REQUISITOS TÉCNICOS | O NAICS 333415 refere-se a fabricação ou fornecimento de equipamentos de refrigeração comercial. As máquinas de gelo para uso em ambiente hospitalar/MICU geralmente precisam atender padrões específicos de saúde (NSF/ANSI 18 ou equivalente), ser compatíveis com as instalações existentes do VA, e possivelmente ser de marcas aprovadas ou equivalentes. Aguardar o edital completo para especificações de modelo, voltagem, capacidade de produção diária e dimensões. | SEGUROS E GARANTIAS | Para fornecimento de equipamentos ao governo federal de pequeno valor, geralmente não há exigência de performance bond. Seguro de responsabilidade civil geral (GL) pode ser exigido se houver instalação do equipamento. Verificar o edital completo para confirmar. | COMO CALCULAR O PREÇO | Pesquisar preços de mercado para ice makers hospitalares/comerciais compatíveis com uso em MICU. Considerar: custo do produto, frete para a instalação do VA na Florida, margem de lucro (recomendado 15-25% para revendedores), custos de embalagem e documentação. Verificar preços em GSA Advantage e contratos similares anteriores no FPDS.gov para benchmarking. | ESTRATÉGIA DE SUBMISSÃO | 1) Registrar-se no SAM.gov imediatamente se ainda não estiver registrado. 2) Fazer contato com o contracting officer para se apresentar como potencial fornecedor ainda na fase de pré-solicitação. 3) Identificar o fabricante ou distribuidor autorizado do equipamento. 4) Preparar catálogo e ficha técnica do produto antecipadamente. 5) Se for revendedor, confirmar disponibilidade de estoque e prazo de entrega antes de submeter a proposta. | RISCOS | Prazo muito curto entre publicação e fechamento (8 dias). Valor estimado não divulgado, dificultando precificação estratégica. Possível preferência por contratistas com histórico de fornecimento ao VA. Concorrência de distribuidores estabelecidos com contratos VA/GSA vigentes. Especificações técnicas podem ser restritivas a marcas específicas. | PRÓXIMOS 3 PASSOS | 1) IMEDIATO: Confirmar registro ativo no SAM.gov e verificar se o código NAICS 333415 está no perfil da empresa. 2) ATÉ MAIO 2026: Acessar o link do edital regularmente (https://sam.gov/workspace/contract/opp/a39e5b8e10244b28aefd508b91516309/view) para monitorar a publicação do edital completo e identificar especificações técnicas. 3) AO PUBLICAR O EDITAL COMPLETO: Preparar quote com documentação técnica do produto, confirmação de prazo de entrega e preço competitivo dentro dos 8 dias disponíveis.",
+      "ai_analyzed_at": "2026-06-10T13:28:40.335Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-10"
     },
     {
