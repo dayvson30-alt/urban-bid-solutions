@@ -3390,7 +3390,41 @@
         "compete": true
       },
       "fetchedAt": "2026-06-12"
+    },
+    {
+      "id": "orange-y26-181",
+      "source": "Orange County",
+      "orgao": "Orange County FL",
+      "condado": "Orange",
+      "estado": "FL",
+      "bidNum": "Y26-181",
+      "bidType": "IFB",
+      "title": "Supply and Installation of Traffic Signal Equipment",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "6/11/2026",
+      "deadline": "7/21/2026",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://procurement.opengov.com/portal/embed/orangecountyfl/project-list?departmentId=all&status=all#",
+      "veredito": "go",
+      "fit_score": 80,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "7/21/2026",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "addenda": 0,
+      "fetchedAt": "2026-06-12"
     }
   ],
-  "updatedAt": "2026-06-12T12:00:13.899Z"
+  "updatedAt": "2026-06-12T12:05:18.252Z"
 }
