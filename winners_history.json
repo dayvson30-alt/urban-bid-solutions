@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T18:00:05.396Z",
+  "lastUpdated": "2026-06-16T18:00:04.838Z",
   "source": "USASpending.gov",
   "state": "FL",
   "byNaicsGroup": {
@@ -14,7 +14,7 @@
       "topVendors": [
         {
           "name": "GLOBAL CONNECTIONS TO EMPLOYMENT, INC.",
-          "totalValue": 64350786.16,
+          "totalValue": 64206630.18,
           "contractCount": 8,
           "contracts": [
             {
@@ -37,12 +37,12 @@
             },
             {
               "description": "CUSTODIAL SERVICES FOR THE WASHINGTON DC CAMPUS",
-              "amount": 6853108.15,
-              "amountFmt": "$6.853.108,15",
+              "amount": 6708952.17,
+              "amountFmt": "$6.708.952,17",
               "startDate": "2021-10-01",
-              "endDate": "2026-06-30",
+              "endDate": "2026-05-31",
               "agency": "",
-              "link": "https://www.usaspending.gov/award/CONT_AWD_20342322C00005_2036_-NONE-_-NONE-"
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140D0426C9407_1406_-NONE-_-NONE-"
             },
             {
               "description": "FOURTH OPTION PERIOD RECURRING WORK",
@@ -90,9 +90,9 @@
               "link": "https://www.usaspending.gov/award/CONT_AWD_FA481425F0005_9700_FA481420D0003_9700"
             }
           ],
-          "totalFmt": "$64.350.786,16",
-          "avgValue": 8043848.27,
-          "avgValueFmt": "$8.043.848"
+          "totalFmt": "$64.206.630,18",
+          "avgValue": 8025828.7725,
+          "avgValueFmt": "$8.025.829"
         },
         {
           "name": "BREVARD ACHIEVEMENT CENTER, INC.",
@@ -132,7 +132,7 @@
               "amount": 14996561.52,
               "amountFmt": "$14.996.561,52",
               "startDate": "2024-03-30",
-              "endDate": "2026-08-29",
+              "endDate": "2029-03-29",
               "agency": "",
               "link": "https://www.usaspending.gov/award/CONT_AWD_36C24824P1027_3600_-NONE-_-NONE-"
             },
@@ -734,22 +734,22 @@
         },
         {
           "name": "ESA SOUTH, INC.",
-          "totalValue": 80529494.18,
+          "totalValue": 81070793.82,
           "contractCount": 1,
           "contracts": [
             {
               "description": "BILOXI BUILDING 1 RENOVATION",
-              "amount": 80529494.18,
-              "amountFmt": "$80.529.494,18",
+              "amount": 81070793.82,
+              "amountFmt": "$81.070.793,82",
               "startDate": "2025-01-07",
               "endDate": "2027-11-10",
               "agency": "",
               "link": "https://www.usaspending.gov/award/CONT_AWD_36C10F25C50000_3600_-NONE-_-NONE-"
             }
           ],
-          "totalFmt": "$80.529.494,18",
-          "avgValue": 80529494.18,
-          "avgValueFmt": "$80.529.494"
+          "totalFmt": "$81.070.793,82",
+          "avgValue": 81070793.82,
+          "avgValueFmt": "$81.070.794"
         }
       ],
       "totalContracts": 20,
