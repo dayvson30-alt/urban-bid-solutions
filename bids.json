@@ -67,17 +67,55 @@
       "link": "https://procurement.opengov.com/portal/embed/orangecountyfl/project-list?departmentId=all&status=all#",
       "veredito": "go",
       "fit_score": 80,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "7/21/2026",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "resumo_simples": "Fornecimento e instalação de equipamentos de semáforo (sinais de trânsito) para o Condado de Orange, FL — inclui compra dos materiais e mão de obra de instalação.",
+      "categoria_curta": "Instalação de semáforos",
+      "o_que_comprar": "O edital Y26-181 do Orange County FL solicita o fornecimento (compra) E a instalação de equipamentos de sinalização semafórica (traffic signal equipment). Embora o escopo detalhado não tenha sido disponibilizado nos documentos anexados, editais deste tipo tipicamente incluem: controladores de semáforo, postes, braços de suporte (mast arms), cabeças de sinal (signal heads) com LEDs, detectores de veículos (loops ou câmeras), caixas de controle, fiação, conduits, gabinetes, e toda a infraestrutura elétrica necessária. A instalação envolve trabalho em campo nas vias públicas do condado, com possível necessidade de fechamento parcial de pistas e sinalização temporária de obra. Quantidades específicas, locais exatos e especificações técnicas detalhadas precisam ser obtidos diretamente no portal: https://procurement.opengov.com/portal/embed/orangecountyfl/project-list",
+      "prazo_submissao": "Deadline: 21 de julho de 2026. Horário exato deve ser confirmado no edital completo no portal OpenGov do Orange County FL. Tipicamente 2:00 PM ou 5:00 PM Eastern Time.",
+      "documentos_lista": [
+        "Formulário oficial de proposta (Bid Form) com preços unitários preenchidos",
+        "Bid Bond de 5% do valor total da proposta (confirmar % no edital)",
+        "Certificado de seguro: General Liability, Workers Comp, Auto Liability",
+        "Licença de Electrical Contractor válida no Estado da Flórida",
+        "Lista de subcontratados e suas qualificações",
+        "Referências de projetos similares concluídos (mínimo 3, confirmar no edital)",
+        "Formulário de certificação EEO / Non-Discrimination",
+        "Registro como fornecedor no sistema do Orange County",
+        "Qualificações do profissional técnico responsável",
+        "Formulário de certificação de Drug-Free Workplace (exigido pela Flórida)",
+        "Possível certificação SBE (Small Business Enterprise) do Orange County",
+        "Todos os adendos emitidos, assinados e incluídos na proposta"
+      ],
+      "seguros_detalhado": {
+        "GL": "$1.000.000 por ocorrência / $2.000.000 agregado (confirmar valores exatos no edital)",
+        "workers_comp": "Statutory limits conforme Florida Statute — obrigatório para todos os funcionários",
+        "bond": "Sim — Bid Bond estimado em 5% do valor da proposta; Performance Bond e Payment Bond de 100% do contrato após adjudicação (confirmar no edital)"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende do perfil da sua empresa. O Fit Score de 80/100 indica boa compatibilidade geral. Vale a pena SE sua empresa: possui licença de electrical contractor ativa na Flórida, tem experiência comprovada em instalação de semáforos ou infraestrutura elétrica viária, possui seguros adequados e capacidade de obter os bonds necessários, e tem capacidade financeira para executar o contrato (valor não divulgado, mas contratos de semáforo no Orange County costumam variar de $200K a $2M+). Se você atende esses critérios, o Orange County é um ótimo cliente — paga em dia, tem volume constante de contratos e valoriza fornecedores confiáveis."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) LICENÇA — é necessário ser Electrical Contractor licenciado no Estado da Flórida (ou fazer parceria/subcontrato com um); (2) BONDS — o Performance Bond e Payment Bond de 100% do contrato exigem aprovação de uma seguradora (surety), o que pode ser difícil para empresas com menos de 3 anos de operação ou histórico de crédito limitado; (3) EXPERIÊNCIA — projetos de sinalização viária exigem conhecimento técnico específico (MUTCD, FDOT standards, controladores de tráfego); (4) CONCORRÊNCIA — empresas como Ranger Construction, SECO Electric, e outras especializadas em sinalização viária na Flórida participam deste tipo de licitação regularmente; (5) MOT CERTIFICATION — trabalho em vias públicas exige pessoal certificado em Maintenance of Traffic."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de fornecimento E instalação de equipamentos de semáforo, a margem líquida típica varia entre 10% e 20%, dependendo da competitividade do mercado local e da eficiência operacional. A margem nos equipamentos (materiais) costuma ser 15-25% sobre o custo. A margem nos serviços de instalação pode ser 20-30% sobre o custo direto de mão de obra. Em IFBs de menor preço, a pressão competitiva tende a comprimir margens para 10-15%. Empresas com certificação SBE ou acesso a preços de equipamentos mais competitivos têm vantagem. Importante: não divulgue suas margens na proposta — apresente apenas os preços finais."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim, muito provavelmente. Para fornecimento e instalação de equipamentos de semáforo em vias públicas na Flórida, é necessário: (1) Electrical Contractor License válida no Estado da Flórida (emitida pelo Florida Department of Business and Professional Regulation — DBPR); (2) Registro como fornecedor/contratante no Orange County; (3) Possivelmente certificação IMSA (International Municipal Signal Association) para técnicos que trabalharão nos equipamentos de sinalização; (4) MOT (Maintenance of Traffic) certification para trabalho em vias públicas. Se sua empresa não possui a licença elétrica, uma alternativa é subcontratar um electrical contractor licenciado, mas verifique se o edital permite essa estrutura."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para um IFB de menor preço, siga esta metodologia: (1) Analise o Bill of Quantities do edital e colete cotações de no mínimo 3 fornecedores de equipamentos semafóricos; (2) Calcule custo real de mão de obra (horas estimadas × custo horário com encargos); (3) Adicione custos de MOT, permissões, inspeções e mobilização; (4) Pesquise contratos similares adjudicados pelo Orange County nos últimos 2 anos (disponíveis no portal de transparência) para entender o nível de preços praticados; (5) Aplique margem de 15-20% sobre os custos diretos; (6) Adicione 5-8% de contingência; (7) Revise se o preço total é competitivo — se estiver mais de 20% acima da sua estimativa de mercado, reavalie os custos. Nunca submeta proposta com preço 'de compra' — contratos com margem negativa geram prejuízo e danos à reputação."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do processo: 06/11/2026. Deadline para submissão das propostas: 07/21/2026. Isso representa aproximadamente 40 dias corridos para preparar e submeter a proposta — prazo razoável, mas que exige ação imediata dado o volume de documentação técnica normalmente exigido neste tipo de contrato. Submissão provavelmente via portal OpenGov do Orange County FL. Confirmar horário exato (geralmente 2:00 PM ou 5:00 PM Eastern Time) diretamente no edital.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais IFB (Invitation for Bid) do Orange County FL para infraestrutura viária, espera-se: (1) Formulário de proposta preenchido com preços unitários e totais; (2) Bid Bond de 5% do valor total da proposta; (3) Certificado de seguro (GL, Workers Comp, Auto); (4) Lista de subcontratados (se aplicável); (5) Referências de projetos similares concluídos; (6) Licença de contratante elétrico válida na Flórida (Electrical Contractor License); (7) Qualificações da empresa e do profissional responsável técnico; (8) Formulários de certificação de não-discriminação (EEO); (9) Possível exigência de certificação como empresa pequena (SBE) do Orange County. Todos os documentos devem ser confirmados no edital completo.\n\nREQUISITOS TÉCNICOS | Este tipo de contrato exige expertise específica em: engenharia de tráfego e sinalização, instalação elétrica em vias públicas, conformidade com MUTCD (Manual on Uniform Traffic Control Devices), normas FDOT (Florida Department of Transportation), NEC (National Electrical Code) e padrões específicos do Orange County Traffic Engineering Division. O contratado precisará de experiência comprovada em instalação de semáforos, capacidade de trabalhar em ambiente de trânsito ativo com MOT (Maintenance of Traffic) plans aprovados, e possivelmente certificação IMSA (International Municipal Signal Association).\n\nSEGUROS E GARANTIAS | Para contratos de infraestrutura viária em Orange County, os requisitos típicos são: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigência do Estado da Flórida (statutory limits); Commercial Auto Liability de pelo menos $1.000.000; Bid Bond de 5% do valor da proposta; Performance Bond e Payment Bond de 100% do valor do contrato (exigidos após adjudicação). Confirmar valores exatos no edital completo.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Obtenha as quantidades exatas de cada item no edital (Bill of Quantities); (2) Colete cotações de fornecedores de equipamentos semafóricos (ex: Econolite, McCain, SWARCO); (3) Calcule custo de mão de obra: eletricistas licenciados em FL têm custo entre $65-$120/hora; (4) Inclua custos de MOT (sinalização temporária e controle de tráfego); (5) Considere custos de permissões municipais e inspeções; (6) Adicione mobilização/desmobilização de equipamentos; (7) Margem de lucro: 15-25% para este tipo de serviço; (8) Contingência: 5-10% para imprevistos em obra viária; (9) Overhead geral da empresa: 10-15%. Pesquise contratos similares já adjudicados pelo Orange County para benchmark de preços.\n\nESTRATÉGIA DE SUBMISSÃO | Como IFB (Invitation for Bid), o critério de seleção é MENOR PREÇO, desde que o licitante seja considerado responsivo e responsável. Estratégia recomendada: (1) Baixe TODOS os documentos do edital imediatamente; (2) Participe do pre-bid meeting se houver (muito comum neste tipo de contrato); (3) Submeta perguntas por escrito antes do deadline de esclarecimentos; (4) Garanta que todas as licenças e seguros estejam em dia antes de submeter; (5) Seja competitivo no preço mas não 'compre' o contrato com preço irreal; (6) Destaque experiência prévia com Orange County ou FDOT na qualificação.\n\nRISCOS | (1) Licença elétrica de contratante — barreira técnica significativa; (2) Bonds de alto valor podem ser difíceis para empresas pequenas sem histórico de crédito; (3) Trabalho em vias públicas exige seguro robusto e pode gerar acidentes; (4) Valor estimado não divulgado — dificuldade para avaliar viabilidade financeira; (5) Concorrência com empresas estabelecidas do setor de sinalização viária; (6) Possível exigência de experiência mínima comprovada em projetos similares; (7) Atrasos em aprovações de permissões podem gerar multas contratuais.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO — hoje): Acesse o portal https://procurement.opengov.com e faça o download completo do edital Y26-181, incluindo especificações técnicas, plantas, Bill of Quantities e todos os adendos. Cadastre-se como fornecedor se ainda não estiver registrado. PASSO 2 (Até 5 dias úteis): Leia o edital completo e verifique: se sua empresa possui licença elétrica ativa na Flórida, se seus seguros atendem os requisitos mínimos, se há pre-bid meeting agendado (anote a data), e se o escopo está dentro da sua capacidade técnica e financeira. PASSO 3 (Até 10 dias úteis): Decida go/no-go definitivo, solicite cotações de equipamentos a fornecedores, consulte subcontratados se necessário, e inicie a preparação dos documentos de submissão com antecedência suficiente.",
+      "ai_analyzed_at": "2026-06-17T13:16:14.152Z",
+      "ai_model": "claude-sonnet-4-6",
       "addenda": 0,
       "fetchedAt": "2026-06-17"
     },
@@ -296,17 +334,53 @@
       "link": "https://www.polkfl.gov/bid-form/bid-26-132-sm/",
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "resumo_simples": "Contratação de serviço de limpeza e conservação de banheiros públicos localizados em diversos parques do Condado de Polk, Florida.",
+      "categoria_curta": "Limpeza de parques",
+      "o_que_comprar": "Serviços de limpeza (janitorial) para banheiros públicos localizados em diversos parques administrados pelo Condado de Polk, FL. Os serviços incluem tipicamente: limpeza e desinfecção de vasos sanitários, mictórios, pias e pisos; reposição de consumíveis (papel higiênico, sabonete, papel toalha); limpeza de espelhos, paredes e superfícies; coleta de lixo; e manutenção geral da higiene dos banheiros. A quantidade exata de parques/banheiros, frequência de limpeza por semana/dia e especificações detalhadas constam no PDF do edital disponível em https://www.polkfl.gov/bid-form/bid-26-132-sm/ — é imprescindível baixar e revisar o documento completo para obter todos os detalhes antes de precificar.",
+      "prazo_submissao": "A data de ABERTURA das propostas é 1º de julho de 2026. O prazo exato de ENTREGA (deadline) não foi divulgado nesta ficha — confirme obrigatoriamente no PDF do edital em: https://www.polkfl.gov/bid-form/bid-26-132-sm/",
+      "documentos_lista": [
+        "Formulário oficial de proposta/bid preenchido e assinado",
+        "Certificado de seguro (General Liability, Workers' Comp, Auto)",
+        "Formulário W-9",
+        "Registro ativo na Florida (Sunbiz — Division of Corporations)",
+        "Lista de referências de contratos similares (limpeza governamental ou comercial)",
+        "Formulário de qualificação da empresa (se exigido pelo edital)",
+        "Comprovante de conformidade com E-Verify (Florida exige para contratos governamentais)",
+        "Bid Bond (se exigido — confirmar no edital)",
+        "Formulário de declaração de não-conflito de interesses",
+        "Qualquer adendo assinado publicado antes da data de abertura"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado (padrão Polk County — confirmar no edital)",
+        "workers_comp": "Obrigatório conforme legislação do Estado da Florida (Chapter 440, F.S.) — confirmar limites específicos no edital",
+        "bond": "Possivelmente sim — Bid Bond de 5-10% do valor da proposta e/ou Performance Bond após adjudicação. Confirmar exigência e valor exato no PDF do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score 65/100 e status 'watch', este edital representa uma oportunidade moderada. Vale a pena se sua empresa já opera serviços de limpeza em locais externos/parques ou banheiros públicos, possui equipe disponível para múltiplos locais simultâneos, e tem estrutura de seguro adequada. Contratos de limpeza de parques com condados da Florida são geralmente de 1-3 anos com renovações, o que gera receita recorrente estável. O principal risco é o valor não divulgado — faça as visitas aos locais antes de decidir."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) Cobertura geográfica: parques do Polk County podem estar espalhados por grande área — necessidade de veículos e logística. 2) Seguro: custo de apólices adequadas pode ser relevante para empresas muito pequenas. 3) Capacidade de atender múltiplos locais simultaneamente, especialmente fins de semana. 4) Experiência comprovada: Polk County frequentemente exige referências de contratos similares. 5) Capital de giro: contratos governamentais geralmente pagam em 30-45 dias, exigindo fôlego financeiro para cobrir custos operacionais iniciais."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para serviços de limpeza de banheiros em parques públicos na Florida, margens líquidas típicas ficam entre 12% e 22%. Contratos menores ou mais competitivos podem ter margens de 10-15%. Se você tiver eficiência operacional e equipe própria bem treinada, pode atingir 20-25%. Atenção: não sacrifique margem para ganhar o contrato — limpeza de parques externos tem custos variáveis (clima, vandalismo, uso intenso em feriados) que podem comprimir sua margem se mal calculados."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para serviços de limpeza (janitorial) na Florida, geralmente não é exigida licença estadual específica de limpeza — diferente de serviços como HVAC ou elétrica. No entanto, sua empresa deve estar registrada e ativa no Sunbiz (Florida Division of Corporations), ter FEIN/EIN ativo, e estar em conformidade com o E-Verify (obrigatório para contratos com o governo da Florida). Verifique no edital se Polk County exige alguma certificação local adicional. Se usar produtos químicos de limpeza específicos, pode ser necessário treinamento/certificação OSHA para manuseio."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos: 1) Visite todos os parques listados no edital para medir o tempo real de limpeza por banheiro. 2) Calcule horas totais por mês: (tempo por banheiro) x (frequência semanal) x (número de semanas). 3) Calcule custo de mão de obra: horas x ($15-18/hora) x 1,30 (encargos). 4) Adicione suprimentos: $3-8 por banheiro por visita. 5) Some transporte/combustível entre os parques. 6) Inclua proporção de seguro, overhead administrativo e supervisão (20-30% sobre custo direto). 7) Aplique margem de 15-20%. 8) Compare com preço médio de mercado para serviços similares na região de Lakeland/Polk County."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura das propostas é 1º de julho de 2026. O prazo exato de entrega (deadline) deve ser confirmado diretamente no PDF do edital, pois não foi divulgado nesta ficha. Recomenda-se acessar o link https://www.polkfl.gov/bid-form/bid-26-132-sm/ imediatamente para verificar a data e hora limite, pois editais de limpeza de parques frequentemente têm prazo de 2 a 4 semanas antes da abertura. | DOCUMENTOS EXIGIDOS | Com base no padrão de editais do Polk County para serviços de limpeza, os documentos tipicamente exigidos incluem: formulário de proposta preenchido e assinado; certificado de seguro (GL, Workers' Comp e Auto); lista de referências (contratos similares anteriores); formulário de qualificação de empresa; certificado de registro de empresa na Florida (Sunbiz); formulário W-9; e possivelmente E-Verify compliance. Confirmar lista completa no PDF. | REQUISITOS TÉCNICOS | Espera-se que a empresa forneça mão de obra treinada, equipamentos e produtos de limpeza adequados. Frequência de limpeza pode variar por parque (diária, 3x/semana, fins de semana intensificados). A empresa deve ter capacidade de cobrir múltiplos locais simultaneamente. Supervisão e controle de qualidade serão avaliados. Produtos de limpeza aprovados por órgão ambiental podem ser exigidos. | SEGUROS E GARANTIAS | Editais de Polk County para serviços de limpeza em espaços públicos geralmente exigem: General Liability de pelo menos $1.000.000 por ocorrência/$2.000.000 agregado; Workers' Compensation conforme exigido pelo estado da Florida; Commercial Auto Liability se veículos forem usados. Bid Bond pode ser exigido (geralmente 5-10% do valor da proposta). Performance Bond pode ser necessário após adjudicação. Confirmar valores exatos no edital. | COMO CALCULAR O PREÇO | 1) Visite TODOS os locais antes de precificar — calcule o tempo real de limpeza por banheiro. 2) Estime horas de mão de obra por semana/mês ($15-18/hora para trabalhadores de limpeza na Florida + encargos de ~30%). 3) Some custos de produtos e consumíveis (sabonete, papel, desinfetantes — tipicamente $200-500/mês por cluster de parques). 4) Inclua transporte e combustível entre parques. 5) Adicione custos de supervisão, seguro e overhead administrativo. 6) Aplique margem de lucro de 15-25% sobre o custo total. 7) Verifique se o edital pede preço mensal, anual ou por visita. | ESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score 65/100 e status 'watch', indicando oportunidade moderada. Estratégia recomendada: (a) Baixar o PDF imediatamente e mapear todos os parques; (b) Visitar os locais pessoalmente para entender o volume de trabalho real; (c) Submeter perguntas ao órgão antes do prazo de questões para esclarecer escopo; (d) Precificar de forma competitiva mas sustentável — não sacrifique qualidade; (e) Destacar experiência prévia com contratos governamentais de limpeza; (f) Se possível, mencionar certificações de pequena empresa (SBE, WMBE, etc.) que possam gerar preferência. | RISCOS | 1) Valor estimado não divulgado — dificuldade de avaliar rentabilidade sem visita prévia aos locais. 2) Parques públicos têm tráfego imprevisível — fins de semana e feriados geram carga maior de trabalho. 3) Possibilidade de contrato com renovações anuais sujeito a cortes orçamentários. 4) Rotatividade de mão de obra em limpeza é alta — risco operacional relevante. 5) Fiscalização pública é rigorosa — penalidades por falhas de serviço podem ser previstas em contrato. | PRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO — hoje): Acesse https://www.polkfl.gov/bid-form/bid-26-132-sm/, baixe o PDF completo do edital e registre sua empresa no portal de fornecedores do Polk County para receber atualizações e adendos automaticamente. PASSO 2 (Esta semana): Leia o edital integralmente, mapeie os parques listados, visite pelo menos 3-4 locais pessoalmente para estimar tempo de limpeza real, e prepare suas perguntas para submeter ao órgão antes do prazo de questões. PASSO 3 (2-3 semanas antes do deadline): Solicite cotações de seguro adequadas ao escopo, calcule seu preço com base nas visitas realizadas, prepare toda a documentação exigida e submeta a proposta com antecedência mínima de 48 horas.",
+      "ai_analyzed_at": "2026-06-17T13:17:20.118Z",
+      "ai_model": "claude-sonnet-4-6",
       "typeInfo": {
         "label": "ITB — Menor preço ganha",
         "badge": "ITB",
@@ -484,17 +558,52 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
+      "resumo_simples": "Contratação de empresa de limpeza comercial para prestar serviços de higienização e manutenção de limpeza em instalações do ELC (Early Learning Coalition) do Condado de Palm Beach, FL.",
       "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-23",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Serviços de limpeza comercial (janitorial services) para as instalações do ELC of Palm Beach County. Com base no título e no tipo de contrato (Invitation to Bid), o escopo provavelmente inclui: limpeza geral de escritórios e áreas comuns, limpeza de banheiros, varrição e lavagem de pisos, esvaziamento de lixeiras, limpeza de superfícies, janelas internas, e possivelmente serviços periódicos como enceramento de pisos e limpeza profunda. As quantidades exatas, frequência dos serviços, metragem quadrada das instalações e especificações técnicas detalhadas NÃO estão disponíveis nos dados fornecidos — é necessário acessar o edital completo no link indicado para obter essas informações.",
+      "prazo_submissao": "Deadline: 23/06/2026. Hora exata não informada nos dados — confirmar no edital completo em https://vendor.myfloridamarketplace.com/search/bids/ITB-16242",
+      "documentos_lista": [
+        "Formulário oficial de proposta (ITB-16242) preenchido — confirmar no edital",
+        "Comprovante de seguro General Liability atualizado",
+        "Comprovante de Workers Compensation (se aplicável)",
+        "Licença comercial ativa no condado de Palm Beach",
+        "Referências de contratos de limpeza anteriores (tipicamente 3 a 5)",
+        "Formulário W-9 (possivelmente exigido)",
+        "Lista de equipamentos e produtos utilizados",
+        "Registro ativo no MyFlorida Market Place",
+        "Certificado de bond/fidelidade (se exigido — confirmar no edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Valor exato não especificado no edital disponível. Valor típico de mercado para este tipo de contrato: $1.000.000 por ocorrência / $2.000.000 agregado. Confirmar no edital completo.",
+        "workers_comp": "Exigido pela lei da Flórida para empresas com 4 ou mais funcionários. Valor conforme legislação estadual. Confirmar no edital completo.",
+        "bond": "Não confirmado nos dados disponíveis. Editais de limpeza comercial frequentemente exigem Janitorial Bond (fidelidade) entre $10.000 e $50.000. Confirmar no edital completo."
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com um Fit Score de 65/100 e status 'watch', há potencial moderado. Vale a pena se sua empresa já tem experiência em limpeza comercial, está registrada na Flórida, possui seguros em dia e pode montar proposta competitiva em menos de 13 dias. O ELC of Palm Beach County é um órgão estável com potencial de renovação contratual, o que torna este contrato interessante para construir histórico governamental. Avalie após ler o escopo completo do edital."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As barreiras mais comuns neste tipo de edital incluem: 1) Experiência mínima comprovada em contratos similares (geralmente 2-5 anos); 2) Seguros com valores específicos já contratados; 3) Registro ativo no portal MyFlorida Market Place; 4) Capacidade de fornecer referências governamentais ou comerciais verificáveis; 5) Bond de fidelidade (janitorial bond); 6) Prazo curto para organizar toda a documentação. Como os detalhes exatos não estão disponíveis, confirme no edital completo."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos governamentais de limpeza comercial na Flórida, a margem de lucro líquida típica varia entre 8% e 18%, dependendo da eficiência operacional. Contratos menores tendem a ter margens mais altas percentualmente, mas menor volume. Para contratos de limpeza governamental em Palm Beach County, considere: custo de mão de obra (60-65% da receita), materiais (5-10%), overhead e seguros (15-20%), restando 8-18% de margem. Como o valor estimado não foi divulgado, é impossível calcular o retorno absoluto sem acessar o edital completo."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para serviços de limpeza comercial na Flórida, geralmente é exigido: 1) Licença de negócio ativa (Business Tax Receipt) no condado de Palm Beach ou no município onde a empresa opera; 2) Registro no estado da Flórida (Sunbiz); 3) Registro no portal MyFlorida Market Place como fornecedor. A Flórida não exige licença estadual específica para janitorial services, mas verifique se o edital exige alguma certificação adicional (ex: green cleaning, OSHA training). Confirme os requisitos exatos no edital completo."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Sem o escopo detalhado, use esta estratégia: 1) Após baixar o edital, identifique metragem total, número de banheiros, frequência e tipo de serviços. 2) Estime horas por visita (regra geral: 1 pessoa limpa 2.500-3.500 sq ft/hora em limpeza padrão). 3) Use taxa horária de $18-25/hora dependendo do tipo de serviço. 4) Adicione 15-20% para materiais, seguro e overhead. 5) Adicione 10-15% de margem. 6) Multiplique pelo total de visitas no período do contrato. Dica: se o edital solicitar preço mensal, calcule tudo mensalmente e verifique se há serviços extras (ex: carpet cleaning, floor waxing) que devem ser cotados separadamente."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do edital: 10/06/2026. Deadline para submissão: 23/06/2026. Isso representa uma janela de aproximadamente 13 dias para preparar e enviar a proposta. É um prazo apertado, então ação imediata é necessária. Confirme horário exato de encerramento diretamente no portal MyFlorida Market Place. | DOCUMENTOS EXIGIDOS | Os documentos exigidos não foram disponibilizados nos dados do edital analisado. Em editais típicos de janitorial services na Flórida, espera-se: formulário de proposta preenchido, referências comerciais (3 a 5 clientes anteriores), comprovante de seguros exigidos, licença de negócio ativa no condado, possivelmente W-9, e lista de equipamentos e produtos utilizados. Acesse o edital completo para confirmar. | REQUISITOS TÉCNICOS | Não especificados nos dados fornecidos. Normalmente incluem: experiência mínima em anos no setor (ex: 2 a 5 anos), capacidade de atender à frequência solicitada (diária, semanal etc.), uso de produtos certificados (ex: green cleaning), uniformes e identificação dos funcionários, e lista de supervisores. Verifique o PDF do edital. | SEGUROS E GARANTIAS | Não especificados nos dados fornecidos. Para serviços de limpeza comercial em Palm Beach County, os valores típicos de mercado são: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers Compensation conforme exigido pelo estado da Flórida para empresas com 4+ funcionários; Commercial Auto se houver veículos utilizados; Bond de performance/fidelidade pode ser exigido. Confirme os valores exatos no edital. | COMO CALCULAR O PREÇO | 1) Acesse o edital e identifique: metragem total, número de banheiros, frequência de limpeza e dias/horas de trabalho. 2) Calcule horas necessárias por visita. 3) Defina custo de mão de obra (salário + encargos + benefícios). 4) Adicione custos de materiais e produtos de limpeza (estimativa: 5-10% do total). 5) Adicione overhead (seguro, veículo, gestão): 15-20%. 6) Adicione margem de lucro: 10-20%. 7) Multiplique pelo número de meses do contrato. Dica: verifique se há histórico de contratos anteriores do ELC para benchmarking de preço. | ESTRATÉGIA DE SUBMISSÃO | 1) Baixe o edital completo HOJE no link fornecido. 2) Faça uma visita técnica ao local (se permitido e recomendado) para avaliar o tamanho real e condições das instalações. 3) Prepare uma proposta profissional com apresentação da empresa, referências sólidas e diferenciais competitivos. 4) Seja competitivo no preço, mas não perca margem — o governo paga pelo menor preço, mas exige qualidade comprovada. 5) Submeta pelo portal MyFlorida Market Place antes do prazo. | RISCOS | 1) Falta de informações no edital pode significar escopo mal definido — solicite esclarecimentos por escrito antes do deadline. 2) Concorrência de empresas maiores com mais experiência governamental. 3) Prazo apertado (13 dias) pode dificultar coleta de documentos. 4) Valor estimado não divulgado dificulta benchmarking de preço. 5) Possível exigência de experiência mínima em contratos governamentais. | PRÓXIMOS 3 PASSOS | 1) IMEDIATO (hoje): Acesse https://vendor.myfloridamarketplace.com/search/bids/ITB-16242, baixe todos os documentos do edital e identifique: escopo completo, metragem, requisitos de seguros e documentação. 2) ATÉ 3 DIAS: Organize toda a documentação necessária (seguro atualizado, licença, referências), faça visita técnica se possível e calcule seu preço com base no escopo real. 3) ATÉ 20/06/2026: Finalize e revise a proposta completa, deixando 3 dias de margem antes do deadline de 23/06 para correções de última hora e submissão pelo portal.",
+      "ai_analyzed_at": "2026-06-17T13:18:19.292Z",
+      "ai_model": "claude-sonnet-4-6",
       "is_award_notice": false,
       "fetchedAt": "2026-06-17"
     },
@@ -520,17 +629,53 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
+      "resumo_simples": "O governo do Estado da Flórida (Departamento da Loteria) quer contratar uma empresa para fazer a limpeza e manutenção de higiene do escritório distrital de Pensacola.",
       "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-24",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Contratação de serviços de limpeza (custodial/janitorial) para o escritório distrital de Pensacola do Departamento da Loteria da Flórida. Os serviços tipicamente incluem limpeza de pisos, banheiros, áreas de trabalho, janelas internas, esvaziamento de lixeiras, aspiração de carpetes, desinfecção de superfícies e manutenção geral da higiene do ambiente. Quantidades exatas de metragem quadrada, frequência de visitas (diária, semanal, mensal) e especificações detalhadas não estão disponíveis no resumo fornecido — é necessário acessar o edital completo no link indicado para obter essas informações.",
+      "prazo_submissao": "24/06/2026 — horário exato deve ser confirmado no edital completo. A abertura do processo ocorre em 11/06/2026. Acesse o portal MFMP para ver o horário preciso de encerramento.",
+      "documentos_lista": [
+        "Formulário de proposta (bid form) preenchido e assinado",
+        "Registro ativo no MyFloridaMarketplace (MFMP)",
+        "Certificado de seguro — General Liability",
+        "Certificado de seguro — Workers Compensation",
+        "Referências de contratos de limpeza anteriores (geralmente 3)",
+        "Lista de produtos e equipamentos de limpeza a serem utilizados",
+        "Cronograma proposto de serviços",
+        "Informações de background check dos funcionários (se exigido)",
+        "Formulário de certificação de empresas (small/minority business, se aplicável)",
+        "Qualquer outro formulário específico listado no edital completo"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado (padrão Estado da FL — confirmar no edital)",
+        "workers_comp": "Obrigatório conforme lei da Flórida — confirmar limites mínimos no edital",
+        "bond": "Não confirmado — verificar no edital completo se Performance Bond ou Surety Bond é exigido"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com um Fit Score de 65/100 e status 'watch', este edital tem potencial moderado. Vale a pena se sua empresa: já opera em Pensacola ou região próxima, tem experiência em limpeza de ambientes governamentais ou corporativos, está registrada no MFMP e possui os seguros necessários. O ponto negativo é que o valor estimado não foi divulgado, o que dificulta avaliar se o contrato compensa o investimento. Acesse o edital completo primeiro para ver o escopo real antes de decidir."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: 1) Presença local em Pensacola — você precisa ter ou conseguir mão de obra confiável na região; 2) Requisitos de segurança da Loteria — funcionários podem precisar de background check aprovado; 3) Seguros adequados — GL e Workers Comp obrigatórios; 4) Registro ativo no MFMP; 5) Experiência comprovada em contratos similares (referências); 6) Concorrência de empresas de limpeza já estabelecidas com histórico governamental em Pensacola."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos de limpeza governamental na Flórida, a margem líquida típica fica entre 10% e 20%. Contratos menores tendem a ter margens melhores percentualmente, mas menor volume absoluto. O maior custo será mão de obra (60-70% da receita). Sem o valor estimado divulgado, é difícil calcular o retorno. Pesquise contratos similares do LOT no histórico do MFMP para ter referência de preços praticados anteriormente."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Serviços de limpeza/custódia na Flórida geralmente não exigem licença estadual específica para limpeza comercial. No entanto, sua empresa precisa estar: registrada como entidade legal no estado da Flórida (LLC, Corp etc.), com registro ativo no MFMP (MyFloridaMarketplace), com FEIN (Federal Employer Identification Number) ativo, e em dia com obrigações fiscais estaduais. Confirme no edital completo se há alguma certificação específica exigida pelo Departamento da Loteria."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga este processo: 1) Acesse o edital e identifique a metragem total e frequência dos serviços; 2) Visite o local se possível para avaliar condições reais; 3) Calcule horas necessárias por visita (metragem ÷ produtividade por hora ≈ 300-400 sq ft/hora para limpeza detalhada); 4) Multiplique pelas horas semanais/mensais; 5) Use custo de mão de obra de $15-18/hora em Pensacola mais encargos (~25-30%); 6) Adicione suprimentos (5-8%), seguro (2-3%), overhead (5-10%); 7) Aplique margem de 15-20%; 8) Compare com histórico de contratos similares no MFMP. Não ofereça preço muito baixo — pode indicar incapacidade de execução aos avaliadores."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura do processo é 11/06/2026 e o prazo final (deadline) para submissão das propostas é 24/06/2026. É fundamental acessar o edital completo para confirmar o horário exato de fechamento (geralmente 2:00 PM ou 3:00 PM EST) e o método de envio (portal MyFloridaMarketplace). Não perca este prazo — propostas fora do prazo são automaticamente desclassificadas.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais ITB da Flórida para serviços de limpeza, espere ser solicitado: formulário de proposta preenchido e assinado, certificado de registro no MyFloridaMarketplace (MFMP), certificados de seguro (GL e Workers Comp), referências de contratos anteriores similares, lista de equipamentos e produtos de limpeza a serem utilizados, e possivelmente formulários de certificação de pequena empresa (se aplicável). Verificar o edital completo para lista exata.\n\nREQUISITOS TÉCNICOS | Serviços de custódia para instalações governamentais normalmente exigem: cronograma detalhado de limpeza, uso de produtos aprovados (frequentemente eco-friendly ou certificados Green Seal), funcionários com background check (verificação criminal — muito comum em contratos do governo), supervisor designado para o contrato, plano de resposta a emergências e relatórios de serviço. O local é um escritório distrital da Loteria, que pode ter requisitos de segurança adicionais por lidar com documentos e equipamentos sensíveis.\n\nSEGUROS E GARANTIAS | Para este tipo de contrato, o padrão da Flórida geralmente requer: General Liability mínimo de $1.000.000 por ocorrência/$2.000.000 agregado, Workers Compensation conforme exigido pela lei da Flórida (obrigatório para empresas com 4 ou mais funcionários), e possivelmente Commercial Auto Liability se houver uso de veículos. Bond (surety bond) pode ou não ser exigido — verificar no edital. O Estado da Flórida deve ser listado como Additional Insured nos certificados.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: 1) Obtenha as especificações completas (metragem, frequência, tarefas específicas); 2) Calcule horas de mão de obra necessárias por visita; 3) Considere custo de mão de obra (~$15-18/hora para limpeza na região de Pensacola); 4) Adicione custos de suprimentos e equipamentos (5-10% do custo total); 5) Adicione custos de seguros e administrativos; 6) Aplique margem de lucro de 15-25%; 7) Compare com taxas de mercado locais. Valor estimado não divulgado — pesquise contratos similares no MFMP para referência histórica de preços.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Acesse imediatamente o edital completo em vendor.myfloridamarketplace.com; 2) Registre-se no MFMP se ainda não estiver registrado; 3) Faça uma visita ao local (se permitido) para avaliar o tamanho e condições do espaço; 4) Submeta perguntas dentro do prazo de Q&A (geralmente 1-2 semanas antes do deadline); 5) Prepare proposta competitiva mas com margem saudável; 6) Garanta que todos os documentos estejam completos — falta de documento é causa de desclassificação automática.\n\nRISCOS | Principais riscos: valor do contrato desconhecido dificulta avaliação de viabilidade; localização específica em Pensacola exige empresa com presença ou capacidade de operar na região; requisitos de segurança da Loteria podem exigir background checks onerosos; concorrência de empresas estabelecidas com contratos governamentais anteriores; possibilidade de o contrato ser pequeno demais para justificar o esforço de submissão.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse o link https://vendor.myfloridamarketplace.com/search/bids/ITB-16244 e baixe todos os documentos do edital para analisar escopo completo, metragem, frequência e requisitos específicos; 2) ATÉ 2 SEMANAS ANTES DO DEADLINE: Visite o local físico (se permitido), obtenha cotações de mão de obra local em Pensacola, prepare e envie perguntas formais ao órgão pelo portal; 3) 3-5 DIAS ANTES DO DEADLINE: Finalize sua proposta com todos os documentos, revise checklist completo de requisitos e submeta pelo MFMP com antecedência para evitar problemas técnicos de última hora.",
+      "ai_analyzed_at": "2026-06-17T13:19:20.117Z",
+      "ai_model": "claude-sonnet-4-6",
       "is_award_notice": false,
       "fetchedAt": "2026-06-17"
     },
@@ -556,17 +701,17 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 65,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "DJJ ITB 26/27 006 Janitorial Services Collier County",
+      "categoria_curta": "",
       "o_que_comprar": "",
       "prazo_submissao": "2026-07-31",
       "documentos_lista": [],
       "seguros_detalhado": {},
       "perguntas_frequentes": [],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "```json\n{\n  \"resumo_simples\": \"O governo do Estado da Flórida (Departamento de Justiça Juvenil) quer contratar uma empresa de limpeza para fazer a manutenção e higienização de uma instalação juvenil localizada no Condado de Collier, FL.\",\n  \"categoria_curta\": \"Limpeza predial\",\n  \"o_que_comprar\": \"Contratação de serviços de limpeza (janitorial services) para uma unidade do Departamento de Justiça Juvenil (DJJ) localizada no Condado de Collier, Flórida. Os serviços típicos deste tipo de edital do DJJ incluem: limpeza diária de banheiros, corredores, salas administrativas, áreas de detenção/dormitórios, cozinhas e refeitórios; varrição, lavagem e enceramento de pisos; limpeza de vidros internos e externos; esvaziamento de lixeiras; desinfecção de superfícies; e fornecimento de materiais/suprimentos de limpeza (sabonete, papel higiênico, papel toalha, sacos de lixo, etc). A execução ocorre em instalação de custódia juvenil, o que exige atenção especial a protocolos de segurança. Quantidades exatas, metragem quadrada e frequência de serviços não foram divulgadas nos dados disponíveis — é necessário acessar o edital completo no link fornecido para obter as especificações técnicas detalhadas.\",\n  \"analise_completa\": \"PRAZO DE SUBMISSÃO | A data de abertura do processo é 15 de junho de 2026 e o deadline para submissão das propostas é 31 de julho de 2026. Confirme horário exato (geralmente 2:00 PM ou 3:00 PM Eastern Time) diretamente no edital em: https://vendor.myfloridamarketplace.com/search/bids/ITB-16282. Submissões devem ser feitas pela plataforma MyFloridaMarketPlace (MFMP). Atenção: propostas enviadas fora do prazo ou por outros meios são automaticamente desclassificadas. | DOCUMENTOS EXIGIDOS | Documentos típicos para editais de limpeza do DJJ na Flórida incluem: (1) Formulário de proposta de preço preenchido conforme modelo do edital; (2) Certificado de registro ativo no MyFloridaMarketPlace (MFMP); (3) Certificados de seguro (GL, Workers' Comp, Auto); (4) Referências comerciais (geralmente 3 referências de contratos similares); (5) Formulário W-9; (6) Cópia de licença de negócio local ou estadual; (7) Documentos de certificação de empresa minoritária ou pequena empresa (se aplicável, para preferência em pontuação); (8) Declaração de conflito de interesses; (9) Formulário de divulgação de subcontratados (se houver). Acesse o edital para confirmar lista exata. | REQUISITOS TÉCNICOS | Por se tratar de uma instalação do DJJ (custódia juvenil), há exigências específicas de segurança: todos os funcionários da empresa contratada precisam passar por verificação de antecedentes criminais (background check) e o contratado deve manter registros atualizados. É provável que seja exigido treinamento específico sobre protocolos de segurança dentro da unidade. Os serviços devem seguir as normas da OSHA para limpeza com produtos químicos, e o contratado deve usar apenas produtos aprovados pelo DJJ. Metragem quadrada, número de edificações e frequência (diária, semanal, mensal) serão especificados no Scope of Work do edital — dados essenciais para calcular o preço. | SEGUROS E GARANTIAS | Valores exatos não foram divulgados nos dados disponíveis. Para contratos similares do DJJ na Flórida, os requisitos usuais são: General Liability (GL): mínimo $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation: conforme exigência do estado da Flórida (obrigatório se tiver funcionários); Commercial Auto Liability: mínimo $500.000 se veículos forem usados no contrato; Performance/Payment Bond: possível exigência para contratos acima de determinado valor — verificar no edital. O Estado da Flórida deve ser incluído como Additional Insured nos certificados. | COMO CALCULAR O PREÇO | Para precificar corretamente: (1) Calcule horas de mão de obra necessárias por mês multiplicadas pela taxa horária local (Collier County tem custo de mão de obra mais elevado que a média da Flórida — estime $15-$18/hora para limpadores); (2) Adicione custo de supervisão (10-15% do custo de mão de obra); (3) Estime custo de suprimentos/materiais (geralmente 8-12% do contrato total); (4) Inclua custo de seguros e benefícios trabalhistas (25-35% sobre salários); (5) Some custos de background checks para cada funcionário (aprox. $50-$100/pessoa); (6) Adicione margem de lucro (15-25% para contratos governamentais de limpeza); (7) Considere overhead administrativo (5-10%). Peça ao DJJ a metragem exata e frequência antes de finalizar o preço. | ESTRATÉGIA DE SUBMISSÃO | (1) Registre-se ou confirme seu cadastro ativo no MFMP imediatamente; (2) Faça a pergunta formal sobre metragem quadrada, número de funcionários atuais e frequência dos serviços durante o período de Q&A do edital; (3) Visite o local (site visit) se for oferecido — é quase sempre obrigatório ou fortemente recomendado; (4) Pesquise contratos anteriores do DJJ em Collier County via Florida Contract Search para entender preços históricos; (5) Certifique-se de ter todos os seguros em dia ANTES de submeter; (6) Submeta com pelo menos 24-48 horas de antecedência para evitar problemas técnicos na plataforma MFMP. | RISCOS | (1) Background checks reprovados podem inviabilizar funcionários já contratados; (2) Collier County tem custo de mão de obra elevado — subestimar pode resultar em prejuízo; (3) A natureza da instalação (custódia juvenil) exige maior treinamento e pode gerar rotatividade de pessoal; (4) Valor estimado não divulgado dificulta avaliação de viabilidade sem acessar o edital completo; (5) Penalidades por desempenho insatisfatório em contratos do DJJ podem ser severas; (6) Possível exigência de performance bond pode representar custo adicional. | PRÓXIMOS 3 PASSOS | PASSO 1 (Imediato — fazer hoje): Acesse https://vendor.myfloridamarketplace.com/search/bids/ITB-16282, faça download do edital completo e leia o Scope of Work, Schedule B (preços) e Insurance Requirements com atenção; PASSO 2 (Esta semana): Confirme se há site visit agendado e inscreva-se; prepare perguntas técnicas para enviar no período oficial de Q&A (geralmente as 2 primeiras semanas após publicação); verifique seus seguros atuais e consulte sua seguradora sobre adequação; PASSO 3 (Próximas 2 semanas): Realize visita ao local, calcule seu preço com base nas especificações reais, obtenha cotações de fornecedores de suprimentos e finalize sua proposta com margem competitiva.\",\n  \"prazo_submissao\": \"Deadline: 31 de julho de 2026. Horário exato não disponível nos dados fornecidos — confirmar no edital em https://vendor.myfloridamarketplace.com/search/bids/ITB-16282 (geralmente 2:00 PM ou 3:00 PM Eastern Time). Data de abertura do processo: 15 de junho de 2026.\",\n  \"documentos_necessarios\": [\n    \"Formulário de proposta de preço (Price Sheet) preenchido conforme modelo do edital\",\n    \"Cadastro ativo e atualizado no MyFloridaMarketPlace (MFMP)\",\n    \"Certificado de seguro — General Liability com Estado da FL como Additional Insured\",\n    \"Certificado de seguro — Workers' Compensation conforme lei da Flórida\",\n    \"Certificado de seguro — Commercial Auto Liability (se aplicável)\",\n    \"Formulário W-9 atualizado\",\n    \"Mínimo 3 referências de contratos similares de limpeza (preferencialmente governamentais)\",\n    \"Licença de negócio válida (local ou estadual)\",\n    \"Declaração de conflito de interesses\",\n    \"Formulário de divulgação de subcontratados\",\n    \"Documentos de certificação DBE/MBE/SBE (se aplicável — pode gerar preferência)\",\n    \"Formulário de background check policy (política da empresa para verificação de antecedentes)\",\n    \"Confirmar lista completa no edital oficial\"\n  ],\n  \"seguros\": {\n    \"GL\": \"Estimado: mínimo $1.000.000 por ocorrência / $2.000.000 agregado anual — confirmar valor exato no edital\",\n    \"workers_comp\": \"Obrigatório conforme lei da Flórida (Chapter 440, F.S.) — valor conforme statutory limits — confirmar no edital\",\n    \"bond\": \"Possível — verificar no edital se há exigência de Performance Bond e/ou Payment Bond e valor exato; comum em contratos de serviços do DJJ acima de determinado threshold\"\n  },\n  \"perguntas_frequentes\": [\n    {\n      \"pergunta\": \"Vale a pena participar deste edital?\",\n      \"resposta\": \"Com um Fit Score de 65/100 e status 'watch', este edital tem potencial moderado. Vale a pena SE: sua empresa já possui experiência comprovada em limpeza de instalações governamentais ou de custódia/saúde; se você tem funcionários sem antecedentes criminais (requisito do DJJ); se já opera em Collier County ou região (Naples, Marco Island) e conhece os custos locais de mão de obra; e se possui todos os seguros exigidos. NÃO vale a pena SE: sua empresa é completamente nova no mercado governamental, se não tem funcionários disponíveis para background check imediato, ou se os custos de Collier County tornarem o contrato inviável. Acesse o edital para ver o valor estimado — isso será determinante para a decisão final.\"\n    },\n    {\n      \"pergunta\": \"Quais são as principais barreiras de entrada?\",\n      \"resposta\": \"As principais barreiras são: (1) Background check obrigatório para TODOS os funcionários que entrarão na instalação do DJJ — isso pode levar semanas e reprovar candidatos; (2) Experiência em instalações de segurança ou custódia é frequentemente exigida em editais do DJJ — verifique se há requisito mínimo de anos de experiência no edital; (3) Collier County tem custo de mão de obra acima da média da Flórida, o que pressiona a margem; (4) Necessidade de seguros adequados antes de submeter a proposta; (5) Concorrência de empresas estabelecidas que já têm contratos com o DJJ e conhecem os processos internos; (6) Possível exigência de performance bond que representa custo adicional.\"\n    },\n    {\n      \"pergunta\": \"Qual margem de lucro posso esperar?\",\n      \"resposta\": \"Para contratos de limpeza governamental na Flórida, a margem líquida típica fica entre 8% e 18%, dependendo da eficiência operacional. Em Collier County, onde o custo de mão de obra é mais alto (região de Naples), margens abaixo de 12% podem ser arriscadas. Recomenda-se estruturar a proposta mirando 15-20% de margem bruta para absorver imprevistos como: rotatividade de pessoal (comum em limpeza), custos de re-screening de funcionários, e penalidades contratuais. Não tente ganhar o contrato com preço muito baixo — contratos do DJJ têm penalidades rígidas por desempenho insatisfatório e margens apertadas aumentam o risco de prejuízo.\"\n    },\n    {\n      \"pergunta\": \"Preciso de licença específica para este edital?\",\n      \"resposta\": \"Para serviços de limpeza na Flórida, não há licença estadual específica obrigatória para limpeza geral. No entanto, você precisará de: (1) Registro ativo no MyFloridaMarketPlace (MFMP) — essencial para participar; (2) Sunbiz registration (registro da empresa no estado da Flórida) ativo; (3) Business Tax Receipt (licença de negócio local) do condado ou município onde sua empresa opera; (4) Se utilizar produtos químicos especiais para desinfecção, pode ser necessário registro específico junto à EPA ou DEP da Flórida. Verifique no edital se o DJJ exige alguma certificação específica de limpeza (como CIMS — Cleaning Industry Management Standard) — embora não seja obrigatória na maioria dos editais, pode ser usada como critério de desempate.\"\n    },\n    {\n      \"pergunta\": \"Como devo precificar minha proposta?\",\n      \"resposta\": \"Siga este processo: (1) Obtenha a metragem exata e o Scope of Work completo do edital; (2) Calcule horas diárias necessárias (regra geral: 1 funcionário limpa 2.500-3.500 sq ft/hora dependendo do tipo de área); (3) Multiplique pelas horas mensais e pela taxa horária local (Collier County: $15-18/hora para limpadores + $20-25/hora para supervisores); (4) Adicione benefícios e encargos (FICA, FUTA, SUTA, workers comp = aprox. 20-28% sobre salário); (5) Inclua custo de suprimentos (aprox. 8-12% do custo total de mão de obra); (6) Some overhead administrativo (5-10%); (7) Adicione sua margem de lucro (mínimo 12-15%); (8) Pesquise contratos anteriores similares no Florida Transparency website para ter referência de mercado. Apresente preço mensal e anual claramente no formato solicitado pelo edital.\"\n    }\n  ],\n  \"questions\": [\n    \"Qual é a metragem quadrada total das áreas a serem limpas na instalação do DJJ em Collier County?\",\n    \"Qual é a frequência exigida para cada tipo de serviço (diária, semanal, mensal)?\",\n    \"Haverá site visit obrigatório ou voluntário? Se sim, qual a data e como se inscrever?\",\n    \"Qual é o valor estimado anual do contrato?\",\n    \"Qual é a duração do contrato e há opções de renovação?\",\n    \"Todos os funcionários precisam passar por background check do FDLE antes do início do contrato? Qual é o prazo médio para aprovação?\",\n    \"É exigida experiência mínima em anos com instalações de custódia ou segurança?\",\n    \"Há exigência de Performance Bond ou Payment Bond? Se sim, qual o valor?\",\n    \"O contratado deve fornecer todos os suprimentos e equipamentos de limpeza, ou alguns são forn",
+      "ai_analyzed_at": "2026-06-17T13:20:40.367Z",
+      "ai_model": "claude-sonnet-4-6",
       "is_award_notice": false,
       "fetchedAt": "2026-06-17"
     },
@@ -594,23 +739,58 @@
       ],
       "veredito": "watch",
       "fit_score": 50,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "O governo (Marinha dos EUA) quer comprar um equipamento industrial específico da marca Okuma, modelo Genos M560V-5AX, que é uma máquina CNC de usinagem de 5 eixos, exclusivamente para pequenas empresas (Small Business Set Aside).",
+      "categoria_curta": "Compra de equipamento industrial",
       "escopo": "SAM.gov. NAICS: 333517. Agência: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d31e034f06a144adb57aa4e22960665b",
       "set_aside": "Total Small Business Set-Aside (FAR 19.5)",
       "naics": "333517",
       "contact": "kaitlin.h.summerville.civ@us.navy.mil",
       "contactName": "Kaitlin Summerville",
       "solicitationNumber": "N61331-26-Q-KS36",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-18",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Aquisição de um sistema Okuma Brand Genos M560V-5AX, que é um centro de usinagem CNC vertical de 5 eixos de alta precisão, fabricado pela Okuma. O equipamento é utilizado para usinagem de peças complexas em operações de defesa/naval. O edital é restrito a pequenas empresas (Small Business Set Aside) sob o NAICS 333517 (Special Industry Machinery Manufacturing, Except Semiconductor and Electronic Component Manufacturing). As especificações detalhadas estão nos anexos referenciados no edital (disponíveis via link SAM.gov). Não foram divulgadas quantidades adicionais além de um sistema completo, nem local exato de entrega, devendo esses dados ser confirmados nos documentos oficiais do edital.",
+      "prazo_submissao": "18/06/2026 - Confirme o horário exato (provavelmente 12:00 PM ou 5:00 PM ET) diretamente no edital em: https://sam.gov/workspace/contract/opp/d31e034f06a144adb57aa4e22960665b/view",
+      "documentos_lista": [
+        "Registro ativo e válido no SAM.gov (obrigatório)",
+        "Representações e Certificações (Reps & Certs) atualizadas no SAM.gov",
+        "Proposta de preço formal (formulário SF-1449 ou conforme indicado no edital)",
+        "Confirmação de conformidade técnica com as especificações do Okuma Genos M560V-5AX",
+        "Documentação de autorização como revendedor/distribuidor oficial Okuma (provável exigência)",
+        "Prazo de entrega confirmado pelo fabricante ou distribuidor",
+        "Certificação de Small Business (via SAM.gov)",
+        "Documentos de entrega/warranty conforme anexos do edital",
+        "Verificar anexos do edital para lista completa de documentos exigidos"
+      ],
+      "seguros_detalhado": {
+        "GL": "Não especificado nos dados disponíveis - verificar FAR clauses nos anexos do edital",
+        "workers_comp": "Não especificado - pode ser exigido para instalação/comissionamento no local",
+        "bond": "Não indicado - improvável para compra de equipamento, mas confirmar nos termos do edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende fundamentalmente de dois fatores: (1) se sua empresa já é revendedor autorizado Okuma ou pode obter autorização rapidamente, e (2) se consegue competir em preço. O equipamento Genos M560V-5AX tem valor estimado entre USD 200.000 e 400.000, o que representa uma oportunidade financeira significativa. Porém, a janela de apenas 1 dia entre abertura e fechamento é um sinal de alerta - pode indicar que o governo já tem um fornecedor preferencial em mente. O Fit Score de 50/100 reflete essa incerteza. Vale a pena investigar, mas com expectativa realista de chances."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "A principal barreira é ser um revendedor/distribuidor autorizado da marca Okuma, pois o edital especifica explicitamente a marca. Outras barreiras incluem: (1) capacidade de entregar equipamento de alto valor com prazo compatível com requisitos militares; (2) experiência prévia em contratos com o DoD/Marinha dos EUA, que pode ser valorizada mesmo não sendo obrigatória; (3) capacidade de oferecer suporte técnico pós-venda e treinamento; (4) possíveis requisitos ITAR (regulamentação de exportação de defesa) para fornecimento a instalações navais; (5) prazo curtíssimo para submissão (1 dia) que dificulta preparação de proposta sólida."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para revenda de equipamentos industriais de precisão em contratos governamentais, a margem típica varia entre 8% e 20%, dependendo do seu nível de parceria com a Okuma e serviços adicionais incluídos. Se você for distribuidor direto Okuma, pode ter margem maior. Se precisar atuar como intermediário de outro distribuidor, a margem cai consideravelmente (3-7%). Inclua na composição de preço: custo do equipamento + frete especializado + seguro de transporte + instalação e comissionamento + treinamento + garantia adicional + sua margem operacional. Dado o valor estimado do equipamento (USD 200k-400k), até 10% de margem representa USD 20k-40k de receita bruta."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Os dados disponíveis não indicam exigência de licença específica estadual. Porém, para fornecimento de equipamentos a instalações militares da Marinha dos EUA, é importante verificar: (1) se há requisitos de conformidade ITAR (International Traffic in Arms Regulations), especialmente porque o equipamento será usado em ambiente naval de defesa; (2) autorização de distribuidor Okuma, que é um requisito comercial e não uma licença governamental, mas é igualmente restritiva; (3) registro ativo no SAM.gov é obrigatório. Recomenda-se consultar um especialista em contratos de defesa (PTAC - Procurement Technical Assistance Center) em sua região para orientação sobre compliance."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga este processo: (1) Obtenha cotação oficial da Okuma America para o Genos M560V-5AX com prazo de entrega; (2) Pesquise preços de contratos anteriores similares em USASpending.gov e FPDS.gov usando NAICS 333517; (3) Calcule todos os custos: equipamento + frete especializado para base naval + seguro de transporte + instalação/comissionamento (se incluído no escopo) + treinamento (se exigido) + garantia + overhead administrativo do contrato; (4) Aplique margem entre 8-15%; (5) Verifique se o preço final é competitivo e razoável para o governo (fair and reasonable). Evite subcotar a ponto de comprometer a execução - o governo avalia tanto preço quanto capacidade de entrega."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A abertura do edital está marcada para 17/06/2026, com deadline para envio de propostas em 18/06/2026. ATENÇÃO: a janela de apenas 1 dia entre abertura e fechamento é extremamente curta e pode indicar que este é um Combined Synopsis/Solicitation simplificado, possivelmente com intenção de compra direta ou que documentos adicionais foram previamente compartilhados. Confirme horário exato (geralmente 12h00 ou 17h00 ET) diretamente no link do edital no SAM.gov. | DOCUMENTOS EXIGIDOS | Como Combined Synopsis/Solicitation, tipicamente exige: (1) Oferta de preço formal (SF-1449 ou equivalente); (2) Confirmação de registro ativo no SAM.gov; (3) Representações e certificações (Reps & Certs) - geralmente completadas no próprio SAM; (4) Proposta técnica confirmando conformidade com as especificações do Genos M560V-5AX; (5) Documentação de autorização como revendedor/distribuidor Okuma (muito provável que seja exigido); (6) Prazo de entrega estimado. Documentos específicos constam nos anexos do edital - acesse o link imediatamente. | REQUISITOS TÉCNICOS | O equipamento solicitado é o Okuma Genos M560V-5AX, uma máquina específica de marca determinada, o que caracteriza uma compra de marca exclusiva (brand name). Isso significa que somente distribuidores ou revendedores autorizados Okuma poderão atender este edital de forma competitiva. Verifique nos anexos se há possibilidade de 'or equal' (equivalente), o que raramente ocorre quando a marca está explicitamente citada no título. NAICS 333517 confirma que é fabricação/venda de maquinário industrial especial. | SEGUROS E GARANTIAS | Não foram divulgados requisitos de seguro ou bond nos dados disponíveis. Para compra de equipamento, geralmente não há exigência de performance bond em contratos menores. Confirme nos termos e condições do edital (FAR clauses aplicáveis). Seguro de responsabilidade civil pode ser exigido para instalação/comissionamento do equipamento. | COMO CALCULAR O PREÇO | (1) Obtenha cotação oficial com a Okuma America Corporation ou distribuidor autorizado para o Genos M560V-5AX; (2) Adicione custos de frete/logística até a base naval; (3) Inclua custos de instalação e comissionamento se exigido; (4) Adicione treinamento de operadores se previsto em escopo; (5) Considere garantia estendida e peças sobressalentes se solicitados; (6) Aplique sua margem de revenda (tipicamente 5-15% para equipamentos de alto valor em contratos governamentais); (7) Verifique preços em contratos anteriores similares via USASpending.gov. | ESTRATÉGIA DE SUBMISSÃO | Dada a especificidade da marca (Okuma) e o prazo de apenas 1 dia, recomenda-se: (1) Contatar imediatamente a Okuma America para autorização de revendedor ou parceria; (2) Verificar se sua empresa já possui histórico de venda de equipamentos similares ao DoD; (3) Registrar-se como Small Business no SAM.gov se ainda não estiver; (4) Solicitar esclarecimentos ao Contracting Officer antes do deadline; (5) Preparar proposta destacando capacidade de entrega, suporte técnico e garantia. | RISCOS | (1) ALTO RISCO: Janela de apenas 1 dia sugere possível direcionamento para fornecedor específico já identificado - avalie se há interesse real em competição; (2) Necessidade de autorização Okuma pode ser barreira intransponível em curto prazo; (3) Valor não divulgado dificulta análise de viabilidade financeira - o Genos M560V-5AX custa aproximadamente USD 200.000-400.000 novo; (4) Requisitos militares/ITAR podem adicionar complexidade de compliance; (5) Prazo de entrega de equipamentos Okuma pode ser de 6-12 meses, o que deve ser declarado na proposta. | PRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO - hoje): Acesse o link do edital no SAM.gov e baixe TODOS os anexos para verificar especificações completas, termos de entrega e cláusulas FAR aplicáveis. PASSO 2 (em 24h): Contate a Okuma America Corporation (okuma.com) para verificar status de distribuidor autorizado, obter cotação oficial e confirmar prazo de entrega. PASSO 3 (antes do deadline): Se viável, submeta proposta com preço, prazo de entrega confirmado pela Okuma e documentação de autorização de revendedor.",
+      "ai_analyzed_at": "2026-06-17T13:21:41.935Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
@@ -635,23 +815,58 @@
       ],
       "veredito": "watch",
       "fit_score": 50,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "Aviso de adjudicação de contrato para fornecimento de um programa de treinamento de voo motorizado (Powered Flight Program) para os cadetes da Academia Naval dos Estados Unidos (USNA), incluindo instrutores de voo certificados, aeronaves e infraestrutura de apoio ao treinamento aeronáutico militar.",
+      "categoria_curta": "Treinamento de voo",
       "escopo": "SAM.gov. NAICS: 611512. Agência: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC TSD.NAWC TRAINING SYSTEMS DIV. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bfa12a2adce54f9f90f6a2709c41bf48",
       "set_aside": "No Set aside used",
       "naics": "611512",
       "contact": "alexis.n.uy.civ@us.navy.mil",
       "contactName": "Alexis Uy",
       "solicitationNumber": "N6134026Q1005",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O governo contratou serviços relacionados ao Powered Flight Program (PFP) da Academia Naval dos Estados Unidos (USNA - United States Naval Academy). Este programa envolve o fornecimento de treinamento de voo motorizado para cadetes da Marinha dos EUA, o que tipicamente inclui: aeronaves treinamento (aviões monomotores ou similares), instrutores de voo certificados pela FAA/militares, manutenção e operação das aeronaves, combustível e suprimentos de aviação, gerenciamento do programa de instrução de voo, materiais didáticos e suporte ao currículo de aviação. O NAICS 611512 corresponde a 'Flight Training' (Treinamento de Voo). A agência contratante é o NAWC Training Systems Division (NAVAIR), ligada ao Departamento da Marinha/Defesa. Este é um Award Notice (Aviso de Adjudicação), ou seja, o contrato JÁ FOI CONCEDIDO a um fornecedor vencedor.",
+      "prazo_submissao": "NÃO APLICÁVEL - Este é um Award Notice (Aviso de Adjudicação). O contrato já foi concedido. Não há prazo de submissão ativo. Para verificar detalhes, acesse: https://sam.gov/workspace/contract/opp/bfa12a2adce54f9f90f6a2709c41bf48/view",
+      "documentos_lista": [
+        "NÃO APLICÁVEL - Contrato já adjudicado",
+        "Para futuras oportunidades: Registro ativo no SAM.gov (obrigatório)",
+        "Para futuras oportunidades: Certificação FAR Part 141 (escola de voo aprovada pela FAA)",
+        "Para futuras oportunidades: Certificados CFI dos instrutores de voo",
+        "Para futuras oportunidades: Airworthiness Certificates das aeronaves",
+        "Para futuras oportunidades: Certificados de seguro de aviação",
+        "Para futuras oportunidades: Past Performance (histórico de contratos similares)",
+        "Para futuras oportunidades: Proposta técnica detalhada do programa de voo",
+        "Para futuras oportunidades: Proposta de preços (custo por hora de voo, custo total do programa)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Não especificado neste aviso - para treinamento de voo militar espera-se Aviation Liability mínima de $5M a $50M por ocorrência",
+        "workers_comp": "Não especificado - obrigatório pelo estado onde as operações ocorrem (Maryland/Annapolis)",
+        "bond": "Não especificado - possivelmente exigido Performance Bond dado o porte e criticidade do programa militar"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "NÃO há como participar deste edital específico - ele é um Award Notice, ou seja, o contrato já foi adjudicado a um vencedor. O que vale é monitorar este contrato para quando for renovado ou relicitado. O programa PFP da Academia Naval é um contrato recorrente e de alto valor, portanto vale a pena se preparar para a próxima rodada. No entanto, trata-se de um nicho muito especializado (treinamento de voo militar) que requer aeronaves, instrutores certificados pela FAA e histórico comprovado - não é adequado para empresas sem experiência prévia neste setor."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As barreiras são extremamente elevadas neste setor: 1) CAPITAL: Aeronaves de treinamento custam entre $200K e $1M+ cada, e um programa deste porte pode exigir frota de 10 a 30+ aeronaves; 2) CERTIFICAÇÕES: É necessário ser escola certificada FAR Part 141 pela FAA, com todos os instrutores com CFI válido; 3) EXPERIÊNCIA: Contratos militares exigem histórico comprovado (Past Performance) em programas similares; 4) SEGUROS: Seguros de aviação são caríssimos e difíceis de obter; 5) LOCALIZAÇÃO: É necessário operar em aeroporto próximo à Academia Naval em Annapolis, MD; 6) SEGURANÇA: Possível necessidade de verificação de antecedentes e clearances de segurança para operar em instalações da Marinha."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos governamentais de treinamento de voo (NAICS 611512), a margem líquida típica varia entre 8% e 15%. No entanto, este é um contrato de alto custo operacional (aeronaves, combustível, manutenção, instrutores qualificados), o que pode pressionar as margens para baixo. Contratos do Departamento de Defesa tendem a ter maior controle de custos e podem exigir contabilidade de custo aberto (Cost Accounting Standards - CAS). O valor total do contrato não foi divulgado, o que impede uma análise mais precisa de viabilidade financeira."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim, as licenças e certificações são extensas e obrigatórias: 1) Certificação FAR Part 141 da FAA para operar como escola de voo aprovada; 2) Air Agency Certificate emitido pela FAA; 3) Certificados de aeronavegabilidade (Airworthiness Certificate) para cada aeronave da frota; 4) Certificados CFI (Certified Flight Instructor) para todos os instrutores; 5) Possível aprovação do DCSA (Defense Counterintelligence and Security Agency) para operar em instalações militares; 6) Registro ativo e em dia no SAM.gov com todos os documentos de conformidade federal atualizados."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para futuras oportunidades similares, a precificação deve seguir esta estrutura: 1) CUSTOS DIRETOS: Wet rate por hora de voo (combustível + manutenção + reserva para overhaul do motor), salário dos instrutores (média $60K-$120K/ano para CFIs militares), depreciação e leasing de aeronaves; 2) CUSTOS INDIRETOS: Seguros de aviação (pode representar 15-25% dos custos totais), overhead administrativo, gerenciamento do programa; 3) LUCRO: Adicionar 10-12% sobre os custos totais; 4) ESTRATÉGIA: Pesquisar o valor de contratos anteriores similares no USASpending.gov, verificar se há GAO decisions sobre contratos anteriores do PFP, e considerar oferecer preço por hora de voo mais preço fixo de gerenciamento do programa."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Este é um Award Notice (Aviso de Adjudicação), o que significa que o processo licitatório já foi concluído e o contrato foi adjudicado. A data de 2026-06-17 refere-se à data do aviso de adjudicação, não a uma oportunidade aberta. NÃO HÁ PRAZO DE SUBMISSÃO ATIVO - o contrato já foi concedido a outro fornecedor. |\n\nDOCUMENTOS EXIGIDOS | Como o contrato já foi adjudicado, não há documentos a serem submetidos neste momento. Para futuras oportunidades similares, documentos típicos incluiriam: registro ativo no SAM.gov, certificações de pequena empresa (se aplicável), licenças FAA para instrutores e aeronaves, certificados de seguro, qualificações técnicas de instrutores, histórico de programas de treinamento de voo similares e proposta técnica e de preços. |\n\nREQUISITOS TÉCNICOS | Programas de voo para academias militares exigem: instrutores com certificado CFI (Certified Flight Instructor) pela FAA, aeronaves certificadas e com manutenção em dia (airworthiness), conformidade com regulamentos FAR Part 141 ou equivalente militar, plano de instrução aprovado alinhado ao currículo da USNA, infraestrutura de suporte em aeroporto base próximo à Academia Naval (Annapolis, MD), sistemas de gestão de registros de voo e qualidade do programa. |\n\nSEGUROS E GARANTIAS | Para contratos de treinamento de voo militar, os requisitos típicos incluem: Aviation Liability Insurance (seguro de responsabilidade aeronáutica) com valores elevados (geralmente $5M a $50M por ocorrência), General Liability Insurance, Workers Compensation, possível Performance Bond para contratos de grande porte. Os valores exatos não foram divulgados neste edital. |\n\nCOMO CALCULAR O PREÇO | Não aplicável diretamente pois o contrato já foi adjudicado. Para futuros contratos similares, a precificação deve incluir: custo por hora de voo (wet rate - combustível + manutenção + depreciação da aeronave), custo de instrutores (salário + benefícios + certificações), overhead administrativo, seguros de aviação, lucro (margem típica de 10-15% em contratos governamentais de treinamento de voo), e eventuais custos de instalações/hangar. |\n\nESTRATÉGIA DE SUBMISSÃO | Para FUTURAS oportunidades similares: 1) Monitorar SAM.gov para novos editais de PFP ou programas similares (FAR Part 141, treinamento de voo militar); 2) Verificar quando este contrato expira para se preparar para a próxima licitação; 3) Considerar parceria com operadores de FBO (Fixed Base Operator) já estabelecidos próximos a bases militares; 4) Obter certificações FAR Part 141 se ainda não possuir; 5) Registrar interesse como potencial fornecedor junto ao NAWC Training Systems Division. |\n\nRISCOS | Principais riscos identificados: 1) Contrato já adjudicado - sem oportunidade imediata de participação; 2) Setor altamente especializado com altas barreiras de entrada (aeronaves, certificações FAA, instrutores qualificados); 3) Contratos militares de treinamento de voo tendem a ser de grande porte, favorecendo grandes contratadas com histórico comprovado; 4) Capital intensivo (aeronaves custam entre $100K e $500K+ cada); 5) Regulamentação rigorosa FAA e militar; 6) Valor do contrato não divulgado, dificultando análise de viabilidade. |\n\nPRÓXIMOS 3 PASSOS | 1) INVESTIGAR: Acessar o link do SAM.gov para identificar quem foi o vencedor do contrato e o valor adjudicado, bem como a duração do contrato (isso permite planejar para o próximo ciclo licitatório); 2) MONITORAR: Configurar alertas no SAM.gov para NAICS 611512 e para o NAWC Training Systems Division, para receber notificações de futuras oportunidades relacionadas a treinamento de voo militar; 3) AVALIAR CAPACIDADE: Se sua empresa tem potencial para este tipo de contrato, iniciar o processo de certificações necessárias (FAR Part 141, seguros de aviação, registro de instrutores) e considerar parcerias estratégicas para fortalecer a proposta técnica no próximo ciclo.",
+      "ai_analyzed_at": "2026-06-17T13:22:41.610Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
@@ -676,23 +891,56 @@
       ],
       "veredito": "watch",
       "fit_score": 40,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "O governo (Marinha dos EUA, base em Jacksonville, FL) quer contratar um serviço especializado de calibração de equipamentos chamados 'PosiCheck', que são instrumentos de medição utilizados em operações militares navais — basicamente, a Marinha precisa garantir que esses equipamentos estejam funcionando com precisão certificada.",
+      "categoria_curta": "Calibração de instrumentos",
       "escopo": "SAM.gov. NAICS: 541380. Agência: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC JACKSONVILLE.NAVSUP FLT LOG CTR JACKSONVILLE. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fb961bf1bc9b4f7b93e45abe90869d5e",
       "set_aside": "None",
       "naics": "541380",
       "contact": "laura.a.martinez10.civ@us.navy.mil",
       "contactName": "Laura Martinez",
       "solicitationNumber": "N6883626P0031",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Serviço de calibração de equipamentos PosiCheck (instrumentos de medição/teste de precisão utilizados pela Marinha dos EUA). O NAICS 541380 corresponde a 'Testing Laboratories' — laboratórios e serviços de teste, inspeção e calibração. O contrato é do tipo 'Justification', o que indica que pode ser uma justificativa para contratação direta (sole source/justificação J&A), sugerindo que o governo pode estar direcionando para um fornecedor específico ou de nicho com capacidade exclusiva de calibrar esse equipamento. Não foram divulgados quantidades, especificações técnicas adicionais, local exato de execução ou valor estimado do contrato. O órgão contratante é o NAVSUP FLT LOG CTR JACKSONVILLE (Naval Supply Fleet Logistics Center Jacksonville), localizado em Jacksonville, FL.",
+      "prazo_submissao": "Data de abertura: 16/06/2026. Prazo final: NÃO DIVULGADO — acesse imediatamente https://sam.gov/workspace/contract/opp/fb961bf1bc9b4f7b93e45abe90869d5e/view para confirmar o deadline exato.",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com NAICS 541380",
+        "Capability Statement detalhando experiência em calibração de PosiCheck ou instrumentos similares",
+        "Certificação de acreditação ISO/IEC 17025 (altamente provável ser exigida)",
+        "Evidência de rastreabilidade NIST nos processos de calibração",
+        "Histórico de contratos similares com DoD/Navy (past performance)",
+        "Apólices de seguro (GL, Workers' Comp) conforme requisitos do contrato",
+        "Documentos de acesso a instalações militares (se aplicável)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Não divulgado — tipicamente $1.000.000 por ocorrência para contratos Navy; confirmar no edital completo",
+        "workers_comp": "Obrigatório conforme lei do Estado da Florida; valor conforme folha de pagamento da empresa",
+        "bond": "Não indicado — provavelmente não exigido para serviço de calibração pura, mas deve ser confirmado no edital completo"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende criticamente da sua capacidade técnica. O Fit Score de 40/100 e o tipo 'Justification' indicam barreiras significativas. Se sua empresa já possui acreditação ISO/IEC 17025, experiência documentada com calibração de PosiCheck (instrumento de medição de espessura de revestimento) e relacionamento com a Navy/DoD, vale muito a pena agir imediatamente com um capability statement. Se não possui essas credenciais, as chances de sucesso neste edital específico são baixas. Recomendação: monitore, envie capability statement se qualificado, e use este edital como oportunidade para iniciar relacionamento com o NAVSUP FLC Jacksonville."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "1) Natureza do edital: tipo 'Justification' sugere sole source, o que significa que o governo pode já ter um fornecedor em mente; 2) Requisito técnico altamente especializado: calibração de PosiCheck exige equipamento específico e expertise em metrologia; 3) Acreditação ISO/IEC 17025 é quase certamente exigida para contratos de calibração com a Marinha; 4) Rastreabilidade NIST é requisito padrão DoD; 5) Possível necessidade de acesso a instalações militares (security clearance ou base access); 6) Sem valor divulgado, difícil avaliar a viabilidade financeira sem mais pesquisa."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Serviços de calibração especializada para o governo federal tipicamente permitem margens entre 15% e 35%, dependendo do nível de especialização e competição. Como este parece ser um nicho muito específico (calibração de PosiCheck para a Marinha), empresas com capacidade exclusiva podem ter maior poder de precificação. Sem o valor estimado do contrato divulgado, é impossível calcular o potencial financeiro exato. Pesquise contratos similares em USASpending.gov para benchmarking de preços."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "O edital não especificou licenças obrigatórias. No entanto, para serviços de calibração com DoD/Navy, as credenciais mais relevantes são: (1) Acreditação ISO/IEC 17025 concedida por um órgão reconhecido (como A2LA ou NVLAP) — esta é frequentemente mandatória; (2) Rastreabilidade NIST nos processos e equipamentos de calibração; (3) Registro ativo no SAM.gov com o NAICS correto (541380). Licença estadual da Florida para laboratórios pode ser aplicável dependendo do escopo. Confirme os requisitos exatos no texto completo do edital no SAM.gov."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "1) Pesquise contratos anteriores no USASpending.gov com palavras-chave 'PosiCheck calibration' e 'NAVSUP Jacksonville' para identificar preços históricos; 2) Precifique por unidade/instrumento calibrado, incluindo: mão de obra técnica especializada, custos de padrões de calibração rastreáveis, overhead do laboratório, logística/transporte do equipamento, e margem de lucro (15-30%); 3) Considere precificar com opção de envio (ship-in) e possível serviço on-site na base; 4) Inclua custos de emissão de certificados de calibração; 5) Se for sole source, o preço deve ser 'fair and reasonable' conforme os padrões FAR — o governo comparará com preços de mercado mesmo sem concorrência."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura indicada é 16/06/2026. O prazo final de submissão não foi divulgado diretamente no edital analisado — consta 'Ver SAM.gov'. É obrigatório acessar o link oficial (https://sam.gov/workspace/contract/opp/fb961bf1bc9b4f7b93e45abe90869d5e/view) para confirmar a data e hora exatas do deadline. Recomenda-se verificar imediatamente, pois editais do tipo 'Justification' (J&A) às vezes têm períodos de comentário curtos (mínimo 14 dias por lei para sole source acima de determinados valores). | DOCUMENTOS EXIGIDOS | Como nenhum documento foi listado no edital e não há PDF anexado, os documentos típicos para este tipo de contrato militar incluem: registro ativo no SAM.gov, certificações de qualidade (ISO/IEC 17025 para laboratórios de calibração é frequentemente exigida pela Marinha), histórico de calibrações similares, lista de equipamentos do laboratório, e possivelmente certificações NIST-traceable (rastreáveis ao National Institute of Standards and Technology). | REQUISITOS TÉCNICOS | O NAICS 541380 é restrito a empresas com receita anual de até $19 milhões para fins de classificação como small business. Serviços de calibração para a Marinha frequentemente exigem: rastreabilidade NIST, acreditação ISO/IEC 17025, capacidade de calibrar o modelo específico PosiCheck (instrumento de medição de espessura de revestimento/tinta em superfícies metálicas, muito usado em embarcações navais), e possível acesso a instalações militares (que pode exigir vetting de segurança). | SEGUROS E GARANTIAS | Não divulgados no edital. Para contratos de serviço com DoD/Navy, seguros típicos incluem General Liability ($1M por ocorrência), Workers' Compensation (conforme lei da Florida), e possivelmente E&O (Errors & Omissions). Bond geralmente não é exigido para serviços de calibração pura, mas deve ser confirmado no edital completo. | COMO CALCULAR O PREÇO | Sem valor estimado divulgado, a precificação deve ser baseada em: (1) custo por instrumento calibrado (cotação por unidade/modelo PosiCheck), (2) custo de transporte/logística se o equipamento precisar ser enviado ao laboratório, (3) tempo médio de calibração + overhead + margem. Pesquise preços de mercado em contratos similares via USASpending.gov usando NAICS 541380 e palavras-chave 'PosiCheck' ou 'calibration Navy'. | ESTRATÉGIA DE SUBMISSÃO | ATENÇÃO: O tipo 'Justification' sugere fortemente que este é um aviso de intenção de contratação sole source (fornecedor único). Nesse caso, o período aberto no SAM.gov serve para que empresas interessadas demonstrem sua capacidade de fornecer o serviço ('capability statement'). Se sua empresa tem capacidade técnica comprovada para calibrar PosiCheck, SUBMETA IMEDIATAMENTE um capability statement ao contracting officer listado no edital completo. Caso contrário, as chances de participação direta são baixas. | RISCOS | (1) Alta probabilidade de ser sole source — concorrência extremamente limitada; (2) Sem documentos disponíveis, há incerteza sobre requisitos técnicos e de segurança; (3) Exigência de acreditação ISO/IEC 17025 pode ser barreira significativa para pequenas empresas; (4) Acesso a base militar pode ser exigido; (5) Fit Score baixo (40/100) confirma que este edital tem barreiras de entrada relevantes. | PRÓXIMOS 3 PASSOS | 1. HOJE: Acesse o link do SAM.gov e leia o aviso completo para confirmar se é sole source e quem é o contracting officer — envie um capability statement se sua empresa tem a capacidade técnica; 2. EM 48H: Pesquise no USASpending.gov por contratos anteriores de calibração PosiCheck com a Navy em Jacksonville para entender o histórico de fornecedores e valores pagos; 3. EM 1 SEMANA: Se decidir competir, obtenha ou confirme acreditação ISO/IEC 17025 e certifique-se de que seu SAM.gov está ativo e atualizado com NAICS 541380.",
+      "ai_analyzed_at": "2026-06-17T13:23:39.251Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
@@ -718,23 +966,56 @@
       ],
       "veredito": "watch",
       "fit_score": 50,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "Compra de kits de ferramentas métricas (Metric Tool Kits GMTK) para a Guarda Nacional do Exército da Flórida, provavelmente para uso em manutenção de equipamentos militares.",
+      "categoria_curta": "Compra de ferramentas",
       "escopo": "SAM.gov. NAICS: 333517. Agência: DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO FL.USPFO FL PROCUREMENT.W7M2 USPFO ACTIVITY FL ARNG. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fac954e055084d339b5df85a2d646d54",
       "set_aside": "Total Small Business Set-Aside (FAR 19.5)",
       "naics": "333517",
       "contact": "darrin.j.weaver.mil@army.mil",
       "contactName": "Darrin Weaver",
       "solicitationNumber": "W911YN26QA011",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-25",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O governo deseja adquirir Metric Tool Kits identificados como GMTK (General Mechanic's Tool Kit em versão métrica). Trata-se de kits de ferramentas métricas para uso em manutenção de equipamentos, provavelmente veículos e maquinário militar da Guarda Nacional do Exército da Flórida (FL ARNG). O NAICS 333517 corresponde a 'Other Metalworking Machinery Manufacturing', mas neste contexto é utilizado para classificar a fabricação/fornecimento de ferramentas industriais e kits de ferramentas. As quantidades exatas, especificações detalhadas (tamanhos, tipos de ferramentas incluídas no kit, NSN - National Stock Number), e local de entrega não estão disponíveis nos dados fornecidos, sendo necessário acessar o edital completo no link SAM.gov para obter essas informações. O órgão contratante é W7M2 USPFO ACTIVITY FL ARNG, vinculado ao Departamento de Defesa / Exército / National Guard Bureau / JFHQ USPFO FL.",
+      "prazo_submissao": "25/06/2026 — horário exato deve ser confirmado no edital completo no SAM.gov (geralmente 12:00 PM ou 4:00 PM Eastern Time)",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov com NAICS 333517",
+        "Formulário de cotação de preço (Price Quote) conforme instruções do edital",
+        "Especificações técnicas do produto ofertado (comparação com requisitos do edital)",
+        "Informações do fabricante ou comprovação de distribuidor autorizado",
+        "Prazo de entrega (Delivery Schedule)",
+        "Dados bancários e informações de pagamento (EFT/ACH) registrados no SAM.gov",
+        "Eventualmente formulário SF-1449 ou OF-347 (confirmar no edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Provavelmente não exigido para contrato de fornecimento de produto — confirmar no edital completo",
+        "workers_comp": "Provavelmente não exigido para contrato de fornecimento de produto — confirmar no edital completo",
+        "bond": "Não indicado nos dados disponíveis — confirmar no edital; tipicamente não exigido para compras de produto de baixo valor"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende de fatores que só serão conhecidos após acessar o edital completo: o valor estimado não foi divulgado, o que é um sinal de alerta. Se for uma compra de baixo valor (abaixo de $10.000), a margem de lucro absoluta pode não compensar o esforço de preparação. Por outro lado, contratos com a Guarda Nacional podem abrir portas para relacionamentos comerciais futuros e credencial como fornecedor militar. Recomendamos acessar o edital completo antes de decidir. O Fit Score de 50/100 indica oportunidade moderada, sem barreiras claramente identificadas mas também sem vantagens competitivas evidentes."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) O item provavelmente possui um NSN (National Stock Number) específico, limitando fornecedores a fabricantes ou distribuidores autorizados daquele item exato; (2) Concorrência com empresas já estabelecidas como fornecedoras da DLA (Defense Logistics Agency) ou com contratos GSA ativos; (3) Possível exigência de conformidade com especificações militares (MIL-SPEC); (4) Necessidade de registro ativo no SAM.gov com o NAICS correto; (5) Prazo curto de 9 dias para preparar proposta. Não foram identificadas exigências de bond, licença especial ou seguro nos dados disponíveis."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para fornecimento de ferramentas e kits a órgãos militares, a margem típica varia entre 10% e 30% dependendo da competitividade do mercado e da disponibilidade do item. Se o item tem NSN definido e muitos distribuidores podem ofertá-lo, a margem tende a ser comprimida (10-15%). Se há poucos fornecedores autorizados, a margem pode ser maior (20-30%). Recomenda-se pesquisar preços históricos de contratos similares no USASpending.gov usando o NAICS 333517 e termos como 'GMTK' ou 'Metric Tool Kit' para calibrar a precificação."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Para fornecimento de ferramentas e kits de ferramentas, geralmente não há exigência de licença profissional específica no Estado da Flórida. O principal requisito é estar registrado e ativo no SAM.gov. No entanto, se o item possuir especificação militar (MIL-SPEC) ou for controlado pelo ITAR (International Traffic in Arms Regulations), pode haver requisitos adicionais de compliance. Confirme no edital completo se há alguma exigência de certificação ou autorização especial do fabricante."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos: (1) Identifique o item exato pelo NSN ou Part Number no edital completo; (2) Consulte distribuidores como MSC Industrial, Snap-on, Matco, Stanley ou distribuidores militares para obter custo de aquisição; (3) Calcule frete até a base da Guarda Nacional na Flórida; (4) Pesquise preços históricos no USASpending.gov para o mesmo item ou similar; (5) Verifique se o item está disponível via DLA com preço tabelado (isso define o teto de preço competitivo); (6) Adicione margem de 10-20% ao custo total; (7) Ofereça prazo de entrega competitivo (30-45 dias é típico para itens em estoque). Preço mais baixo com entrega garantida no prazo geralmente vence em compras simples de produto."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura do edital é 16/06/2026 e o prazo final (deadline) para envio de propostas é 25/06/2026. Isso representa uma janela de apenas 9 dias corridos para preparar e submeter a proposta. É fundamental acessar o edital completo no SAM.gov para confirmar o horário exato (geralmente 12:00 PM ou 4:00 PM Eastern Time) e verificar se há algum período de perguntas e respostas (Q&A) antes dessa data.\n\nDOCUMENTOS EXIGIDOS | Como se trata de uma Combined Synopsis/Solicitation (formato simplificado de licitação federal), os documentos típicos exigidos incluem: registro ativo no SAM.gov (sam.gov), cotação de preço (price quote), dados do fabricante ou distribuidor autorizado, especificações do produto ofertado com comparação às especificações do edital, prazo de entrega, e eventualmente um formulário SF-1449 ou OF-347. Nenhum documento específico foi listado nos dados disponíveis — acesse o edital completo para confirmar.\n\nREQUISITOS TÉCNICOS | O NAICS 333517 com tamanho padrão para pequenas empresas deve ser verificado no edital (geralmente 500 a 1.250 funcionários para manufatura). Como se trata de equipamento militar, pode haver requisitos de conformidade com especificações militares (MIL-SPEC) ou NSN específico. É provável que o item tenha um número de estoque nacional (NSN) definido, o que restringe os fornecedores a fabricantes ou distribuidores autorizados daquele item exato.\n\nSEGUROS E GARANTIAS | Para licitações de fornecimento de produtos (supply), geralmente não há exigência de seguro de responsabilidade civil ou workers' comp da mesma forma que em contratos de serviços. Performance Bond e Payment Bond também raramente são exigidos em compras de produtos de baixo valor. Confirme no edital se há alguma exigência de warranty (garantia do produto) para os kits de ferramentas.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Identifique o NSN ou Part Number exato solicitado; (2) Consulte fornecedores ou distribuidores autorizados para obter o custo de aquisição do produto; (3) Adicione custos de frete e entrega para a base militar na Flórida; (4) Considere margem de lucro de 10% a 25% dependendo da competição esperada; (5) Verifique preços históricos no USASpending.gov ou no próprio SAM.gov para contratos similares de GMTK; (6) Leve em conta que compras militares frequentemente têm preços tabelados via GSA Schedule ou DLA (Defense Logistics Agency).\n\nESTRATÉGIA DE SUBMISSÃO | (1) Acesse imediatamente o link do edital no SAM.gov para baixar o documento completo e identificar NSN, quantidade e especificações; (2) Verifique se sua empresa está registrada no SAM.gov com o NAICS 333517 ativo; (3) Confirme se você é fabricante, distribuidor autorizado ou pode adquirir o item via DLA ou GSA; (4) Prepare uma cotação competitiva com prazo de entrega realista (militares valorizam entrega rápida); (5) Submeta via SAM.gov ou pelo método indicado no edital antes do prazo de 25/06/2026.\n\nRISCOS | (1) Valor não divulgado — pode ser uma compra de baixíssimo valor não compensatória; (2) NSN específico pode limitar fornecedores a apenas fabricantes ou distribuidores primários; (3) Janela curta de 9 dias para resposta; (4) Requisitos de conformidade militar podem exigir certificações que pequenas empresas não possuem; (5) Concorrência com empresas já cadastradas na DLA ou com contrato GSA ativo para o item.\n\nPRÓXIMOS 3 PASSOS | 1. IMEDIATAMENTE: Acesse o link https://sam.gov/workspace/contract/opp/fac954e055084d339b5df85a2d646d54/view e baixe o edital completo para identificar NSN, quantidade, especificações e instruções de submissão. 2. ATÉ 48 HORAS: Confirme se sua empresa pode fornecer o item exato solicitado (verifique estoque, distribuidores, fabricantes) e calcule o preço total incluindo frete. 3. ATÉ 25/06/2026: Prepare e submeta sua cotação conforme as instruções do edital, garantindo que seu registro no SAM.gov está ativo e atualizado com o NAICS correto.",
+      "ai_analyzed_at": "2026-06-17T13:24:35.602Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
@@ -763,23 +1044,61 @@
       ],
       "veredito": "watch",
       "fit_score": 40,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "Substituição de painéis de vidro externos em um centro de saúde do governo (LCHCC), contratando empresa especializada em instalação de vidraçaria e fachadas de vidro para veteranos na Flórida.",
+      "categoria_curta": "Reforma de vidraçaria",
       "escopo": "SAM.gov. NAICS: 238150. Agência: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248). https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ed0181ca358f40e8beae4ba57fcf2344",
       "set_aside": "None",
       "naics": "238150",
       "contact": "Michael.Shook@va.gov",
       "contactName": "Michael A Shook",
       "solicitationNumber": "36C24826Q0700",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-07-10",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O governo (Departamento de Assuntos de Veteranos - VA) busca contratar uma empresa especializada para substituição de painéis de vidro externos (Exterior Glass Panel Replacement) no LCHCC (Lake City Health Care Center ou similar instalação VA na região). O serviço envolve remoção dos painéis de vidro existentes na fachada externa do edifício e instalação de novos painéis de vidro. O NAICS 238150 corresponde a 'Glass and Glazing Contractors' (Empreiteiros de Vidro e Vidraçaria). Detalhes específicos como quantidade de painéis, dimensões, especificações técnicas do vidro (temperado, laminado, insulado etc.), cronograma de execução e endereço exato da obra não foram divulgados nesta fase de pré-solicitação (Pre-Solicitation). Esses detalhes serão publicados na solicitação formal prevista para abertura em 16 de junho de 2026.",
+      "prazo_submissao": "Deadline para submissão: 10 de julho de 2026. Data de abertura da solicitação formal: 16 de junho de 2026. ATENÇÃO: Este edital está na fase de Pré-Solicitação - os documentos completos e hora exata ainda serão publicados. Monitore o SAM.gov para confirmar horário limite (geralmente 14:00 ou 16:00 EST).",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório)",
+        "Representations and Certifications (Reps & Certs) no SAM.gov atualizados",
+        "Licença de Empreiteiro de Vidraçaria válida na Flórida (Glazing Contractor License)",
+        "Apólice de General Liability Insurance",
+        "Apólice de Workers' Compensation Insurance (conforme lei da Flórida)",
+        "Performance Bond (provável, se contrato acima de $150.000)",
+        "Payment Bond (provável, se contrato acima de $150.000)",
+        "Histórico de projetos similares (Past Performance)",
+        "Lista de funcionários para verificação de antecedentes VA",
+        "Proposta técnica detalhada (Technical Proposal)",
+        "Proposta de preço (Price Proposal)",
+        "Todos os documentos adicionais especificados na solicitação formal quando publicada"
+      ],
+      "seguros_detalhado": {
+        "GL": "Mínimo $1.000.000 por ocorrência / $2.000.000 agregado (valor típico VA - confirmar no edital)",
+        "workers_comp": "Obrigatório conforme Florida Statute - valor conforme número de funcionários e classificação de risco",
+        "bond": "Provável que sim - Performance Bond e Payment Bond de 100% do valor do contrato se acima de $150.000 (Miller Act federal); confirmar no edital"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de 40/100 e valor não divulgado, a avaliação é incerta nesta fase. Vale a pena se: (1) sua empresa já possui licença de glazing contractor na Flórida, (2) tem experiência comprovada em substituição de vidros em edifícios comerciais ou governamentais, (3) está registrada no SAM.gov com NAICS 238150, e (4) tem capacidade financeira para bancar bond e seguros. O fato de ser um contrato do VA (Departamento de Veteranos) adiciona complexidade burocrática, mas também oferece segurança de pagamento. Recomendamos fazer o Follow no SAM.gov agora e decidir definitivamente quando os documentos completos forem publicados em junho de 2026."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Licença específica de Glazing Contractor na Flórida - sem ela, não é possível participar; (2) Experiência em instalações governamentais ou do VA - o governo valoriza empresas com histórico comprovado em projetos similares; (3) Capacidade de obter Performance e Payment Bond - exige bom histórico de crédito e saúde financeira da empresa; (4) Verificação de antecedentes de todos os funcionários que trabalharão no campus VA - pode ser um obstáculo; (5) Valor não divulgado - se for um contrato grande, pequenas empresas podem ter dificuldade de demonstrar capacidade financeira; (6) Trabalho em instalação médica ativa do VA exige conformidade com protocolos específicos de segurança e acesso."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para contratos governamentais de construção/reforma no setor de vidraçaria, a margem de lucro líquida típica fica entre 8% e 20%, dependendo do tamanho do contrato e complexidade. Contratos menores (abaixo de $100K) podem ter margens maiores (15-25%) pois há menos concorrência. Contratos maiores tendem a ter margens comprimidas (8-15%) pela competição. Como o valor não foi divulgado, é difícil estimar. Inclua sempre: custo de materiais, mão de obra, equipamentos, overhead operacional (15-20%), custos com bond e seguros, e então aplique sua margem. Evite precificar muito baixo apenas para ganhar - contratos VA com margens negativas são problemáticos e difíceis de renegociar."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim. O NAICS 238150 corresponde a Glass and Glazing Contractors. Na Flórida, para executar serviços de vidraçaria em edifícios comerciais, é necessária a licença de Glazing Contractor emitida pelo Florida Department of Business and Professional Regulation (DBPR). Especificamente, a licença de 'Glass & Glazing Contractor' é a mais adequada. Verifique também se é necessária licença de empreiteiro geral dependendo do escopo total do trabalho. Para trabalhos em instalações federais do VA, não há licença federal adicional específica para vidraçaria, mas todos os requisitos estaduais devem estar cumpridos. Confirme que sua licença está ativa e sem restrições antes de submeter proposta."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Siga estes passos para precificação: (1) Após publicação dos documentos, identifique quantidade e especificações dos painéis (m², tipo de vidro, espessura, tratamentos); (2) Solicite cotações a pelo menos 3 fornecedores de vidro para garantir melhor preço; (3) Calcule horas de mão de obra considerando complexidade de acesso (andaimes, plataformas) e restrições do VA; (4) Adicione custo de descarte dos painéis antigos (pode ser significativo para vidros grandes); (5) Inclua mobilização/desmobilização e equipamentos; (6) Calcione overhead: seguros (1-3%), bond (1-3%), administrativo (10-15%); (7) Adicione margem de lucro (10-20%); (8) Inclua contingência de 8-10% para imprevistos em obra VA; (9) Compare com preços médios de mercado para vidraçaria comercial na Flórida ($50-$150/m² instalado dependendo do tipo de vidro). Nunca precifique baseado apenas em 'ganhar' - precifique para ter lucro real."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura da solicitação formal: 16 de junho de 2026. Prazo final (Deadline) para submissão de propostas: 10 de julho de 2026. Atenção: este edital está na fase de Pré-Solicitação (Pre-Solicitation), o que significa que ainda não há documentos completos disponíveis. A solicitação oficial com todos os detalhes será publicada posteriormente. Monitore o link do SAM.gov regularmente para capturar a publicação dos documentos completos.\n\nDOCUMENTOS EXIGIDOS | Por ser pré-solicitação, os documentos exigidos ainda não foram formalmente listados. Com base no padrão do VA para contratos de construção/reforma (NAICS 238150), espere exigências como: registro ativo no SAM.gov, Representations and Certifications (Reps & Certs), histórico de projetos similares, licença de empreiteiro de vidraçaria válida na Flórida, apólices de seguro (GL e Workers' Comp), e possivelmente Performance Bond e Payment Bond dependendo do valor do contrato.\n\nREQUISITOS TÉCNICOS | O NAICS 238150 exige experiência comprovada em instalação de vidro e vidraçaria em edificações comerciais ou governamentais. Em instalações do VA, há requisitos adicionais de segurança como verificação de antecedentes dos funcionários, uso de crachás de acesso ao campus, conformidade com normas OSHA, e possivelmente certificações especiais para trabalho em ambiente hospitalar ou de saúde. Espere também requisitos de conformidade com as normas de construção da Flórida (Florida Building Code) e possivelmente normas federais de eficiência energética para vidros.\n\nSEGUROS E GARANTIAS | Contratos VA para obras de construção tipicamente exigem: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pela Flórida; Performance Bond e Payment Bond geralmente exigidos para contratos acima de $150.000 (threshold federal Miller Act). O valor estimado não foi divulgado, o que é um ponto de atenção. Confirme os valores exatos nos documentos da solicitação formal.\n\nCOMO CALCULAR O PREÇO | Para precificar este tipo de serviço: (1) Aguarde os documentos completos para conhecer especificações exatas dos painéis; (2) Calcule custo de materiais (vidro + molduras + vedações); (3) Estime mão de obra com base em m² de vidro a substituir; (4) Inclua custos de equipamentos (andaimes, plataformas elevatórias); (5) Adicione custos de descarte dos painéis antigos; (6) Inclua overhead e margem de lucro (tipicamente 15-25% em obras governamentais para pequenas empresas); (7) Reserve contingência de 10% para imprevistos em obras VA; (8) Inclua custo do bond se exigido (geralmente 1-3% do valor do contrato).\n\nESTRATÉGIA DE SUBMISSÃO | 1) Cadastre-se imediatamente no SAM.gov se ainda não estiver registrado e verifique se o código NAICS 238150 está em seu perfil; 2) Faça o Follow/Watch desta oportunidade no SAM.gov para receber notificações automáticas; 3) Quando publicados os documentos, leia minuciosamente as especificações técnicas e Statement of Work (SOW); 4) Visite o local (site visit) se o VA oferecer essa oportunidade - é altamente recomendável para vidraçaria de fachada; 5) Submeta perguntas (Questions) durante o período de Q&A para esclarecer dúvidas técnicas; 6) Prepare proposta técnica e de preço conforme instruções do edital; 7) Certifique-se de que todos os funcionários que trabalharão no campus VA estejam aptos para verificação de antecedentes.\n\nRISCOS | (1) Valor não divulgado: não é possível avaliar viabilidade financeira nesta fase - pode ser um contrato pequeno (menos de $25K) ou grande ($500K+); (2) Trabalho em instalação VA ativa: restrições de acesso, horários limitados, possível impacto em operações do hospital podem aumentar custos; (3) Especificações de vidro podem ser muito específicas (vidro de segurança laminado, com propriedades acústicas ou térmicas específicas), exigindo fornecedores especializados; (4) Prazo de execução pode ser apertado; (5) Requisitos de verificação de antecedentes podem eliminar funcionários com histórico criminal, limitando equipe disponível; (6) Fit Score de 40/100 sugere alinhamento médio-baixo - avalie honestamente se sua empresa tem experiência comprovada em vidraçaria comercial/governamental.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (Imediato - Esta semana): Acesse o link do SAM.gov e clique em 'Follow' para monitorar a oportunidade; verifique se sua empresa está registrada no SAM.gov com NAICS 238150 ativo; confirme que sua licença de vidraçaria/empreiteiro está válida na Flórida. PASSO 2 (Junho de 2026 - quando publicar a solicitação formal): Baixe todos os documentos do edital; identifique especificações técnicas dos painéis; entre em contato com fornecedores de vidro para cotações preliminares; registre-se para o site visit se disponível. PASSO 3 (Julho de 2026 - antes do prazo): Prepare e submeta proposta completa com todos os documentos exigidos; garanta que seguros e bonds estejam prontos para apresentação; submeta perguntas técnicas durante o período de Q&A se houver dúvidas.",
+      "ai_analyzed_at": "2026-06-17T13:25:45.751Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
@@ -804,23 +1123,59 @@
       ],
       "veredito": "watch",
       "fit_score": 40,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "Contratação de serviço de manutenção corretiva de equipamentos Rapiscan (scanners de segurança/raio-X) para a base naval de Jacksonville, FL — ou seja, o governo quer uma empresa especializada para consertar e restaurar o funcionamento desses equipamentos quando apresentarem falhas ou defeitos.",
+      "categoria_curta": "Manutenção de equipamentos",
       "escopo": "SAM.gov. NAICS: 811210. Agência: DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC JACKSONVILLE.NAVSUP FLT LOG CTR JACKSONVILLE. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d702b4e5b769461385b1ab0a18c46261",
       "set_aside": "None",
       "naics": "811210",
       "contact": "kyle.a.nelson2.civ@us.navy.mil",
       "contactName": "Kyle Nelson",
       "solicitationNumber": "N6883626P0012",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "O governo (Marinha dos EUA — NAVSUP Fleet Logistics Center Jacksonville) busca contratar serviços de manutenção corretiva (Corrective Maintenance) para equipamentos Rapiscan, que são sistemas de inspeção por raio-X e detecção de segurança amplamente utilizados em instalações militares para triagem de pessoas, veículos e cargas. A manutenção corretiva envolve diagnóstico de falhas, reparo, substituição de peças defeituosas e restauração do pleno funcionamento dos equipamentos. O edital está classificado como 'Justification', o que indica que pode ser uma justificativa para contratação direta (sole source) com um fornecedor específico — possivelmente o próprio fabricante Rapiscan Systems ou distribuidor autorizado. NAICS 811210 corresponde a 'Repair and Maintenance of Electronic and Precision Equipment'. O local de execução provavelmente é a Base Naval de Jacksonville, FL. Quantidades, modelos específicos dos equipamentos e escopo detalhado não estão disponíveis publicamente neste aviso — estão no link da SAM.gov.",
+      "prazo_submissao": "Data exata não divulgada neste aviso. Data de abertura: 16/06/2026. Confirmar prazo final diretamente em: https://sam.gov/workspace/contract/opp/d702b4e5b769461385b1ab0a18c46261/view",
+      "documentos_lista": [
+        "Registro ativo no SAM.gov (obrigatório para qualquer contrato federal)",
+        "Capability Statement focado em manutenção de equipamentos eletrônicos/segurança",
+        "Evidência de certificação técnica Rapiscan Systems (OEM authorization)",
+        "Histórico de past performance em contratos similares (manutenção de equipamentos de inspeção)",
+        "Proposta técnica detalhando metodologia de manutenção corretiva",
+        "Proposta comercial/preço",
+        "Certificados de seguro (GL, Workers' Comp) — valores a confirmar no edital",
+        "Documentação de clearance de segurança dos técnicos (se exigido)",
+        "Credenciamento para acesso à Base Naval de Jacksonville (Base Access Authorization)",
+        "Certidões de regularidade fiscal federal (verificar requisitos DFARS)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Valor não divulgado — tipicamente $1.000.000 por ocorrência / $2.000.000 agregado para contratos militares; confirmar no edital completo",
+        "workers_comp": "Obrigatório conforme lei da Flórida — valor mínimo estatutário; confirmar requisitos adicionais no edital",
+        "bond": "Não confirmado — possível Performance Bond dependendo do valor do contrato; contratos acima de $150.000 geralmente exigem; confirmar no edital completo"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Com Fit Score de apenas 40/100 e classificação 'Justification', a viabilidade é moderada a baixa para empresas sem relacionamento prévio com a Marinha ou sem certificação oficial Rapiscan. O tipo 'Justification' (J&A) indica que o governo provavelmente já identificou um fornecedor preferencial. Vale a pena SE sua empresa: (1) já possui certificação Rapiscan Systems, (2) tem histórico comprovado em manutenção de equipamentos de segurança em bases militares, (3) possui técnicos com clearance de segurança ativo, e (4) tem registro SAM.gov ativo. Caso contrário, o esforço de qualificação pode superar o retorno esperado neste contrato específico."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As principais barreiras são: (1) Certificação técnica Rapiscan — o fabricante é criterioso na autorização de terceiros para manutenção de seus equipamentos; (2) Clearance de segurança e credenciamento em base naval — processo que pode levar semanas a meses; (3) Tipo 'Justification' sugere contratação direta, o que pode excluir novos competidores; (4) Requisitos DFARS (Defense Federal Acquisition Regulation Supplement) que impõem obrigações adicionais a fornecedores do Departamento de Defesa; (5) Past performance em contratos militares similares — agências de defesa valorizam muito histórico comprovado."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Para serviços de manutenção corretiva de equipamentos especializados em contratos militares, a margem líquida típica varia entre 10% e 22%, dependendo do nível de competição. Como este parece ser um contrato de sole source ou limitada competição, margens mais altas (15-25%) são possíveis se sua empresa for o fornecedor preferencial. Porém, o valor total não foi divulgado, dificultando a análise de viabilidade financeira. Recomenda-se pesquisar contratos similares no USASpending.gov (NAICS 811210 + 'Rapiscan' + NAVSUP Jacksonville) para benchmarking de valores históricos."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "As informações do edital indicam 'licença = N/A', porém para este tipo de serviço é altamente recomendável ter: (1) Autorização/certificação oficial do fabricante Rapiscan Systems para manutenção de seus equipamentos — isso pode ser determinante para qualificação; (2) Registro ativo no SAM.gov (obrigatório para qualquer contrato federal); (3) Licença de negócios na Flórida; (4) Possivelmente certificações de segurança eletrônica ou licenças de técnicos em eletrônica, dependendo dos requisitos específicos do edital completo. Acesse o edital completo no SAM.gov para confirmar requisitos de licenciamento."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Para precificar adequadamente: (1) Identifique os modelos específicos dos equipamentos Rapiscan (informação no edital completo) e estime o custo de mão de obra especializada — técnicos certificados cobram entre $85-$150/hora no mercado; (2) Levante o custo de peças sobressalentes originais com markup de 20-35%; (3) Inclua custos de deslocamento e logística para acesso à base naval; (4) Adicione overhead administrativo de 15-25% (compliance DFARS, seguros, gestão); (5) Aplique margem de lucro de 10-20%; (6) Pesquise no USASpending.gov contratos similares para validar se seu preço está competitivo; (7) Considere incluir opções de anos adicionais (option years) com escalonamento de preço. Não divulgue preço abaixo do custo real — contratos militares têm auditorias rigorosas."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura indicada é 16 de junho de 2026. O prazo final para submissão está descrito como 'Ver SAM.gov', o que significa que é imprescindível acessar diretamente o link https://sam.gov/workspace/contract/opp/d702b4e5b769461385b1ab0a18c46261/view para obter a data e hora exatas. Em contratos do tipo 'Justification' (J&A - Justification and Approval), frequentemente há um período de comentários públicos de 15 dias antes da adjudicação direta, não necessariamente uma licitação competitiva aberta. DOCUMENTOS EXIGIDOS | Como nenhum documento foi anexado ao aviso público e a análise de PDF está vazia, os requisitos documentais precisam ser obtidos no SAM.gov. Tipicamente para contratos deste tipo exige-se: registro ativo no SAM.gov (sam.gov), certificação de pequena empresa se aplicável, proposta técnica e comercial, histórico de serviços similares (past performance), evidência de autorização do fabricante (Rapiscan Systems) para realizar manutenção nos equipamentos, e certificações técnicas dos técnicos envolvidos. REQUISITOS TÉCNICOS | NAICS 811210 — serviços de reparo e manutenção de equipamentos eletrônicos e de precisão. Para equipamentos Rapiscan, é altamente provável que o contrato exija: técnicos certificados pelo fabricante Rapiscan Systems (OEM-certified technicians), acesso a peças sobressalentes originais, tempo de resposta definido em SLA (Service Level Agreement), clearance de segurança para acesso à base naval (Base Access e possivelmente SECRET clearance dependendo das instalações), e compliance com regulamentações militares (DFARS). SEGUROS E GARANTIAS | Não foram divulgados valores específicos neste aviso. Para contratos militares deste porte, tipicamente exige-se: General Liability mínimo de $1.000.000 por ocorrência, Workers' Compensation conforme lei da Flórida, e possivelmente Performance Bond. Os valores exatos devem ser confirmados na documentação completa do edital. COMO CALCULAR O PREÇO | Dado que o valor estimado não foi divulgado e o tipo é 'Justification', provavelmente trata-se de sole source (contratação direta). Para precificação: levante o custo de mão de obra especializada (técnicos certificados Rapiscan cobram entre $85-$150/hora no mercado), adicione custo de peças com markup, inclua deslocamento e acesso à base, overhead administrativo (15-25%), e margem de lucro (10-20%). Pesquise contratos similares no USASpending.gov usando NAICS 811210 + Rapiscan para benchmarking de valores históricos. ESTRATÉGIA DE SUBMISSÃO | Este edital recebeu Fit Score 40/100 e status 'watch', o que indica oportunidade de acompanhamento, mas com barreiras relevantes. A classificação 'Justification' sugere fortemente que o governo já tem um fornecedor preferencial em mente (possivelmente o fabricante ou distribuidor oficial Rapiscan). Estratégia recomendada: 1) Acesse o edital completo para confirmar se é J&A (sole source notice) ou se há oportunidade competitiva; 2) Se for sole source, verifique se sua empresa tem autorização oficial Rapiscan para justificar uma objeção ou proposta alternativa; 3) Submeta capability statement demonstrando experiência com equipamentos de inspeção de segurança e acesso a bases militares. RISCOS | Principais riscos: (1) Contrato provavelmente é sole source — baixa probabilidade de competição aberta; (2) Exige clearance de segurança e acesso à base naval, processo demorado; (3) Certificação técnica específica Rapiscan pode ser exigida e difícil de obter rapidamente; (4) Valor não divulgado dificulta análise de viabilidade financeira; (5) Requisitos DFARS podem aumentar custos de compliance. PRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse o link SAM.gov e leia o documento completo do edital para confirmar se é sole source ou competitivo, e obtenha prazo exato de submissão; 2) ATÉ 48 HORAS: Verifique se sua empresa possui ou pode obter rapidamente: certificação Rapiscan, registro SAM.gov ativo, e acesso/credenciamento para bases navais em Jacksonville; 3) ATÉ 1 SEMANA: Se competitivo — prepare capability statement focado em manutenção de equipamentos de segurança/raio-X e histórico com contratos militares; pesquise valores históricos similares no USASpending.gov para precificação competitiva.",
+      "ai_analyzed_at": "2026-06-17T13:26:51.485Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
@@ -843,23 +1198,56 @@
       "resourceLinks": [],
       "veredito": "watch",
       "fit_score": 50,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
+      "resumo_simples": "O governo (Força Aérea dos EUA) está fazendo uma pesquisa de mercado para identificar empresas capazes de fornecer componentes, peças ou serviços relacionados ao míssil JSM (Joint Strike Missile) para 2026, no âmbito do programa de armamentos da Força Aérea.",
+      "categoria_curta": "Defesa e armamentos",
       "escopo": "SAM.gov. NAICS: 336415. Agência: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8681  AFLCMC EBD. https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d4b71069c6f246618dd8b27375bd1daf",
       "set_aside": "No Set aside used",
       "naics": "336415",
       "contact": "catherine.hodge.2@us.af.mil",
       "contactName": "Catherine W. Hodge",
       "solicitationNumber": "JSM2026",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-07-08",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
+      "o_que_comprar": "Este é um 'Sources Sought' (pesquisa de mercado) relacionado ao JSM 2026 — Joint Strike Missile. O governo NÃO está comprando nada ainda; está identificando empresas qualificadas no setor de componentes aeroespaciais e de sistemas de armamentos (NAICS 336415 - Aircraft Engine and Engine Parts Manufacturing). O órgão responsável é o AFLCMC EBD (Air Force Life Cycle Management Center - Eglin Air Force Base, FL). As empresas interessadas devem demonstrar capacidade técnica e experiência na fabricação, manutenção ou fornecimento de peças para sistemas de mísseis ou propulsão de aeronaves militares. Quantidades, especificações técnicas detalhadas e requisitos de entrega ainda não foram divulgados — serão publicados em edital formal subsequente caso o governo decida avançar para contratação.",
+      "prazo_submissao": "08 de julho de 2026 — confirme o horário exato (provavelmente 17:00 Eastern Time) diretamente no edital em sam.gov antes de submeter",
+      "documentos_lista": [
+        "Capability Statement (2-5 páginas) com experiência em NAICS 336415 e sistemas aeroespaciais/defesa",
+        "Registro ativo no SAM.gov com CAGE Code e UEI válidos",
+        "Declaração de porte de empresa (small business, woman-owned, veteran-owned, HUBZone, etc.)",
+        "Lista de contratos anteriores similares (past performance) com agências governamentais ou primes de defesa",
+        "Declaração de conformidade ITAR (International Traffic in Arms Regulations) se aplicável",
+        "Certificações relevantes: AS9100, ISO 9001, CMMC se exigido",
+        "Formulário específico exigido pelo AFLCMC (verifique no link do edital)"
+      ],
+      "seguros_detalhado": {
+        "GL": "Não especificado neste estágio — típico em defesa: mínimo $1.000.000 por ocorrência / $2.000.000 agregado",
+        "workers_comp": "Não especificado — obrigatório conforme legislação da Florida e requisitos federais",
+        "bond": "Não aplicável neste estágio de Sources Sought — verificar quando RFP formal for publicado"
+      },
+      "perguntas_frequentes": [
+        {
+          "pergunta": "Vale a pena participar deste edital?",
+          "resposta": "Depende muito do perfil da sua empresa. Se você atua no setor aeroespacial ou de defesa com experiência em NAICS 336415 (fabricação de motores/peças de aeronaves), vale muito a pena responder ao Sources Sought — é uma forma de colocar sua empresa no radar da Força Aérea para um contrato futuro potencialmente muito valioso. Porém, se sua empresa é nova no setor de defesa ou não tem certificações específicas (ITAR, AS9100, security clearance), as barreiras são muito altas. O Fit Score de 50/100 reflete exatamente essa dualidade: há oportunidade, mas também barreiras significativas."
+        },
+        {
+          "pergunta": "Quais são as principais barreiras de entrada?",
+          "resposta": "As barreiras são consideráveis: (1) Conformidade com ITAR — qualquer empresa que fabrica ou fornece tecnologia para sistemas de armamentos americanos deve ser registrada no ITAR, o que envolve custos e processos; (2) Security Clearance — muitos aspectos do programa JSM são classificados, exigindo que funcionários e instalações tenham clearance federal; (3) Certificações técnicas — AS9100 e padrões militares MIL-SPEC são praticamente obrigatórios; (4) Experiência prévia em defesa — a Força Aérea prefere fornecedores com histórico comprovado em contratos DoD; (5) Capital — contratos de defesa frequentemente exigem investimento antecipado significativo antes do reembolso."
+        },
+        {
+          "pergunta": "Qual margem de lucro posso esperar?",
+          "resposta": "Em contratos de defesa na área de manufatura aeroespacial (NAICS 336415), as margens típicas variam entre 8% e 15% líquido, podendo chegar a 20% para componentes altamente especializados com poucos fornecedores qualificados. O governo monitora lucros via DCAA (Defense Contract Audit Agency) em contratos cost-plus. Em contratos de preço fixo (fixed-price), empresas eficientes podem obter margens maiores. Como o valor total não foi divulgado, é impossível calcular o retorno absoluto neste momento."
+        },
+        {
+          "pergunta": "Preciso de licença específica para este edital?",
+          "resposta": "Sim, para atuar no fornecimento de componentes para sistemas de mísseis militares americanos, você provavelmente precisará de: (1) Registro ITAR junto ao Departamento de Estado dos EUA (Directorate of Defense Trade Controls — DDTC), obrigatório para qualquer empresa que fabrica, exporta ou fornece serviços para itens na USML (US Munitions List); (2) Possível facility clearance (FCL) se o trabalho envolver informações classificadas; (3) Certificações de qualidade como AS9100 Rev D. Confirme os requisitos exatos quando o edital formal for publicado."
+        },
+        {
+          "pergunta": "Como devo precificar minha proposta?",
+          "resposta": "Neste estágio (Sources Sought), não há precificação necessária. Quando o RFP formal for publicado, siga esta metodologia: (1) Calcule todos os custos diretos — materiais certificados para uso militar, mão de obra especializada com clearance, testes e certificações; (2) Adicione overhead — custos de facilities certificadas, compliance ITAR, seguro, administração; (3) Aplique sua taxa de lucro (profit rate), geralmente entre 8-12% para ser competitivo; (4) Considere custos de G&A (General and Administrative); (5) Se for contrato cost-plus, documente tudo meticulosamente para auditoria DCAA. Recomendamos contratar um consultor especializado em precificação de contratos DoD antes de submeter qualquer proposta formal."
+        }
+      ],
       "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Abertura: 16/06/2026. Prazo final para resposta ao Sources Sought: 08/07/2026. Confirme horário exato e fuso horário (provavelmente Eastern Time) diretamente no link do edital no SAM.gov antes de submeter qualquer documentação.\n\nDOCUMENTOS EXIGIDOS | Por ser um Sources Sought, a resposta típica inclui: (1) Capability Statement — documento de 2 a 5 páginas descrevendo a capacidade técnica da empresa; (2) Informações sobre porte da empresa (small business, woman-owned, veteran-owned, etc.); (3) Experiência anterior em contratos similares (passado relevante); (4) CAGE Code e DUNS/UEI ativo no SAM.gov; (5) Eventual declaração de interesse formal conforme instruções específicas do edital (acesse o link para verificar formulário exato exigido pelo AFLCMC).\n\nREQUISITOS TÉCNICOS | NAICS 336415 cobre fabricação de motores de aeronaves e peças. Para o JSM (Joint Strike Missile), espera-se que fornecedores tenham: experiência comprovada com sistemas de armamentos, mísseis ou propulsão aeroespacial; capacidade de atender normas militares (MIL-SPEC); instalações com controles de qualidade AS9100 ou equivalente; possível necessidade de clearance de segurança (security clearance) para acesso a informações classificadas do programa.\n\nSEGUROS E GARANTIAS | Não divulgados neste estágio (Sources Sought). Seguros típicos em contratos de defesa incluem: General Liability mínimo de $1M a $2M por ocorrência; Workers' Compensation conforme exigência do estado da FL; pode exigir Product Liability dado o tipo de produto. Bonds geralmente não se aplicam a contratos de manufatura de defesa, mas confirme no edital formal.\n\nCOMO CALCULAR O PREÇO | Neste momento NÃO há precificação — é apenas uma pesquisa de mercado. Quando o edital formal (RFP/RFQ) for publicado, o cálculo deverá considerar: custos diretos de materiais e componentes certificados para uso militar, mão de obra especializada, overhead de instalações certificadas, custos de conformidade regulatória (DCAA, DCMA), margem de lucro (tipicamente 8% a 15% em contratos de defesa competitivos).\n\nESTRATÉGIA DE SUBMISSÃO | 1) Acesse o link do edital imediatamente e leia as instruções completas; 2) Prepare um Capability Statement focado em experiência com NAICS 336415, sistemas de mísseis ou aeroespaciais; 3) Destaque certificações relevantes (AS9100, ITAR compliance, clearances de segurança); 4) Responda ao Sources Sought para garantir que sua empresa seja considerada quando o edital formal for publicado; 5) Verifique se há oportunidade de parceria com empresa prime se não tiver capacidade total sozinha.\n\nRISCOS | (1) Alta barreira técnica — NAICS 336415 em contexto de mísseis militares exige capacidades muito específicas; (2) Possível exigência de security clearance que pequenas empresas frequentemente não possuem; (3) Processo longo — Sources Sought é apenas o início, o contrato pode demorar meses ou anos; (4) Conformidade com ITAR (International Traffic in Arms Regulations) é obrigatória e custosa; (5) Valor estimado não divulgado, dificultando avaliação de retorno.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse https://sam.gov/workspace/contract/opp/d4b71069c6f246618dd8b27375bd1daf/view e leia todas as instruções, verifique se há anexos ou documentos com requisitos específicos de resposta; 2) ATÉ 5 DIAS ANTES DO PRAZO (03/07/2026): Prepare e revise seu Capability Statement com foco em experiência aeroespacial/defesa, certificações ITAR, AS9100, e experiência com NAICS 336415; 3) ANTES DE 08/07/2026: Submeta sua resposta conforme as instruções do edital e registre seu interesse para ser notificado quando o edital formal (RFP) for publicado.",
+      "ai_analyzed_at": "2026-06-17T13:27:49.311Z",
+      "ai_model": "claude-sonnet-4-6",
       "fetchedAt": "2026-06-17"
     },
     {
