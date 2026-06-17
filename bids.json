@@ -9,6 +9,352 @@
   },
   "bids": [
     {
+      "id": "polk-bid-26-030",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-030",
+      "bidType": "BID",
+      "title": "NERUSA AWS Receiving Facility UFA Supply Well",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/bid-26-030/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-030/",
+      "veredito": "go",
+      "fit_score": 85,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de submissão não foi informada nos dados fornecidos. É OBRIGATÓRIO acessar o edital completo em https://www.polkfl.gov/bid-form/bid-26-030/ para verificar a data e hora limite. Editais do Polk County geralmente exigem submissão presencial ou eletrônica até as 2:00 PM (horário local). Recomenda-se verificar imediatamente e colocar um alerta no calendário com 5 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais de obras do Polk County, esperam-se: Formulário de proposta (Bid Form) preenchido e assinado; Bid Bond (garantia de proposta) geralmente de 5% do valor total da proposta; Formulário de qualificação de empresa (Contractor Qualification Statement); Licenças de perfuração de poço ativas na Flórida (Water Well Contractor License - C-11); Certificados de seguro (GL, Workers' Comp, Auto); Lista de projetos similares concluídos (referências); Formulário de subcontratados (se aplicável); E-Verify compliance; e qualquer formulário adicional listado no edital PDF.\n\nREQUISITOS TÉCNICOS | Perfuração de poços no UFA (Upper Floridan Aquifer) exige expertise específica em geologia cárstica da Flórida. O contratante precisa ter: experiência comprovada em perfuração de poços profundos no UFA (tipicamente 200-800 pés de profundidade na região de Polk County); equipamentos adequados para perfuração rotativa em calcário; conhecimento das regulamentações do Southwest Florida Water Management District (SWFWMD); capacidade de realizar testes de bombeamento e análises hidráulicas; e conformidade com o Florida Well Construction Act (Capítulo 373, F.S.) e regras 62-532 FAC do FDEP.\n\nSEGUROS E GARANTIAS | Projetos desta natureza no Polk County tipicamente exigem: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pela lei da Flórida; Auto Liability $1.000.000; Bid Bond de 5% do valor da proposta; Performance Bond e Payment Bond de 100% do valor do contrato após adjudicação. CONFIRMAR valores exatos no edital PDF.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Calcular custo de mobilização/desmobilização de equipamentos pesados; (2) Custo por pé de perfuração (linear foot) — na região de Polk County, perfuração no UFA pode variar de $35 a $80/pé dependendo da formação; (3) Custo de materiais: casing PVC ou aço, screen, centralizers, cimento de vedação; (4) Custo de desenvolvimento do poço (air surging, jetting); (5) Testes de bombeamento (equipamentos, mão de obra, análises laboratoriais); (6) Licenças e taxas regulatórias (SWFWMD, FDEP); (7) Relatórios técnicos e documentação; (8) Overhead e margem de lucro (recomenda-se 15-25% para obras desta complexidade); (9) Contingência de 10-15% para imprevistos geológicos. Solicite o conjunto completo de plantas e especificações antes de calcular.\n\nESTRATÉGIA DE SUBMISSÃO | Com Fit Score de 85/100, este é um edital FAVORÁVEL. Recomendações: (1) Baixar IMEDIATAMENTE o edital completo e todos os adendos; (2) Registrar-se como vendor no sistema do Polk County para receber notificações de adendos; (3) Participar do site visit/pre-bid meeting se houver — fundamental para projetos de perfuração; (4) Preparar portfólio de projetos similares no UFA com dados de produção dos poços; (5) Garantir que todas as licenças (C-11) estejam ativas e válidas; (6) Submeter perguntas técnicas dentro do prazo estabelecido no edital; (7) Preparar proposta detalhada com breakdown de custos por item de serviço.\n\nRISCOS | (1) GEOLÓGICO: O UFA na região de Polk County pode apresentar variações imprevisíveis (cavernas, zonas de colapso, lost circulation zones) que aumentam custos; (2) REGULATÓRIO: Aprovações do SWFWMD e FDEP podem atrasar o cronograma; (3) AMBIENTAL: Zona de Polk County tem contaminação histórica por fosfato — possível complexidade adicional; (4) COMPETITIVO: Poucos contratantes têm licença C-11 ativa, mas os que têm são especializados e competitivos em preço; (5) BOND: Exigência de Performance Bond pode ser barreira para empresas pequenas sem histórico de crédito estabelecido.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acessar https://www.polkfl.gov/bid-form/bid-26-030/ e baixar o edital completo PDF, verificar prazo de submissão, valor estimado e se há pre-bid meeting agendado. PASSO 2 (ATÉ 48H): Verificar se sua empresa possui Water Well Contractor License (C-11) ativa na Flórida e se os certificados de seguro estão em vigor com os valores exigidos; contatar sua seguradora/bonding company para confirmar capacidade de emitir Bid Bond. PASSO 3 (ATÉ 5 DIAS): Realizar visita ao local (site visit), analisar logs de poços existentes na região (disponíveis no SWFWMD), calcular proposta detalhada e preparar todos os documentos de qualificação.",
+      "ai_analyzed_at": "2026-06-10T13:16:14.846Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "ITB — Menor preço ganha",
+        "badge": "ITB",
+        "color": "#16a34a",
+        "compete": true
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "orange-y26-181",
+      "source": "Orange County",
+      "orgao": "Orange County FL",
+      "condado": "Orange",
+      "estado": "FL",
+      "bidNum": "Y26-181",
+      "bidType": "IFB",
+      "title": "Supply and Installation of Traffic Signal Equipment",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "6/11/2026",
+      "deadline": "7/21/2026",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://procurement.opengov.com/portal/embed/orangecountyfl/project-list?departmentId=all&status=all#",
+      "veredito": "go",
+      "fit_score": 80,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "7/21/2026",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "addenda": 0,
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-cs-20-1111",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 20-1111",
+      "bidType": "CS",
+      "title": "Janitorial Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/cs-20-1111/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de abertura e o prazo final (deadline) não foram divulgados no resumo. É OBRIGATÓRIO acessar o PDF do edital no link oficial (https://www.polkfl.gov/bid-form/cs-20-1111/) para confirmar a data e hora limite de submissão, o local de entrega das propostas (físico ou eletrônico) e eventuais pré-requisitos de cadastro. Recomenda-se verificar também o portal de licitações do Polk County para atualizações e adendos. | DOCUMENTOS EXIGIDOS | Com base no padrão de licitações do Polk County para suprimentos, os documentos tipicamente exigidos incluem: formulário de proposta oficial preenchido e assinado, lista de preços unitários por item, comprovante de registro empresarial (Sunbiz/Florida Division of Corporations), certificado de seguro (GL e Workers' Comp), referências comerciais ou lista de clientes similares, e possivelmente formulário de não-conluio (Non-Collusion Affidavit) e formulário W-9. A lista exata deve ser confirmada no PDF do edital. | REQUISITOS TÉCNICOS | Para contratos de Janitorial Supplies, o condado geralmente exige que os produtos atendam especificações mínimas de qualidade (equivalência a marcas de referência), que itens químicos possuam SDS (Safety Data Sheets) disponíveis, e que o fornecedor comprove capacidade de entrega no prazo. Pode haver preferência por produtos EPA Safer Choice ou certificações verdes (Green Seal). Verifique se há requisitos de embalagem mínima, prazo de entrega após pedido e política de devolução. | SEGUROS E GARANTIAS | O Polk County normalmente exige para contratos de fornecimento: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigido pela legislação da Flórida (mínimo $100.000 por acidente), e Auto Liability se houver entrega com veículo próprio ($1.000.000). Bond (Performance/Payment Bond) geralmente não é exigido para contratos de suprimentos de pequeno valor, mas deve ser confirmado no edital. O Polk County deve ser listado como Additional Insured no certificado de seguro. | COMO CALCULAR O PREÇO | 1) Obtenha a lista completa de itens do edital; 2) Colete cotações de pelo menos 3 distribuidores atacadistas (ex: Waxie, Veritiv, Unisan, HD Supply); 3) Calcule o custo unitário de cada item; 4) Adicione margem de lucro (sugerido 15-25% para contratos governamentais de suprimentos); 5) Considere custos de entrega, embalagem e logística; 6) Verifique preços praticados em contratos similares via Florida Accountability Contract Tracking System (FACTS) ou MyFloridaMarketPlace; 7) Para contratos term, estime o volume anual com base em histórico do condado (se disponível via pedido de records). | ESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score 72/100 e veredito 'go', o que indica boa compatibilidade. Estratégia recomendada: (a) Baixar e ler o PDF completo imediatamente; (b) Registrar-se como fornecedor no portal do Polk County se ainda não estiver registrado; (c) Enviar perguntas/esclarecimentos dentro do prazo estabelecido para dúvidas técnicas; (d) Pesquisar vencedores de contratos anteriores similares no Polk County para benchmarking de preços; (e) Precificar de forma competitiva nos itens de maior volume e com margem adequada nos demais; (f) Garantir que todos os documentos estejam completos para evitar desclassificação por questões formais. | RISCOS | Riscos identificados: (1) Informações incompletas no resumo — necessário confirmar todos os detalhes no PDF; (2) Competição de grandes distribuidores regionais com poder de negociação maior; (3) Flutuação de preços de insumos pode comprimir margens em contratos de longa duração; (4) Requisitos de estoque mínimo podem ser exigidos; (5) Penalidades por atraso na entrega são comuns neste tipo de contrato. | PRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acessar https://www.polkfl.gov/bid-form/cs-20-1111/ e baixar o PDF completo do edital para verificar prazo exato, lista de itens, quantidades e requisitos específicos; 2) ATÉ 48H: Registrar-se no portal de fornecedores do Polk County (se necessário), obter cotações de distribuidores atacadistas para os itens listados e verificar se há pré-qualificação ou visita técnica obrigatória; 3) ANTES DO PRAZO: Preparar proposta com todos os documentos exigidos, obter certificado de seguro atualizado com Polk County como Additional Insured e submeter dentro do prazo com folga mínima de 24 horas.",
+      "ai_analyzed_at": "2026-06-10T13:17:18.641Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "CS — Lista aberta de vendors",
+        "badge": "CS",
+        "color": "#7c3aed",
+        "compete": false
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-cs-21-380",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 21-380",
+      "bidType": "CS",
+      "title": "Various Medical Related Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/cs-21-380/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura consta como N/A e o prazo final está indicado apenas no PDF do edital. É URGENTE acessar o link https://www.polkfl.gov/bid-form/cs-21-380/ imediatamente para verificar a data e hora exatas de submissão. Editais do tipo CS do Condado de Polk geralmente exigem submissão presencial ou eletrônica até determinada hora (normalmente 2:00 PM ou 3:00 PM horário local de Florida). Não perca o prazo — verifique hoje. | DOCUMENTOS EXIGIDOS | Com base em editais similares do Condado de Polk para suprimentos médicos, espera-se: (1) Formulário de proposta preenchido e assinado; (2) Lista de preços unitários para cada item solicitado; (3) Certificado de Seguro (GL, Workers' Comp, Auto se aplicável); (4) Referências de contratos anteriores similares; (5) Documentação de registro da empresa (Sunbiz/Florida Division of Corporations); (6) W-9 preenchido; (7) Formulário de conflito de interesses; (8) Formulário de certificação de não discriminação. Verifique no PDF se há exigência de catálogos de produtos ou fichas técnicas (spec sheets) dos itens. | REQUISITOS TÉCNICOS | Provavelmente os produtos precisam atender padrões FDA para dispositivos médicos, certificações de qualidade (ISO, CE quando aplicável), prazos de validade mínimos (geralmente 12-24 meses a partir da entrega), conformidade com normas OSHA para EPIs. Verifique se o edital exige marcas específicas ou aceita equivalentes aprovados. Contratos CS geralmente permitem substituições equivalentes mediante aprovação prévia do condado. | SEGUROS E GARANTIAS | Para fornecimento de suprimentos médicos ao governo, o Condado de Polk tipicamente exige: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pelo estado da Florida (obrigatório se tiver funcionários); Commercial Auto se houver veículos de entrega ($1.000.000 combinado); Products & Completed Operations Liability geralmente incluída na GL. Bond (performance bond) raramente é exigido para contratos de fornecimento de suprimentos, mas confirme no edital. O Condado de Polk deve ser listado como Additional Insured. | COMO CALCULAR O PREÇO | (1) Levante o custo real de cada item com seus fornecedores/distribuidores; (2) Adicione custos de logística e entrega para Polk County, FL; (3) Considere margem de estoque/quebra (~5-10%); (4) Adicione overhead administrativo (~8-12%); (5) Adicione margem de lucro desejada (~15-25% para suprimentos médicos é razoável); (6) Pesquise preços em contratos públicos similares no Florida Transparency Portal e GSA Advantage para benchmarking; (7) Verifique se o edital usa preço por unidade ou preço total estimado — CS contracts geralmente são por unidade com quantidade estimada não vinculante. | ESTRATÉGIA DE SUBMISSÃO | (1) Baixe e leia o PDF completo do edital hoje; (2) Identifique todos os itens solicitados e verifique quais você pode fornecer com qualidade e prazo; (3) Entre em contato com 2-3 distribuidores para obter cotações competitivas; (4) Prepare preços unitários competitivos mas com margem saudável — não precifique apenas para ganhar; (5) Certifique-se que todos os documentos estão completos e assinados; (6) Submeta com antecedência de pelo menos 24-48 horas; (7) Se houver pré-bid meeting ou prazo para perguntas, participe e envie dúvidas técnicas por escrito. | RISCOS | (1) Valores não divulgados — risco de subestimar volume e não ter estoque suficiente; (2) Contrato CS pode ter cláusula de mínimo garantido zero (o condado não é obrigado a comprar); (3) Concorrência de grandes distribuidores médicos (Henry Schein, McKesson, Medline) que têm preços de custo muito menores; (4) Itens médicos sujeitos a variações de preço de mercado (especialmente pós-COVID para EPIs); (5) Exigências regulatórias FDA podem eliminar produtos de qualidade inferior; (6) Prazo de entrega — o condado pode exigir entrega em 24-72 horas após pedido, o que exige estoque local. | PRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://www.polkfl.gov/bid-form/cs-21-380/ e baixe o PDF completo do edital. Identifique o prazo exato de submissão, lista completa de itens, quantidades estimadas e todos os requisitos técnicos. PASSO 2 (PRÓXIMOS 2-3 DIAS): Levante cotações com distribuidores médicos, verifique seu certificado de seguro (atualize se necessário para incluir os valores mínimos exigidos) e prepare a documentação administrativa (W-9, Sunbiz registration, referências). PASSO 3 (ANTES DO PRAZO): Monte a proposta completa com lista de preços unitários, organize todos os documentos exigidos em ordem, revise tudo antes de submeter e entregue com pelo menos 24 horas de antecedência.",
+      "ai_analyzed_at": "2026-06-10T13:18:30.684Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "CS — Lista aberta de vendors",
+        "badge": "CS",
+        "color": "#7c3aed",
+        "compete": false
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-cs-25-303",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-303",
+      "bidType": "CS",
+      "title": "Plumbing Equipment, Fixtures, and Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/cs-25-303/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de submissão não foi divulgada nos dados fornecidos. É obrigatório acessar o PDF oficial do edital em https://www.polkfl.gov/bid-form/cs-25-303/ para confirmar a data e hora limite. Tipicamente, editais de Polk County exigem submissão até as 2:00 PM (horário local, ET) na data estipulada. Não perca o prazo — propostas atrasadas são automaticamente desqualificadas.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais do tipo CS de Polk County, espera-se: (1) Formulário de proposta preenchido e assinado; (2) Lista de preços por item (price sheet/catalog pricing); (3) Certificado de seguro (Certificate of Insurance) com os valores exigidos; (4) Formulário de referências de clientes anteriores (mínimo 3 geralmente); (5) Formulário de conflito de interesses e declaração de ética; (6) Registro da empresa no estado da Flórida (Sunbiz); (7) Formulário W-9; (8) Qualquer outra declaração exigida no edital (ex: Drug-Free Workplace, Non-Discrimination). Confirmar lista completa no PDF.\n\nREQUISITOS TÉCNICOS | Espera-se que o fornecedor comprove capacidade de atender pedidos de forma ágil (entrega rápida ou retirada em loja/distribuidor local). Produtos devem atender normas técnicas aplicáveis (ASTM, ANSI, NSF quando aplicável para contato com água potável). Pode ser exigida lista de fabricantes/marcas aceitas ou equivalência. O condado pode exigir que itens sejam novos, sem uso e dentro das especificações originais do fabricante. É comum exigirem desconto sobre lista de preços publicada (price list discount structure) ao invés de preço fixo por item.\n\nSEGUROS E GARANTIAS | Não detalhados nos dados fornecidos. Com base no padrão Polk County para contratos de fornecimento de materiais: General Liability geralmente $1,000,000 por ocorrência / $2,000,000 agregado; Workers' Compensation conforme exigência do estado da Flórida (obrigatório se tiver funcionários); Auto Liability se houver entrega com veículo próprio (~$1,000,000); Performance Bond geralmente NÃO exigido para contratos de fornecimento simples, mas confirmar no edital.\n\nCOMO CALCULAR O PREÇO | Para contratos CS de suprimentos, o modelo usual é: (A) Oferecer uma porcentagem de desconto sobre o catálogo/lista de preços oficial do fabricante/distribuidor; ou (B) Submeter uma tabela de preços por item. Estratégia: pesquise os preços de mercado dos itens mais comuns usados pelo condado (verificar compras anteriores no portal de transparência), calcule sua margem desejada (20-40% para distribuidores de materiais hidráulicos é razoável), e ofereça desconto competitivo sobre lista. Considere custos de entrega, estoque mínimo, e eventuais pedidos urgentes.\n\nESTRATÉGIA DE SUBMISSÃO | (1) Baixe e leia o PDF completo imediatamente; (2) Se for distribuidor autorizado de marcas reconhecidas (Mueller, Nibco, Watts, Charlotte Pipe, etc.), destaque isso; (3) Se tiver loja/depósito em Polk County ou região, enfatize proximidade e rapidez na entrega; (4) Participe de eventuais Pre-Bid Meetings se houver; (5) Envie perguntas formais ao condado antes do prazo de Q&A para esclarecer dúvidas sobre itens ou forma de precificação; (6) Certifique-se que todos os formulários estão assinados — falta de assinatura é causa comum de desqualificação.\n\nRISCOS | (1) Contrato sem volume garantido — pode gerar poucos pedidos; (2) Concorrência com grandes distribuidores (Ferguson, Hajoca, HD Supply) que têm poder de desconto maior; (3) Flutuação de preços de materiais (cobre, PVC) pode corroer margem se o contrato usar tabela de preços fixa; (4) Exigências de entrega rápida podem ser difíceis sem estoque adequado; (5) Renovações anuais dependem de desempenho satisfatório.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse HOJE o link https://www.polkfl.gov/bid-form/cs-25-303/ e baixe o PDF completo do edital para confirmar prazo, lista de itens, forma de precificação e requisitos de seguro. PASSO 2: Verifique se sua empresa está registrada no portal de fornecedores de Polk County e se seus certificados de seguro estão atualizados com os valores exigidos. PASSO 3: Monte a planilha de preços com base nos itens listados no edital, consultando seus fornecedores para garantir competitividade, e prepare todos os documentos exigidos com antecedência mínima de 5 dias úteis antes do prazo.",
+      "ai_analyzed_at": "2026-06-10T13:19:42.989Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "CS — Lista aberta de vendors",
+        "badge": "CS",
+        "color": "#7c3aed",
+        "compete": false
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-cs-25-475",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-475",
+      "bidType": "CS",
+      "title": "Sherwin Williams Paint and Supplies",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/cs-25-475/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | O prazo exato não está disponível nos dados fornecidos. É imprescindível acessar o edital completo em https://www.polkfl.gov/bid-form/cs-25-475/ para confirmar a data e hora limite de submissão. Contratos do tipo CS (Cooperative/Supply) do Polk County geralmente têm prazos de 2 a 4 semanas após publicação. Acesse o portal imediatamente para não perder o deadline.\n\nDOCUMENTOS EXIGIDOS | Contratos deste tipo em Polk County normalmente exigem: formulário de proposta preenchido e assinado, lista de preços ou desconto percentual sobre tabela Sherwin Williams vigente, certificado de registro no estado da Flórida, formulário de W-9, certificados de seguro (GL e Workers Comp), e possivelmente referências de contratos similares. Confirme a lista exata no PDF do edital.\n\nREQUISITOS TÉCNICOS | Por se tratar de fornecimento de produtos de marca específica (Sherwin Williams), o licitante deve ser: distribuidor autorizado Sherwin Williams, revendedor credenciado, ou loja franqueada da rede. Pequenas empresas de pintura que apenas aplicam tinta provavelmente NÃO se qualificam diretamente — o foco aqui é no fornecimento/venda dos produtos, não na aplicação. O fornecedor deve ter capacidade de atender pedidos do condado de forma consistente e com entrega ágil.\n\nSEGUROS E GARANTIAS | Polk County tipicamente exige: General Liability mínimo de $1.000.000 por ocorrência, Workers Compensation conforme legislação da Flórida (obrigatório se tiver funcionários), Auto Liability se houver entrega com veículos próprios. Bond (surety bond) geralmente não é exigido para contratos de fornecimento de produtos, mas confirme no edital. O condado deve ser listado como Additional Insured no certificado de GL.\n\nCOMO CALCULAR O PREÇO | A precificação neste tipo de contrato geralmente é feita como percentual de desconto sobre o preço de lista (retail price) da Sherwin Williams. Exemplo: 'oferecemos 25% de desconto sobre todos os produtos da tabela de preços vigente'. Quanto maior o desconto ofertado, mais competitiva a proposta. Calcule sua margem considerando: custo de aquisição dos produtos, custo de entrega/logística, overhead administrativo, e margem de lucro desejada (tipicamente 10-20% para distribuidores). Pesquise o preço de custo atual junto ao seu representante Sherwin Williams antes de submeter.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Confirme imediatamente o prazo no portal; 2) Se você já é cliente ou revendedor Sherwin Williams, entre em contato com seu representante comercial para obter pricing especial para contratos governamentais; 3) Ofereça um desconto competitivo mas que preserve sua margem; 4) Destaque capacidade de entrega rápida e disponibilidade de estoque; 5) Mencione experiência prévia com contratos governamentais se houver; 6) Submeta todos os documentos com antecedência mínima de 48 horas.\n\nRISCOS | Principal risco: este contrato pode ser exclusivo para distribuidores/revendedores autorizados Sherwin Williams — empresas sem esse status podem ser desqualificadas. Outro risco: flutuação de preços dos produtos pode comprimir margens se o contrato fixar desconto por período longo. Risco de volume: como é contrato por demanda, o volume real de compras pode ser baixo. Risco competitivo: a própria Sherwin Williams ou grandes distribuidores regionais podem participar com preços muito mais competitivos.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse https://www.polkfl.gov/bid-form/cs-25-475/ hoje mesmo, baixe o PDF completo do edital e confirme o prazo de submissão e todos os requisitos de elegibilidade; 2) ATÉ 48H: Verifique se sua empresa é elegível (distribuidor/revendedor autorizado Sherwin Williams) e entre em contato com representante Sherwin Williams para negociar pricing de custo para contratos governamentais; 3) ATÉ 1 SEMANA: Calcule sua estrutura de desconto ofertado, reúna toda a documentação necessária e submeta a proposta com antecedência.",
+      "ai_analyzed_at": "2026-06-10T13:20:45.265Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "CS — Lista aberta de vendors",
+        "badge": "CS",
+        "color": "#7c3aed",
+        "compete": false
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-cs-25-456",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "CS 25-456",
+      "bidType": "CS",
+      "title": "Chemicals & Herbicides for Aquatic Weeds and Environmental Lands",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/cs-25-456/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
+      "veredito": "go",
+      "fit_score": 72,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data e hora exata de submissão não foram incluídas nos dados fornecidos. É obrigatório acessar o PDF do edital em https://www.polkfl.gov/bid-form/cs-25-456/ para confirmar o prazo. Prazos típicos do Polk County para CS são entre 2 a 4 semanas após publicação. Recomenda-se verificar imediatamente e configurar alerta de calendário com 3 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Editais de Commodity Solicitation do Polk County geralmente exigem: formulário de proposta de preço preenchido e assinado, lista de preços unitários por item, informações do fornecedor (nome legal, endereço, FEIN/Tax ID), referências de contratos similares anteriores, fichas técnicas (SDS/MSDS) dos produtos ofertados, registros EPA dos produtos químicos, e em alguns casos certificado de registro como fornecedor do Polk County. Confirmar lista completa no PDF.\n\nREQUISITOS TÉCNICOS | Os produtos devem ser herbicidas registrados pela U.S. EPA para uso em ambientes aquáticos no estado da Flórida. O estado da Flórida possui regulamentações específicas da FDEP (Florida Department of Environmental Protection) e do FDACS (Florida Department of Agriculture and Consumer Services) para herbicidas aquáticos. Os produtos devem estar aprovados para uso na Flórida, com rótulos (labels) que permitam aplicação em corpos d'água. Embalagens devem atender especificações do edital. Entrega provavelmente será em depósito(s) do condado em Polk County.\n\nSEGUROS E GARANTIAS | Para fornecimento de produtos químicos, o Polk County tipicamente exige: General Liability Insurance mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigência do estado da Flórida, e Auto Liability se houver entrega com veículos próprios. Performance Bond geralmente não é exigido para compras de commodities, mas confirmar no edital. O condado deve ser listado como Additional Insured.\n\nCOMO CALCULAR O PREÇO | 1) Identifique todos os itens da lista de preços unitários no edital. 2) Calcule seu custo de aquisição do fabricante/distribuidor. 3) Some custos de frete/entrega até Polk County. 4) Adicione custos de armazenagem se aplicável. 5) Calcule seguros e overhead (tipicamente 8-15% para distribuidores). 6) Aplique margem de lucro de 12-25% dependendo da competitividade. 7) Compare com preços de mercado de distribuidores de herbicidas aquáticos na Flórida (SePRO, Nufarm, UPL, BASF são fabricantes comuns). 8) Para editais de commodities, o menor preço geralmente vence - seja competitivo.\n\nESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score de 72/100 com veredito 'go', o que indica boa oportunidade. Estratégia recomendada: (a) Estabeleça relacionamento com 2-3 distribuidores/fabricantes de herbicidas aquáticos para garantir preços competitivos, como SePRO Corporation, Nufarm Americas ou PBI/Gordon. (b) Verifique se você possui ou pode obter registro como fornecedor aprovado do Polk County antes da submissão. (c) Certifique-se de que os produtos ofertados possuem registro EPA ativo e label aprovado para uso na Flórida. (d) Submeta proposta para TODOS os itens da lista se possível, pois condados preferem fornecedores completos. (e) Inclua fichas técnicas de todos os produtos. (f) Considere oferecer desconto por volume ou entrega em prazo menor como diferencial.\n\nRISCOS | (1) Concorrência de distribuidores estabelecidos com contratos históricos com o condado. (2) Flutuação de preços de produtos químicos agrícolas pode comprimir margens. (3) Regulamentações estaduais da Flórida são rígidas para herbicidas aquáticos - risco de não conformidade de produto. (4) Possibilidade de exigência de experiência prévia em fornecimento para governos. (5) Contratos de commodities frequentemente têm cláusulas de renovação, beneficiando o fornecedor atual. (6) Quantidades estimadas podem variar muito ao longo do contrato.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://www.polkfl.gov/bid-form/cs-25-456/ e baixe o PDF completo do edital. Identifique o prazo exato de submissão, lista completa de produtos/itens, quantidades estimadas e local de entrega. PASSO 2 (ATÉ 48 HORAS): Entre em contato com distribuidores de herbicidas aquáticos registrados na Flórida (SePRO, Nufarm, UPL, Helena Agri-Enterprises) para cotar preços. Verifique se sua empresa está registrada como fornecedor do Polk County (vendor registration). Contate o Purchasing Department do Polk County para esclarecer dúvidas técnicas e solicitar adenda se necessário. PASSO 3 (ANTES DO PRAZO): Prepare proposta de preços com todos os itens, reúna documentos exigidos, obtenha certificados de seguro atualizados e submeta proposta antes do prazo com todos os anexos exigidos.",
+      "ai_analyzed_at": "2026-06-10T13:21:53.714Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "CS — Lista aberta de vendors",
+        "badge": "CS",
+        "color": "#7c3aed",
+        "compete": false
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-bid-26-132-sm",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 26-132-SM",
+      "bidType": "BID",
+      "title": "Janitorial Services for Various Park Restrooms",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "July 1, 2026",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/bid-26-132-sm/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/bid-26-132-sm/",
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "ITB — Menor preço ganha",
+        "badge": "ITB",
+        "color": "#16a34a",
+        "compete": true
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "polk-bid-24-610",
+      "source": "Polk County",
+      "orgao": "Polk County",
+      "condado": "Polk",
+      "estado": "FL",
+      "bidNum": "Bid 24-610",
+      "bidType": "BID",
+      "title": "Janitorial Services – Group A, B & C",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "",
+      "deadline": "Ver edital PDF",
+      "pdf_url": "https://www.polkfl.gov/bid-form/bid-24-610/",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de abertura e o deadline não foram informados nos metadados disponíveis. É OBRIGATÓRIO acessar o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ para confirmar a data e hora limite de submissão, o local de entrega (físico ou eletrônico) e possíveis datas de visita técnica obrigatória (mandatory site visit), que são comuns em editais de limpeza predial. Recomenda-se verificar também o portal oficial de licitações do Polk County para atualizações e adendos.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais de janitorial services em condados da Flórida, espera-se: formulário oficial de proposta de preço assinado; referências de contratos anteriores similares (geralmente 3 a 5 referências); certidão de registro da empresa (Sunbiz/Florida Division of Corporations); certificados de seguro (GL, Workers' Comp, Auto); lista de equipamentos disponíveis; lista de produtos de limpeza (alguns condados exigem produtos EPA Safer Choice ou green cleaning); declaração de não conflito de interesse; formulário W-9; e possivelmente declaração de cumprimento do E-Verify. Confirmar lista exata no edital PDF.\n\nREQUISITOS TÉCNICOS | Espera-se que o edital especifique: frequência dos serviços (diária, semanal, mensal); horários permitidos de execução; equipe mínima exigida; exigência de supervisor dedicado; treinamento dos funcionários; uso de EPI; controle de acesso às instalações (possível exigência de background check para todos os funcionários); e plano de limpeza (cleaning schedule). A divisão em Grupos A, B e C sugere que é possível licitar por grupo separadamente, o que favorece pequenas empresas que podem não ter capacidade para atender todos os prédios simultaneamente.\n\nSEGUROS E GARANTIAS | Contratos de limpeza para condados da Flórida tipicamente exigem: General Liability de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigência do estado da Flórida (obrigatório para empresas com 4+ funcionários, ou qualquer número em construção); Commercial Auto Liability se houver veículos utilizados; e possível Performance Bond. O Condado de Polk deve ser listado como 'Additional Insured' nos certificados. Valores exatos devem ser confirmados no edital.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Faça visita técnica a todos os prédios dos grupos que pretende licitar — meça as áreas, identifique tipos de piso, quantidade de banheiros e número de andares; (2) Calcule horas de mão de obra por visita × frequência mensal × custo/hora (incluindo salário, encargos, benefícios e overhead — na Flórida, considere ao menos $15-18/hora para limpadores + 25-30% de encargos); (3) Adicione custo de materiais e equipamentos (tipicamente 8-12% do custo total); (4) Adicione custos administrativos e supervisão; (5) Aplique margem de lucro de 10-20%; (6) Considere reajuste anual se o contrato for plurianual. Atenção: editais de limpeza têm alta competitividade — evite subprecificar para ganhar, pois isso resulta em prejuízo operacional.\n\nESTRATÉGIA DE SUBMISSÃO | Recomendações: (1) Participe da visita técnica obrigatória, se houver — é oportunidade de avaliar os prédios e demonstrar seriedade; (2) Considere licitar apenas os grupos onde você tem capacidade operacional real — é melhor vencer 1 grupo com lucro do que perder dinheiro em 3; (3) Solicite esclarecimentos por escrito dentro do prazo de perguntas (Q&A period) para esclarecer dúvidas técnicas; (4) Prepare proposta visualmente organizada, mesmo que o formato seja simples — demonstra profissionalismo; (5) Destaque experiência com contratos governamentais similares nas referências; (6) Certifique-se de que todos os certificados de seguro já estejam atualizados antes de submeter.\n\nRISCOS | (1) Alta competitividade — limpeza predial é um dos segmentos mais disputados em licitações públicas, com muitos concorrentes de pequeno e médio porte; (2) Margens apertadas — o risco de subprecificação é alto; (3) Rotatividade de mão de obra — dificuldade em manter equipe estável pode gerar penalidades contratuais; (4) Exigência de background check dos funcionários pode aumentar custos e tempo de contratação; (5) Contratos governamentais podem ter cláusula de cancelamento com aviso prévio de 30-60 dias, gerando instabilidade; (6) Custos de seguro podem ser significativos para empresas muito pequenas.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse IMEDIATAMENTE o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ e confirme: deadline de submissão, data de visita técnica, lista de prédios por grupo e requisitos de seguro. PASSO 2: Agende ou confirme participação na visita técnica (site visit) aos prédios — sem essa visita, é impossível precificar com precisão. PASSO 3: Solicite cotações atualizadas de seguro (GL + Workers' Comp) com seu corretor, especificando que o Condado de Polk será Additional Insured, para garantir que os custos de compliance estejam incluídos na proposta.",
+      "ai_analyzed_at": "2026-06-10T13:23:11.565Z",
+      "ai_model": "",
+      "typeInfo": {
+        "label": "ITB — Menor preço ganha",
+        "badge": "ITB",
+        "color": "#16a34a",
+        "compete": true
+      },
+      "fetchedAt": "2026-06-17"
+    },
+    {
       "id": "MFMP-15466",
       "source": "MFMP",
       "orgao": "Department of Children and Families (DCF)",
@@ -42,7 +388,7 @@
       "ai_analyzed_at": "2026-06-10T13:24:17.213Z",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-06-15"
+      "fetchedAt": "2026-06-17"
     },
     {
       "id": "MFMP-15809",
@@ -78,43 +424,7 @@
       "ai_analyzed_at": "2026-06-10T13:25:34.133Z",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-06-15"
-    },
-    {
-      "id": "MFMP-16091",
-      "source": "MFMP",
-      "orgao": "Department of Juvenile Justice (DJJ)",
-      "condado": "State FL",
-      "estado": "FL",
-      "bidNum": "ITB-16091",
-      "bidType": "Invitation to Bid",
-      "bidTypeId": "4",
-      "agency_ref": "Department of Juvenile Justice",
-      "title": "DJJ ITB 25/26 006 Janitorial Services - Collier County",
-      "nicho": "cleaning",
-      "model": "service",
-      "openDate": "2026-05-27",
-      "deadline": "2026-06-26",
-      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-16091",
-      "pdf_url": "",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "veredito": "watch",
-      "fit_score": 65,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "2026-06-26",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "ITB ATIVO — INVITATION TO BID (menor preço ganha) — ANÁLISE COMPLETA\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nIDENTIFICAÇÃO\n• Solicitation: DJJ ITB 25/26 006\n• Agência: Florida Dept. of Juvenile Justice (DJJ)\n• Local: 3351 E Tamiami Trail, Naples, FL 34112 (Collier County Detention Center)\n• Tipo: ITB — menor preço GANHA (sem avaliação técnica)\n• Deadline: 26/06/2026 (submissão física em Tallahassee)\n• Entrega para: Carol Walters, Alexander Bldg, 2737 Centerview Dr Suite 1400, Tallahassee FL 32399\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nESCOPO DETALHADO (Seção 3)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nÁREA: 26.482 sq ft (detention center)\nFREQUÊNCIA: 3x/semana — Seg/Qua/Sex (preferenciais), 52 semanas/ano\nFERIADOS: Serviço obrigatório nos feriados estaduais se coincidirem com dia agendado\n\nTAREFAS POR ÁREA:\n• Escritórios: esvaziar lixeiras (trocar liner), limpar móveis, sanitizar cadeiras/maçanetas, spot-clean portas, esfregar piso cerâmico, aspirar carpetes\n• Banheiros: limpar/desinfetar vasos/mictórios/pias, espelhos, repor papel/sabonete/toalha, spray aromático, esfregar piso\n• Admin/Lobby: aspirar, limpar vidros, esvaziar lixeiras, encerar piso (quando necessário), shampoo em carpetes (quando necessário)\n• Banheiros Jovens/Mod: 33 banheiros jovens + 3 banheiros Mod → deep clean a cada 3 meses (paredes, pisos, maçanetas, acessórios)\n\nFORNECIMENTO PELO CONTRATADO:\n• TODO o material: papel higiênico, toalhas, sabonete, dispensadores, odorizante, soluções de limpeza, panos, mops, vassouras, esfregões, carrinhos, protetores de lixeira, pads para piso\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPRECIFICAÇÃO (Attachment 4)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nFORMATO: UMA única taxa mensal (monthly fee)\nCRITÉRIO: \"All or none\" — tem que atender tudo ou não é responsivo\nESTIMATIVA DE CUSTO PARA URBAN CLEAN:\n\nCenário A — Equipe própria de Davenport:\n• Labor: ~12 h/visita × 3 visitas/sem × 4.3 = 155 h/mês × $17/h = $2.635 + 25% encargos = $3.294\n• Materiais: ~$700/mês\n• Transporte: 155 mi × 2 (round trip) × 13 visitas/mês × $0,67/mi = $2.703\n• TOTAL CUSTO: ~$6.697/mês → BID sugerido: $9.500–$11.000/mês\n\nCenário B — Subcontratada local em Naples:\n• Subcontratada executa + gerenciamento remoto: ~$5.500/mês\n• Materiais repassados: $700/mês\n• Oversight/admin: $300/mês\n• TOTAL CUSTO: ~$6.500/mês → BID sugerido: $8.500–$9.500/mês ✅ RECOMENDADO\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nREQUISITOS DE SUBMISSÃO — 15 DOCUMENTOS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n1. Checklist (Attachment 1)\n2. Contact for Contract Administration (Attachment 2)\n3. Instructions / Bid Response Package (Attachment 3)\n4. Price Sheet — UMA taxa mensal + FEID + assinatura (Attachment 4) ← CRÍTICO\n5. Identical Tie Bids / Drug-free Workplace (Attachment 5)\n6. Customer References — 3 REFERÊNCIAS + firma deve ter 5+ anos de negócio (Attachment 6) ← ATENÇÃO\n7. Savings/Discount/Price Reductions (Attachment 8)\n8. Certificate of Lobbying (Attachment 9)\n9. Non-Collusion Affidavit (Attachment 10)\n10. Disclosure of Lobbying Activities Form SF-11\n11. PUR 1355 (Attachment 11)\n12. PUR 1808 (Attachment 12)\n13. PUR 7801 (Attachment 13)\n14. PUR 2023 (Attachment 14)\n15. PUR 2024 (Attachment 15)\n+ Rubricar TODAS as páginas do ITB\n\n⚠️ REQUISITO CRÍTICO (Attachment 6): \"This certifies that my firm has been in the applicable business for at least five years.\"\n→ Verificar se Urban Clean atinge 5 anos de janitorial até junho 2026. Se não, pode ser desclassificado.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFATORES DE DECISÃO\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n✅ PONTOS FAVORÁVEIS:\n• ITB = preço único — sem subjetividade na avaliação\n• Re-emitido (anterior ITB 15858 foi WITHDRAWN e re-emitido com ajuste na Sec 3.3: freq. 3x/sem)\n  → Re-emissão = dificuldade em achar licitante → MENOS concorrência\n• Contrato governamental anual recorrente (DJJ tem múltiplos centros em FL)\n• Ganhar este abre portfólio para outros contratos DJJ\n\n⚠️ RISCOS / OBSTÁCULOS:\n• Distance: Naples está 155 mi de Davenport → equipe local ou subcontratada necessária\n• Detention center: FDLE background check obrigatório para TODOS que entram\n• Fornecimento total de material (custo significativo com papel/sabonete para 100+ jovens)\n• 5-year business requirement (Attachment 6) — confirmar elegibilidade\n• Submissão FÍSICA em Tallahassee — não pode enviar online (usar FedEx/UPS com prova de entrega)\n• Deadline real: 26/06/2026 — restam ~17 dias\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPRÓXIMOS PASSOS — PRIORIDADE ALTA\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n1. VERIFICAR elegibilidade dos 5 anos (Attachment 6) — desclassificante\n2. PESQUISAR subcontratadas em Naples/Collier County para execução local\n3. CALCULAR bid final: custo real + margem + contingência FDLE processing\n4. PREENCHER os 15 documentos de submissão (baixar ITB_Attachments.pdf no MFMP)\n5. ENVIAR via FedEx com tracking para Carol Walters até 26/06/2026\n6. PERGUNTAS para Carol Walters (até 10/06): confirmar se 5-year req é mandatório ou preferencial\n\nCONTATO: Carol Walters | carol.walters@fldjj.gov | (850) 756-8117",
-      "ai_analyzed_at": "2026-06-09T18:32:51.308Z",
-      "ai_model": "",
-      "is_award_notice": false,
-      "fetchedAt": "2026-06-15"
+      "fetchedAt": "2026-06-17"
     },
     {
       "id": "MFMP-16153",
@@ -150,7 +460,7 @@
       "ai_analyzed_at": "2026-06-10T13:26:49.787Z",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-06-15"
+      "fetchedAt": "2026-06-17"
     },
     {
       "id": "MFMP-16242",
@@ -186,7 +496,7 @@
       "ai_analyzed_at": "",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-06-15"
+      "fetchedAt": "2026-06-17"
     },
     {
       "id": "MFMP-16244",
@@ -222,7 +532,43 @@
       "ai_analyzed_at": "",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-06-15"
+      "fetchedAt": "2026-06-17"
+    },
+    {
+      "id": "MFMP-16282",
+      "source": "MFMP",
+      "orgao": "Department of Juvenile Justice (DJJ)",
+      "condado": "State FL",
+      "estado": "FL",
+      "bidNum": "ITB-16282",
+      "bidType": "Invitation to Bid",
+      "bidTypeId": "4",
+      "agency_ref": "DJJ ITB 16282",
+      "title": "DJJ ITB 26/27 006 Janitorial Services Collier County",
+      "nicho": "cleaning",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-07-31",
+      "link": "https://vendor.myfloridamarketplace.com/search/bids/ITB-16282",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "veredito": "watch",
+      "fit_score": 65,
+      "resumo_simples": "",
+      "categoria_curta": "Limpeza predial",
+      "o_que_comprar": "",
+      "prazo_submissao": "2026-07-31",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "",
+      "ai_analyzed_at": "",
+      "ai_model": "",
+      "is_award_notice": false,
+      "fetchedAt": "2026-06-17"
     },
     {
       "id": "sam-d08ee844bae54dc684ee251cf049ea92",
@@ -278,116 +624,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/d08ee844bae54dc684ee251cf049ea92/view"
-    },
-    {
-      "id": "sam-a4e5bab5274e40a6b1ac3a604b3028d7",
-      "source": "SAM.gov Federal",
-      "orgao": "W6QK ACC-ORLANDO",
-      "condado": "ORLANDO",
-      "estado": "FL",
-      "bidNum": "SAM-a4e5bab527",
-      "bidType": "BID",
-      "title": "CPE ST3 Professional Services",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-16",
-      "deadline": "2026-07-06",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 541330. Agencia: DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-ORLANDO.W6QK ACC-ORLANDO.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541330. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "sophia.g.dasilva.civ@army.mil",
-        "email": "sophia.g.dasilva.civ@army.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/a4e5bab5274e40a6b1ac3a604b3028d7/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/a4e5bab5274e40a6b1ac3a604b3028d7/view"
-    },
-    {
-      "id": "sam-8a75a70fc12640c182b1d4e5c7ea8dee",
-      "source": "SAM.gov Federal",
-      "orgao": "HQ USSOCOM",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-8a75a70fc1",
-      "bidType": "BID",
-      "title": "Commercial Solutions Opening (CSO) PEO-SDA",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-16",
-      "deadline": "2026-12-01",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 541519. Agencia: DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).HQ USSOCOM.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541519. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "michael.j.cenedella.mil@socom.mil",
-        "email": "michael.j.cenedella.mil@socom.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/8a75a70fc12640c182b1d4e5c7ea8dee/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/8a75a70fc12640c182b1d4e5c7ea8dee/view"
     },
     {
       "id": "sam-2b01d1db486d440db923601ed68f1b00",
@@ -885,61 +1121,6 @@
       "link": "https://sam.gov/workspace/contract/opp/c86721c2f35c4a21a8636f4c0bc88dca/view"
     },
     {
-      "id": "sam-c38f3b9cb6a3409b91e922250fed7f82",
-      "source": "SAM.gov Federal",
-      "orgao": "SER SOUTH MABO (54000)",
-      "condado": "HOMESTEAD",
-      "estado": "FL",
-      "bidNum": "SAM-c38f3b9cb6",
-      "bidType": "BID",
-      "title": "61--INSTALL PV SOLAR SYSTEM AT EL ABANICO ",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-07-10",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 238210. Agencia: INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.SER SOUTH MABO (54000).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 238210. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "noelli_medinamarin@ios.doi.gov",
-        "email": "noelli_medinamarin@ios.doi.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/c38f3b9cb6a3409b91e922250fed7f82/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/c38f3b9cb6a3409b91e922250fed7f82/view"
-    },
-    {
       "id": "sam-bc02bad18e684d8ca166988db8e2ebd9",
       "source": "SAM.gov Federal",
       "orgao": "SER SOUTH MABO (54000)",
@@ -993,61 +1174,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/bc02bad18e684d8ca166988db8e2ebd9/view"
-    },
-    {
-      "id": "sam-b41903e80aab4bc79d90a10669a0445f",
-      "source": "SAM.gov Federal",
-      "orgao": "FA6648  482 LSS LGC",
-      "condado": "HOMESTEAD AFB",
-      "estado": "FL",
-      "bidNum": "SAM-b41903e80a",
-      "bidType": "BID",
-      "title": "Design and Build Covered Parking Structure for Fighter Aircraft F-35",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-06-29",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 236220. Agencia: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE RESERVE COMMAND.FA6648  482 LSS LGC.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 236220. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "sandy.guite@us.af.mil",
-        "email": "sandy.guite@us.af.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/b41903e80aab4bc79d90a10669a0445f/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/b41903e80aab4bc79d90a10669a0445f/view"
     },
     {
       "id": "sam-a045d9576b534d1e8a1102da6a05c545",
@@ -1158,61 +1284,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/9542302e2bfd48849819917d0efb9709/view"
-    },
-    {
-      "id": "sam-6730dac7a19f416185900eae4a623292",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-6730dac7a1",
-      "bidType": "BID",
-      "title": "6515--Surgical Simulator",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-06-24",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Marcus.Lewis2@va.gov",
-        "email": "Marcus.Lewis2@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/6730dac7a19f416185900eae4a623292/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/6730dac7a19f416185900eae4a623292/view"
     },
     {
       "id": "sam-670e4579c3664d9fb9298f44bb115315",
@@ -1490,116 +1561,6 @@
       "link": "https://sam.gov/workspace/contract/opp/49fb24a3de284110a0115180c60e2a53/view"
     },
     {
-      "id": "sam-477a6b4b55e541bfb8da86aba9b68eee",
-      "source": "SAM.gov Federal",
-      "orgao": "FA2823  AFTC PZIO",
-      "condado": "EGLIN AFB",
-      "estado": "FL",
-      "bidNum": "SAM-477a6b4b55",
-      "bidType": "BID",
-      "title": "Okaloosa County Fiber Maintenance",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-06-30",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 811210. Agencia: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA2823  AFTC PZIO.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 811210. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "kristina.brannon.1@us.af.mil",
-        "email": "kristina.brannon.1@us.af.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/477a6b4b55e541bfb8da86aba9b68eee/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/477a6b4b55e541bfb8da86aba9b68eee/view"
-    },
-    {
-      "id": "sam-3ebad29140544ebba7cb39b68de4c7f4",
-      "source": "SAM.gov Federal",
-      "orgao": "FA4417 1 SOCONS",
-      "condado": "HURLBURT FIELD",
-      "estado": "FL",
-      "bidNum": "SAM-3ebad29140",
-      "bidType": "BID",
-      "title": "Local Telephone Services for Hurlburt Field ",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-07-13",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 517111. Agencia: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4417 1 SOCONS.",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 517111. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "tyler_john.peterson@us.af.mil",
-        "email": "tyler_john.peterson@us.af.mil",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/3ebad29140544ebba7cb39b68de4c7f4/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/3ebad29140544ebba7cb39b68de4c7f4/view"
-    },
-    {
       "id": "sam-31644f95a0eb47008ef6a20358cf9d74",
       "source": "SAM.gov Federal",
       "orgao": "FA2521  45 CONS PK",
@@ -1655,61 +1616,6 @@
       "link": "https://sam.gov/workspace/contract/opp/31644f95a0eb47008ef6a20358cf9d74/view"
     },
     {
-      "id": "sam-2e79fc68a47749059be0b149e91baaa6",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-2e79fc68a4",
-      "bidType": "BID",
-      "title": "Z2DA--FY26: NRM (PROJ 673-21-153) BB Renovate Ground Floor Halls  and Walls",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-07-14",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 236220. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 236220. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "David.Hernandez1@va.gov",
-        "email": "David.Hernandez1@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/2e79fc68a47749059be0b149e91baaa6/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/2e79fc68a47749059be0b149e91baaa6/view"
-    },
-    {
       "id": "sam-1c2bd5a578a447cbb76803acf800cf40",
       "source": "SAM.gov Federal",
       "orgao": "BASE MIAMI(00028)",
@@ -1763,61 +1669,6 @@
         }
       ],
       "link": "https://sam.gov/workspace/contract/opp/1c2bd5a578a447cbb76803acf800cf40/view"
-    },
-    {
-      "id": "sam-1800bad7803e48bda56d854d4e4cd1d5",
-      "source": "SAM.gov Federal",
-      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
-      "condado": "TAMPA",
-      "estado": "FL",
-      "bidNum": "SAM-1800bad780",
-      "bidType": "BID",
-      "title": "7320--Conveyor Pizza  Oven",
-      "nicho": "construction",
-      "model": "service",
-      "openDate": "2026-06-15",
-      "deadline": "2026-06-19",
-      "valor_estimado": null,
-      "escopo": "Oportunidade federal SAM.gov. NAICS: 333241. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
-      "dropship_viavel": false,
-      "subcontratacao_permitida": null,
-      "complexidade": "medium",
-      "risco_juridico": "low",
-      "risco_financeiro": "medium",
-      "risco_operacional": "medium",
-      "risco_compliance": "medium",
-      "veredito": "watch",
-      "fit_score": 38,
-      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 333241. Open competition.",
-      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
-      "sourcing": {
-        "category": "Servicos gerais",
-        "where": [
-          "SAM.gov"
-        ],
-        "difficulty": "medium",
-        "difficultyLabel": "Medio - contrato federal",
-        "marginEstimate": "A verificar"
-      },
-      "barriers": {
-        "yearsRequired": false,
-        "bondRequired": false,
-        "licenseRequired": "Ver edital",
-        "insuranceLevel": "$1M GL",
-        "eVerify": true
-      },
-      "contact": {
-        "name": "Angel.Garay@va.gov",
-        "email": "Angel.Garay@va.gov",
-        "phone": ""
-      },
-      "documents": [
-        {
-          "name": "Ver SAM.gov",
-          "url": "https://sam.gov/workspace/contract/opp/1800bad7803e48bda56d854d4e4cd1d5/view"
-        }
-      ],
-      "link": "https://sam.gov/workspace/contract/opp/1800bad7803e48bda56d854d4e4cd1d5/view"
     },
     {
       "id": "sam-0faac0455dfd459bba3b45ce7ef5dad0",
@@ -2040,351 +1891,500 @@
       "link": "https://sam.gov/workspace/contract/opp/c8e42de112954a88b0ef9c66f4ec0ace/view"
     },
     {
-      "id": "polk-bid-26-132-sm",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
+      "id": "sam-a4e5bab5274e40a6b1ac3a604b3028d7",
+      "source": "SAM.gov Federal",
+      "orgao": "W6QK ACC-ORLANDO",
+      "condado": "ORLANDO",
       "estado": "FL",
-      "bidNum": "Bid 26-132-SM",
+      "bidNum": "SAM-a4e5bab527",
       "bidType": "BID",
-      "title": "Janitorial Services for Various Park Restrooms",
-      "nicho": "cleaning",
+      "title": "CPE ST3 Professional Services",
+      "nicho": "construction",
       "model": "service",
-      "openDate": "July 1, 2026",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/bid-26-132-sm/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/bid-26-132-sm/",
+      "openDate": "2026-06-16",
+      "deadline": "2026-07-06",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 541330. Agencia: DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-ORLANDO.W6QK ACC-ORLANDO.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
       "veredito": "watch",
-      "fit_score": 65,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "ITB — Menor preço ganha",
-        "badge": "ITB",
-        "color": "#16a34a",
-        "compete": true
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541330. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
       },
-      "fetchedAt": "2026-06-17"
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "sophia.g.dasilva.civ@army.mil",
+        "email": "sophia.g.dasilva.civ@army.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/a4e5bab5274e40a6b1ac3a604b3028d7/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/a4e5bab5274e40a6b1ac3a604b3028d7/view"
     },
     {
-      "id": "polk-cs-20-1111",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
+      "id": "sam-8a75a70fc12640c182b1d4e5c7ea8dee",
+      "source": "SAM.gov Federal",
+      "orgao": "HQ USSOCOM",
+      "condado": "TAMPA",
       "estado": "FL",
-      "bidNum": "CS 20-1111",
-      "bidType": "CS",
-      "title": "Janitorial Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/cs-20-1111/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-20-1111/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de abertura e o prazo final (deadline) não foram divulgados no resumo. É OBRIGATÓRIO acessar o PDF do edital no link oficial (https://www.polkfl.gov/bid-form/cs-20-1111/) para confirmar a data e hora limite de submissão, o local de entrega das propostas (físico ou eletrônico) e eventuais pré-requisitos de cadastro. Recomenda-se verificar também o portal de licitações do Polk County para atualizações e adendos. | DOCUMENTOS EXIGIDOS | Com base no padrão de licitações do Polk County para suprimentos, os documentos tipicamente exigidos incluem: formulário de proposta oficial preenchido e assinado, lista de preços unitários por item, comprovante de registro empresarial (Sunbiz/Florida Division of Corporations), certificado de seguro (GL e Workers' Comp), referências comerciais ou lista de clientes similares, e possivelmente formulário de não-conluio (Non-Collusion Affidavit) e formulário W-9. A lista exata deve ser confirmada no PDF do edital. | REQUISITOS TÉCNICOS | Para contratos de Janitorial Supplies, o condado geralmente exige que os produtos atendam especificações mínimas de qualidade (equivalência a marcas de referência), que itens químicos possuam SDS (Safety Data Sheets) disponíveis, e que o fornecedor comprove capacidade de entrega no prazo. Pode haver preferência por produtos EPA Safer Choice ou certificações verdes (Green Seal). Verifique se há requisitos de embalagem mínima, prazo de entrega após pedido e política de devolução. | SEGUROS E GARANTIAS | O Polk County normalmente exige para contratos de fornecimento: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigido pela legislação da Flórida (mínimo $100.000 por acidente), e Auto Liability se houver entrega com veículo próprio ($1.000.000). Bond (Performance/Payment Bond) geralmente não é exigido para contratos de suprimentos de pequeno valor, mas deve ser confirmado no edital. O Polk County deve ser listado como Additional Insured no certificado de seguro. | COMO CALCULAR O PREÇO | 1) Obtenha a lista completa de itens do edital; 2) Colete cotações de pelo menos 3 distribuidores atacadistas (ex: Waxie, Veritiv, Unisan, HD Supply); 3) Calcule o custo unitário de cada item; 4) Adicione margem de lucro (sugerido 15-25% para contratos governamentais de suprimentos); 5) Considere custos de entrega, embalagem e logística; 6) Verifique preços praticados em contratos similares via Florida Accountability Contract Tracking System (FACTS) ou MyFloridaMarketPlace; 7) Para contratos term, estime o volume anual com base em histórico do condado (se disponível via pedido de records). | ESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score 72/100 e veredito 'go', o que indica boa compatibilidade. Estratégia recomendada: (a) Baixar e ler o PDF completo imediatamente; (b) Registrar-se como fornecedor no portal do Polk County se ainda não estiver registrado; (c) Enviar perguntas/esclarecimentos dentro do prazo estabelecido para dúvidas técnicas; (d) Pesquisar vencedores de contratos anteriores similares no Polk County para benchmarking de preços; (e) Precificar de forma competitiva nos itens de maior volume e com margem adequada nos demais; (f) Garantir que todos os documentos estejam completos para evitar desclassificação por questões formais. | RISCOS | Riscos identificados: (1) Informações incompletas no resumo — necessário confirmar todos os detalhes no PDF; (2) Competição de grandes distribuidores regionais com poder de negociação maior; (3) Flutuação de preços de insumos pode comprimir margens em contratos de longa duração; (4) Requisitos de estoque mínimo podem ser exigidos; (5) Penalidades por atraso na entrega são comuns neste tipo de contrato. | PRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acessar https://www.polkfl.gov/bid-form/cs-20-1111/ e baixar o PDF completo do edital para verificar prazo exato, lista de itens, quantidades e requisitos específicos; 2) ATÉ 48H: Registrar-se no portal de fornecedores do Polk County (se necessário), obter cotações de distribuidores atacadistas para os itens listados e verificar se há pré-qualificação ou visita técnica obrigatória; 3) ANTES DO PRAZO: Preparar proposta com todos os documentos exigidos, obter certificado de seguro atualizado com Polk County como Additional Insured e submeter dentro do prazo com folga mínima de 24 horas.",
-      "ai_analyzed_at": "2026-06-10T13:17:18.641Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "CS — Lista aberta de vendors",
-        "badge": "CS",
-        "color": "#7c3aed",
-        "compete": false
-      },
-      "fetchedAt": "2026-06-17"
-    },
-    {
-      "id": "polk-cs-21-380",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 21-380",
-      "bidType": "CS",
-      "title": "Various Medical Related Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/cs-21-380/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-21-380/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | A data de abertura consta como N/A e o prazo final está indicado apenas no PDF do edital. É URGENTE acessar o link https://www.polkfl.gov/bid-form/cs-21-380/ imediatamente para verificar a data e hora exatas de submissão. Editais do tipo CS do Condado de Polk geralmente exigem submissão presencial ou eletrônica até determinada hora (normalmente 2:00 PM ou 3:00 PM horário local de Florida). Não perca o prazo — verifique hoje. | DOCUMENTOS EXIGIDOS | Com base em editais similares do Condado de Polk para suprimentos médicos, espera-se: (1) Formulário de proposta preenchido e assinado; (2) Lista de preços unitários para cada item solicitado; (3) Certificado de Seguro (GL, Workers' Comp, Auto se aplicável); (4) Referências de contratos anteriores similares; (5) Documentação de registro da empresa (Sunbiz/Florida Division of Corporations); (6) W-9 preenchido; (7) Formulário de conflito de interesses; (8) Formulário de certificação de não discriminação. Verifique no PDF se há exigência de catálogos de produtos ou fichas técnicas (spec sheets) dos itens. | REQUISITOS TÉCNICOS | Provavelmente os produtos precisam atender padrões FDA para dispositivos médicos, certificações de qualidade (ISO, CE quando aplicável), prazos de validade mínimos (geralmente 12-24 meses a partir da entrega), conformidade com normas OSHA para EPIs. Verifique se o edital exige marcas específicas ou aceita equivalentes aprovados. Contratos CS geralmente permitem substituições equivalentes mediante aprovação prévia do condado. | SEGUROS E GARANTIAS | Para fornecimento de suprimentos médicos ao governo, o Condado de Polk tipicamente exige: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pelo estado da Florida (obrigatório se tiver funcionários); Commercial Auto se houver veículos de entrega ($1.000.000 combinado); Products & Completed Operations Liability geralmente incluída na GL. Bond (performance bond) raramente é exigido para contratos de fornecimento de suprimentos, mas confirme no edital. O Condado de Polk deve ser listado como Additional Insured. | COMO CALCULAR O PREÇO | (1) Levante o custo real de cada item com seus fornecedores/distribuidores; (2) Adicione custos de logística e entrega para Polk County, FL; (3) Considere margem de estoque/quebra (~5-10%); (4) Adicione overhead administrativo (~8-12%); (5) Adicione margem de lucro desejada (~15-25% para suprimentos médicos é razoável); (6) Pesquise preços em contratos públicos similares no Florida Transparency Portal e GSA Advantage para benchmarking; (7) Verifique se o edital usa preço por unidade ou preço total estimado — CS contracts geralmente são por unidade com quantidade estimada não vinculante. | ESTRATÉGIA DE SUBMISSÃO | (1) Baixe e leia o PDF completo do edital hoje; (2) Identifique todos os itens solicitados e verifique quais você pode fornecer com qualidade e prazo; (3) Entre em contato com 2-3 distribuidores para obter cotações competitivas; (4) Prepare preços unitários competitivos mas com margem saudável — não precifique apenas para ganhar; (5) Certifique-se que todos os documentos estão completos e assinados; (6) Submeta com antecedência de pelo menos 24-48 horas; (7) Se houver pré-bid meeting ou prazo para perguntas, participe e envie dúvidas técnicas por escrito. | RISCOS | (1) Valores não divulgados — risco de subestimar volume e não ter estoque suficiente; (2) Contrato CS pode ter cláusula de mínimo garantido zero (o condado não é obrigado a comprar); (3) Concorrência de grandes distribuidores médicos (Henry Schein, McKesson, Medline) que têm preços de custo muito menores; (4) Itens médicos sujeitos a variações de preço de mercado (especialmente pós-COVID para EPIs); (5) Exigências regulatórias FDA podem eliminar produtos de qualidade inferior; (6) Prazo de entrega — o condado pode exigir entrega em 24-72 horas após pedido, o que exige estoque local. | PRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://www.polkfl.gov/bid-form/cs-21-380/ e baixe o PDF completo do edital. Identifique o prazo exato de submissão, lista completa de itens, quantidades estimadas e todos os requisitos técnicos. PASSO 2 (PRÓXIMOS 2-3 DIAS): Levante cotações com distribuidores médicos, verifique seu certificado de seguro (atualize se necessário para incluir os valores mínimos exigidos) e prepare a documentação administrativa (W-9, Sunbiz registration, referências). PASSO 3 (ANTES DO PRAZO): Monte a proposta completa com lista de preços unitários, organize todos os documentos exigidos em ordem, revise tudo antes de submeter e entregue com pelo menos 24 horas de antecedência.",
-      "ai_analyzed_at": "2026-06-10T13:18:30.684Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "CS — Lista aberta de vendors",
-        "badge": "CS",
-        "color": "#7c3aed",
-        "compete": false
-      },
-      "fetchedAt": "2026-06-17"
-    },
-    {
-      "id": "polk-cs-25-303",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 25-303",
-      "bidType": "CS",
-      "title": "Plumbing Equipment, Fixtures, and Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/cs-25-303/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-303/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de submissão não foi divulgada nos dados fornecidos. É obrigatório acessar o PDF oficial do edital em https://www.polkfl.gov/bid-form/cs-25-303/ para confirmar a data e hora limite. Tipicamente, editais de Polk County exigem submissão até as 2:00 PM (horário local, ET) na data estipulada. Não perca o prazo — propostas atrasadas são automaticamente desqualificadas.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais do tipo CS de Polk County, espera-se: (1) Formulário de proposta preenchido e assinado; (2) Lista de preços por item (price sheet/catalog pricing); (3) Certificado de seguro (Certificate of Insurance) com os valores exigidos; (4) Formulário de referências de clientes anteriores (mínimo 3 geralmente); (5) Formulário de conflito de interesses e declaração de ética; (6) Registro da empresa no estado da Flórida (Sunbiz); (7) Formulário W-9; (8) Qualquer outra declaração exigida no edital (ex: Drug-Free Workplace, Non-Discrimination). Confirmar lista completa no PDF.\n\nREQUISITOS TÉCNICOS | Espera-se que o fornecedor comprove capacidade de atender pedidos de forma ágil (entrega rápida ou retirada em loja/distribuidor local). Produtos devem atender normas técnicas aplicáveis (ASTM, ANSI, NSF quando aplicável para contato com água potável). Pode ser exigida lista de fabricantes/marcas aceitas ou equivalência. O condado pode exigir que itens sejam novos, sem uso e dentro das especificações originais do fabricante. É comum exigirem desconto sobre lista de preços publicada (price list discount structure) ao invés de preço fixo por item.\n\nSEGUROS E GARANTIAS | Não detalhados nos dados fornecidos. Com base no padrão Polk County para contratos de fornecimento de materiais: General Liability geralmente $1,000,000 por ocorrência / $2,000,000 agregado; Workers' Compensation conforme exigência do estado da Flórida (obrigatório se tiver funcionários); Auto Liability se houver entrega com veículo próprio (~$1,000,000); Performance Bond geralmente NÃO exigido para contratos de fornecimento simples, mas confirmar no edital.\n\nCOMO CALCULAR O PREÇO | Para contratos CS de suprimentos, o modelo usual é: (A) Oferecer uma porcentagem de desconto sobre o catálogo/lista de preços oficial do fabricante/distribuidor; ou (B) Submeter uma tabela de preços por item. Estratégia: pesquise os preços de mercado dos itens mais comuns usados pelo condado (verificar compras anteriores no portal de transparência), calcule sua margem desejada (20-40% para distribuidores de materiais hidráulicos é razoável), e ofereça desconto competitivo sobre lista. Considere custos de entrega, estoque mínimo, e eventuais pedidos urgentes.\n\nESTRATÉGIA DE SUBMISSÃO | (1) Baixe e leia o PDF completo imediatamente; (2) Se for distribuidor autorizado de marcas reconhecidas (Mueller, Nibco, Watts, Charlotte Pipe, etc.), destaque isso; (3) Se tiver loja/depósito em Polk County ou região, enfatize proximidade e rapidez na entrega; (4) Participe de eventuais Pre-Bid Meetings se houver; (5) Envie perguntas formais ao condado antes do prazo de Q&A para esclarecer dúvidas sobre itens ou forma de precificação; (6) Certifique-se que todos os formulários estão assinados — falta de assinatura é causa comum de desqualificação.\n\nRISCOS | (1) Contrato sem volume garantido — pode gerar poucos pedidos; (2) Concorrência com grandes distribuidores (Ferguson, Hajoca, HD Supply) que têm poder de desconto maior; (3) Flutuação de preços de materiais (cobre, PVC) pode corroer margem se o contrato usar tabela de preços fixa; (4) Exigências de entrega rápida podem ser difíceis sem estoque adequado; (5) Renovações anuais dependem de desempenho satisfatório.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse HOJE o link https://www.polkfl.gov/bid-form/cs-25-303/ e baixe o PDF completo do edital para confirmar prazo, lista de itens, forma de precificação e requisitos de seguro. PASSO 2: Verifique se sua empresa está registrada no portal de fornecedores de Polk County e se seus certificados de seguro estão atualizados com os valores exigidos. PASSO 3: Monte a planilha de preços com base nos itens listados no edital, consultando seus fornecedores para garantir competitividade, e prepare todos os documentos exigidos com antecedência mínima de 5 dias úteis antes do prazo.",
-      "ai_analyzed_at": "2026-06-10T13:19:42.989Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "CS — Lista aberta de vendors",
-        "badge": "CS",
-        "color": "#7c3aed",
-        "compete": false
-      },
-      "fetchedAt": "2026-06-17"
-    },
-    {
-      "id": "polk-cs-25-475",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 25-475",
-      "bidType": "CS",
-      "title": "Sherwin Williams Paint and Supplies",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/cs-25-475/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-475/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | O prazo exato não está disponível nos dados fornecidos. É imprescindível acessar o edital completo em https://www.polkfl.gov/bid-form/cs-25-475/ para confirmar a data e hora limite de submissão. Contratos do tipo CS (Cooperative/Supply) do Polk County geralmente têm prazos de 2 a 4 semanas após publicação. Acesse o portal imediatamente para não perder o deadline.\n\nDOCUMENTOS EXIGIDOS | Contratos deste tipo em Polk County normalmente exigem: formulário de proposta preenchido e assinado, lista de preços ou desconto percentual sobre tabela Sherwin Williams vigente, certificado de registro no estado da Flórida, formulário de W-9, certificados de seguro (GL e Workers Comp), e possivelmente referências de contratos similares. Confirme a lista exata no PDF do edital.\n\nREQUISITOS TÉCNICOS | Por se tratar de fornecimento de produtos de marca específica (Sherwin Williams), o licitante deve ser: distribuidor autorizado Sherwin Williams, revendedor credenciado, ou loja franqueada da rede. Pequenas empresas de pintura que apenas aplicam tinta provavelmente NÃO se qualificam diretamente — o foco aqui é no fornecimento/venda dos produtos, não na aplicação. O fornecedor deve ter capacidade de atender pedidos do condado de forma consistente e com entrega ágil.\n\nSEGUROS E GARANTIAS | Polk County tipicamente exige: General Liability mínimo de $1.000.000 por ocorrência, Workers Compensation conforme legislação da Flórida (obrigatório se tiver funcionários), Auto Liability se houver entrega com veículos próprios. Bond (surety bond) geralmente não é exigido para contratos de fornecimento de produtos, mas confirme no edital. O condado deve ser listado como Additional Insured no certificado de GL.\n\nCOMO CALCULAR O PREÇO | A precificação neste tipo de contrato geralmente é feita como percentual de desconto sobre o preço de lista (retail price) da Sherwin Williams. Exemplo: 'oferecemos 25% de desconto sobre todos os produtos da tabela de preços vigente'. Quanto maior o desconto ofertado, mais competitiva a proposta. Calcule sua margem considerando: custo de aquisição dos produtos, custo de entrega/logística, overhead administrativo, e margem de lucro desejada (tipicamente 10-20% para distribuidores). Pesquise o preço de custo atual junto ao seu representante Sherwin Williams antes de submeter.\n\nESTRATÉGIA DE SUBMISSÃO | 1) Confirme imediatamente o prazo no portal; 2) Se você já é cliente ou revendedor Sherwin Williams, entre em contato com seu representante comercial para obter pricing especial para contratos governamentais; 3) Ofereça um desconto competitivo mas que preserve sua margem; 4) Destaque capacidade de entrega rápida e disponibilidade de estoque; 5) Mencione experiência prévia com contratos governamentais se houver; 6) Submeta todos os documentos com antecedência mínima de 48 horas.\n\nRISCOS | Principal risco: este contrato pode ser exclusivo para distribuidores/revendedores autorizados Sherwin Williams — empresas sem esse status podem ser desqualificadas. Outro risco: flutuação de preços dos produtos pode comprimir margens se o contrato fixar desconto por período longo. Risco de volume: como é contrato por demanda, o volume real de compras pode ser baixo. Risco competitivo: a própria Sherwin Williams ou grandes distribuidores regionais podem participar com preços muito mais competitivos.\n\nPRÓXIMOS 3 PASSOS | 1) IMEDIATO: Acesse https://www.polkfl.gov/bid-form/cs-25-475/ hoje mesmo, baixe o PDF completo do edital e confirme o prazo de submissão e todos os requisitos de elegibilidade; 2) ATÉ 48H: Verifique se sua empresa é elegível (distribuidor/revendedor autorizado Sherwin Williams) e entre em contato com representante Sherwin Williams para negociar pricing de custo para contratos governamentais; 3) ATÉ 1 SEMANA: Calcule sua estrutura de desconto ofertado, reúna toda a documentação necessária e submeta a proposta com antecedência.",
-      "ai_analyzed_at": "2026-06-10T13:20:45.265Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "CS — Lista aberta de vendors",
-        "badge": "CS",
-        "color": "#7c3aed",
-        "compete": false
-      },
-      "fetchedAt": "2026-06-17"
-    },
-    {
-      "id": "polk-cs-25-456",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "CS 25-456",
-      "bidType": "CS",
-      "title": "Chemicals & Herbicides for Aquatic Weeds and Environmental Lands",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/cs-25-456/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/cs-25-456/",
-      "veredito": "go",
-      "fit_score": 72,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | A data e hora exata de submissão não foram incluídas nos dados fornecidos. É obrigatório acessar o PDF do edital em https://www.polkfl.gov/bid-form/cs-25-456/ para confirmar o prazo. Prazos típicos do Polk County para CS são entre 2 a 4 semanas após publicação. Recomenda-se verificar imediatamente e configurar alerta de calendário com 3 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Editais de Commodity Solicitation do Polk County geralmente exigem: formulário de proposta de preço preenchido e assinado, lista de preços unitários por item, informações do fornecedor (nome legal, endereço, FEIN/Tax ID), referências de contratos similares anteriores, fichas técnicas (SDS/MSDS) dos produtos ofertados, registros EPA dos produtos químicos, e em alguns casos certificado de registro como fornecedor do Polk County. Confirmar lista completa no PDF.\n\nREQUISITOS TÉCNICOS | Os produtos devem ser herbicidas registrados pela U.S. EPA para uso em ambientes aquáticos no estado da Flórida. O estado da Flórida possui regulamentações específicas da FDEP (Florida Department of Environmental Protection) e do FDACS (Florida Department of Agriculture and Consumer Services) para herbicidas aquáticos. Os produtos devem estar aprovados para uso na Flórida, com rótulos (labels) que permitam aplicação em corpos d'água. Embalagens devem atender especificações do edital. Entrega provavelmente será em depósito(s) do condado em Polk County.\n\nSEGUROS E GARANTIAS | Para fornecimento de produtos químicos, o Polk County tipicamente exige: General Liability Insurance mínimo de $1.000.000 por ocorrência / $2.000.000 agregado, Workers' Compensation conforme exigência do estado da Flórida, e Auto Liability se houver entrega com veículos próprios. Performance Bond geralmente não é exigido para compras de commodities, mas confirmar no edital. O condado deve ser listado como Additional Insured.\n\nCOMO CALCULAR O PREÇO | 1) Identifique todos os itens da lista de preços unitários no edital. 2) Calcule seu custo de aquisição do fabricante/distribuidor. 3) Some custos de frete/entrega até Polk County. 4) Adicione custos de armazenagem se aplicável. 5) Calcule seguros e overhead (tipicamente 8-15% para distribuidores). 6) Aplique margem de lucro de 12-25% dependendo da competitividade. 7) Compare com preços de mercado de distribuidores de herbicidas aquáticos na Flórida (SePRO, Nufarm, UPL, BASF são fabricantes comuns). 8) Para editais de commodities, o menor preço geralmente vence - seja competitivo.\n\nESTRATÉGIA DE SUBMISSÃO | Este edital tem Fit Score de 72/100 com veredito 'go', o que indica boa oportunidade. Estratégia recomendada: (a) Estabeleça relacionamento com 2-3 distribuidores/fabricantes de herbicidas aquáticos para garantir preços competitivos, como SePRO Corporation, Nufarm Americas ou PBI/Gordon. (b) Verifique se você possui ou pode obter registro como fornecedor aprovado do Polk County antes da submissão. (c) Certifique-se de que os produtos ofertados possuem registro EPA ativo e label aprovado para uso na Flórida. (d) Submeta proposta para TODOS os itens da lista se possível, pois condados preferem fornecedores completos. (e) Inclua fichas técnicas de todos os produtos. (f) Considere oferecer desconto por volume ou entrega em prazo menor como diferencial.\n\nRISCOS | (1) Concorrência de distribuidores estabelecidos com contratos históricos com o condado. (2) Flutuação de preços de produtos químicos agrícolas pode comprimir margens. (3) Regulamentações estaduais da Flórida são rígidas para herbicidas aquáticos - risco de não conformidade de produto. (4) Possibilidade de exigência de experiência prévia em fornecimento para governos. (5) Contratos de commodities frequentemente têm cláusulas de renovação, beneficiando o fornecedor atual. (6) Quantidades estimadas podem variar muito ao longo do contrato.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acesse https://www.polkfl.gov/bid-form/cs-25-456/ e baixe o PDF completo do edital. Identifique o prazo exato de submissão, lista completa de produtos/itens, quantidades estimadas e local de entrega. PASSO 2 (ATÉ 48 HORAS): Entre em contato com distribuidores de herbicidas aquáticos registrados na Flórida (SePRO, Nufarm, UPL, Helena Agri-Enterprises) para cotar preços. Verifique se sua empresa está registrada como fornecedor do Polk County (vendor registration). Contate o Purchasing Department do Polk County para esclarecer dúvidas técnicas e solicitar adenda se necessário. PASSO 3 (ANTES DO PRAZO): Prepare proposta de preços com todos os itens, reúna documentos exigidos, obtenha certificados de seguro atualizados e submeta proposta antes do prazo com todos os anexos exigidos.",
-      "ai_analyzed_at": "2026-06-10T13:21:53.714Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "CS — Lista aberta de vendors",
-        "badge": "CS",
-        "color": "#7c3aed",
-        "compete": false
-      },
-      "fetchedAt": "2026-06-17"
-    },
-    {
-      "id": "polk-bid-24-610",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
-      "estado": "FL",
-      "bidNum": "Bid 24-610",
+      "bidNum": "SAM-8a75a70fc1",
       "bidType": "BID",
-      "title": "Janitorial Services – Group A, B & C",
-      "nicho": "cleaning",
+      "title": "Commercial Solutions Opening (CSO) PEO-SDA",
+      "nicho": "construction",
       "model": "service",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/bid-24-610/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/bid-24-610/",
+      "openDate": "2026-06-16",
+      "deadline": "2026-12-01",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 541519. Agencia: DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).HQ USSOCOM.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
       "veredito": "watch",
-      "fit_score": 65,
-      "resumo_simples": "",
-      "categoria_curta": "Limpeza predial",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de abertura e o deadline não foram informados nos metadados disponíveis. É OBRIGATÓRIO acessar o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ para confirmar a data e hora limite de submissão, o local de entrega (físico ou eletrônico) e possíveis datas de visita técnica obrigatória (mandatory site visit), que são comuns em editais de limpeza predial. Recomenda-se verificar também o portal oficial de licitações do Polk County para atualizações e adendos.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais de janitorial services em condados da Flórida, espera-se: formulário oficial de proposta de preço assinado; referências de contratos anteriores similares (geralmente 3 a 5 referências); certidão de registro da empresa (Sunbiz/Florida Division of Corporations); certificados de seguro (GL, Workers' Comp, Auto); lista de equipamentos disponíveis; lista de produtos de limpeza (alguns condados exigem produtos EPA Safer Choice ou green cleaning); declaração de não conflito de interesse; formulário W-9; e possivelmente declaração de cumprimento do E-Verify. Confirmar lista exata no edital PDF.\n\nREQUISITOS TÉCNICOS | Espera-se que o edital especifique: frequência dos serviços (diária, semanal, mensal); horários permitidos de execução; equipe mínima exigida; exigência de supervisor dedicado; treinamento dos funcionários; uso de EPI; controle de acesso às instalações (possível exigência de background check para todos os funcionários); e plano de limpeza (cleaning schedule). A divisão em Grupos A, B e C sugere que é possível licitar por grupo separadamente, o que favorece pequenas empresas que podem não ter capacidade para atender todos os prédios simultaneamente.\n\nSEGUROS E GARANTIAS | Contratos de limpeza para condados da Flórida tipicamente exigem: General Liability de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigência do estado da Flórida (obrigatório para empresas com 4+ funcionários, ou qualquer número em construção); Commercial Auto Liability se houver veículos utilizados; e possível Performance Bond. O Condado de Polk deve ser listado como 'Additional Insured' nos certificados. Valores exatos devem ser confirmados no edital.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Faça visita técnica a todos os prédios dos grupos que pretende licitar — meça as áreas, identifique tipos de piso, quantidade de banheiros e número de andares; (2) Calcule horas de mão de obra por visita × frequência mensal × custo/hora (incluindo salário, encargos, benefícios e overhead — na Flórida, considere ao menos $15-18/hora para limpadores + 25-30% de encargos); (3) Adicione custo de materiais e equipamentos (tipicamente 8-12% do custo total); (4) Adicione custos administrativos e supervisão; (5) Aplique margem de lucro de 10-20%; (6) Considere reajuste anual se o contrato for plurianual. Atenção: editais de limpeza têm alta competitividade — evite subprecificar para ganhar, pois isso resulta em prejuízo operacional.\n\nESTRATÉGIA DE SUBMISSÃO | Recomendações: (1) Participe da visita técnica obrigatória, se houver — é oportunidade de avaliar os prédios e demonstrar seriedade; (2) Considere licitar apenas os grupos onde você tem capacidade operacional real — é melhor vencer 1 grupo com lucro do que perder dinheiro em 3; (3) Solicite esclarecimentos por escrito dentro do prazo de perguntas (Q&A period) para esclarecer dúvidas técnicas; (4) Prepare proposta visualmente organizada, mesmo que o formato seja simples — demonstra profissionalismo; (5) Destaque experiência com contratos governamentais similares nas referências; (6) Certifique-se de que todos os certificados de seguro já estejam atualizados antes de submeter.\n\nRISCOS | (1) Alta competitividade — limpeza predial é um dos segmentos mais disputados em licitações públicas, com muitos concorrentes de pequeno e médio porte; (2) Margens apertadas — o risco de subprecificação é alto; (3) Rotatividade de mão de obra — dificuldade em manter equipe estável pode gerar penalidades contratuais; (4) Exigência de background check dos funcionários pode aumentar custos e tempo de contratação; (5) Contratos governamentais podem ter cláusula de cancelamento com aviso prévio de 30-60 dias, gerando instabilidade; (6) Custos de seguro podem ser significativos para empresas muito pequenas.\n\nPRÓXIMOS 3 PASSOS | PASSO 1: Acesse IMEDIATAMENTE o PDF completo do edital em https://www.polkfl.gov/bid-form/bid-24-610/ e confirme: deadline de submissão, data de visita técnica, lista de prédios por grupo e requisitos de seguro. PASSO 2: Agende ou confirme participação na visita técnica (site visit) aos prédios — sem essa visita, é impossível precificar com precisão. PASSO 3: Solicite cotações atualizadas de seguro (GL + Workers' Comp) com seu corretor, especificando que o Condado de Polk será Additional Insured, para garantir que os custos de compliance estejam incluídos na proposta.",
-      "ai_analyzed_at": "2026-06-10T13:23:11.565Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "ITB — Menor preço ganha",
-        "badge": "ITB",
-        "color": "#16a34a",
-        "compete": true
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 541519. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
       },
-      "fetchedAt": "2026-06-17"
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "michael.j.cenedella.mil@socom.mil",
+        "email": "michael.j.cenedella.mil@socom.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/8a75a70fc12640c182b1d4e5c7ea8dee/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/8a75a70fc12640c182b1d4e5c7ea8dee/view"
     },
     {
-      "id": "polk-bid-26-030",
-      "source": "Polk County",
-      "orgao": "Polk County",
-      "condado": "Polk",
+      "id": "sam-c38f3b9cb6a3409b91e922250fed7f82",
+      "source": "SAM.gov Federal",
+      "orgao": "SER SOUTH MABO (54000)",
+      "condado": "HOMESTEAD",
       "estado": "FL",
-      "bidNum": "Bid 26-030",
+      "bidNum": "SAM-c38f3b9cb6",
       "bidType": "BID",
-      "title": "NERUSA AWS Receiving Facility UFA Supply Well",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "",
-      "deadline": "Ver edital PDF",
-      "pdf_url": "https://www.polkfl.gov/bid-form/bid-26-030/",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://www.polkfl.gov/bid-form/bid-26-030/",
-      "veredito": "go",
-      "fit_score": 85,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | A data exata de submissão não foi informada nos dados fornecidos. É OBRIGATÓRIO acessar o edital completo em https://www.polkfl.gov/bid-form/bid-26-030/ para verificar a data e hora limite. Editais do Polk County geralmente exigem submissão presencial ou eletrônica até as 2:00 PM (horário local). Recomenda-se verificar imediatamente e colocar um alerta no calendário com 5 dias de antecedência.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais de obras do Polk County, esperam-se: Formulário de proposta (Bid Form) preenchido e assinado; Bid Bond (garantia de proposta) geralmente de 5% do valor total da proposta; Formulário de qualificação de empresa (Contractor Qualification Statement); Licenças de perfuração de poço ativas na Flórida (Water Well Contractor License - C-11); Certificados de seguro (GL, Workers' Comp, Auto); Lista de projetos similares concluídos (referências); Formulário de subcontratados (se aplicável); E-Verify compliance; e qualquer formulário adicional listado no edital PDF.\n\nREQUISITOS TÉCNICOS | Perfuração de poços no UFA (Upper Floridan Aquifer) exige expertise específica em geologia cárstica da Flórida. O contratante precisa ter: experiência comprovada em perfuração de poços profundos no UFA (tipicamente 200-800 pés de profundidade na região de Polk County); equipamentos adequados para perfuração rotativa em calcário; conhecimento das regulamentações do Southwest Florida Water Management District (SWFWMD); capacidade de realizar testes de bombeamento e análises hidráulicas; e conformidade com o Florida Well Construction Act (Capítulo 373, F.S.) e regras 62-532 FAC do FDEP.\n\nSEGUROS E GARANTIAS | Projetos desta natureza no Polk County tipicamente exigem: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigido pela lei da Flórida; Auto Liability $1.000.000; Bid Bond de 5% do valor da proposta; Performance Bond e Payment Bond de 100% do valor do contrato após adjudicação. CONFIRMAR valores exatos no edital PDF.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Calcular custo de mobilização/desmobilização de equipamentos pesados; (2) Custo por pé de perfuração (linear foot) — na região de Polk County, perfuração no UFA pode variar de $35 a $80/pé dependendo da formação; (3) Custo de materiais: casing PVC ou aço, screen, centralizers, cimento de vedação; (4) Custo de desenvolvimento do poço (air surging, jetting); (5) Testes de bombeamento (equipamentos, mão de obra, análises laboratoriais); (6) Licenças e taxas regulatórias (SWFWMD, FDEP); (7) Relatórios técnicos e documentação; (8) Overhead e margem de lucro (recomenda-se 15-25% para obras desta complexidade); (9) Contingência de 10-15% para imprevistos geológicos. Solicite o conjunto completo de plantas e especificações antes de calcular.\n\nESTRATÉGIA DE SUBMISSÃO | Com Fit Score de 85/100, este é um edital FAVORÁVEL. Recomendações: (1) Baixar IMEDIATAMENTE o edital completo e todos os adendos; (2) Registrar-se como vendor no sistema do Polk County para receber notificações de adendos; (3) Participar do site visit/pre-bid meeting se houver — fundamental para projetos de perfuração; (4) Preparar portfólio de projetos similares no UFA com dados de produção dos poços; (5) Garantir que todas as licenças (C-11) estejam ativas e válidas; (6) Submeter perguntas técnicas dentro do prazo estabelecido no edital; (7) Preparar proposta detalhada com breakdown de custos por item de serviço.\n\nRISCOS | (1) GEOLÓGICO: O UFA na região de Polk County pode apresentar variações imprevisíveis (cavernas, zonas de colapso, lost circulation zones) que aumentam custos; (2) REGULATÓRIO: Aprovações do SWFWMD e FDEP podem atrasar o cronograma; (3) AMBIENTAL: Zona de Polk County tem contaminação histórica por fosfato — possível complexidade adicional; (4) COMPETITIVO: Poucos contratantes têm licença C-11 ativa, mas os que têm são especializados e competitivos em preço; (5) BOND: Exigência de Performance Bond pode ser barreira para empresas pequenas sem histórico de crédito estabelecido.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (HOJE): Acessar https://www.polkfl.gov/bid-form/bid-26-030/ e baixar o edital completo PDF, verificar prazo de submissão, valor estimado e se há pre-bid meeting agendado. PASSO 2 (ATÉ 48H): Verificar se sua empresa possui Water Well Contractor License (C-11) ativa na Flórida e se os certificados de seguro estão em vigor com os valores exigidos; contatar sua seguradora/bonding company para confirmar capacidade de emitir Bid Bond. PASSO 3 (ATÉ 5 DIAS): Realizar visita ao local (site visit), analisar logs de poços existentes na região (disponíveis no SWFWMD), calcular proposta detalhada e preparar todos os documentos de qualificação.",
-      "ai_analyzed_at": "2026-06-10T13:16:14.846Z",
-      "ai_model": "",
-      "typeInfo": {
-        "label": "ITB — Menor preço ganha",
-        "badge": "ITB",
-        "color": "#16a34a",
-        "compete": true
+      "title": "61--INSTALL PV SOLAR SYSTEM AT EL ABANICO ",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-07-10",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 238210. Agencia: INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.SER SOUTH MABO (54000).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 238210. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
       },
-      "fetchedAt": "2026-06-17"
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "noelli_medinamarin@ios.doi.gov",
+        "email": "noelli_medinamarin@ios.doi.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/c38f3b9cb6a3409b91e922250fed7f82/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/c38f3b9cb6a3409b91e922250fed7f82/view"
     },
     {
-      "id": "orange-y26-181",
-      "source": "Orange County",
-      "orgao": "Orange County FL",
-      "condado": "Orange",
+      "id": "sam-b41903e80aab4bc79d90a10669a0445f",
+      "source": "SAM.gov Federal",
+      "orgao": "FA6648  482 LSS LGC",
+      "condado": "HOMESTEAD AFB",
       "estado": "FL",
-      "bidNum": "Y26-181",
-      "bidType": "IFB",
-      "title": "Supply and Installation of Traffic Signal Equipment",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "6/11/2026",
-      "deadline": "7/21/2026",
-      "pdf_url": "",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://procurement.opengov.com/portal/embed/orangecountyfl/project-list?departmentId=all&status=all#",
-      "veredito": "go",
-      "fit_score": 80,
-      "resumo_simples": "",
-      "categoria_curta": "Compra de produtos",
-      "o_que_comprar": "",
-      "prazo_submissao": "7/21/2026",
-      "documentos_lista": [],
-      "seguros_detalhado": {},
-      "perguntas_frequentes": [],
-      "questions": [],
-      "ai_analysis": "",
-      "ai_analyzed_at": "",
-      "ai_model": "",
-      "addenda": 0,
-      "fetchedAt": "2026-06-17"
+      "bidNum": "SAM-b41903e80a",
+      "bidType": "BID",
+      "title": "Design and Build Covered Parking Structure for Fighter Aircraft F-35",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-06-29",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 236220. Agencia: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE RESERVE COMMAND.FA6648  482 LSS LGC.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 236220. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "sandy.guite@us.af.mil",
+        "email": "sandy.guite@us.af.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/b41903e80aab4bc79d90a10669a0445f/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/b41903e80aab4bc79d90a10669a0445f/view"
+    },
+    {
+      "id": "sam-6730dac7a19f416185900eae4a623292",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-6730dac7a1",
+      "bidType": "BID",
+      "title": "6515--Surgical Simulator",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-06-24",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 339112. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 339112. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Marcus.Lewis2@va.gov",
+        "email": "Marcus.Lewis2@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/6730dac7a19f416185900eae4a623292/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/6730dac7a19f416185900eae4a623292/view"
+    },
+    {
+      "id": "sam-477a6b4b55e541bfb8da86aba9b68eee",
+      "source": "SAM.gov Federal",
+      "orgao": "FA2823  AFTC PZIO",
+      "condado": "EGLIN AFB",
+      "estado": "FL",
+      "bidNum": "SAM-477a6b4b55",
+      "bidType": "BID",
+      "title": "Okaloosa County Fiber Maintenance",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-06-30",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 811210. Agencia: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA2823  AFTC PZIO.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 811210. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "kristina.brannon.1@us.af.mil",
+        "email": "kristina.brannon.1@us.af.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/477a6b4b55e541bfb8da86aba9b68eee/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/477a6b4b55e541bfb8da86aba9b68eee/view"
+    },
+    {
+      "id": "sam-3ebad29140544ebba7cb39b68de4c7f4",
+      "source": "SAM.gov Federal",
+      "orgao": "FA4417 1 SOCONS",
+      "condado": "HURLBURT FIELD",
+      "estado": "FL",
+      "bidNum": "SAM-3ebad29140",
+      "bidType": "BID",
+      "title": "Local Telephone Services for Hurlburt Field ",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-07-13",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 517111. Agencia: DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4417 1 SOCONS.",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 517111. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "tyler_john.peterson@us.af.mil",
+        "email": "tyler_john.peterson@us.af.mil",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/3ebad29140544ebba7cb39b68de4c7f4/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/3ebad29140544ebba7cb39b68de4c7f4/view"
+    },
+    {
+      "id": "sam-2e79fc68a47749059be0b149e91baaa6",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-2e79fc68a4",
+      "bidType": "BID",
+      "title": "Z2DA--FY26: NRM (PROJ 673-21-153) BB Renovate Ground Floor Halls  and Walls",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-07-14",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 236220. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 236220. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "David.Hernandez1@va.gov",
+        "email": "David.Hernandez1@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/2e79fc68a47749059be0b149e91baaa6/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/2e79fc68a47749059be0b149e91baaa6/view"
+    },
+    {
+      "id": "sam-1800bad7803e48bda56d854d4e4cd1d5",
+      "source": "SAM.gov Federal",
+      "orgao": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+      "condado": "TAMPA",
+      "estado": "FL",
+      "bidNum": "SAM-1800bad780",
+      "bidType": "BID",
+      "title": "7320--Conveyor Pizza  Oven",
+      "nicho": "construction",
+      "model": "service",
+      "openDate": "2026-06-15",
+      "deadline": "2026-06-19",
+      "valor_estimado": null,
+      "escopo": "Oportunidade federal SAM.gov. NAICS: 333241. Agencia: VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.248-NETWORK CONTRACT OFFICE 8 (36C248).",
+      "dropship_viavel": false,
+      "subcontratacao_permitida": null,
+      "complexidade": "medium",
+      "risco_juridico": "low",
+      "risco_financeiro": "medium",
+      "risco_operacional": "medium",
+      "risco_compliance": "medium",
+      "veredito": "watch",
+      "fit_score": 38,
+      "veredito_reason": "Contrato federal FL - SAM.gov. NAICS 333241. Open competition.",
+      "nextStep": "Verificar no SAM.gov: deadline, requisitos, permite subcontratacao. SAM.gov ativo necessario.",
+      "sourcing": {
+        "category": "Servicos gerais",
+        "where": [
+          "SAM.gov"
+        ],
+        "difficulty": "medium",
+        "difficultyLabel": "Medio - contrato federal",
+        "marginEstimate": "A verificar"
+      },
+      "barriers": {
+        "yearsRequired": false,
+        "bondRequired": false,
+        "licenseRequired": "Ver edital",
+        "insuranceLevel": "$1M GL",
+        "eVerify": true
+      },
+      "contact": {
+        "name": "Angel.Garay@va.gov",
+        "email": "Angel.Garay@va.gov",
+        "phone": ""
+      },
+      "documents": [
+        {
+          "name": "Ver SAM.gov",
+          "url": "https://sam.gov/workspace/contract/opp/1800bad7803e48bda56d854d4e4cd1d5/view"
+        }
+      ],
+      "link": "https://sam.gov/workspace/contract/opp/1800bad7803e48bda56d854d4e4cd1d5/view"
     }
   ],
-  "updatedAt": "2026-06-17T12:05:14.912Z"
+  "updatedAt": "2026-06-17T12:10:01.544Z"
 }
