@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T18:00:04.838Z",
+  "lastUpdated": "2026-06-17T18:00:04.525Z",
   "source": "USASpending.gov",
   "state": "FL",
   "byNaicsGroup": {
@@ -290,7 +290,7 @@
         },
         {
           "name": "PRIDE INDUSTRIES",
-          "totalValue": 7227237.67,
+          "totalValue": 7330713.7,
           "contractCount": 4,
           "contracts": [
             {
@@ -312,6 +312,15 @@
               "link": "https://www.usaspending.gov/award/CONT_AWD_FA252122F0011_9700_FA252120D0001_9700"
             },
             {
+              "description": "NON-PERSONAL SERVICES, INCLUDING PERSONNEL, EQUIPMENT, AND SUPERVISION",
+              "amount": 1822419.94,
+              "amountFmt": "$1.822.419,94",
+              "startDate": "2025-06-01",
+              "endDate": "2026-04-30",
+              "agency": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_FA252125F0210_9700_FA252125D0004_9700"
+            },
+            {
               "description": "IGF::OT::IGF GROUNDS MAINTENANCE SERVICES FOR CCAFS",
               "amount": 1760711.83,
               "amountFmt": "$1.760.711,83",
@@ -319,20 +328,11 @@
               "endDate": "2018-05-31",
               "agency": "",
               "link": "https://www.usaspending.gov/award/CONT_AWD_FA252117F0253_9700_FA252114D0003_9700"
-            },
-            {
-              "description": "NON-PERSONAL SERVICES, INCLUDING PERSONNEL, EQUIPMENT, AND SUPERVISION",
-              "amount": 1718943.91,
-              "amountFmt": "$1.718.943,91",
-              "startDate": "2025-06-01",
-              "endDate": "2026-04-30",
-              "agency": "",
-              "link": "https://www.usaspending.gov/award/CONT_AWD_FA252125F0210_9700_FA252125D0004_9700"
             }
           ],
-          "totalFmt": "$7.227.237,67",
-          "avgValue": 1806809.4175,
-          "avgValueFmt": "$1.806.809"
+          "totalFmt": "$7.330.713,7",
+          "avgValue": 1832678.425,
+          "avgValueFmt": "$1.832.678"
         },
         {
           "name": "VETPRIDE SERVICES, INC.",
