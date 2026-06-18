@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T18:00:04.525Z",
+  "lastUpdated": "2026-06-18T18:00:21.199Z",
   "source": "USASpending.gov",
   "state": "FL",
   "byNaicsGroup": {
@@ -14,7 +14,7 @@
       "topVendors": [
         {
           "name": "GLOBAL CONNECTIONS TO EMPLOYMENT, INC.",
-          "totalValue": 64206630.18,
+          "totalValue": 63942425.51,
           "contractCount": 8,
           "contracts": [
             {
@@ -28,12 +28,12 @@
             },
             {
               "description": "CUSTODIAL SERVICES AT THE ARMED FORCES RETIREMENT HOME LOCATED IN GULF",
-              "amount": 8804289.53,
-              "amountFmt": "$8.804.289,53",
+              "amount": 8540084.86,
+              "amountFmt": "$8.540.084,86",
               "startDate": "2021-10-01",
-              "endDate": "2026-06-30",
+              "endDate": "2026-05-31",
               "agency": "",
-              "link": "https://www.usaspending.gov/award/CONT_AWD_20342322C00004_2036_-NONE-_-NONE-"
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140D0426C9408_1406_-NONE-_-NONE-"
             },
             {
               "description": "CUSTODIAL SERVICES FOR THE WASHINGTON DC CAMPUS",
@@ -90,9 +90,9 @@
               "link": "https://www.usaspending.gov/award/CONT_AWD_FA481425F0005_9700_FA481420D0003_9700"
             }
           ],
-          "totalFmt": "$64.206.630,18",
-          "avgValue": 8025828.7725,
-          "avgValueFmt": "$8.025.829"
+          "totalFmt": "$63.942.425,51",
+          "avgValue": 7992803.18875,
+          "avgValueFmt": "$7.992.803"
         },
         {
           "name": "BREVARD ACHIEVEMENT CENTER, INC.",
