@@ -9,78 +9,6 @@
   },
   "bids": [
     {
-      "id": "orange-y26-181",
-      "source": "Orange County",
-      "orgao": "Orange County FL",
-      "condado": "Orange",
-      "estado": "FL",
-      "bidNum": "Y26-181",
-      "bidType": "IFB",
-      "title": "Supply and Installation of Traffic Signal Equipment",
-      "nicho": "products",
-      "model": "product",
-      "openDate": "6/11/2026",
-      "deadline": "7/21/2026",
-      "pdf_url": "",
-      "documents": [],
-      "pdf_links": [],
-      "resourceLinks": [],
-      "link": "https://procurement.opengov.com/portal/embed/orangecountyfl/project-list?departmentId=all&status=all#",
-      "veredito": "go",
-      "fit_score": 80,
-      "resumo_simples": "Fornecimento e instalação de equipamentos de semáforo (sinais de trânsito) para o Condado de Orange, FL — inclui compra dos materiais e mão de obra de instalação.",
-      "categoria_curta": "Instalação de semáforos",
-      "o_que_comprar": "O edital Y26-181 do Orange County FL solicita o fornecimento (compra) E a instalação de equipamentos de sinalização semafórica (traffic signal equipment). Embora o escopo detalhado não tenha sido disponibilizado nos documentos anexados, editais deste tipo tipicamente incluem: controladores de semáforo, postes, braços de suporte (mast arms), cabeças de sinal (signal heads) com LEDs, detectores de veículos (loops ou câmeras), caixas de controle, fiação, conduits, gabinetes, e toda a infraestrutura elétrica necessária. A instalação envolve trabalho em campo nas vias públicas do condado, com possível necessidade de fechamento parcial de pistas e sinalização temporária de obra. Quantidades específicas, locais exatos e especificações técnicas detalhadas precisam ser obtidos diretamente no portal: https://procurement.opengov.com/portal/embed/orangecountyfl/project-list",
-      "prazo_submissao": "Deadline: 21 de julho de 2026. Horário exato deve ser confirmado no edital completo no portal OpenGov do Orange County FL. Tipicamente 2:00 PM ou 5:00 PM Eastern Time.",
-      "documentos_lista": [
-        "Formulário oficial de proposta (Bid Form) com preços unitários preenchidos",
-        "Bid Bond de 5% do valor total da proposta (confirmar % no edital)",
-        "Certificado de seguro: General Liability, Workers Comp, Auto Liability",
-        "Licença de Electrical Contractor válida no Estado da Flórida",
-        "Lista de subcontratados e suas qualificações",
-        "Referências de projetos similares concluídos (mínimo 3, confirmar no edital)",
-        "Formulário de certificação EEO / Non-Discrimination",
-        "Registro como fornecedor no sistema do Orange County",
-        "Qualificações do profissional técnico responsável",
-        "Formulário de certificação de Drug-Free Workplace (exigido pela Flórida)",
-        "Possível certificação SBE (Small Business Enterprise) do Orange County",
-        "Todos os adendos emitidos, assinados e incluídos na proposta"
-      ],
-      "seguros_detalhado": {
-        "GL": "$1.000.000 por ocorrência / $2.000.000 agregado (confirmar valores exatos no edital)",
-        "workers_comp": "Statutory limits conforme Florida Statute — obrigatório para todos os funcionários",
-        "bond": "Sim — Bid Bond estimado em 5% do valor da proposta; Performance Bond e Payment Bond de 100% do contrato após adjudicação (confirmar no edital)"
-      },
-      "perguntas_frequentes": [
-        {
-          "pergunta": "Vale a pena participar deste edital?",
-          "resposta": "Depende do perfil da sua empresa. O Fit Score de 80/100 indica boa compatibilidade geral. Vale a pena SE sua empresa: possui licença de electrical contractor ativa na Flórida, tem experiência comprovada em instalação de semáforos ou infraestrutura elétrica viária, possui seguros adequados e capacidade de obter os bonds necessários, e tem capacidade financeira para executar o contrato (valor não divulgado, mas contratos de semáforo no Orange County costumam variar de $200K a $2M+). Se você atende esses critérios, o Orange County é um ótimo cliente — paga em dia, tem volume constante de contratos e valoriza fornecedores confiáveis."
-        },
-        {
-          "pergunta": "Quais são as principais barreiras de entrada?",
-          "resposta": "As principais barreiras são: (1) LICENÇA — é necessário ser Electrical Contractor licenciado no Estado da Flórida (ou fazer parceria/subcontrato com um); (2) BONDS — o Performance Bond e Payment Bond de 100% do contrato exigem aprovação de uma seguradora (surety), o que pode ser difícil para empresas com menos de 3 anos de operação ou histórico de crédito limitado; (3) EXPERIÊNCIA — projetos de sinalização viária exigem conhecimento técnico específico (MUTCD, FDOT standards, controladores de tráfego); (4) CONCORRÊNCIA — empresas como Ranger Construction, SECO Electric, e outras especializadas em sinalização viária na Flórida participam deste tipo de licitação regularmente; (5) MOT CERTIFICATION — trabalho em vias públicas exige pessoal certificado em Maintenance of Traffic."
-        },
-        {
-          "pergunta": "Qual margem de lucro posso esperar?",
-          "resposta": "Para contratos de fornecimento E instalação de equipamentos de semáforo, a margem líquida típica varia entre 10% e 20%, dependendo da competitividade do mercado local e da eficiência operacional. A margem nos equipamentos (materiais) costuma ser 15-25% sobre o custo. A margem nos serviços de instalação pode ser 20-30% sobre o custo direto de mão de obra. Em IFBs de menor preço, a pressão competitiva tende a comprimir margens para 10-15%. Empresas com certificação SBE ou acesso a preços de equipamentos mais competitivos têm vantagem. Importante: não divulgue suas margens na proposta — apresente apenas os preços finais."
-        },
-        {
-          "pergunta": "Preciso de licença específica para este edital?",
-          "resposta": "Sim, muito provavelmente. Para fornecimento e instalação de equipamentos de semáforo em vias públicas na Flórida, é necessário: (1) Electrical Contractor License válida no Estado da Flórida (emitida pelo Florida Department of Business and Professional Regulation — DBPR); (2) Registro como fornecedor/contratante no Orange County; (3) Possivelmente certificação IMSA (International Municipal Signal Association) para técnicos que trabalharão nos equipamentos de sinalização; (4) MOT (Maintenance of Traffic) certification para trabalho em vias públicas. Se sua empresa não possui a licença elétrica, uma alternativa é subcontratar um electrical contractor licenciado, mas verifique se o edital permite essa estrutura."
-        },
-        {
-          "pergunta": "Como devo precificar minha proposta?",
-          "resposta": "Para um IFB de menor preço, siga esta metodologia: (1) Analise o Bill of Quantities do edital e colete cotações de no mínimo 3 fornecedores de equipamentos semafóricos; (2) Calcule custo real de mão de obra (horas estimadas × custo horário com encargos); (3) Adicione custos de MOT, permissões, inspeções e mobilização; (4) Pesquise contratos similares adjudicados pelo Orange County nos últimos 2 anos (disponíveis no portal de transparência) para entender o nível de preços praticados; (5) Aplique margem de 15-20% sobre os custos diretos; (6) Adicione 5-8% de contingência; (7) Revise se o preço total é competitivo — se estiver mais de 20% acima da sua estimativa de mercado, reavalie os custos. Nunca submeta proposta com preço 'de compra' — contratos com margem negativa geram prejuízo e danos à reputação."
-        }
-      ],
-      "questions": [],
-      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do processo: 06/11/2026. Deadline para submissão das propostas: 07/21/2026. Isso representa aproximadamente 40 dias corridos para preparar e submeter a proposta — prazo razoável, mas que exige ação imediata dado o volume de documentação técnica normalmente exigido neste tipo de contrato. Submissão provavelmente via portal OpenGov do Orange County FL. Confirmar horário exato (geralmente 2:00 PM ou 5:00 PM Eastern Time) diretamente no edital.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais IFB (Invitation for Bid) do Orange County FL para infraestrutura viária, espera-se: (1) Formulário de proposta preenchido com preços unitários e totais; (2) Bid Bond de 5% do valor total da proposta; (3) Certificado de seguro (GL, Workers Comp, Auto); (4) Lista de subcontratados (se aplicável); (5) Referências de projetos similares concluídos; (6) Licença de contratante elétrico válida na Flórida (Electrical Contractor License); (7) Qualificações da empresa e do profissional responsável técnico; (8) Formulários de certificação de não-discriminação (EEO); (9) Possível exigência de certificação como empresa pequena (SBE) do Orange County. Todos os documentos devem ser confirmados no edital completo.\n\nREQUISITOS TÉCNICOS | Este tipo de contrato exige expertise específica em: engenharia de tráfego e sinalização, instalação elétrica em vias públicas, conformidade com MUTCD (Manual on Uniform Traffic Control Devices), normas FDOT (Florida Department of Transportation), NEC (National Electrical Code) e padrões específicos do Orange County Traffic Engineering Division. O contratado precisará de experiência comprovada em instalação de semáforos, capacidade de trabalhar em ambiente de trânsito ativo com MOT (Maintenance of Traffic) plans aprovados, e possivelmente certificação IMSA (International Municipal Signal Association).\n\nSEGUROS E GARANTIAS | Para contratos de infraestrutura viária em Orange County, os requisitos típicos são: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigência do Estado da Flórida (statutory limits); Commercial Auto Liability de pelo menos $1.000.000; Bid Bond de 5% do valor da proposta; Performance Bond e Payment Bond de 100% do valor do contrato (exigidos após adjudicação). Confirmar valores exatos no edital completo.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Obtenha as quantidades exatas de cada item no edital (Bill of Quantities); (2) Colete cotações de fornecedores de equipamentos semafóricos (ex: Econolite, McCain, SWARCO); (3) Calcule custo de mão de obra: eletricistas licenciados em FL têm custo entre $65-$120/hora; (4) Inclua custos de MOT (sinalização temporária e controle de tráfego); (5) Considere custos de permissões municipais e inspeções; (6) Adicione mobilização/desmobilização de equipamentos; (7) Margem de lucro: 15-25% para este tipo de serviço; (8) Contingência: 5-10% para imprevistos em obra viária; (9) Overhead geral da empresa: 10-15%. Pesquise contratos similares já adjudicados pelo Orange County para benchmark de preços.\n\nESTRATÉGIA DE SUBMISSÃO | Como IFB (Invitation for Bid), o critério de seleção é MENOR PREÇO, desde que o licitante seja considerado responsivo e responsável. Estratégia recomendada: (1) Baixe TODOS os documentos do edital imediatamente; (2) Participe do pre-bid meeting se houver (muito comum neste tipo de contrato); (3) Submeta perguntas por escrito antes do deadline de esclarecimentos; (4) Garanta que todas as licenças e seguros estejam em dia antes de submeter; (5) Seja competitivo no preço mas não 'compre' o contrato com preço irreal; (6) Destaque experiência prévia com Orange County ou FDOT na qualificação.\n\nRISCOS | (1) Licença elétrica de contratante — barreira técnica significativa; (2) Bonds de alto valor podem ser difíceis para empresas pequenas sem histórico de crédito; (3) Trabalho em vias públicas exige seguro robusto e pode gerar acidentes; (4) Valor estimado não divulgado — dificuldade para avaliar viabilidade financeira; (5) Concorrência com empresas estabelecidas do setor de sinalização viária; (6) Possível exigência de experiência mínima comprovada em projetos similares; (7) Atrasos em aprovações de permissões podem gerar multas contratuais.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO — hoje): Acesse o portal https://procurement.opengov.com e faça o download completo do edital Y26-181, incluindo especificações técnicas, plantas, Bill of Quantities e todos os adendos. Cadastre-se como fornecedor se ainda não estiver registrado. PASSO 2 (Até 5 dias úteis): Leia o edital completo e verifique: se sua empresa possui licença elétrica ativa na Flórida, se seus seguros atendem os requisitos mínimos, se há pre-bid meeting agendado (anote a data), e se o escopo está dentro da sua capacidade técnica e financeira. PASSO 3 (Até 10 dias úteis): Decida go/no-go definitivo, solicite cotações de equipamentos a fornecedores, consulte subcontratados se necessário, e inicie a preparação dos documentos de submissão com antecedência suficiente.",
-      "ai_analyzed_at": "2026-06-17T13:16:14.152Z",
-      "ai_model": "claude-sonnet-4-6",
-      "addenda": 0,
-      "fetchedAt": "2026-06-17"
-    },
-    {
       "id": "MFMP-15466",
       "source": "MFMP",
       "orgao": "Department of Children and Families (DCF)",
@@ -4638,7 +4566,41 @@
         "compete": true
       },
       "fetchedAt": "2026-06-19"
+    },
+    {
+      "id": "orange-y26-181",
+      "source": "Orange County",
+      "orgao": "Orange County FL",
+      "condado": "Orange",
+      "estado": "FL",
+      "bidNum": "Y26-181",
+      "bidType": "IFB",
+      "title": "Supply and Installation of Traffic Signal Equipment",
+      "nicho": "products",
+      "model": "product",
+      "openDate": "6/11/2026",
+      "deadline": "7/21/2026",
+      "pdf_url": "",
+      "documents": [],
+      "pdf_links": [],
+      "resourceLinks": [],
+      "link": "https://procurement.opengov.com/portal/embed/orangecountyfl/project-list?departmentId=all&status=all#",
+      "veredito": "go",
+      "fit_score": 80,
+      "resumo_simples": "",
+      "categoria_curta": "Compra de produtos",
+      "o_que_comprar": "",
+      "prazo_submissao": "7/21/2026",
+      "documentos_lista": [],
+      "seguros_detalhado": {},
+      "perguntas_frequentes": [],
+      "questions": [],
+      "ai_analysis": "PRAZO DE SUBMISSÃO | Data de abertura do processo: 06/11/2026. Deadline para submissão das propostas: 07/21/2026. Isso representa aproximadamente 40 dias corridos para preparar e submeter a proposta — prazo razoável, mas que exige ação imediata dado o volume de documentação técnica normalmente exigido neste tipo de contrato. Submissão provavelmente via portal OpenGov do Orange County FL. Confirmar horário exato (geralmente 2:00 PM ou 5:00 PM Eastern Time) diretamente no edital.\n\nDOCUMENTOS EXIGIDOS | Com base no padrão de editais IFB (Invitation for Bid) do Orange County FL para infraestrutura viária, espera-se: (1) Formulário de proposta preenchido com preços unitários e totais; (2) Bid Bond de 5% do valor total da proposta; (3) Certificado de seguro (GL, Workers Comp, Auto); (4) Lista de subcontratados (se aplicável); (5) Referências de projetos similares concluídos; (6) Licença de contratante elétrico válida na Flórida (Electrical Contractor License); (7) Qualificações da empresa e do profissional responsável técnico; (8) Formulários de certificação de não-discriminação (EEO); (9) Possível exigência de certificação como empresa pequena (SBE) do Orange County. Todos os documentos devem ser confirmados no edital completo.\n\nREQUISITOS TÉCNICOS | Este tipo de contrato exige expertise específica em: engenharia de tráfego e sinalização, instalação elétrica em vias públicas, conformidade com MUTCD (Manual on Uniform Traffic Control Devices), normas FDOT (Florida Department of Transportation), NEC (National Electrical Code) e padrões específicos do Orange County Traffic Engineering Division. O contratado precisará de experiência comprovada em instalação de semáforos, capacidade de trabalhar em ambiente de trânsito ativo com MOT (Maintenance of Traffic) plans aprovados, e possivelmente certificação IMSA (International Municipal Signal Association).\n\nSEGUROS E GARANTIAS | Para contratos de infraestrutura viária em Orange County, os requisitos típicos são: General Liability mínimo de $1.000.000 por ocorrência / $2.000.000 agregado; Workers' Compensation conforme exigência do Estado da Flórida (statutory limits); Commercial Auto Liability de pelo menos $1.000.000; Bid Bond de 5% do valor da proposta; Performance Bond e Payment Bond de 100% do valor do contrato (exigidos após adjudicação). Confirmar valores exatos no edital completo.\n\nCOMO CALCULAR O PREÇO | Para precificar corretamente: (1) Obtenha as quantidades exatas de cada item no edital (Bill of Quantities); (2) Colete cotações de fornecedores de equipamentos semafóricos (ex: Econolite, McCain, SWARCO); (3) Calcule custo de mão de obra: eletricistas licenciados em FL têm custo entre $65-$120/hora; (4) Inclua custos de MOT (sinalização temporária e controle de tráfego); (5) Considere custos de permissões municipais e inspeções; (6) Adicione mobilização/desmobilização de equipamentos; (7) Margem de lucro: 15-25% para este tipo de serviço; (8) Contingência: 5-10% para imprevistos em obra viária; (9) Overhead geral da empresa: 10-15%. Pesquise contratos similares já adjudicados pelo Orange County para benchmark de preços.\n\nESTRATÉGIA DE SUBMISSÃO | Como IFB (Invitation for Bid), o critério de seleção é MENOR PREÇO, desde que o licitante seja considerado responsivo e responsável. Estratégia recomendada: (1) Baixe TODOS os documentos do edital imediatamente; (2) Participe do pre-bid meeting se houver (muito comum neste tipo de contrato); (3) Submeta perguntas por escrito antes do deadline de esclarecimentos; (4) Garanta que todas as licenças e seguros estejam em dia antes de submeter; (5) Seja competitivo no preço mas não 'compre' o contrato com preço irreal; (6) Destaque experiência prévia com Orange County ou FDOT na qualificação.\n\nRISCOS | (1) Licença elétrica de contratante — barreira técnica significativa; (2) Bonds de alto valor podem ser difíceis para empresas pequenas sem histórico de crédito; (3) Trabalho em vias públicas exige seguro robusto e pode gerar acidentes; (4) Valor estimado não divulgado — dificuldade para avaliar viabilidade financeira; (5) Concorrência com empresas estabelecidas do setor de sinalização viária; (6) Possível exigência de experiência mínima comprovada em projetos similares; (7) Atrasos em aprovações de permissões podem gerar multas contratuais.\n\nPRÓXIMOS 3 PASSOS | PASSO 1 (IMEDIATO — hoje): Acesse o portal https://procurement.opengov.com e faça o download completo do edital Y26-181, incluindo especificações técnicas, plantas, Bill of Quantities e todos os adendos. Cadastre-se como fornecedor se ainda não estiver registrado. PASSO 2 (Até 5 dias úteis): Leia o edital completo e verifique: se sua empresa possui licença elétrica ativa na Flórida, se seus seguros atendem os requisitos mínimos, se há pre-bid meeting agendado (anote a data), e se o escopo está dentro da sua capacidade técnica e financeira. PASSO 3 (Até 10 dias úteis): Decida go/no-go definitivo, solicite cotações de equipamentos a fornecedores, consulte subcontratados se necessário, e inicie a preparação dos documentos de submissão com antecedência suficiente.",
+      "ai_analyzed_at": "2026-06-17T13:16:14.152Z",
+      "ai_model": "",
+      "addenda": 0,
+      "fetchedAt": "2026-06-19"
     }
   ],
-  "updatedAt": "2026-06-19T12:00:12.843Z"
+  "updatedAt": "2026-06-19T12:05:15.091Z"
 }
