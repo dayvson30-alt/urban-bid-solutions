@@ -305,7 +305,7 @@
       "ai_analyzed_at": "",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-10-02"
+      "fetchedAt": "2026-10-05"
     },
     {
       "id": "polk-bid-26-412",
@@ -380,7 +380,7 @@
       "ai_analyzed_at": "",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-10-02"
+      "fetchedAt": "2026-10-05"
     },
     {
       "id": "sam-76603cec74994f2fa460dc0601e1a1e0",
@@ -494,7 +494,7 @@
       "nicho": "cleaning",
       "model": "service",
       "openDate": "2026-09-09",
-      "deadline": "2026-10-02",
+      "deadline": "2026-10-06",
       "link": "https://vendor.myfloridamarketplace.com/search/bids/IN-16881",
       "pdf_url": "",
       "documents": [],
@@ -505,7 +505,7 @@
       "resumo_simples": "",
       "categoria_curta": "Limpeza predial",
       "o_que_comprar": "",
-      "prazo_submissao": "2026-10-02",
+      "prazo_submissao": "2026-10-06",
       "documentos_lista": [],
       "seguros_detalhado": {},
       "perguntas_frequentes": [],
@@ -514,7 +514,7 @@
       "ai_analyzed_at": "",
       "ai_model": "",
       "is_award_notice": false,
-      "fetchedAt": "2026-10-02"
+      "fetchedAt": "2026-10-05"
     },
     {
       "id": "sam-612878446abf43c48eebf2186d825a8d",
@@ -556,5 +556,5 @@
       "fetchedAt": "2026-09-14"
     }
   ],
-  "updatedAt": "2026-10-02T12:10:01.849Z"
+  "updatedAt": "2026-10-05T12:10:02.881Z"
 }
