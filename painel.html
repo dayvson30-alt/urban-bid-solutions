@@ -989,11 +989,17 @@ async function renderRebid() {
     return rebidFilter==='all' || (rebidFilter==='noprop'?isNoProp(b):rebidFilter==='noaward'?!isNoProp(b):rebidUrgency(b)===rebidFilter);
   });
 
+  var lvl = {alta:0,media:0,baixa:0};
+  all.forEach(function(b){var u=rebidUrgency(b);if(lvl[u]!==undefined)lvl[u]++;});
+  var multiLvl = Object.keys(lvl).filter(function(k){return lvl[k];}).length>1;
   var filterBtns = [
-    {k:'all',l:'Todos '+all.length},
-    {k:'noprop',l:'⭐ Sem propostas '+noBids},
-    {k:'noaward',l:'Sem vencedor visivel '+(all.length-noBids)}
-  ].map(function(f){
+    {k:'all',l:'Todos '+all.length,show:true},
+    {k:'noprop',l:'⭐ Sem propostas '+noBids,show:noBids>0},
+    {k:'noaward',l:'Sem vencedor visivel '+(all.length-noBids),show:noBids>0},
+    {k:'alta',l:'ALTA (fechou ha ate 30d) '+lvl.alta,show:multiLvl&&lvl.alta>0},
+    {k:'media',l:'MEDIA (31-60d) '+lvl.media,show:multiLvl&&lvl.media>0},
+    {k:'baixa',l:'BAIXA (+60d) '+lvl.baixa,show:multiLvl&&lvl.baixa>0}
+  ].filter(function(f){return f.show;}).map(function(f){
     return '<button class="rebid-filter-btn'+(f.k===rebidFilter?' active':'')+'" onclick="setRebidFilter(\''+f.k+'\')">'+f.l+'</button>';
   }).join('');
 
@@ -1031,9 +1037,9 @@ async function renderRebid() {
     '<div style="font-size:13px;opacity:.85">Editais federais em FL que fecharam sem vencedor ou sem propostas. Quem chega antes da reabertura sai na frente.</div></div>'+
     staleNote(data.lastUpdated)+
     '<div class="kpis">'+
-      (data.totalArchived?kpiTile(data.totalArchived,'Editais analisados'):'')+
+      (data.totalArchived?kpiTile(data.totalArchived,'Editais encerrados analisados'):'')+
       kpiTile(all.length,'Sem vencedor')+
-      kpiTile(noBids,'Sem nenhuma proposta','good')+
+      (noBids?kpiTile(noBids,'Sem nenhuma proposta','good'):kpiTile(lvl.alta,'Fecharam ha ate 30 dias','good'))+
     '</div>'+
     '<div style="font-size:13px;color:#92400e;background:#fff7ed;border:1px solid #fed7aa;border-radius:7px;padding:10px 14px;margin-bottom:14px">'+
     '<strong>Como usar:</strong> Contate o procurement officer ANTES da reabertura. &#11088; = ninguem enviou proposta: voce pode ser o unico interessado.</div>'+

@@ -1,0 +1,40 @@
+name: Coleta diaria de licitacoes
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 8h ET no horario de verao / 7h ET no inverno
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Falha aqui = run vermelho = e-mail do GitHub. Secoes que deram certo ainda sao commitadas abaixo.
+      - name: Coletar (USASpending + SAM.gov)
+        env:
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+        run: python collector/collect.py all
+
+      - name: Commit dos JSON
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- *.json
+          if git diff --cached --quiet; then echo "Nada mudou"; exit 0; fi
+          git commit -m "[coleta] $(date -u +%F)"
+          git push
