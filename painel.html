@@ -233,6 +233,37 @@ header{background:var(--navy);color:#fff;padding:14px 20px;display:flex;align-it
 .analyze-btn{background:#2563eb;color:#fff;border:none;padding:9px 18px;border-radius:6px;font-size:13px;font-weight:700;cursor:pointer}
 .analyze-btn:hover{background:#1d4ed8}
 .analyze-btn:disabled{background:#94a3b8;cursor:wait}
+.chart-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:16px}
+.chart-card{background:#fff;border-radius:var(--r);box-shadow:var(--sh);padding:16px 18px;margin-bottom:16px;min-width:0}
+.dbbody .chart-card{box-shadow:none;border:1px solid #e2e8f0}
+.chart-ttl{font-size:14px;font-weight:800;color:#1e293b}
+.chart-sub{font-size:12px;color:#64748b;margin:2px 0 10px}
+.chart-key{display:flex;flex-wrap:wrap;gap:14px;font-size:11px;color:#475569;margin-bottom:10px}
+.chart-key span{display:inline-flex;align-items:center;gap:6px}
+.chart-key i{width:10px;height:10px;border-radius:2px;background:#94a3b8;display:inline-block}
+.chart-key i.hl{background:var(--accent)}
+.hb{display:flex;flex-direction:column;gap:2px}
+.hb-row{display:grid;grid-template-columns:minmax(0,38%) minmax(0,1fr);align-items:center;gap:10px;padding:3px 4px;border-radius:4px}
+.hb-row:hover{background:#f1f5f9}
+.hb-lbl{font-size:12px;color:#475569;text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hb-track{display:flex;align-items:center;gap:6px;border-left:1px solid #cbd5e1;min-width:0;height:22px}
+.hb-bar{height:18px;border-radius:0 4px 4px 0;background:#94a3b8;flex-shrink:0;min-width:2px}
+.hb-bar.hl{background:var(--accent)}
+.hb-val{font-size:12px;font-weight:700;color:#1e293b;white-space:nowrap}
+.chart-table{margin-top:10px;font-size:12px;color:#475569}
+.chart-table summary{cursor:pointer;color:var(--accent);font-weight:600}
+.chart-table table{width:100%;border-collapse:collapse;margin-top:8px}
+.chart-table th,.chart-table td{text-align:left;padding:4px 6px;border-bottom:1px solid #f1f5f9}
+.chart-table td:last-child,.chart-table th:last-child{text-align:right}
+#hb-tip{position:fixed;pointer-events:none;background:#1e293b;color:#fff;font-size:12px;padding:6px 10px;border-radius:6px;max-width:300px;line-height:1.45;z-index:2000;display:none;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+.kpis{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+.kpi{background:#fff;padding:12px 18px;border-radius:var(--r);box-shadow:var(--sh);text-align:center;min-width:120px;flex:1}
+.dbbody .kpi{box-shadow:none;border:1px solid #e2e8f0;background:#f8fafc}
+.kpi-v{font-size:22px;font-weight:800;color:var(--navy)}
+.kpi-l{font-size:12px;color:#64748b}
+.kpi.good{background:#dcfce7}.kpi.good .kpi-v{color:#166534}.kpi.good .kpi-l{color:#166534}
+.stale-note{background:#fffbeb;border:1px solid #fcd34d;color:#92400e;border-radius:7px;padding:10px 14px;font-size:13px;margin-bottom:14px}
+@media(max-width:600px){.hb-row{grid-template-columns:minmax(0,42%) minmax(0,1fr)}.kpi{min-width:calc(50% - 6px)}}
 </style>
 </head>
 <body>
@@ -348,6 +379,7 @@ async function loadData(){return(async function(){
     var cRes=await fetch('companies.json').catch(function(){return null;});
     var bData=bRes?await bRes.json():{bids:INLINE_BIDS,lastUpdated:new Date().toISOString()};
     var cData=cRes?await cRes.json():{companies:INLINE_COMPANIES};
+    try{var wRes=await fetch('winners_history.json');if(wRes.ok)INLINE_WINNERS=await wRes.json();}catch(e){}
     allBids=bData.bids||[];
     allCompanies=cData.companies||[];
     var d=new Date(bData.lastUpdated);
@@ -764,6 +796,56 @@ async function loadMarketData() {
   marketData = INLINE_MARKET; return marketData;
 }
 
+// ── CHARTS (barras horizontais, 1 serie) ─────────────────────────────────
+function fmtUSD(v){v=v||0;return v>=1e9?'$'+(v/1e9).toFixed(1)+'B':v>=1e6?'$'+(v/1e6).toFixed(1)+'M':v>=1e3?'$'+Math.round(v/1e3)+'K':'$'+Math.round(v);}
+function escH(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function fmtDateBR(s){var d=new Date(s);return isNaN(d)?'':d.toLocaleDateString('pt-BR');}
+function staleNote(s){
+  var d=new Date(s);if(isNaN(d))return '';
+  var days=Math.floor((Date.now()-d)/864e5);
+  if(days<7)return '';
+  return '<div class="stale-note">&#9888;&#65039; Dados de '+d.toLocaleDateString('pt-BR')+' ('+days+' dias atras) — a coleta automatica esta parada. Os numeros abaixo sao uma foto daquela data.</div>';
+}
+// rows: [{label, value, valueFmt, tip, hl}] · opts.key: [textoDestacado, textoOutros]
+function hbarChart(title, sub, rows, opts){
+  opts=opts||{};
+  if(!rows.length)return '';
+  var max=Math.max.apply(null,rows.map(function(r){return r.value||0;}))||1;
+  var anyHl=rows.some(function(r){return r.hl;});
+  var bars=rows.map(function(r){
+    var pct=Math.max(0.5,(r.value||0)/max*100);
+    return '<div class="hb-row" data-tip="'+escH(r.tip||(r.label+': '+r.valueFmt))+'">'+
+      '<div class="hb-lbl" title="'+escH(r.label)+'">'+escH(r.label)+'</div>'+
+      '<div class="hb-track"><div class="hb-bar'+(r.hl||!anyHl?' hl':'')+'" style="width:calc((100% - 70px) * '+(pct/100).toFixed(4)+')"></div>'+
+      '<span class="hb-val">'+escH(r.valueFmt)+'</span></div></div>';
+  }).join('');
+  var key=(opts.key&&anyHl)?'<div class="chart-key"><span><i class="hl"></i>'+escH(opts.key[0])+'</span><span><i></i>'+escH(opts.key[1])+'</span></div>':'';
+  var table='<details class="chart-table"><summary>Ver como tabela</summary><table><thead><tr><th>'+escH(opts.colLabel||'Item')+'</th><th>'+escH(opts.colValue||'Valor')+'</th></tr></thead><tbody>'+
+    rows.map(function(r){return '<tr><td>'+escH(r.label)+'</td><td>'+escH(r.valueFmt)+'</td></tr>';}).join('')+'</tbody></table></details>';
+  return '<div class="chart-card"><div class="chart-ttl">'+escH(title)+'</div>'+(sub?'<div class="chart-sub">'+escH(sub)+'</div>':'')+key+
+    '<div class="hb">'+bars+'</div>'+table+'</div>';
+}
+function kpiTile(val,lbl,tone){return '<div class="kpi'+(tone?' '+tone:'')+'"><div class="kpi-v">'+val+'</div><div class="kpi-l">'+lbl+'</div></div>';}
+(function(){
+  var tip=null;
+  function show(e,row){
+    if(!tip){tip=document.createElement('div');tip.id='hb-tip';document.body.appendChild(tip);}
+    tip.textContent=row.getAttribute('data-tip');tip.style.display='block';
+    var x=e.clientX+14,y=e.clientY+14,w=tip.offsetWidth,h=tip.offsetHeight;
+    if(x+w>window.innerWidth-8)x=e.clientX-w-14;
+    if(y+h>window.innerHeight-8)y=e.clientY-h-14;
+    tip.style.left=Math.max(8,x)+'px';tip.style.top=Math.max(8,y)+'px';
+  }
+  document.addEventListener('mousemove',function(e){
+    var row=e.target.closest&&e.target.closest('.hb-row[data-tip]');
+    if(row)show(e,row);else if(tip)tip.style.display='none';
+  });
+})();
+
+// ── MERCADO ──────────────────────────────────────────────────────────────
+var PROFILE_SECTORS=['56','23','62','61','33'];
+var SETASIDE_OPEN=/^(Total Small Business|Partial Small Business|No Set aside)|^Sem restricao/;
+
 async function renderMercado() {
   var wrap = document.getElementById('mercado-view');
   if(!wrap) return;
@@ -771,69 +853,91 @@ async function renderMercado() {
 
   var data = await loadMarketData();
   if(!data) {
-    wrap.innerHTML = '<div class="empty"><div class="ic">&#9888;&#65039;</div><p>market_intel.json nao encontrado.<br>Aguarde o proximo ciclo do N8N (8h ET).</p></div>';
+    wrap.innerHTML = '<div class="empty"><div class="ic">&#9888;&#65039;</div><p>market_intel.json nao encontrado.</p></div>';
     return;
   }
 
-  var period = data.periods[marketPeriod];
-  var sectors = (period && period.sectors) || [];
+  // formato atual: data.sectors (SAM.gov) · formato antigo: data.periods[x].sectors
+  var periodObj = data.periods && data.periods[marketPeriod];
+  var sectors = data.sectors || (periodObj && periodObj.sectors) || [];
+  var raw = data.rawBids || [];
   var watched = getWatchedNaics();
 
-  var periodBtns = Object.entries(data.periods).map(function(e){
-    var key=e[0], p=e[1];
-    return '<button class="mercado-period-btn'+(key===marketPeriod?' active':'')+'" onclick="setMarketPeriod(\''+key+'\')">'+p.label+'</button>';
-  }).join('');
+  var periodBtns = data.periods ? '<div class="mercado-period">'+Object.entries(data.periods).map(function(e){
+    return '<button class="mercado-period-btn'+(e[0]===marketPeriod?' active':'')+'" onclick="setMarketPeriod(\''+e[0]+'\')">'+e[1].label+'</button>';
+  }).join('')+'</div>' : '';
 
+  var totalCon = data.totalBids || sectors.reduce(function(s,x){return s+(x.count||0);},0);
+  var profileCon = sectors.filter(function(s){return PROFILE_SECTORS.indexOf(s.sector)>=0;}).reduce(function(a,s){return a+(s.count||0);},0);
   var totalVal = sectors.reduce(function(s,x){return s+(x.totalValue||0);},0);
-  var totalCon = sectors.reduce(function(s,x){return s+(x.count||0);},0);
+
+  var saCount = {};
+  raw.forEach(function(b){var k=b.typeOfSetAsideDescription||'Sem restricao informada';saCount[k]=(saCount[k]||0)+1;});
+  var openCon = Object.keys(saCount).filter(function(k){return SETASIDE_OPEN.test(k);}).reduce(function(a,k){return a+saCount[k];},0);
+
+  var sectorChart = hbarChart('Oportunidades por setor',
+    'Quantidade de editais federais abertos em FL por setor NAICS',
+    sectors.slice().sort(function(a,b){return b.count-a.count;}).map(function(s){
+      var top=(s.naicsTop||[]).slice(0,3).map(function(n){return (n.code||n[0])+' ('+(n.count||n[1])+')';}).join(', ');
+      return {label:s.sectorDesc, value:s.count, valueFmt:String(s.count),
+        hl:PROFILE_SECTORS.indexOf(s.sector)>=0,
+        tip:'['+s.sector+'] '+s.sectorDesc+' — '+s.count+' editais'+(top?' · NAICS: '+top:'')};
+    }),
+    {key:['Setores do seu perfil','Outros setores'], colLabel:'Setor', colValue:'Editais'});
+
+  var saChart = raw.length ? hbarChart('Quem pode concorrer',
+    'Restricao de participacao (set-aside) dos mesmos editais',
+    Object.keys(saCount).sort(function(a,b){return saCount[b]-saCount[a];}).map(function(k){
+      var open=SETASIDE_OPEN.test(k);
+      return {label:k.replace(/ ?\(FAR 19\.5\)/,''), value:saCount[k], valueFmt:String(saCount[k]), hl:open,
+        tip:k+' — '+saCount[k]+' editais'+(open?' · Urban Clean pode concorrer':' · exige certificacao especifica')};
+    }),
+    {key:['Urban Clean pode concorrer','Exige certificacao (SDVOSB, 8a, HUBZone, WOSB)'], colLabel:'Set-aside', colValue:'Editais'}) : '';
 
   var sectorCards = sectors.map(function(s) {
-    var isHighlight = ['56','23','62','61','33'].indexOf(s.sector)>=0;
+    var isHighlight = PROFILE_SECTORS.indexOf(s.sector)>=0;
     var naicsTags = (s.naicsTop||[]).map(function(n){
-      var isW = watched.indexOf(n.code||n[0])>=0;
-      return '<span class="naics-tag'+(isW?' watched':'')+'" title="NAICS '+( n.code||n[0])+'">'+(n.code||n[0])+' ('+(n.count||n[1])+')</span>';
+      var code=n.code||n[0], isW = watched.indexOf(code)>=0;
+      return '<span class="naics-tag'+(isW?' watched':'')+'" title="NAICS '+code+'">'+code+' ('+(n.count||n[1])+')</span>';
     }).join('');
     var samples = (s.samples||[]).slice(0,4).map(function(x){
-      return '<li><a href="'+(x.link||'#')+'" target="_blank" style="color:#475569;text-decoration:none">'+
-        (x.title||'').substring(0,60)+
-        (x.recipient?' <em style="color:#94a3b8">— '+(x.recipient||'').substring(0,30)+'</em>':'')+'</a></li>';
+      var meta = x.recipient ? x.recipient.substring(0,30) :
+        [(x.agency||'').substring(0,26), x.deadline?'prazo '+fmtDateBR(x.deadline+'T12:00'):''].filter(Boolean).join(' · ');
+      return '<li><a href="'+escH(x.link||'#')+'" target="_blank" rel="noopener" style="color:#475569;text-decoration:none">'+
+        escH((x.title||'').substring(0,60))+(meta?' <em style="color:#94a3b8">— '+escH(meta)+'</em>':'')+'</a></li>';
     }).join('');
-    var topNaics = (s.naicsTop&&s.naicsTop.length)?( s.naicsTop[0].code||s.naicsTop[0][0]):'';
+    var topNaics = (s.naicsTop&&s.naicsTop.length)?(s.naicsTop[0].code||s.naicsTop[0][0]):'';
     return '<div class="sector-card" style="border-left-color:'+(isHighlight?'#16a34a':'#e2e8f0')+'">'+
-      '<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:4px">'+
-      '<div style="font-size:12px;font-weight:800;color:#64748b">['+s.sector+'] '+s.sectorDesc+'</div>'+
-      '</div>'+
-      '<div class="sector-value">$'+(s.totalValue>=1e9?(s.totalValue/1e9).toFixed(1)+'B':s.totalValue>=1e6?(s.totalValue/1e6).toFixed(0)+'M':(s.totalValue||0).toLocaleString())+'</div>'+
-      '<div class="sector-count">'+s.count+' contratos</div>'+
+      '<div style="font-size:12px;font-weight:800;color:#64748b;margin-bottom:4px">['+s.sector+'] '+escH(s.sectorDesc)+'</div>'+
+      (s.totalValue?'<div class="sector-value">'+fmtUSD(s.totalValue)+'</div>':'')+
+      '<div class="sector-count">'+s.count+' editais</div>'+
       '<div class="sector-naics">'+naicsTags+'</div>'+
       (samples?'<ul class="sector-samples">'+samples+'</ul>':'')+
-      '<button class="watch-naics-btn" onclick="toggleNaics(\''+topNaics+'\')">'+
-      (watched.indexOf(topNaics)>=0?'✓ Monitorando NAICS '+topNaics:'+ Monitorar NAICS '+topNaics)+
-      '</button></div>';
+      (topNaics?'<button class="watch-naics-btn" onclick="toggleNaics(\''+topNaics+'\')">'+
+      (watched.indexOf(topNaics)>=0?'✓ Monitorando NAICS '+topNaics:'+ Monitorar NAICS '+topNaics)+'</button>':'')+
+      '</div>';
   }).join('');
+
+  var range = data.dateRange ? data.dateRange.from+' a '+data.dateRange.to : fmtDateBR(data.lastUpdated);
 
   wrap.innerHTML =
     '<div style="max-width:1100px;margin:0 auto">'+
     '<div style="background:var(--navy);color:#fff;padding:16px 20px;border-radius:var(--r);margin-bottom:16px">'+
-    '<div style="font-size:18px;font-weight:800;margin-bottom:4px">&#127758; O que o governo FL esta comprando</div>'+
-    '<div style="font-size:13px;opacity:.8">Fonte: USASpending.gov — contratos federais realmente PAGOS em FL. Atualizado: '+
-    new Date(data.lastUpdated||'').toLocaleDateString('pt-BR')+
-    '</div></div>'+
-    '<div style="display:flex;gap:20px;flex-wrap:wrap;margin-bottom:16px">'+
-    '<div style="background:#fff;padding:14px 20px;border-radius:var(--r);box-shadow:var(--sh);text-align:center">'+
-    '<div style="font-size:22px;font-weight:800;color:var(--navy)">$'+(totalVal>=1e9?(totalVal/1e9).toFixed(1)+'B':(totalVal/1e6).toFixed(0)+'M')+'</div>'+
-    '<div style="font-size:12px;color:#64748b">Total pago em FL</div></div>'+
-    '<div style="background:#fff;padding:14px 20px;border-radius:var(--r);box-shadow:var(--sh);text-align:center">'+
-    '<div style="font-size:22px;font-weight:800;color:var(--navy)">'+totalCon+'</div>'+
-    '<div style="font-size:12px;color:#64748b">Contratos</div></div>'+
-    '<div style="background:#dcfce7;padding:14px 20px;border-radius:var(--r);box-shadow:var(--sh);text-align:center">'+
-    '<div style="font-size:22px;font-weight:800;color:#16a34a">'+watched.length+'</div>'+
-    '<div style="font-size:12px;color:#16a34a">NAICS monitorados</div></div>'+
+    '<div style="font-size:18px;font-weight:800;margin-bottom:4px">&#127758; O que o governo esta comprando em FL</div>'+
+    '<div style="font-size:13px;opacity:.8">Fonte: SAM.gov — editais federais publicados de '+range+'</div></div>'+
+    staleNote(data.lastUpdated)+
+    '<div class="kpis">'+
+      kpiTile(totalCon,'Editais abertos')+
+      kpiTile(profileCon,'No seu perfil','good')+
+      (raw.length?kpiTile(openCon,'Voce pode concorrer'):'')+
+      (totalVal?kpiTile(fmtUSD(totalVal),'Valor total'):'')+
+      kpiTile(watched.length,'NAICS monitorados')+
     '</div>'+
-    '<div class="mercado-period">'+periodBtns+'</div>'+
-    '<div style="font-size:13px;color:#64748b;margin-bottom:12px">Clique em "+ Monitorar NAICS" para adicionar ao seu watchlist. Setores destacados em verde sao relevantes para o seu perfil.</div>'+
+    periodBtns+
+    '<div class="chart-grid">'+sectorChart+saChart+'</div>'+
+    '<div style="font-size:13px;color:#64748b;margin:4px 0 12px">Clique em "+ Monitorar NAICS" para adicionar ao seu watchlist. Borda verde = setor do seu perfil.</div>'+
     '<div class="sector-grid">'+sectorCards+'</div>'+
-    '<p style="text-align:center;font-size:12px;color:#94a3b8;margin-top:20px">Fonte: USASpending.gov (dados publicos) · Contratos federais em FL · Atualizado diariamente as 8h ET</p>'+
+    '<p style="text-align:center;font-size:12px;color:#94a3b8;margin-top:20px">Fonte: SAM.gov (dados publicos) · Atualizado em '+fmtDateBR(data.lastUpdated)+'</p>'+
     '</div>';
 }
 
@@ -855,69 +959,81 @@ async function loadRebidData() {
   rebidData = INLINE_REBID; return rebidData;
 }
 
+function rebidUrgency(b){
+  return (b.urgency || (b.strategicValue||'').split(/[^A-Za-z]/)[0] || 'baixa').toLowerCase();
+}
+
 async function renderRebid() {
   var wrap = document.getElementById('rebid-view');
   if(!wrap) return;
   wrap.innerHTML='<div class="empty"><div class="ic">&#8987;</div><p>Carregando inteligencia de re-licitacao...</p></div>';
 
   var data = await loadRebidData();
-  if(!data || !data.bids || !data.bids.length) {
-    wrap.innerHTML='<div class="empty"><div class="ic">&#9888;&#65039;</div><p>Dados nao encontrados. Aguarde o proximo ciclo N8N (9h ET).</p></div>';
+  // formato atual: desertedBids · formato antigo: bids
+  var all = data && (data.desertedBids || data.bids) || [];
+  if(!all.length) {
+    wrap.innerHTML='<div class="empty"><div class="ic">&#9888;&#65039;</div><p>deserted_bids.json sem dados.</p></div>';
     return;
   }
 
-  var bids = data.bids.filter(function(b){
-    return rebidFilter==='all' || b.urgency?.toLowerCase()===rebidFilter || b.strategicValue?.toLowerCase()===rebidFilter;
+  var isNoProp = function(b){return /sem propostas/i.test(b.reason||'');};
+  var noBids = all.filter(isNoProp).length;
+  var bids = all.filter(function(b){
+    return rebidFilter==='all' || (rebidFilter==='noprop'?isNoProp(b):rebidFilter==='noaward'?!isNoProp(b):rebidUrgency(b)===rebidFilter);
   });
-  var s = data.summary || {};
-  var totalVal = bids.reduce(function(a,b){return a+(b.amount||0);},0);
 
   var filterBtns = [
-    {k:'all',l:'Todos '+data.totalFound},
-    {k:'alta',l:'ALTA '+s.alta},
-    {k:'media',l:'MEDIA '+s.media},
-    {k:'baixa',l:'BAIXA '+s.baixa}
+    {k:'all',l:'Todos '+all.length},
+    {k:'noprop',l:'⭐ Sem propostas '+noBids},
+    {k:'noaward',l:'Sem vencedor visivel '+(all.length-noBids)}
   ].map(function(f){
     return '<button class="rebid-filter-btn'+(f.k===rebidFilter?' active':'')+'" onclick="setRebidFilter(\''+f.k+'\')">'+f.l+'</button>';
   }).join('');
 
+  var byAgency = {};
+  all.forEach(function(b){var a=(b.agency||'N/A').trim();byAgency[a]=(byAgency[a]||0)+1;});
+  var agencies = Object.keys(byAgency).sort(function(a,b){return byAgency[b]-byAgency[a];});
+  var agencyChart = hbarChart('Orgaos com mais licitacoes sem vencedor',
+    'Onde vale a pena se apresentar ao procurement officer antes da reabertura',
+    agencies.slice(0,8).map(function(a){return {label:a, value:byAgency[a], valueFmt:String(byAgency[a]), tip:a+' — '+byAgency[a]+' licitacoes sem award'};})
+      .concat(agencies.length>8?[{label:'Outros ('+(agencies.length-8)+' orgaos)', value:agencies.slice(8).reduce(function(t,a){return t+byAgency[a];},0), valueFmt:String(agencies.slice(8).reduce(function(t,a){return t+byAgency[a];},0))}]:[]),
+    {colLabel:'Orgao', colValue:'Licitacoes'});
+
   var cards = bids.slice(0,50).map(function(b){
-    var urg = (b.urgency||b.strategicValue||'baixa').toLowerCase();
+    var urg = rebidUrgency(b);
+    var noProp = /sem propostas/i.test(b.reason||'');
     return '<div class="rebid-card '+urg+'">'+
-      '<div style="display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:8px">'+
-      '<span class="urgency-badge urgency-'+urg+'">'+(b.urgency||b.strategicValue||'?')+'</span>'+
-      '<span style="font-size:11px;color:#94a3b8">'+(b.daysToEnd!==undefined?(b.daysToEnd<0?'Expirou '+Math.abs(b.daysToEnd)+'d atras':b.daysToEnd+'d para vencer'):'')+'</span>'+
+      '<div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px">'+
+      '<span class="urgency-badge urgency-'+urg+'">'+urg.toUpperCase()+'</span>'+
+      '<span style="font-size:11px;color:#94a3b8;text-align:right">'+escH(b.solicitationNumber||b.bidNum||'')+'</span>'+
       '</div>'+
-      '<div style="font-size:14px;font-weight:700;color:#1e293b;margin-bottom:3px">'+b.title+'</div>'+
-      '<div style="font-size:11px;color:#64748b;margin-bottom:8px">'+b.agency+'</div>'+
-      '<div class="rebid-amount">'+b.amountFmt+'</div>'+
-      '<div style="font-size:11px;color:#64748b;margin-top:4px">Contrato atual: <strong>'+(b.recipient||'N/A')+'</strong></div>'+
-      '<div style="font-size:11px;color:#dc2626;margin-top:6px;font-weight:600">'+b.recommendedAction+'</div>'+
-      '<div style="display:flex;gap:8px;margin-top:10px">'+
-      '<a href="'+b.link+'" target="_blank" style="padding:5px 12px;background:var(--navy);color:#fff;border-radius:5px;font-size:11px;font-weight:700;text-decoration:none">Ver Contrato</a>'+
-      '</div></div>';
+      '<div style="font-size:14px;font-weight:700;color:#1e293b;margin-bottom:3px">'+escH((b.title||'').trim())+'</div>'+
+      '<div style="font-size:11px;color:#64748b;margin-bottom:8px">'+escH(b.agency||'')+(b.naics?' · NAICS '+b.naics:'')+'</div>'+
+      (b.amountFmt?'<div class="rebid-amount">'+b.amountFmt+'</div>':'')+
+      '<div style="font-size:12px;font-weight:700;color:'+(noProp?'#16a34a':'#475569')+'">'+(noProp?'&#11088; ':'')+escH(b.reason||'')+'</div>'+
+      (b.setAside&&b.setAside!=='None'?'<div style="font-size:11px;color:#64748b;margin-top:4px">'+escH(b.setAside.replace(/ ?\(FAR 19\.5\)/,''))+'</div>':'')+
+      (b.postedDate?'<div style="font-size:11px;color:#94a3b8;margin-top:4px">Publicado: '+fmtDateBR(b.postedDate+'T12:00')+'</div>':'')+
+      (b.recommendedAction?'<div style="font-size:11px;color:#92400e;margin-top:6px;font-weight:600">'+escH(b.recommendedAction)+'</div>':'')+
+      (b.link?'<div style="display:flex;gap:8px;margin-top:10px"><a href="'+escH(b.link)+'" target="_blank" rel="noopener" style="padding:5px 12px;background:var(--navy);color:#fff;border-radius:5px;font-size:11px;font-weight:700;text-decoration:none">Ver no SAM.gov</a></div>':'')+
+      '</div>';
   }).join('');
 
   wrap.innerHTML='<div style="max-width:1100px;margin:0 auto">'+
     '<div style="background:linear-gradient(135deg,#92400e,#d97706);color:#fff;padding:16px 20px;border-radius:var(--r);margin-bottom:16px">'+
-    '<div style="font-size:18px;font-weight:800;margin-bottom:4px">&#128201; Re-Bid Intel — Contratos que vao reabrir</div>'+
-    '<div style="font-size:13px;opacity:.8">Contratos federais ativos em FL que expiram em breve. Quem ganha hoje e quanto paga = sua vantagem competitiva.</div></div>'+
-    '<div style="display:flex;gap:16px;flex-wrap:wrap;margin-bottom:16px">'+
-    '<div style="background:#fff;padding:12px 18px;border-radius:var(--r);box-shadow:var(--sh);text-align:center">'+
-    '<div style="font-size:22px;font-weight:800;color:var(--navy)">'+data.totalFound+'</div>'+
-    '<div style="font-size:12px;color:#64748b">Contratos rastreados</div></div>'+
-    '<div style="background:#fee2e2;padding:12px 18px;border-radius:var(--r);box-shadow:var(--sh);text-align:center">'+
-    '<div style="font-size:22px;font-weight:800;color:#dc2626">'+(s.alta||0)+'</div>'+
-    '<div style="font-size:12px;color:#dc2626">Expiram em 1 ano</div></div>'+
-    '<div style="background:#fff;padding:12px 18px;border-radius:var(--r);box-shadow:var(--sh);text-align:center">'+
-    '<div style="font-size:22px;font-weight:800;color:var(--navy)">$'+(totalVal>=1e9?(totalVal/1e9).toFixed(1)+'B':(totalVal/1e6).toFixed(0)+'M')+'</div>'+
-    '<div style="font-size:12px;color:#64748b">Valor total rastreado</div></div>'+
+    '<div style="font-size:18px;font-weight:800;margin-bottom:4px">&#128201; Re-Bid Intel — Licitacoes que vao reabrir</div>'+
+    '<div style="font-size:13px;opacity:.85">Editais federais em FL que fecharam sem vencedor ou sem propostas. Quem chega antes da reabertura sai na frente.</div></div>'+
+    staleNote(data.lastUpdated)+
+    '<div class="kpis">'+
+      (data.totalArchived?kpiTile(data.totalArchived,'Editais analisados'):'')+
+      kpiTile(all.length,'Sem vencedor')+
+      kpiTile(noBids,'Sem nenhuma proposta','good')+
     '</div>'+
     '<div style="font-size:13px;color:#92400e;background:#fff7ed;border:1px solid #fed7aa;border-radius:7px;padding:10px 14px;margin-bottom:14px">'+
-    '<strong>Como usar:</strong> Contate o procurement officer ANTES da reabertura. Saiba o preco que pagam hoje. Voce pode entrar como o unico interessado.</div>'+
+    '<strong>Como usar:</strong> Contate o procurement officer ANTES da reabertura. &#11088; = ninguem enviou proposta: voce pode ser o unico interessado.</div>'+
+    agencyChart+
     '<div class="rebid-filters">'+filterBtns+'</div>'+
     '<div class="rebid-grid">'+cards+'</div>'+
-    '<p style="text-align:center;font-size:12px;color:#94a3b8;margin-top:16px">Fonte: USASpending.gov (contratos federais publicos) · Atualizado diariamente · '+new Date(data.lastUpdated||'').toLocaleDateString('pt-BR')+'</p>'+
+    '<p style="text-align:center;font-size:12px;color:#94a3b8;margin-top:16px">Fonte: SAM.gov (dados publicos) · Atualizado em '+fmtDateBR(data.lastUpdated)+'</p>'+
     '</div>';
 }
 
@@ -1004,61 +1120,47 @@ function buildWinnersBlock(b) {
   // Find relevant group by NAICS
   var naics = b.naics || b.barriers?.naics || '';
   var nicho  = b.nicho || '';
-  var groupId = null;
+  var groupId = (wh.naicsIndex && wh.naicsIndex[naics]) || null;
 
-  if(nicho === 'cleaning' || (naics && naics.startsWith('5617'))) groupId = 'cleaning';
+  if(groupId) {}
+  else if(nicho === 'cleaning' || (naics && naics.startsWith('5617'))) groupId = 'cleaning';
   else if(nicho === 'landscaping' || (naics && naics.startsWith('5613'))) groupId = 'landscaping';
-  else if(b.title && b.title.toLowerCase().includes('turf')) groupId = 'artificial_turf';
-  else if(nicho === 'construction') groupId = 'construction_maintenance';
+  else if(nicho === 'construction' || (naics && /^23/.test(naics))) groupId = 'construction';
   else groupId = 'cleaning'; // default fallback
 
   var group = wh.byNaicsGroup[groupId];
   if(!group) return '';
 
-  var vendors = (group.topVendors || []).slice(0, 5);
+  var vendors = (group.topVendors || []).slice(0, 8);
   if(!vendors.length) return '';
 
-  var rankClass = function(i){ return i===0?'gold':i===1?'silver':i===2?'bronze':''; };
-  var maxVal = vendors[0] ? vendors[0].totalValue : 1;
-
-  var vendorRows = vendors.map(function(v, i) {
-    var pct = Math.round((v.totalValue / maxVal) * 100);
-    var recentContract = (v.contracts || [])[0];
-    return '<div class="winner-card" style="display:flex;align-items:flex-start;gap:10px">'+
-      '<span class="winner-rank '+rankClass(i)+'">'+( i+1)+'</span>'+
-      '<div style="flex:1">'+
-      '<div style="font-size:13px;font-weight:700;color:#1e293b">'+v.name+'</div>'+
-      '<div style="font-size:11px;color:#64748b">'+v.contractCount+' contratos | Total: '+v.totalFmt+' | Media: '+v.avgValueFmt+'</div>'+
-      (recentContract?'<div style="font-size:11px;color:#94a3b8;margin-top:2px">'+recentContract.description.substring(0,60)+'</div>':'')+
-      '<div class="price-bar"><div class="price-bar-fill" style="width:'+pct+'%"></div></div>'+
-      '</div></div>';
-  }).join('');
+  var chart = hbarChart('Top vencedores — '+group.label,
+    'Valor total de contratos federais ganhos em FL',
+    vendors.map(function(v){
+      var rc = (v.contracts||[])[0];
+      return {label:v.name, value:v.totalValue, valueFmt:fmtUSD(v.totalValue),
+        tip:v.name+' — '+v.contractCount+' contratos · total '+fmtUSD(v.totalValue)+' · media '+fmtUSD(v.avgValue)+(rc?' · ex.: '+rc.description:'')};
+    }),
+    {colLabel:'Empresa', colValue:'Total ganho'});
 
   var strategy = group.winStrategy || '';
-  var median = group.priceMedianFmt || 'N/A';
-  var range  = (group.priceMinFmt || 'N/A')+' — '+(group.priceMaxFmt || 'N/A');
+  var median = group.priceMedian ? fmtUSD(group.priceMedian) : (group.priceMedianFmt || 'N/A');
+  // *Fmt vem em pt-BR ("$3.964.599,25") — converte para numero e compacta
+  var brNum = function(s){var n=parseFloat(String(s||'').replace(/[^\d,]/g,'').replace(',','.'));return isNaN(n)?null:n;};
+  var lo = brNum(group.priceMinFmt), hi = brNum(group.priceMaxFmt);
+  var range  = (lo!=null?fmtUSD(lo):'N/A')+' – '+(hi!=null?fmtUSD(hi):'N/A');
 
   return '<div class="dblock">'+
     '<div class="dbhdr">Historico — Quem Ganhou Contratos Similares em FL</div>'+
     '<div class="dbbody">'+
-    '<div style="display:flex;gap:14px;flex-wrap:wrap;margin-bottom:12px">'+
-    '<div style="text-align:center;padding:10px 16px;background:#f8fafc;border-radius:7px;border:1px solid #e2e8f0">'+
-    '<div style="font-size:16px;font-weight:800;color:var(--navy)">'+median+'</div>'+
-    '<div style="font-size:10px;text-transform:uppercase;color:#94a3b8">Mediana FL</div>'+
+    '<div class="kpis">'+
+      kpiTile(median,'Mediana por contrato')+
+      kpiTile(range,'Faixa de valores')+
+      kpiTile(group.totalContracts,'Contratos analisados')+
     '</div>'+
-    '<div style="text-align:center;padding:10px 16px;background:#f8fafc;border-radius:7px;border:1px solid #e2e8f0">'+
-    '<div style="font-size:14px;font-weight:700;color:#475569">'+range+'</div>'+
-    '<div style="font-size:10px;text-transform:uppercase;color:#94a3b8">Faixa de valores</div>'+
-    '</div>'+
-    '<div style="text-align:center;padding:10px 16px;background:#f8fafc;border-radius:7px;border:1px solid #e2e8f0">'+
-    '<div style="font-size:16px;font-weight:800;color:#7c3aed">'+group.totalContracts+'</div>'+
-    '<div style="font-size:10px;text-transform:uppercase;color:#94a3b8">Contratos analisados</div>'+
-    '</div>'+
-    '</div>'+
-    '<div style="font-size:11px;font-weight:700;text-transform:uppercase;color:#94a3b8;margin-bottom:8px">Top Vencedores — '+group.icon+' '+group.label+'</div>'+
-    vendorRows+
+    chart+
     (strategy?'<div class="price-benchmark"><strong>Estrategia de Preco:</strong> '+strategy+'</div>':'')+
-    '<p style="font-size:11px;color:#94a3b8;margin-top:8px">Fonte: USASpending.gov — contratos federais FL 2021-2026</p>'+
+    '<p style="font-size:11px;color:#94a3b8;margin-top:8px">Fonte: USASpending.gov — contratos federais FL · Atualizado em '+fmtDateBR(wh.lastUpdated)+'</p>'+
     '</div></div>';
 }
 
