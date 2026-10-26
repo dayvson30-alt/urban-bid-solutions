@@ -477,16 +477,23 @@ function copyTxt(t){
 }
 
 function renderActionBanner(){
-  var goBids=allBids.filter(function(b){return(b._veredito||b.veredito)==='go';});
+  var allGo=allBids.filter(function(b){return(b._veredito||b.veredito)==='go';});
+  // so GO com prazo aberto (ou sem data legivel); vencidos ficam so na lista com o selo "Vencido"
+  var goBids=allGo.filter(function(b){var d=calcCountdown(b.deadline);return d===null||d>=0;});
   var banner=document.getElementById('action-banner');
-  if(!goBids.length){banner.style.display='none';return;}
+  if(!allGo.length){banner.style.display='none';return;}
   banner.style.display='block';
-  banner.innerHTML='<div class="action-banner"><div class="ab-title">ACAO PARA AMANHA - '+goBids.length+' bid(s) GO aguardando</div><div class="ab-cards">'+
+  if(!goBids.length){
+    banner.innerHTML='<div class="action-banner" style="background:#475569"><div class="ab-title" style="margin:0">Nenhum bid GO com prazo aberto</div>'+
+      '<div style="font-size:13px;opacity:.9;margin-top:4px">Os '+allGo.length+' bids GO da lista ja venceram. Novos editais so aparecem quando a coleta automatica voltar a rodar.</div></div>';
+    return;
+  }
+  banner.innerHTML='<div class="action-banner"><div class="ab-title">ACAO AGORA - '+goBids.length+' bid(s) GO nao vencido(s)</div><div class="ab-cards">'+
     goBids.map(function(b){
       var wa=buildWAMsg(b);
       var wl='https://wa.me/?text='+encodeURIComponent(wa);
       return '<div class="ab-card" onclick="showDetail(\''+b.id+'\')">'+
-        '<div class="ab-bid">'+b.bidNum+' - '+b.source+'</div>'+
+        '<div class="ab-bid">'+b.bidNum+' - '+b.source+(calcCountdown(b.deadline)===null?'<span class="countdown-badge cd-soon">prazo a confirmar</span>':countdownBadge(b.deadline))+'</div>'+
         '<div class="ab-name">'+b.title+'</div>'+
         '<div class="ab-actions">'+
         '<button class="ab-btn email" onclick="event.stopPropagation();showEmailModal(allBids.find(function(x){return x.id===\''+b.id+'\'}))">Email</button>'+
