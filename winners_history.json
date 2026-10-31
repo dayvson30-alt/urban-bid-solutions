@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-30T17:16:12.725078+00:00",
+  "lastUpdated": "2026-10-31T16:21:49.387561+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-10-31 a 2026-10-30",
+  "period": "2021-11-01 a 2026-10-31",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -627,7 +627,7 @@
               "amount": 13700.0,
               "amountFmt": "$13.700,00",
               "startDate": "2026-05-14",
-              "endDate": "2026-06-30",
+              "endDate": "2026-05-14",
               "agency": "",
               "link": "https://www.usaspending.gov/award/CONT_AWD_FA481426F0061_9700_FA481425D0001_9700"
             },
