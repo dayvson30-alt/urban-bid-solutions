@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-03T18:41:56.913187+00:00",
+  "lastUpdated": "2026-11-05T19:06:10.107086+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-11-04 a 2026-11-03",
+  "period": "2021-11-06 a 2026-11-05",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -319,12 +319,12 @@
           "avgValueFmt": "$4.964.393"
         }
       ],
-      "totalContracts": 294,
-      "priceMedian": 51592.695,
-      "priceMedianFmt": "$51.592,69",
+      "totalContracts": 295,
+      "priceMedian": 52452.0,
+      "priceMedianFmt": "$52.452,00",
       "priceMinFmt": "$907,00",
       "priceMaxFmt": "$22.771.169,52",
-      "winStrategy": "Para competir: fique abaixo de $51.592,69 (mediana). Alvo: $46.433 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $52.452,00 (mediana). Alvo: $47.207 (90%)."
     },
     "landscaping": {
       "codes": [
