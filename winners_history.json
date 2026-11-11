@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-10T18:56:10.174616+00:00",
+  "lastUpdated": "2026-11-11T18:54:47.863521+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-11-11 a 2026-11-10",
+  "period": "2021-11-12 a 2026-11-11",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -319,12 +319,12 @@
           "avgValueFmt": "$4.964.393"
         }
       ],
-      "totalContracts": 295,
-      "priceMedian": 52800.0,
-      "priceMedianFmt": "$52.800,00",
+      "totalContracts": 296,
+      "priceMedian": 52626.0,
+      "priceMedianFmt": "$52.626,00",
       "priceMinFmt": "$907,00",
       "priceMaxFmt": "$22.771.169,52",
-      "winStrategy": "Para competir: fique abaixo de $52.800,00 (mediana). Alvo: $47.520 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $52.626,00 (mediana). Alvo: $47.363 (90%)."
     },
     "landscaping": {
       "codes": [
@@ -390,7 +390,7 @@
         },
         {
           "name": "ALLSERV INC",
-          "totalValue": 6170049.11,
+          "totalValue": 6137864.86,
           "contractCount": 40,
           "contracts": [
             {
@@ -439,9 +439,9 @@
               "link": "https://www.usaspending.gov/award/CONT_AWD_36C78626N50770_3600_36C78624D50459_3600"
             }
           ],
-          "avgValue": 154251.22775000002,
-          "totalFmt": "$6.170.049,11",
-          "avgValueFmt": "$154.251"
+          "avgValue": 153446.6215,
+          "totalFmt": "$6.137.864,86",
+          "avgValueFmt": "$153.447"
         },
         {
           "name": "PRIDE INDUSTRIES",
