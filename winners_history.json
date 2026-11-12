@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-11T18:54:47.863521+00:00",
+  "lastUpdated": "2026-11-12T19:13:37.598578+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-11-12 a 2026-11-11",
+  "period": "2021-11-13 a 2026-11-12",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -319,12 +319,12 @@
           "avgValueFmt": "$4.964.393"
         }
       ],
-      "totalContracts": 296,
-      "priceMedian": 52626.0,
-      "priceMedianFmt": "$52.626,00",
+      "totalContracts": 295,
+      "priceMedian": 52452.0,
+      "priceMedianFmt": "$52.452,00",
       "priceMinFmt": "$907,00",
       "priceMaxFmt": "$22.771.169,52",
-      "winStrategy": "Para competir: fique abaixo de $52.626,00 (mediana). Alvo: $47.363 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $52.452,00 (mediana). Alvo: $47.207 (90%)."
     },
     "landscaping": {
       "codes": [
@@ -1015,11 +1015,11 @@
         }
       ],
       "totalContracts": 292,
-      "priceMedian": 226062.5,
-      "priceMedianFmt": "$226.062,50",
+      "priceMedian": 230890.885,
+      "priceMedianFmt": "$230.890,89",
       "priceMinFmt": "$1.000,00",
       "priceMaxFmt": "$144.000.000,00",
-      "winStrategy": "Para competir: fique abaixo de $226.062,50 (mediana). Alvo: $203.456 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $230.890,89 (mediana). Alvo: $207.802 (90%)."
     }
   },
   "naicsIndex": {
