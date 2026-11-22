@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-21T18:18:59.785133+00:00",
+  "lastUpdated": "2026-11-22T18:43:03.433937+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-11-22 a 2026-11-21",
+  "period": "2021-11-23 a 2026-11-22",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -756,12 +756,12 @@
           "avgValueFmt": "$1.417.897"
         }
       ],
-      "totalContracts": 291,
-      "priceMedian": 36360.0,
-      "priceMedianFmt": "$36.360,00",
+      "totalContracts": 290,
+      "priceMedian": 36120.78,
+      "priceMedianFmt": "$36.120,78",
       "priceMinFmt": "$50,00",
       "priceMaxFmt": "$4.979.217,58",
-      "winStrategy": "Para competir: fique abaixo de $36.360,00 (mediana). Alvo: $32.724 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $36.120,78 (mediana). Alvo: $32.509 (90%)."
     },
     "construction": {
       "codes": [
