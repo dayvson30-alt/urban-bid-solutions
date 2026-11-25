@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-24T21:35:46.988837+00:00",
+  "lastUpdated": "2026-11-25T20:44:11.778732+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-11-25 a 2026-11-24",
+  "period": "2021-11-26 a 2026-11-25",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -665,7 +665,7 @@
         },
         {
           "name": "NATIVE CONTRACTORS, INC.",
-          "totalValue": 4801889.6,
+          "totalValue": 4797869.6,
           "contractCount": 17,
           "contracts": [
             {
@@ -714,9 +714,9 @@
               "link": "https://www.usaspending.gov/award/CONT_AWD_36C78626N50255_3600_36C78624D50491_3600"
             }
           ],
-          "avgValue": 282464.09411764704,
-          "totalFmt": "$4.801.889,60",
-          "avgValueFmt": "$282.464"
+          "avgValue": 282227.62352941174,
+          "totalFmt": "$4.797.869,60",
+          "avgValueFmt": "$282.228"
         },
         {
           "name": "DEL SUR SERVICES, INC.",
