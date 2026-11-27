@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-26T20:35:36.450005+00:00",
+  "lastUpdated": "2026-11-27T20:22:20.522793+00:00",
   "source": "USASpending.gov",
   "state": "FL",
-  "period": "2021-11-27 a 2026-11-26",
+  "period": "2021-11-28 a 2026-11-27",
   "byNaicsGroup": {
     "cleaning": {
       "codes": [
@@ -15,9 +15,18 @@
       "topVendors": [
         {
           "name": "GLOBAL CONNECTIONS TO EMPLOYMENT, INC.",
-          "totalValue": 39110266.23,
-          "contractCount": 40,
+          "totalValue": 40248069.55,
+          "contractCount": 41,
           "contracts": [
+            {
+              "description": "ARMED FORCES RETIREMENT HOME-GULFPORT (AFRH-G) CUSTODIAL SERVICES",
+              "amount": 1137803.32,
+              "amountFmt": "$1.137.803,32",
+              "startDate": "2026-12-01",
+              "endDate": "2027-11-30",
+              "agency": "",
+              "link": "https://www.usaspending.gov/award/CONT_AWD_140D0427C0155_1406_-NONE-_-NONE-"
+            },
             {
               "description": "THE WORK WILL INCLUDE ALL LABOR, MANAGEMENT, SUPERVISION, TOOLS, MATERIAL, AND EQUIPMENT REQUIRED TO PERFORM CUSTODIAL S",
               "amount": 996936.29,
@@ -53,20 +62,11 @@
               "endDate": "2026-03-31",
               "agency": "",
               "link": "https://www.usaspending.gov/award/CONT_AWD_N6945026F0095_9700_N6945021D0011_9700"
-            },
-            {
-              "description": "NASP CUSTODIAL CONTRACT FFP FUNDING TASK ORDER - SIX MONTH SERVICE EXTENSION IN ACCORDANCE WITH FAR 52-217-8 CNRSE $1,82",
-              "amount": 3207163.3,
-              "amountFmt": "$3.207.163,30",
-              "startDate": "2025-12-23",
-              "endDate": "2026-06-30",
-              "agency": "",
-              "link": "https://www.usaspending.gov/award/CONT_AWD_N6945026F0023_9700_N6945021D0011_9700"
             }
           ],
-          "avgValue": 977756.6557499999,
-          "totalFmt": "$39.110.266,23",
-          "avgValueFmt": "$977.757"
+          "avgValue": 981660.2329268293,
+          "totalFmt": "$40.248.069,55",
+          "avgValueFmt": "$981.660"
         },
         {
           "name": "HAMHED LLC",
@@ -320,11 +320,11 @@
         }
       ],
       "totalContracts": 295,
-      "priceMedian": 52452.0,
-      "priceMedianFmt": "$52.452,00",
+      "priceMedian": 52800.0,
+      "priceMedianFmt": "$52.800,00",
       "priceMinFmt": "$907,00",
       "priceMaxFmt": "$22.771.169,52",
-      "winStrategy": "Para competir: fique abaixo de $52.452,00 (mediana). Alvo: $47.207 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $52.800,00 (mediana). Alvo: $47.520 (90%)."
     },
     "landscaping": {
       "codes": [
@@ -1015,11 +1015,11 @@
         }
       ],
       "totalContracts": 292,
-      "priceMedian": 230890.885,
-      "priceMedianFmt": "$230.890,89",
+      "priceMedian": 223848.5,
+      "priceMedianFmt": "$223.848,50",
       "priceMinFmt": "$1.000,00",
       "priceMaxFmt": "$144.000.000,00",
-      "winStrategy": "Para competir: fique abaixo de $230.890,89 (mediana). Alvo: $207.802 (90%)."
+      "winStrategy": "Para competir: fique abaixo de $223.848,50 (mediana). Alvo: $201.464 (90%)."
     }
   },
   "naicsIndex": {
